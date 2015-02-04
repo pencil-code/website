@@ -10,13 +10,17 @@ The manual for the Pencil Code is available <a href="/doc/manual.pdf" target="_b
 <p>
 Axel Brandenburg gave a general presentation on the Pencil code in Oslo (2003):
 <i>The Pencil Code: multi-purpose and multi-user maintained.</i>
-(<a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.htm">html</a>, <a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.ppt">PowerPoint</a>).</p>
+(<a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.htm">html</a>, <a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.ppt">PowerPoint</a>).
+</p>
 
-Illa Rivero Losada has written a
-<a href="/doc/quick_start.pdf" target="_blank">quick-guide</a> for beginners, and
-Wlad Lyra has written
-a <a href="/doc/hello_disk.pdf" target="_blank">tutorial</a> for setting up
-global accretion disk simulations. This tutorial is useful for general information.
+<p>
+We also have a <a href="/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
+</p>
+
+<p>
+Wlad Lyra has written a <a href="/doc/hello_disk.pdf" target="_blank">tutorial</a> for setting up
+global accretion disk simulations.
+</p>
 
 <p>
 Boris Dintrans wrote a comprehesive introduction to Python and
