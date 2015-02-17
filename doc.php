@@ -8,13 +8,13 @@ The manual for the Pencil Code is available <a href="/doc/manual.pdf" target="_b
  as <a href="/doc/manual.ps.gz">gzipped PostScript</a> (1.1M).
 
 <p>
-Axel Brandenburg gave a general presentation on the Pencil code in Oslo (2003):
-<i>The Pencil Code: multi-purpose and multi-user maintained.</i>
-(<a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.htm">html</a>, <a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.ppt">PowerPoint</a>).
+We also have a <a href="/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
 </p>
 
 <p>
-We also have a <a href="/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
+Axel Brandenburg gave a general presentation on the Pencil code in Oslo (2003):
+<i>The Pencil Code: multi-purpose and multi-user maintained.</i>
+(<a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.htm">html</a>, <a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.ppt">PowerPoint</a>).
 </p>
 
 <p>
