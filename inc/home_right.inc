@@ -1,7 +1,7 @@
 <div class="rightcolumn">
 
 <h2>Pencil News</h2>
-The next Pencil Code User Meeting will be in summer 2014. <a href="/news.php">[more...]</a>
+The next Pencil Code User Meeting will be in spring 2015. <a href="/news.php">[more...]</a>
 
 <div class="rightdivider"></div>
 
