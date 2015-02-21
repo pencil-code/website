@@ -23,9 +23,9 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Philippe Bourdin test -->
 <li><a href="http://www.pab-software.de/Pencil/pc_auto-test.txt">GNU Fortran (Ubuntu 4.4.3-4ubuntu5.1) 4.4.3-4 (by Philippe Bourdin)</a>
 <!-- Boris Dintrans test -->
-<li><a href="http://www.ast.obs-mip.fr/users/dintrans/tmp/test_runs.html">Copernic (Linux/CentOS5 on 4 x Hexacore Intel Xeon E7540@2.00GHz, ifort 64 bits v12.0.1.107, by Boris Dintrans, regular level 2 test)</a>
+<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Copernic (Linux/CentOS5 on 4 x Hexacore Intel Xeon E7540@2.00GHz, ifort 64 bits v12.0.1.107, by Boris Dintrans, regular level 2 test)</a>
 <!-- Boris Dintrans test (2) -->
-<li><a href="http://www.ast.obs-mip.fr/users/dintrans/tmp/our_tests.html">Copernic (Linux/CentOS5 on 4 x Hexacore Intel Xeon E7540@2.00GHz, ifort 64 bits v12.0.1.107, by Boris Dintrans, 16 separate tests)</a>
+<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Copernic (Linux/CentOS5 on 4 x Hexacore Intel Xeon E7540@2.00GHz, ifort 64 bits v12.0.1.107, by Boris Dintrans, 16 separate tests)</a>
 <!-- Weekly (big) test -->
 <li><a href="http://www.svenbingert.de/auto-test.html">Linux/Ubuntu13.4 on Intel Core 2 Quad Q9000@2.00GHz, ifort 64bit v13.0.1 (Sven Bingert, standard + personal tests)</a>
 <li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Nordita Big Test (norlx51, gfortran, openmpi, by Wolfgang/Axel)</a>
