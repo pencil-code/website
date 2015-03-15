@@ -16,3 +16,6 @@ Topics for Pencil code User Meeting in Trondheim 2015:
 - PC paper
 
 - volume rendering using radiative transfer module
+
+- phython code for reading var files for dust module output.
+
