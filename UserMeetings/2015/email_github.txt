@@ -1,52 +1,75 @@
 Dear all,
+
 As you will have seen from the news and the pencil-code discussion,
 google code will close down and we will have to *move* our repository.
 
-1. Deadline: Saturday April 11 at 19:00 Stockholm time (17:00 GMT).
-2. Make sure everything important is checked in (including the www branch)!
-3. About 2-3 hours later, the github repository will hopefully be active,
-   and we will send an email out when we is done.
-
 Tobias Heinemann <tobias.heinemann@gmail.com> has been doing all the
 work for this transition and things look like they are working fine.
-You should remove youre old checkout (or move it out of sight) and check
-out the new repository. The checkout method with git is:
+
+You will only  be able to use github if you have a github account, so
+please register at https://github.com/ .
+  To map your previous commits to the new account, please update your
+entries in the file ${PENCIL_HOME}/license/authors.txt before the
+transition deadline (see below).
+
+
+Deadline
+========
+
+1. Saturday April 11 at 19:00 Stockholm time (17:00 GMT) is the deadline
+   for commits to googlecode. Commits that happen after that point in
+   time, can hopefully be imported to a separate branch in the github
+   repository, but you will have to merge them yourself.
+2. Thus, it is highly recommended that everything important is checked in
+   (including the www branch)!
+3. About 2-3 hours later, the github repository will hopefully be active,
+   and we will send an email out when we are done.
+
+
+What to do with your existing checkouts
+=======================================
+
+You ought to be able to use the SVN front end to github. So depending on
+whether you want to stick with SVN (for some time) or make the jump into
+git, you have two options:
+
+A. Continue using SVN 
+---------------------
+
+For basic operations, you can continue to use subversion. Use
+
+  svn switch https://github.com/pencil-code/pencil-code/trunk --username MY_GITHUB_USERNAME
+[Testing:
+  svn switch https://github.com/pencil-code/test/trunk --username MY_GITHUB_USERNAME
+]
+
+to switch an existing checkout to the new repository.
+
+Alternatively, you can delete (or move out of the way) your existing
+checkout(s) and check out afresh:
+
+  svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username MY_GITHUB_USERNAME
+[Testing:
+  svn checkout https://github.com/pencil-code/test/trunk/ pencil-code --username MY_GITHUB_USERNAME
+]
+
+
+B. Start using git
+------------------
+
+Remove (or move out of the way) your existing
+checkout(s) and do
 
   git clone https://github.com/pencil-code/pencil-code.git
 [Testing:
   git clone https://github.com/pencil-code/test.git
 ]
 
-For basic operations, you can continue to use subversion. Remove your old
-checkout (or move it out of sight) and checkout the new repository:
 
-  svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code
-[Testing:
-  svn checkout https://github.com/pencil-code/test/trunk/ pencil-code
-]
-
-That's the urgent part. Below the less urgent part.
-Axel
-
-4. You can only check in if you have a github accout. Please see:
-
-  https://code.google.com/p/pencil-code/wiki/MappingSubversionToGitUsers
-
-In that case, you can give your github name when checkin out, e.g.,
-
-  svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username AxelBrandenburg
-
-5. If you later find that you have uncommitted changes lying around
-under google code (e.g. on another machine), you may be able to use the
-'svn switch' command to continue using your original svn checkout:
-
-  svn switch https://github.com/pencil-code/pencil-code/trunk/
-
-[This is untested so far]
 
 -----------------------------------------------------------------------------
 Axel's git command list:
-git diff --cashed
+git diff --cached
 git commit
 
 ci == commit
