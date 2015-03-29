@@ -9,37 +9,19 @@ google code will close down and we will have to *move* our repository.
 Tobias Heinemann <tobias.heinemann@gmail.com> has been doing all the
 work for this transition and things look like they are working fine.
 You should remove youre old checkout (or move it out of sight) and check
-out the new repository.
-
-The checkout method with git is:
+out the new repository. The checkout method with git is:
 
   git clone https://github.com/pencil-code/pencil-code.git
 
-
-For basic operations, you can continue to use subversion. Remove youre old
+For basic operations, you can continue to use subversion. Remove your old
 checkout (or move it out of sight) and checkout the new repository:
 
   svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code
 
-If you later find that you have uncommitted changes lying around, you may
-be able to use the 'svn switch' command to continue using your original
-svn checkout:
-
-  svn switch https://github.com/pencil-code/pencil-code/trunk/
-
-[This is untested so far]
-
-
-That's the important part. Details follow below.
+That's the urgent part. Below the less urgent part.
 Axel
 
-
-** Details **
-
-An import advantage of github (as opposed to google code and sourceforge)
-is that there are no embargo countries.
-
-You can only check in if you have a github accout. Please see:
+4. You can only check in if you have a github accout. Please see:
 
   https://code.google.com/p/pencil-code/wiki/MappingSubversionToGitUsers
 
@@ -47,4 +29,11 @@ In that case, you can give your github name when checkin out, e.g.,
 
   svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username AxelBrandenburg
 
+5. If you later find that you have uncommitted changes lying around
+under google code (e.g. on another machine), you may be able to use the
+'svn switch' command to continue using your original svn checkout:
+
+  svn switch https://github.com/pencil-code/pencil-code/trunk/
+
+[This is untested so far]
 
