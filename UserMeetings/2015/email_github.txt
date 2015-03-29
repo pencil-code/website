@@ -13,13 +13,17 @@ You should remove youre old checkout (or move it out of sight) and check
 out the new repository. The checkout method with git is:
 
   git clone https://github.com/pencil-code/pencil-code.git
-  git clone https://github.com/tobson/pencil-code.git
+[Testing:
+  git clone https://github.com/pencil-code/test.git
+]
 
 For basic operations, you can continue to use subversion. Remove your old
 checkout (or move it out of sight) and checkout the new repository:
 
   svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code
-  svn checkout https://github.com/tobson/pencil-code/trunk/ pencil-code
+[Testing:
+  svn checkout https://github.com/pencil-code/test/trunk/ pencil-code
+]
 
 That's the urgent part. Below the less urgent part.
 Axel
