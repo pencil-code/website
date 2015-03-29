@@ -12,6 +12,9 @@ please register at https://github.com/ .
 entries in the file ${PENCIL_HOME}/license/authors.txt before the
 transition deadline (see below).
 
+For those who want to experiment with github, we have a test repository
+under https://github.com/pencil-code/test.git . The final location will be
+ https://github.com/pencil-code/pencil-code.git
 
 Deadline
 ========
@@ -36,20 +39,19 @@ git, you have two options:
 A. Continue using SVN 
 ---------------------
 
-For basic operations, you can continue to use subversion. Use
+For basic operations, you can continue to use subversion. After April 11, use
 
   svn switch https://github.com/pencil-code/pencil-code/trunk --username MY_GITHUB_USERNAME
-[Testing:
-  svn switch https://github.com/pencil-code/test/trunk --username MY_GITHUB_USERNAME
-]
 
 to switch an existing checkout to the new repository.
 
 Alternatively, you can delete (or move out of the way) your existing
 checkout(s) and check out afresh:
 
+After April 11, use
   svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username MY_GITHUB_USERNAME
-[Testing:
+
+[Before April 11, you can experiment with
   svn checkout https://github.com/pencil-code/test/trunk/ pencil-code --username MY_GITHUB_USERNAME
 ]
 
@@ -60,8 +62,9 @@ B. Start using git
 Remove (or move out of the way) your existing
 checkout(s) and do
 
+After April 11, use
   git clone https://github.com/pencil-code/pencil-code.git
-[Testing:
+[Before April 11, you can experiment with
   git clone https://github.com/pencil-code/test.git
 ]
 
