@@ -1,0 +1,38 @@
+Dear all,
+As you will have seen from the news and the pencil-code discussion,
+google code will close down and we will have to *move* our repository.
+
+1. Deadline: Friday April 10 at 21:00 Stockholm time.
+2. Make sure everything important is checked in (including the www branch)!
+3. By Saturday, April 11, the github repository will hopefully be active.
+
+Tobias Heinemann <tobias.heinemann@gmail.com> has been doing all the
+work for this transition and things look like they are working fine.
+You can in principle continue with subversion, so then remove you old
+checkout (or move it out of sight) and checkout the new repository.
+Anonymous check-out:
+
+  svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code
+
+The checkout method with git is:
+
+  XXX
+
+That's the important part. Details follow below.
+Axel
+
+
+** Details **
+
+An import advantage of github (as opposed to google code and sourceforge)
+is that there are no embargo countries.
+
+You can only check in if you have a github accout. Please see:
+
+  https://code.google.com/p/pencil-code/wiki/MappingSubversionToGitUsers
+
+In tht case, you can give your github name when checkin out, e.g.,
+
+  svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username AxelBrandenburg
+
+
