@@ -19,3 +19,7 @@ Topics for Pencil code User Meeting in Trondheim 2015:
 
 - phython code for reading var files for dust module output.
 
+- idl test cases
+
+- Philippe: short introduction Re: FATAL ERROR: read_snap_double: I/O error
+
