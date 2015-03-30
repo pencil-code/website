@@ -37,17 +37,12 @@ You ought to be able to use the SVN front end to github. So depending on
 whether you want to stick with SVN (for some time) or make the jump into
 git, you have two options:
 
+
 A. Continue using SVN 
 ---------------------
 
-For basic operations, you can continue to use subversion. After April 11, use
-
-  svn switch https://github.com/pencil-code/pencil-code/trunk --username MY_GITHUB_USERNAME
-
-to switch an existing checkout to the new repository.
-
-Alternatively, you can delete (or move out of the way) your existing
-checkout(s) and check out afresh:
+For basic operations, you can continue to use subversion. Delete (or move
+out of the way) your existing checkout(s) and check out afresh:
 
 After April 11, use
   svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username MY_GITHUB_USERNAME
