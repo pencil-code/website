@@ -6,11 +6,11 @@ google code will close down and we will have to *move* our repository.
 Tobias Heinemann <tobias.heinemann@gmail.com> has been doing all the
 work for this transition and things look like they are working fine.
 
-You will only  be able to use github if you have a github account, so
-please register at https://github.com/ .
-  To map your previous commits to the new account, please update your
-entries in the file ${PENCIL_HOME}/license/authors.txt before the
-transition deadline (see below).
+You will only be able to use github if you have a github account.
+Following our email of yesterday, many of you have already 
+registered at https://github.com/ .
+Many of you have already updated ${PENCIL_HOME}/license/authors.txt.
+This must be completed before the transition deadline (see below).
 
 For those who want to experiment with github, we have a test repository
 under https://github.com/pencil-code/test.git . The final location will be
@@ -52,7 +52,7 @@ checkout(s) and check out afresh:
 After April 11, use
   svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username MY_GITHUB_USERNAME
 
-[Before April 11, you can experiment with
+[Before April 11, you can *experiment* with
   svn checkout https://github.com/pencil-code/test/trunk/ pencil-code --username MY_GITHUB_USERNAME
 ]
 
@@ -69,19 +69,8 @@ After April 11, use
   git clone https://github.com/pencil-code/test.git
 ]
 
+Please let us know if there are any urgent issues requiring attention
+before the deadline. Other issues will be discussed and resolved at the
+Pencil Code User Meeting in Trondheim.
 
-
------------------------------------------------------------------------------
-Axel's git command list:
-git diff --cached
-git commit
-
-ci == commit
-
-git commit README
-commit, push in command
-
-pull request
-
-https://help.github.com/articles/caching-your-github-password-in-git/
-
+Axel, Toby, and Wolfgang
