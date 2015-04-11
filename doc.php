@@ -31,13 +31,6 @@ with Python</a>.
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-<h2>Examples</h2>
-We have prepared an <a href="/highlights/">overview on highlighted samples</a>.
-Please also see the <a href="/samples/">test results from sample applications</a>.
-</div>
-
-<div class="centerdivider"></div>
-<div class="centcolumnpad">
 <h2>Tests and timings</h2>
 For information how to do benchmark tests and timings, see the <a href="/timings.php">benchmark page</a>.
 </div>

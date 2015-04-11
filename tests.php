@@ -59,15 +59,6 @@ the very minimal auto-test:</p>
 <div class="codescroll"><code>pc_auto-test --level=0 --no-pencil-check -C</code></div>
 </div>
 
-<a name="samples"></a>
-<div class="centerdivider"></div>
-<div class="centcolumnpad">
-<h2>Results from tests</h2>
-We have prepared a quick overview on the results of some of our automatic tests:
-<?php
-	include "inc/samples_overview.inc";
-?>
-</div>
 <?php
 	include "inc/footer.inc";
  ?>

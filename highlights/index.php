@@ -22,15 +22,20 @@ Currently, we have the following highlights planned:
             <tr>
                <td><a href="/samples/turbulence/helical-MHDturb32-4procs/">Helical MHD Dynamo</a> [AB]</td>
                <td><a href="/samples/ism/">Supernova-driven turbulence</a></td>
+<?php
+	//
+	// Please replace "<X ...>...</X> with <a ...>...</a> when the proper documents are ready"
+	//
+ ?>
 	       <td><X href="/highlights/isotropic_turbulence/"></X> </td>
             </tr>
           </table>
 
-<!--
-//
-// Please replace "<X ...>...</X> with <a ...>...</a> when the proper documents are ready"
-//
--->
+<?php
+	//
+	// Please replace "<X ...>...</X> with <a ...>...</a> when the proper documents are ready"
+	//
+ ?>
 	<li><X href="/highlights/isotropic_turbulence/">Isotropic turbulence</X> [NH]</li>
 	<li><X href="/highlights/stellar_convection/">Stellar convection</X> [PJK/JW]</li>
 	<li><X href="/highlights/magnetorotational_instability/">Magnetorotational instability</X> [AJ/WL]</li>
@@ -42,8 +47,6 @@ Currently, we have the following highlights planned:
 	<li><X href="/highlights/spot_self_assembly/">spot self assembly</X> [AB]</li>
 	<li><X href="/highlights/test_methods/">test methods</X> [MR]</li>
 </ul>
-
-<u>This is a test page / template for the highlights subdirectory.</u>
 
 </div>
 <?php
