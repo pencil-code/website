@@ -10,6 +10,8 @@ highly modular and can easily be adapted to different types of
 problems.  The code runs efficiently under MPI on massively parallel
 shared- or distributed-memory computers.</p>
 
+<H3><font color="#e00000"><b><u>Attention:</u></b></font> Pencil Code moves to Github! <a href="news.php">[more details...]</a></H3>
+
 <p>The Pencil Code or equivalent codes have been used for many
 different applications in a (more or less) astrophysical context.
 Examples are</p>
