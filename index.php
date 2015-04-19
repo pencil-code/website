@@ -10,7 +10,7 @@ highly modular and can easily be adapted to different types of
 problems.  The code runs efficiently under MPI on massively parallel
 shared- or distributed-memory computers.</p>
 
-<H3><font color="#e00000"><b><u>Attention:</u></b></font> Pencil Code moves to Github! <a href="news.php">[more details...]</a></H3>
+<H3><font color="#e00000"><b><u>Attention:</u></b></font> Pencil Code has moved to Github! <a href="news.php">[more details...]</a></H3>
 
 <p>The Pencil Code or equivalent codes have been used for many
 different applications in a (more or less) astrophysical context.
@@ -41,7 +41,7 @@ Examples are</p>
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-Available as open source: <a href="http://pencil-code.googlecode.com/" target="_top">Pencil-Code.googlecode.com</a>
+Available as open source: <a href="https://github.com/pencil-code/" target="_top">https://github.com/pencil-code</a> (formerly, before 18 April 2015, under <a href="http://pencil-code.googlecode.com/" target="_top">Pencil-Code.googlecode.com</a>)
 </div>
 <?php
 	include "inc/footer.inc";
