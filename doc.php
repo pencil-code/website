@@ -54,8 +54,7 @@ For code problems, <a href="/doc/faq.php">here</a> an automatically generated ex
 <div class="centcolumnpad">
 <h2>Wiki</h2>
 
-Some helpful information are available on the Google
-Code <a href="http://code.google.com/p/pencil-code/w/list">wiki</a>.
+Some helpful information are available on our <a href="https://github.com/pencil-code/pencil-code/wiki">project wiki</a>.
 </div>
 <?php
 	include "inc/footer.inc";
