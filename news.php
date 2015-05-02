@@ -6,19 +6,13 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">19 Apr 2015:<br>
+<li class="separated">19 April 2015:
+Pencil Code moved from Google Code to Github.<br>
 We proudly announce the successful move to
 <a href=https://github.com/pencil-code/>https://github.com/pencil-code/</a>
 and thank Toby (aka tobson) for doing a splendid job!
-</li>
-
-<li class="separated">13 Apr 2015:<font color="#e00000"><b><u>Attention:</u></b></font><br>
-<H3>Pencil Code moves from Google Code to Github</H3>
-As you may have seen, in March 2015, Google announced that it will be closing down Google Code in January 15, 2016. As a consequence, we'll now be moving to github. The email below only went to the people who have contributed to the Pencil Code. If any of you have any code developments not yet checked in, please <a href="contact.php">contact us</a>.<br>
-If everything goes according to plan, several hours after Saturday April 18 at 19:00 Stockholm time (17:00 GMT), you should be able to check out the code under github, preferably with git:<br>
-<div class="codescroll"><code>git clone https://github.com/pencil-code/pencil-code.git</code></div>
-or alternatively using svn:<br>
-<div class="codescroll"><code>svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code</code></div>
+The move became neccessary after Google announced to close Google Code.
+Commands to download the code with git or svn are given on the <a href="download.php">download page</a>.
 </li>
 
 <li class="separated">24 Dec 2014:<br>
