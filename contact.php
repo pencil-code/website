@@ -24,7 +24,7 @@ The current core-development team consists of:
 <li>Matthias Rheinhardt</li>
 </ul>
 
-All the people involved in this project are <a href="http://code.google.com/p/pencil-code/people/list">listed here</a>.
+All the people involved in this project are <a href="https://github.com/orgs/pencil-code/people">listed here</a>.
 </div>
 <?php
 	include "inc/footer.inc";
