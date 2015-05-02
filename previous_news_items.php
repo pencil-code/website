@@ -8,31 +8,17 @@
 <ul>
 
 <li class="separated">25 Jan 2014:<br>
-The <a href=http://agenda.albanova.se/conferenceDisplay.py?confId=4213>10th Pencil Code Meeting</a> will take place 7-11 July 2014 in G&ouml;ttingen.
-Don't forget to sign up.
-</li>
+The <a href=http://agenda.albanova.se/conferenceDisplay.py?confId=4213>10th Pencil Code Meeting</a> took place on 7-11 July 2014 in G&ouml;ttingen.</li>
 
 <li class="separated">20 Jun 2013:<br>
-Welcome to the new Pencil Code homepage, designed and implemented during the Pencil Code User Meeting 2013 on 17-20 June in Lund.</li>
+Welcome to the new Pencil Code homepage, designed and implemented during the <a href="http://www.astro.lu.se/~michiel/PC2013/">9th Pencil Code User Meeting</a> on 17-20 June 2013 in Lund.</li>
 
 <li class="separated">21 Sep 2008:<br>
-Now the code is available under
-<a href="http://pencil-code.googlecode.com/">http://pencil-code.googlecode.com/</a>.
-Please consult the <a href="http://code.google.com/p/pencil-code/wiki/SvnTransition">following notes</a>
-to do the transition.</li>
+The code was moved to <a href="http://pencil-code.googlecode.com/">Google Code repository</a>.</li>
 
 <li class="separated">28 July 2006:<br>
-We have incorporated all the feature of the eos branch into the main trunk.
-Until 28 July the public repository was not updated (to prevent
-users seeing broken code), but meanwhile we have been working
-on production runs ourselves without problems, so we deem the code
-fit for public consumption.
-There are some minor changes that will be necessary in the .in-files,
-such as adding eos_init_pars (possibly with gamma=1.) and
-viscosity_run_pars (with the value of nu). It will be best to check
-out the samples directory for how to do it.
-Alternatively, wait until Wolfgang will have prepared his script
-that converts from the old files to the new ones.</li>
+All features of the eos branch have been incorporated into the main trunk.
+There are some minor changes that will be necessary in the .in-files, such as adding eos_init_pars (possibly with gamma=1.) and viscosity_run_pars (with the value of nu).</li>
 
 </ul>
 
