@@ -4,12 +4,15 @@
  ?>
 <div class="centcolumnpad">
 <h2>Download</h2>
-We recommend getting the code with <em>svn</em>.<br>
+We recommend getting the code with <em>git</em>.<br>
 If you just want to check out the latest version of the code use:
 <div class="codescroll"><code>git clone https://github.com/pencil-code/pencil-code.git</code></div>
 
-If you have a Pencil Code username NAME at google-code then use:
+If you have a github username 'MY_GIT_NAME' and like to submit changes you can use:
 <div class="codescroll"><code>git clone https://MY_GIT_NAME@github.com/pencil-code/pencil-code.git</code></div>
+
+Or, if you prefer to use a SSH keyfile so that you do not have to type your password on each 'push':
+<div class="codescroll"><code>git clone git@github.com:pencil-code/pencil-code.git</code></div>
 
 The Pencil Code can also be obtained as a stable <a href="https://github.com/pencil-code/pencil-code/releases">release</a> (click <a href="http://norlx51.albanova.se/~brandenb/downloads/pencil-code-r21570.tar.gz">here</a> for a local copy r21570).
 </div>
