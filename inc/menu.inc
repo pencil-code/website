@@ -4,7 +4,7 @@
 		"News"                => "/news.php",
 		"Documentation"       => "/doc.php",
 		"Highlights"          => "/highlights/",
-		"Samples overview"    => "/samples/",
+		"Samples"             => "/samples/",
 		"Autotests"           => "/tests.php",
 		"Download"            => "/download.php",
 		"Meetings"            => "/meetings.php",
