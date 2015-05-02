@@ -16,7 +16,7 @@ The Pencil Code can also be obtained as a stable <a href="https://github.com/pen
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-Available as open source at our project page: <a href="http://pencil-code.googlecode.com/" target="_top">Pencil-Code.googlecode.com</a>
+Available as open source at our project page: <a href="https://github.com/pencil-code/" target="_top">gitbub.com/pencil-code</a>
 </div>
 <?php
 	include "inc/footer.inc";
