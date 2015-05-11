@@ -23,3 +23,4 @@ Topics for Pencil code User Meeting in Trondheim 2015:
 
 - Philippe: short introduction Re: FATAL ERROR: read_snap_double: I/O error
 
+- F2003, status report, Matthias & Philipe
