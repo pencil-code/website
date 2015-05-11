@@ -8,7 +8,7 @@
 <ul>
 
 <li class="separated">25 Jan 2014:<br>
-The <a href=http://agenda.albanova.se/conferenceDisplay.py?confId=4213>10th Pencil Code Meeting</a> took place on 7-11 July 2014 in G&ouml;ttingen.</li>
+The <a href="http://agenda.albanova.se/conferenceDisplay.py?confId=4213">10th Pencil Code Meeting</a> took place on 7-11 July 2014 in G&ouml;ttingen.</li>
 
 <li class="separated">20 Jun 2013:<br>
 Welcome to the new Pencil Code homepage, designed and implemented during the <a href="http://www.astro.lu.se/~michiel/PC2013/">9th Pencil Code User Meeting</a> on 17-20 June 2013 in Lund.</li>
