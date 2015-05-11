@@ -1,3 +1,5 @@
+svn checkout https://github.com/pencil-code/website/trunk/ www
+
 $Id$
 
 Topics for Pencil code User Meeting in Trondheim 2015:
@@ -24,3 +26,5 @@ Topics for Pencil code User Meeting in Trondheim 2015:
 - Philippe: short introduction Re: FATAL ERROR: read_snap_double: I/O error
 
 - F2003, status report, Matthias & Philipe
+
+- pc_configtest to be discussed by Philippe
