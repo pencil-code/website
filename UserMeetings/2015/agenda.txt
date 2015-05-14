@@ -12,19 +12,49 @@ Topics for Pencil code User Meeting in Trondheim 2015:
 %            [assigned Persons] feel free to add yourself
 
 - Code the conductivity module
+  what was the problem? Not working??
 
 - non-uniform grid: upwinding, boundary conditions
+  many relevant b.c.s do not comply, because not symmetric about mirror.
+  not using mapping function is implemented, but leads to instability.
+  deriv_alt, but is not currently being used.
+  Reason for instability to be investigated.
 
-- PC paper
+- PC paper:
+  accounce on pencil-code-discuss and all users (commit list): May 2015
+  Phys. Scripta, deadline: Friday, 15 January 2016, interest deadline June 5.
+  Bourdin: Parallel I/O: technical description and tests
+  Aarnes: Immersed boundary condition
+  Krueger: Solid Chemistry and combustion
+  Sarson: Interstellar physics and cosmic rays
+  Planet formation
+  Low plasma-beta MHD (coronal physics)
+  Condensation and coagulation, aerosols
+  GPU computations (timings, rolling cache, etc)
+  
+- Hmax issue: was an error
 
 - volume rendering using radiative transfer module
+  related efforts with: paraview, yt, vapor
 
-- phython code for reading var files for dust module output.
+- python code for reading var files for dust module output.
+  is now working, but is a workaround and can be improved (Andreas, Jonas).
+  new routines exist for reading particles (Jonas)
 
 - idl test cases
+  is probably ok, and was never wrong yet.
 
 - Philippe: short introduction Re: FATAL ERROR: read_snap_double: I/O error
+  see his Monday talk. Related to F2003, see below.
 
 - F2003, status report, Matthias & Philipe
+  need changes in Makefile (seems outdated!?)
+  Matthias is checking in as we speak.
 
 - pc_configtest to be discussed by Philippe
+  its fine and highly recommended, just say
+  pc_configtest
+
+- cuda, GPU, etc
+
+- future User Meetings: Graz, Newcastle, Boulder
