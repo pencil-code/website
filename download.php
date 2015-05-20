@@ -18,8 +18,9 @@ If you just want to check out the latest version of the code use:
 <div class="codescroll"><code>git clone https://github.com/pencil-code/pencil-code.git</code></div>
 
 If you have a github username 'MY_GITHUB_NAME' and like to submit changes you can use:
-<div class="codescroll"><code>git clone https://MY_GITHUB_NAME@github.com/pencil-code/pencil-code.git
-git config --global credential.helper 'cache --timeout=3600'</code></div>
+<div class="codescroll"><code>git clone https://MY_GITHUB_NAME@github.com/pencil-code/pencil-code.git<br>
+git config --global credential.helper 'cache --timeout=3600'<br>
+git config --global branch.autosetuprebase always</code></div>
 With the second line, you set the password cache to one hour.
 
 <p>
