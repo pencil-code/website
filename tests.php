@@ -15,28 +15,37 @@ it could be useful to first see whether this problem also shows up in
 our own tests. The latest test results for a can be seen online:</p>
 
 <ul STYLE="font-size:13px;">
-<!-- Anders Johansen test -->
-<li><a href="http://www.astro.ku.dk/~ajohan/pencil-test.html">gfortran with open-mpi, quad-core with Intel Xeon 2.40 GHz cores, by Anders Johansen)</a>
-<!-- Philippe Bourdin test -->
+<!-- Hourly test -->
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Hourly Nordita Test (norlx51, gfortran, openmpi, by Wolfgang/Axel)</a>
+<!-- Daily test -->
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Daily Nordita Test (norlx51, gfortran, openmpi, by Wolfgang/Axel)</a>
+<!-- Philippe Bourdin -->
 <li><a href="http://www.pab-software.de/Pencil/pc_auto-test.txt">GNU Fortran (Ubuntu 4.8.2-19ubuntu1) 4.8.2 (by Philippe Bourdin)</a>
-<!-- Boris Dintrans test -->
-<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Copernic (Linux/CentOS5 on 4 x Hexacore Intel Xeon E7540@2.00GHz, ifort 64 bits v12.0.1.107, by Boris Dintrans, regular level 2 test)</a>
-<!-- Boris Dintrans test (2) -->
-<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Copernic (Linux/CentOS5 on 4 x Hexacore Intel Xeon E7540@2.00GHz, ifort 64 bits v12.0.1.107, by Boris Dintrans, 16 separate tests)</a>
-<!-- Weekly (big) test -->
-<li><a href="http://www.svenbingert.de/auto-test.html">Linux/Ubuntu13.4 on Intel Core 2 Quad Q9000@2.00GHz, ifort 64bit v13.0.1 (Sven Bingert, standard + personal tests)</a>
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Nordita Big Test (norlx51, gfortran, openmpi, by Wolfgang/Axel)</a>
-<!-- Weekly (big) test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Nordita Hourly Test (norlx51, gfortran, openmpi, by Wolfgang/Axel)</a>
+<!-- Boris Dintrans -->
+<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Copernic (Linux/CentOS5, ifort 64 bits v12.0.1.107, by Boris Dintrans, regular level 2 test)</a>
+<!-- Boris Dintrans additional -->
+<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Copernic (Linux/CentOS5, ifort 64 bits v12.0.1.107, by Boris Dintrans, additional tests)</a>
+</ul>
+
+<p>Note: before checking in your own changes, you should at least do
+the very minimal auto-test:</p>
+
+<div class="codescroll"><code>pc_auto-test --level=0 --no-pencil-check -C</code></div>
+</div>
+
+<h3>Third-party tests (partly outdated)</h3>
+<!-- Nordita PowerMac -->
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac (os10, g95, ompi, by Axel)</a> [<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
+<!-- Anders Johansen -->
+<li><a href="http://www.astro.ku.dk/~ajohan/pencil-test.html">gfortran with open-mpi, by Anders Johansen)</a>
+<!-- Sven Bingert -->
+<li><a href="http://www.svenbingert.de/auto-test.html">Linux/Ubuntu13.4, ifort 64bit v13.0.1 (Sven Bingert, standard + personal tests)</a>
 <!--
 <li><a href="http://www.nordita.org/~brandenb/pencil-code/normac.html">Nordita Mac Mini (os10, g95, lammpi, by Axel)</a>
 [<a href="http://www.nordita.org/~brandenb/pencil-code/normac_previous.html">previous</a>]
 <li><a href="http://www.nordita.org/~brandenb/pencil-code/nor52.html">Nordita PowerMac (os10, g95, ompi, by Axel)</a>
 [<a href="http://www.nordita.org/~brandenb/pencil-code/nor52_previous.html">previous</a>]
 -->
-<!-- Nordita PowerMac -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac (os10, g95, ompi, by Axel)</a>
-[<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
 <!--
 <li><a href="http://www.nordita.org/~brandenb/pencil-code/qmul.html">Queen Mary Cluster (London, by Axel)</a>
 [<a href="http://www.nordita.org/~brandenb/pencil-code/qmul_previous.html">previous</a>]
@@ -48,13 +57,6 @@ our own tests. The latest test results for a can be seen online:</p>
 <li><a href="http://bohr.phys.ntnu.no/~nilshau/pencil-code/gridur.html">Gridur (SGI machine in Trondheim, by Nils)</a>
 <li><a href="http://www.tac.dk/~brandenb/pencil-code/tac.html">tacsg2 (SGI machine, always some problems...)</a>
 -->
-</ul>
-
-<p>Note: before checking in your own changes, you should at least do
-the very minimal auto-test:</p>
-
-<div class="codescroll"><code>pc_auto-test --level=0 --no-pencil-check -C</code></div>
-</div>
 
 <?php
 	include "inc/footer.inc";
