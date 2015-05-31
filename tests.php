@@ -15,9 +15,6 @@ it could be useful to first see whether this problem also shows up in
 our own tests. The latest test results for a can be seen online:</p>
 
 <ul STYLE="font-size:13px;">
-<!--
-<li><a href="http://norlx50.albanova.se/~wdobler/pencil-code/tests/g95_debug.html">norlx50 (Linux, g95, by Wolfgang)</a>
--->
 <!-- Anders Johansen test -->
 <li><a href="http://www.astro.ku.dk/~ajohan/pencil-test.html">gfortran with open-mpi, quad-core with Intel Xeon 2.40 GHz cores, by Anders Johansen)</a>
 <!-- Philippe Bourdin test -->
