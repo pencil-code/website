@@ -31,9 +31,9 @@ our own tests. The latest test results for a can be seen online:</p>
 the very minimal auto-test:</p>
 
 <div class="codescroll"><code>pc_auto-test --level=0 --no-pencil-check -C</code></div>
-</div>
 
 <h3>Third-party tests (partly outdated)</h3>
+<ul STYLE="font-size:13px;">
 <!-- Nordita PowerMac -->
 <li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac (os10, g95, ompi, by Axel)</a> [<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
 <!-- Anders Johansen -->
@@ -57,6 +57,9 @@ the very minimal auto-test:</p>
 <li><a href="http://bohr.phys.ntnu.no/~nilshau/pencil-code/gridur.html">Gridur (SGI machine in Trondheim, by Nils)</a>
 <li><a href="http://www.tac.dk/~brandenb/pencil-code/tac.html">tacsg2 (SGI machine, always some problems...)</a>
 -->
+</ul>
+
+</div>
 
 <?php
 	include "inc/footer.inc";
