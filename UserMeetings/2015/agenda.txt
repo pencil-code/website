@@ -22,14 +22,15 @@ Topics for Pencil code User Meeting in Trondheim 2015:
 
 - PC paper:
   accounce on pencil-code-discuss and all users (commit list): May 2015
-  Phys. Scripta, deadline: Friday, 15 January 2016, interest deadline June 5.
-  Bourdin: Parallel I/O: technical description and tests
+  Phys. Scripta, deadline: Friday, 20 May 2016, interest deadline Sept 17.
   Aarnes: Immersed boundary condition
   Krueger: Solid Chemistry and combustion
   Sarson: Interstellar physics and cosmic rays
-  Planet formation
+  Schreiber & Baehr: Planet formation
+  Boudin: Coronal response to photospheric driving
   Low plasma-beta MHD (coronal physics)
   Condensation and coagulation, aerosols
+  Bourdin: Parallel I/O: technical description and tests
   GPU computations (timings, rolling cache, etc)
   
 - Hmax issue: was an error
