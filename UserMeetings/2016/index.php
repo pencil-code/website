@@ -8,7 +8,7 @@
 
 <p>
 We are currently searching for the possible weeks, which will later undergo a poll.
-Until 19th of September, anyone may <a href="mailto:pc16@Bourdin.ch">give me a short note</a>, when he/she is absent (or simply edit this page).
+Until 19th of September, anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note</a>, when he/she is absent (or simply edit this page).
 <table border="0" cellpadding="5" cellspacing="5">
 <tr><td>date:</td><td>absent:</td></tr>
 <tr><td>23.5. - 27.5.</td><td></td></tr>
