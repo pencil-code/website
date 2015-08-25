@@ -8,7 +8,7 @@
 
 <p>
 We are currently searching for the possible weeks, which will later undergo a poll.
-Until 19th of September, anyone may <a href="http://www.Bourdin.ch/Philippe/e-Mail.php">give me a short note</a>, when he/she is absent (or simply edit this page).
+Until 19th of September, anyone may <a href="mailto:pc16@Bourdin.ch">give me a short note</a>, when he/she is absent (or simply edit this page).
 <table border="0" cellpadding="5" cellspacing="5">
 <tr><td>date:</td><td>absent:</td></tr>
 <tr><td>23.5. - 27.5.</td><td></td></tr>
@@ -27,7 +27,7 @@ Until 19th of September, anyone may <a href="http://www.Bourdin.ch/Philippe/e-Ma
 
 <p>Currently, we plan for a 3-hours hike to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (yes, it is pretty secure, because this is a well maintained trail). Furthermore, the social programm will comprise a conference dinner in a &quot;Buschenschank&quot;, where you might be offered some locally produces wines or juices and (mainly cold) food.</p>
 
-<p>The program of the meeting will be as usuas: scientific and technical presentation and discussions all around the Pencil Code.</p>
+<p>The program of the meeting will be as usual: scientific presentations and discussions discussions around the Pencil Code.</p>
 
 <p>More details will follow on this page...<br>
 Thank you for visiting again.
