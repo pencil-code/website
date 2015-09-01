@@ -25,9 +25,9 @@ Until 19th of September, anyone may <a href="mailto:pc16@Bourdin.ch?subject=abse
 </table>
 </p>
 
-<p>Currently, we plan for a 3-hours hike to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (yes, it is pretty secure, because this is a well maintained trail). Furthermore, the social programm will comprise a conference dinner in a &quot;Buschenschank&quot;, where you might be offered some locally produces wines or juices and (mainly cold) food.</p>
+<p>Currently, we plan for a 3-hours hike to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (yes, it is pretty secure, because this is a well maintained trail). Furthermore, the social programm will comprise a conference dinner in a &quot;Buschenschank&quot;, where you might be offered some locally produced wines or juices and (mainly cold) food.</p>
 
-<p>The program of the meeting will be as usual: scientific presentations and discussions discussions around the Pencil Code.</p>
+<p>The program of the meeting will be as usual: scientific presentations and technical discussions around the Pencil Code.</p>
 
 <p>More details will follow on this page...<br>
 Thank you for visiting again.
