@@ -4,7 +4,7 @@
 <div class="centcolumnpad">
 <h2>Pencil Code User Meeting 2016</h2>
 
-<p>The next meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/english/home.html">Austrian Academy of Sciences</a>.</p>
+<p>The next meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.</p>
 
 <p>
 We are currently searching for the possible weeks, which will later undergo a poll.
