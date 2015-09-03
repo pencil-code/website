@@ -16,7 +16,7 @@ Until 19th of September, anyone may <a href="mailto:pc16@Bourdin.ch?subject=abse
 <tr><td>06.6. - 10.6.</td><td>Axel</td></tr>
 <tr><td>13.6. - 17.6.</td><td></td></tr>
 <tr><td>27.6. - 01.7.</td><td></td></tr>
-<tr><td>04.7. - 08.7.</td><td></td></tr>
+<tr><td>04.7. - 08.7.</td><td>Exoplanets conference (Switzerland): Chao-Chin</td></tr>
 <tr><td>11.7. - 15.7.</td><td></td></tr>
 <tr><td>18.7. - 22.7.</td><td></td></tr>
 <tr><td>25.7. - 29.7.</td><td></td></tr>
