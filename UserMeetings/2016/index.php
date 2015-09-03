@@ -9,19 +9,20 @@
 <p>
 We are currently searching for the possible weeks, which will later undergo a poll.
 Until 19th of September, anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note</a>, when he/she is absent (or simply edit this page).
-<table border="0" cellpadding="5" cellspacing="5">
-<tr><td>date:</td><td>absent:</td></tr>
-<tr><td>23.5. - 27.5.</td><td></td></tr>
-<tr><td>30.5. - 03.6.</td><td></td></tr>
-<tr><td>06.6. - 10.6.</td><td>Axel</td></tr>
-<tr><td>13.6. - 17.6.</td><td></td></tr>
-<tr><td>27.6. - 01.7.</td><td></td></tr>
-<tr><td>04.7. - 08.7.</td><td>Exoplanets conference (Switzerland): Chao-Chin</td></tr>
-<tr><td>11.7. - 15.7.</td><td></td></tr>
-<tr><td>18.7. - 22.7.</td><td></td></tr>
-<tr><td>25.7. - 29.7.</td><td></td></tr>
-<tr><td>01.8. - 05.8.</td><td></td></tr>
-<tr><td>08.8. - 12.8.</td><td></td></tr>
+<table border="1" cellpadding="5" cellspacing="5">
+<tr><td>date:</td><td>absent:</td><td>conferences/workshops</td></tr>
+<tr><td>23.5. - 27.5.</td><td>?</td><td>AGU Chapman/Croatia</td></tr>
+<tr><td>30.5. - 03.6.</td><td></td><td>SPD meeting/USA</td></tr>
+<tr><td>06.6. - 10.6.</td><td>Axel</td><td></td></tr>
+<tr><td>13.6. - 17.6.</td><td></td><td>American Astronomical Society/USA</td></tr>
+<tr><td>20.6. - 24.6.</td><td>?</td><td>IRIS-6/Sweden</td></tr>
+<tr><td>27.6. - 01.7.</td><td></td><td></td></tr>
+<tr><td>04.7. - 08.7.</td><td>Chao-Chin</td><td>Exoplanets I/Switzerland, IMA Turbulence/UK</td></tr>
+<tr><td>11.7. - 15.7.</td><td></td><td></td></tr>
+<tr><td>18.7. - 22.7.</td><td></td><td></td></tr>
+<tr><td>25.7. - 29.7.</td><td></td><td></td></tr>
+<tr><td>01.8. - 05.8.</td><td>?</td><td>COSPAR Istanbul/Turkey</td></tr>
+<tr><td>08.8. - 12.8.</td><td></td></td><td></tr>
 </table>
 </p>
 
