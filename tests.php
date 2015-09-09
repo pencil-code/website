@@ -37,13 +37,13 @@ the very minimal auto-test:</p>
 <h2>Third-party tests (partly outdated)</h2>
 <ul STYLE="font-size:13px;">
 <!-- Nordita PowerMac -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac (os10, g95, ompi, by Axel)</a> [<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac: g95 with OpenMPI (MacOS X, by Axel)</a> [<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
 <!-- Anders Johansen -->
-<li><a href="http://www.astro.ku.dk/~ajohan/pencil-test.html">gfortran with open-mpi, by Anders Johansen)</a>
+<li><a href="http://www.astro.ku.dk/~ajohan/pencil-test.html">GNU gfortran with OpenMPI (by Anders Johansen)</a>
 <!--
-<li><a href="http://www.nordita.org/~brandenb/pencil-code/normac.html">Nordita Mac Mini (os10, g95, lammpi, by Axel)</a>
+<li><a href="http://www.nordita.org/~brandenb/pencil-code/normac.html">Nordita Mac Mini: g95 with lammpi (MacOS X, by Axel)</a>
 [<a href="http://www.nordita.org/~brandenb/pencil-code/normac_previous.html">previous</a>]
-<li><a href="http://www.nordita.org/~brandenb/pencil-code/nor52.html">Nordita PowerMac (os10, g95, ompi, by Axel)</a>
+<li><a href="http://www.nordita.org/~brandenb/pencil-code/nor52.html">Nordita PowerMac: g95 with OpenMPI (MacOS X, by Axel)</a>
 [<a href="http://www.nordita.org/~brandenb/pencil-code/nor52_previous.html">previous</a>]
 -->
 <!--
