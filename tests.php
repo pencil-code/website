@@ -16,15 +16,17 @@ our own tests. The latest test results for a can be seen online:</p>
 
 <ul STYLE="font-size:13px;">
 <!-- Hourly test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Hourly Nordita Test (norlx51, gfortran, openmpi, by Wolfgang/Axel)</a>
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Hourly Nordita: GNU gfortran with OpenMPI (norlx51, by Wolfgang/Axel)</a>
 <!-- Daily test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Daily Nordita Test (norlx51, gfortran, openmpi, by Wolfgang/Axel)</a>
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Daily Nordita: g95 with OpenMPI (norlx51, by Wolfgang/Axel)</a>
 <!-- Philippe Bourdin -->
-<li><a href="http://www.pab-software.de/Pencil/pc_auto-test.txt">GNU Fortran (Ubuntu 4.8.2-19ubuntu1) 4.8.2 (by Philippe Bourdin)</a>
+<li><a href="http://www.pab-software.de/Pencil/pc_auto-test.txt">GNU gfortran 4.8.2-19ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin)</a>
 <!-- Boris Dintrans -->
-<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Copernic (Linux/CentOS5, ifort 64 bits v12.0.1.107, by Boris Dintrans, regular level 2 test)</a>
+<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Copernic: Intel ifort v12.0.1.107 (Linux/CentOS 5, 64 bit, by Boris Dintrans, regular level 2 test)</a>
 <!-- Boris Dintrans additional -->
-<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Copernic (Linux/CentOS5, ifort 64 bits v12.0.1.107, by Boris Dintrans, additional tests)</a>
+<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Copernic: Intel ifort v12.0.1.107 (Linux/CentOS 5, 64 bit, by Boris Dintrans, additional tests)</a>
+<!-- Sven Bingert -->
+<li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, 64 bit, by Sven Bingert, standard and personal tests)</a>
 </ul>
 
 <p>Note: before checking in your own changes, you should at least do
@@ -38,8 +40,6 @@ the very minimal auto-test:</p>
 <li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac (os10, g95, ompi, by Axel)</a> [<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
 <!-- Anders Johansen -->
 <li><a href="http://www.astro.ku.dk/~ajohan/pencil-test.html">gfortran with open-mpi, by Anders Johansen)</a>
-<!-- Sven Bingert -->
-<li><a href="http://www.svenbingert.de/auto-test.html">Linux/Ubuntu13.4, ifort 64bit v13.0.1 (Sven Bingert, standard + personal tests)</a>
 <!--
 <li><a href="http://www.nordita.org/~brandenb/pencil-code/normac.html">Nordita Mac Mini (os10, g95, lammpi, by Axel)</a>
 [<a href="http://www.nordita.org/~brandenb/pencil-code/normac_previous.html">previous</a>]
