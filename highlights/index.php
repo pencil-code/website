@@ -11,20 +11,23 @@ lists currently about 400 research papers quoting the Pencil Code.
 
 <p>
 Currently, we may present the following highlights:
-<ul>
-          <table border="0" cellspacing="20" cellpadding="0">
-            <tr valign="bottom">
-               <td align="center"><a href="/samples/turbulence/helical-MHDturb32-4procs/"><img src="/samples/turbulence/helical-MHDturb32-4procs/bz_thumb.jpg" width="150" height="125" border="0" alt="t=200-1700"></a></td>
-               <td align="center"><a href="/samples/ism/"><img src="/samples/ism/rho.jpg" width="150" height="125" border="0" alt="plasma density"></a></td> 
-               <td align="center"><a href="/samples/corona/"><img src="/samples/corona/corona_EUV-emission.png" width="150" height="150" border="0" alt="coronal loops EUV emission"></a></td>
-            </tr>
-            <tr valign="top">
-               <td align="center"><a href="/samples/turbulence/helical-MHDturb32-4procs/">Helical MHD Dynamo</a> [AB]</td>
-               <td align="center"><a href="/samples/ism/">Supernova-driven turbulence</a> [FAG]</td>
-               <td align="center"><a href="/samples/corona/">Coronal heating problem</a> [PAB]</td>
-            </tr>
-          </table>
+<table border="0" cellspacing="20" cellpadding="0">
+	<tr valign="bottom">
+		<td align="center"><a href="/samples/turbulence/helical-MHDturb32-4procs/"><img src="/samples/turbulence/helical-MHDturb32-4procs/bz_thumb.jpg" width="150" height="125" border="0" alt="t=200-1700"></a></td>
+		<td align="center"><a href="/samples/ism/"><img src="/samples/ism/rho.jpg" width="150" height="125" border="0" alt="plasma density"></a></td> 
+		<td align="center"><a href="/samples/corona/"><img src="/samples/corona/corona_EUV-emission.png" width="150" height="150" border="0" alt="coronal loops EUV emission"></a></td>
+	</tr>
+	<tr valign="top">
+		<td align="center"><a href="/samples/turbulence/helical-MHDturb32-4procs/">Helical MHD Dynamo</a> [AB]</td>
+		<td align="center"><a href="/samples/ism/">Supernova-driven turbulence</a> [FAG]</td>
+		<td align="center"><a href="/samples/corona/">Coronal heating problem</a> [PAB]</td>
+	</tr>
+</table>
+</p>
 
+<p>
+Ohter highlighting uses of the Pencil Code include the following topics:
+<ul>
 <?php
 	//
 	// Please replace "<X ...>...</X> with <a ...>...</a> when the proper documents are ready"
