@@ -6,22 +6,22 @@
 <h2>Highlights</h2>
 
 The document about the
-<a href=http://norlx51.nordita.org/~brandenb/tmp/citations/notes.pdf>Scientific Usage of the Pencil Code</a>
-lists currently 370 research papers quoting the Pencil Code.
+<a href="http://norlx51.nordita.org/~brandenb/tmp/citations/notes.pdf">Scientific Usage of the Pencil Code</a>
+lists currently about 400 research papers quoting the Pencil Code.
 
 <p>
-Currently, we have the following highlights planned:
+Currently, we may present the following highlights:
 <ul>
           <table border=0 cellspacing=30>
             <tr>
-               <td align="center"><img src="/samples/turbulence/helical-MHDturb32-4procs/bz_thumb.jpg" width="150" height="125" border="0" alt="t=200-1700"></td>
-               <td><a href="/samples/ism/"><img src="http://fagent.wdfiles.com/local--files/astro/rho.jpg" width="150" height="125" border="0" alt="plasma density"></a></td> 
-               <td>
-               </td>
+               <td align="center"><a href="/samples/turbulence/helical-MHDturb32-4procs/"><img src="/samples/turbulence/helical-MHDturb32-4procs/bz_thumb.jpg" width="150" height="125" border="0" alt="t=200-1700"></a></td>
+               <td align="center"><a href="/samples/ism/"><img src="/samples/ism/rho.jpg" width="150" height="125" border="0" alt="plasma density"></a></td> 
+               <td align="center"><a href="/samples/corona/"><img src="/samples/corona/" width="150" height="125" border="0" alt="coronal loops"></a></td>
             </tr>
             <tr>
-               <td><a href="/samples/turbulence/helical-MHDturb32-4procs/">Helical MHD Dynamo</a> [AB]</td>
-               <td><a href="/samples/ism/">Supernova-driven turbulence</a></td>
+               <td align="center"><a href="/samples/turbulence/helical-MHDturb32-4procs/">Helical MHD Dynamo</a> [AB]</td>
+               <td align="center"><a href="/samples/ism/">Supernova-driven turbulence</a> [FAG]</td>
+               <td align="center"><a href="/samples/corona/">Coronal heating problem</a> [PAB]</td>
 <?php
 	//
 	// Please replace "<X ...>...</X> with <a ...>...</a> when the proper documents are ready"
@@ -43,7 +43,6 @@ Currently, we have the following highlights planned:
 	<li><X href="/highlights/streaming_instability/">Streaming instability</X> [DC/ML/AJ/WL]</li>
 	<li><X href="/highlights/global_cartesian_discs/">Global discs</X> [WL]</li>
 	<li><X href="/highlights/particle_flow_around_objects/">Particle flow around objects</X> [NH/DM]</li>
-	<li><X href="/highlights/coronal_heating/">Coronal heating</X> [SB/PB/JW]</li>
 	<li><X href="/highlights/spot_self_assembly/">spot self assembly</X> [AB]</li>
 	<li><X href="/highlights/test_methods/">test methods</X> [MR]</li>
 </ul>
