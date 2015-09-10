@@ -25,8 +25,10 @@ As responsible for the coronal energy input, we could identify the vertical Poyn
 These motions avect the footpoints of magnetic field lines in the photosphere, where the plasma beta is large and hence the so-called field-line braiding mechanism injects magnetic energy from below.
 While these magnetic disturbances travel into the corona they may induce electric currents, which eventually heat the plasma by Ohmic dissipation.</p>
 
-The model is driven by an active regeion magnetogram observed in the photosphere (black/gray/white, middle panel) and reproduces well observations of the corona.
-This explains the coronal energy input and yields to realistic coronal heating, as shown in these publications:
+<p>The model is driven by an active regeion magnetogram observed in the photosphere (black/gray/white, middle panel) and reproduces well observations of the corona.
+This explains the magnetic energy input and yields to realistic coronal heating in the active region core.</p>
+
+References:
 <ul>
 	<li>Bourdin et al. (2013), A&amp;A 555, A123 (<a href="http://adsabs.harvard.edu/abs/2013A%26A...555A.123B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201321185">10.1051/0004-6361/201321185</a>)</li>
 	<li>Bourdin et al. (2014), PASJ 66, S7&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2014PASJ...66S...7B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1093/pasj/psu123">10.1093/pasj/psu123</a>)</li>
