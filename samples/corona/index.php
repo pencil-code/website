@@ -21,7 +21,7 @@ As responsible for the coronal energy input, we could identify the vertical Poyn
 While these magnetic disturbances travel into the corona, they may induce electric currents, which eventually heat the plasma by Ohmic dissipation.</p>
 
 The model is driven by an active regeion magnetogram observed in the photosphere (black/gray/white, middle panel) and reproduces well observations of the corona.
-This also explains the coronal energy input and yields to realistic coronal heating, as was shown by these publications:
+This explains the coronal energy input and yields to realistic coronal heating, as shown in these publications:
 <ul>
 	<li>Bourdin et al. (2013), A&amp;A 555, A123 (<a href="http://adsabs.harvard.edu/abs/2013A%26A...555A.123B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201321185">10.1051/0004-6361/201321185</a>)</li>
 	<li>Bourdin et al. (2014), PASJ 66S, 7 (<a href="http://adsabs.harvard.edu/abs/2014PASJ...66S...7B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1093/pasj/psu123">10.1093/pasj/psu123</a>)</li>
