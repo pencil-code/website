@@ -35,6 +35,7 @@ References:
 	<li>Bourdin et al. (2015), A&amp;A 580, A72&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2015A%26A...580A..72B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525839">10.1051/0004-6361/201525839</a>)</li>
 </ul>
 
+</div>
 <?php
 	include "inc/footer.inc";
  ?>
