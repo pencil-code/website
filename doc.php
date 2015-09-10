@@ -8,7 +8,7 @@ The manual for the Pencil Code is available <a href="/doc/manual.pdf" target="_b
  as <a href="/doc/manual.ps.gz">gzipped PostScript</a> (1.1M).
 
 <p>
-We also have a <a href="/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
+<b><u>Hint:</u></b> We also have a <a href="/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
 </p>
 
 <p>
