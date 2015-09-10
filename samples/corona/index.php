@@ -3,12 +3,12 @@
 	 include "inc/header.inc";
  ?>
 <div class="centcolumnpad">
+<img align="right" src="/samples/corona/Trace_171_20050908.jpg" width="250" height="200" border="1" hspace="20" ALT="Image: TRACE/NASA; EUV emission of the solar corona above an active region">
 <h2>Highlight:</h2>
 
 <h3>Coronal heating problem</h3>
 
-<p><img align="right" src="/samples/corona/Trace_171_20050908.jpg" width="250" height="200" border="1" hspace="20" ALT="Image: TRACE/NASA; EUV emission of the solar corona above an active region">
-The corona of the Sun was observed to be very hot, which is since then rather unexplained.
+<p>The corona of the Sun was observed to be very hot, which is since then rather unexplained.
 Large-scale 3D-MHD models can nowadays test whole scenarios for coronal heating theories in computational models.
 With the Pencil Code, one such numerical experiment was performed on several German-national and European-international super computers.
 To enable this research, efficient massive-parallel communication and file-input/output was implemented in the Pencil Code recently.</p>
@@ -24,8 +24,8 @@ The model is driven by an active regeion magnetogram observed in the photosphere
 This explains the coronal energy input and yields to realistic coronal heating, as shown in these publications:
 <ul>
 	<li>Bourdin et al. (2013), A&amp;A 555, A123 (<a href="http://adsabs.harvard.edu/abs/2013A%26A...555A.123B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201321185">10.1051/0004-6361/201321185</a>)</li>
-	<li>Bourdin et al. (2014), PASJ 66S, 7 (<a href="http://adsabs.harvard.edu/abs/2014PASJ...66S...7B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1093/pasj/psu123">10.1093/pasj/psu123</a>)</li>
-	<li>Bourdin et al. (2015), A&amp;A 580, A72 (<a href="http://adsabs.harvard.edu/abs/2015A%26A...580A..72B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525839">10.1051/0004-6361/201525839</a>)</li>
+	<li>Bourdin et al. (2014), PASJ 66, S7&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2014PASJ...66S...7B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1093/pasj/psu123">10.1093/pasj/psu123</a>)</li>
+	<li>Bourdin et al. (2015), A&amp;A 580, A72&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2015A%26A...580A..72B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525839">10.1051/0004-6361/201525839</a>)</li>
 </ul>
 
 <?php
