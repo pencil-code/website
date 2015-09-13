@@ -12,8 +12,8 @@ Until 19th of September, anyone may <a href="mailto:pc16@Bourdin.ch?subject=abse
 <table border="1" cellpadding="4" cellspacing="1">
 <tr><td>date:</td><td>absent:</td><td>conferences&amp;workshops:</td></tr>
 <tr><td>23.5. - 27.5.</td><td></td><td>AGU Chapman/Croatia</td></tr>
-<tr><td>30.5. - 03.6.</td><td></td><td>SPD meeting/USA</td></tr>
-<tr><td>06.6. - 10.6.</td><td>Axel</td><td></td></tr>
+<tr><td>30.5. - 03.6.</td><td>J&ouml;rn</td><td>SPD meeting/USA</td></tr>
+<tr><td>06.6. - 10.6.</td><td>Axel, J&ouml;n</td><td>Cool Stars/Sweden</td></tr>
 <tr><td>13.6. - 17.6.</td><td></td><td>American Astronomical Society/USA</td></tr>
 <tr><td>20.6. - 24.6.</td><td>?</td><td>IRIS-6/Sweden</td></tr>
 <tr><td>27.6. - 01.7.</td><td></td><td></td></tr>
