@@ -14,7 +14,7 @@ With the Pencil Code, one such numerical experiment was performed on several Ger
 This model run consumed in total about 20 million CPU-core hours on Intel Nehalem processors and ran typically on 1024 cores simultaneously.
 To enable this research, efficient massive-parallel communication and file-input/output was implemented in the Pencil Code in the recent years.</p>
 
-<p>To model the coronal heating properly, it is important to include also the energy sinky, e.g. by radiative losses or heat conduction that usually transports energy back to the lower atmosphere.
+<p>To model the coronal heating properly, it is important to include also the energy sinks, e.g. by radiative losses or heat conduction that usually transports energy back to the lower atmosphere.
 From the slef-consistently computed plasma density and temperature we synthesize data with an atomic database (CHIANTI) that can directly compared to real extreme-UV observations of the corona (upper right: TRACE/NASA).</p>
 
 <p><img src="/samples/corona/EM-MAG-Pz.png" width="660" height="242" border="0" ALT="EUV emission; photospheric magnetogram with loops field lines; vertical Poynting flux"></p>
