@@ -22,7 +22,7 @@ Until 19th of September, anyone may <a href="mailto:pc16@Bourdin.ch?subject=abse
 <tr><td>18.7. - 22.7.</td><td>Nils</td><td></td></tr>
 <tr><td>25.7. - 29.7.</td><td></td><td></td></tr>
 <tr><td>01.8. - 05.8.</td><td>Jonas, Nils</td><td>COSPAR/Turkey, Combustion Symposium/Korea</td></tr>
-<tr><td>08.8. - 12.8.</td><td></td></td><td></tr>
+<tr><td>08.8. - 12.8.</td><td><font color="#E0E0E0">CANDIDATE WEEK</font></td></td><td></tr>
 </table>
 </p>
 
