@@ -26,8 +26,8 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
  -->
 <table border="1" cellpadding="4" cellspacing="1">
 <tr><td>date:</td><td>conferences&amp;workshops:</td></tr>
-<tr><td>31.7. - 07.8.</td>><td>COSPAR/Turkey, Combustion Symposium/Korea</td></tr>
-<tr><td>08.8. - 12.8.</td><td><font color="#E00000">CHOSEN WEEK</font></td></tr>
+<tr><td>31.7. - 07.8.</td><td>COSPAR/Turkey, Combustion Symposium/Korea</td></tr>
+<tr><td>08.8. - 12.8.</td><td><font color="#E00000">12th Pencil Code User Meeting</font></td></tr>
 </table>
 </p>
 
