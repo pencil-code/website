@@ -1,0 +1,29 @@
+To edit this file or the web pages, please do:
+svn checkout https://github.com/pencil-code/website/trunk/ www
+
+
+Topics for Pencil code User Meeting in Graz 2016:
+=================================================
+% Notes: "-" means that this item is still open (nothing has happend)
+%        "+" means that it is already in progress (people working on it)
+%        "*" same, but high priority
+%        "/" postponed
+%        "x" means that it has been dealt with
+%            [assigned Persons] feel free to add yourself
+
+- state of the conductivity module?
+
+- PC paper - now for real?
+
+- IDL test cases, status report
+  what is actually tested and when/where is this test actually run?
+
+- F2003, status report, Matthias & Philippe
+
+- cuda, GPU, status report
+
+- Parallel IO with HDF5
+  introduction from Philippe
+  HDF5 as new "portable" file format
+
+- future PC user meetings: Newcastle, Boulder, ...?
