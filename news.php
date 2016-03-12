@@ -6,17 +6,8 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">19 April 2015:
-Pencil Code moved from Google Code to Github.<br>
-We proudly announce the successful move to
-<a href="https://github.com/pencil-code/">https://github.com/pencil-code/</a>
-and thank Toby (aka tobson) for doing a splendid job!
-The move became neccessary after Google announced to close Google Code.
-Commands to download the code with git or svn are given on the <a href="download.php">download page</a>.
-</li>
-
-<li class="separated">24 Dec 2014:<br>
-The <a href="http://agenda.albanova.se/conferenceDisplay.py?confId=4701">11th Pencil Code Meeting</a> will take place 11-15 May 2015 in Trondheim.
+<li class="separated">13 Mar 2016:<br>
+The <a href="http://agenda.albanova.se/conferenceDisplay.py?confId=4701">12th Pencil Code Meeting</a> will take place 8-12 Aug 2016 in Graz/Austria.
 Don't forget to sign up.
 </li>
 
