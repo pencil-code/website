@@ -43,7 +43,7 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
 <li>Philippe Bourdin, IWF Graz (8.-12.8.)</li>
-<li>...</li>
+<li>Axel Brandenburg, HAO Boulder</li>
 <li>...</li>
 <li>...</li>
 <li>...</li>
