@@ -13,6 +13,8 @@ Topics for Pencil code User Meeting in Graz 2016:
 
 - state of the conductivity module?
 
+- re-organization of the particle modules with "swarms" being a sub-module?
+
 - PC paper - now for real?
 
 - IDL test cases, status report
