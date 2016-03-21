@@ -38,6 +38,20 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 
 <p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly (until 7th of August) in Istanbul/Turkey, please note there are now daily (~2 hours direct) flights between Graz and Istanbul by <a href="http://www.turkishairlines.com/en-int/">Turkish Airlines</a>.</p>
 
+<p><b><u>REGISTRATION:</u></b> Please register soon <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a> or add yourself below (the earlier, the better):</p>
+
+<p><b><u>PARTICIPANTS:</u></b>
+<ul>
+<li>Philippe Bourdin, IWF Graz (8.-12.8.)</li>
+<li>...</li>
+<li>...</li>
+<li>...</li>
+<li>...</li>
+<li>...</li>
+<li>...</li>
+<li>...</li>
+</ul></p>
+
 <p>More details will follow on this page...<br>
 Thank you for visiting again.
 <!-- li><a href="http://agenda.albanova.se/conferenceDisplay.py?confId=4701">Pencil Code User Meeting</a> (meeting page)</li -->
