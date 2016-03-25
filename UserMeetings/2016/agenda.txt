@@ -13,6 +13,8 @@ Topics for Pencil code User Meeting in Graz 2016:
 
 - state of the conductivity module?
 
+- state of the particle modules (documentation, avoiding overlap, etc)
+
 - re-organization of the particle modules with "swarms" being a sub-module?
 
 - PC paper - now for real?
@@ -27,5 +29,7 @@ Topics for Pencil code User Meeting in Graz 2016:
 - Parallel IO with HDF5
   introduction from Philippe
   HDF5 as new "portable" file format
+
+- github status: recent increase in response time
 
 - future PC user meetings: Newcastle, Boulder, ...?
