@@ -7,7 +7,7 @@
 <ul>
 
 <li class="separated">13 Mar 2016:<br>
-The <a href="http://agenda.albanova.se/conferenceDisplay.py?confId=4701">12th Pencil Code Meeting</a> will take place 8-12 Aug 2016 in Graz/Austria.
+The <a href="http://pencil-code.nordita.org/meeting2016.php">12th Pencil Code Meeting</a> will take place 8-12 Aug 2016 in Graz/Austria.
 Don't forget to sign up.
 </li>
 
