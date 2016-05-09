@@ -36,4 +36,6 @@ Topics for Pencil code User Meeting in Graz 2016:
 
 - github status: recent increase in response time
 
+- messy initial conditions folder
+
 - future PC user meetings: Newcastle, Boulder, ...?
