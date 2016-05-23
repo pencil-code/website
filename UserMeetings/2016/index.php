@@ -1,5 +1,5 @@
 <?php
-	 include "inc/header.inc";
+	 include "../../inc/header.inc";
  ?>
 <div class="centcolumnpad">
 <h2>Pencil Code User Meeting 2016</h2>
@@ -72,5 +72,5 @@ Thank you for visiting again.
 
 </div>
 <?php
-	include "inc/footer.inc";
+	include "../../inc/footer.inc";
  ?>
