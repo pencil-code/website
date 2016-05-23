@@ -3,19 +3,19 @@
 	include "inc/header.inc";
 
 	// Make the code cleaner
-	foreach(array('title','date','link','notes','videos','city','venue','country') as $item ) define($item,$item);
-	
+	foreach (array ('title','date','link','notes','agenda','videos','city','venue','country') as $item) define ($item, $item);
+
 	$meetings = array (
-		array ( title => "12th meeting", date => "08-12 Aug, 2016", link => "", notes => "/meeting2016.php", city => "Graz", venue => "Space Research Institute, Academy of Sciences", country => "Austria" ),
-		array ( title => "11th meeting", date => "11-15 May, 2015", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=4701", notes => "/meeting2015.php", city => "Trondheim", venue => "Norwegian University of Science and Technology", country => "Norway" ),
-		array ( title => "10th meeting", date => "07-11 Jul, 2014", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=4213", notes => "/meeting2014.php", city => "Göttingen", venue => "Max Planck Institute for Solar System Research", country => "Germany" ),
-		array ( title =>  "9th meeting", date => "17-20 Jun, 2013", link => "http://www.astro.lu.se/~michiel/PC2013/", notes => "/meeting2013.php", city => "Lund", venue => "Lund Observatory", country => "Sweden" ),
-		array ( title =>  "8th meeting", date => "18-21 Jun, 2012", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=3128", notes => "/meeting2012.php", city => "Helsinki", venue => "Physics Department", country => "Finland" ),
-		array ( title =>  "7th meeting", date => "24-28 Oct, 2011", link => "http://norlx51.albanova.se/~dintrans/Meeting2011/", notes => "/meeting2011.php", city => "Toulouse", venue => "Observatoire Midi-Pyr&eacute;n&eacute;es", country => "France" ),
-		array ( title =>  "6th meeting", date => "26-30 Jul, 2010", link => "http://www.research.amnh.org/astrophysics/pencil/pencil.html", notes => "/meeting2010.php", city => "New York", venue => "American Museum of National History", country => "USA" ),
-		array ( title =>  "5th meeting", date => "24-28 Aug, 2009", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=1190", notes => "/meeting2009.php", city => "Heidelberg", venue => "Max Planck Institute for Astronomy", country => "Germany" ),
-		array ( title =>  "4th meeting", date => "19-22 Aug, 2008", link => "http://www.strw.leidenuniv.nl/~ajohan/pencil2008/", notes => "/meeting2008.php", city => "Leiden", venue => "Leiden Observatory", country => "Netherlands" ),
-		array ( title =>  "3rd meeting", date => "14-17 Aug, 2007", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=185", notes => "/meeting2007.php", city => "Stockholm", venue => "Nordita", country => "Sweden" ),
+		array ( title => "12th meeting", date => "08-12 Aug, 2016", link => "/UserMeetings/2016/", agenda => "/UserMeetings/2016/agenda.txt", city => "Graz", venue => "Space Research Institute, Academy of Sciences", country => "Austria" ),
+		array ( title => "11th meeting", date => "11-15 May, 2015", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=4701", agenda => "/UserMeetings/2015/agenda.txt", city => "Trondheim", venue => "Norwegian University of Science and Technology", country => "Norway" ),
+		array ( title => "10th meeting", date => "07-11 Jul, 2014", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=4213", agenda => "/UserMeetings/2014/agenda.txt", city => "Göttingen", venue => "Max Planck Institute for Solar System Research", country => "Germany" ),
+		array ( title =>  "9th meeting", date => "17-20 Jun, 2013", link => "http://www.astro.lu.se/~michiel/PC2013/", agenda => "/UserMeetings/2013/agenda.txt", city => "Lund", venue => "Lund Observatory", country => "Sweden" ),
+		array ( title =>  "8th meeting", date => "18-21 Jun, 2012", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=3128", agenda => "/UserMeetings/2012/agenda.txt", city => "Helsinki", venue => "Physics Department", country => "Finland" ),
+		array ( title =>  "7th meeting", date => "24-28 Oct, 2011", link => "http://norlx51.albanova.se/~dintrans/Meeting2011/", agenda => "/UserMeetings/2011/agenda.txt", city => "Toulouse", venue => "Observatoire Midi-Pyr&eacute;n&eacute;es", country => "France" ),
+		array ( title =>  "6th meeting", date => "26-30 Jul, 2010", link => "http://www.research.amnh.org/astrophysics/pencil/pencil.html", notes => "/UserMeetings/2016/", city => "New York", venue => "American Museum of National History", country => "USA" ),
+		array ( title =>  "5th meeting", date => "24-28 Aug, 2009", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=1190", agenda => "/UserMeetings/2009/agenda.txt", city => "Heidelberg", venue => "Max Planck Institute for Astronomy", country => "Germany" ),
+		array ( title =>  "4th meeting", date => "19-22 Aug, 2008", link => "http://www.strw.leidenuniv.nl/~ajohan/pencil2008/", agenda => "/UserMeetings/2008/agenda.txt", city => "Leiden", venue => "Leiden Observatory", country => "Netherlands" ),
+		array ( title =>  "3rd meeting", date => "14-17 Aug, 2007", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=185", notes => "/UserMeetings/2016/", city => "Stockholm", venue => "Nordita", country => "Sweden" ),
 		array ( title =>  "2nd meeting", date => "13-15 Jul, 2006", link => "http://www.nordita.dk/conference/PencilCode06/", videos => "http://videos.albanova.se/conference/PencilCode06/", city => "Copenhagen", venue => "Nordita", country => "Denmark" ),
 		array ( title =>  "1st meeting", date => "26-28 Jun, 2005", link => "http://www.nordita.org/~brandenb/get-together/meetings/pencil-workshop05a.html", notes => "", city => "Copenhagen", venue => "Nordita", country => "Denmark" ),
 	);
@@ -34,8 +34,14 @@
 <tr>
 <td align="right" STYLE="white-space:nowrap;"><?php ifecho ("", @$meeting['date'], ":"); ?></td>
 <td STYLE="white-space:nowrap;"><?php echolink (@$meeting['link'], @$meeting['title']); ?></td>
-<td STYLE="white-space:nowrap;"><?php iflink  (@$meeting['notes'], "[notes]"); ?><?php iflink (@$meeting['videos'], "[videos]"); ?></td>
-<td STYLE="font-size:12px;"><?php ifecho ("in ", @$meeting['city'], ""); ?><?php ifecho (", ", @$meeting['venue'], ""); ?><?php ifecho (" (", @$meeting['country'], ")"); ?>.</td>
+<td STYLE="white-space:nowrap;"><?php
+	iflink (@$meeting['notes'], "[notes]");
+	iflink (@$meeting['agenda'], "[agenda]");
+	iflink (@$meeting['videos'], "[videos]"); ?></td>
+<td STYLE="font-size:12px;"><?php
+	ifecho ("in ", @$meeting['city'], "");
+	ifecho (", ", @$meeting['venue'], "");
+	ifecho (" (", @$meeting['country'], ")"); ?>.</td>
 </tr>
 <?php
 	}

@@ -11,7 +11,7 @@ Topics for Pencil code User Meeting in Graz 2016:
 %        "x" means that it has been dealt with
 %            [assigned Persons] feel free to add yourself
 %
-# http://pencil-code.nordita.org/meeting2016.php
+# http://pencil-code.nordita.org/UserMeetings/2016/
 
 - state of the conductivity module?
 
