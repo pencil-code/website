@@ -4,9 +4,9 @@
 <div class="centcolumnpad">
 <h2>Pencil Code User Meeting 2016</h2>
 
-<p>The next meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.</p>
-
-<p>
+<p><b><u>DATE & VENUE:</u></b>
+<b>8<sup>th</sup> to 12<sup>th</sup> August 2016</b><br>
+The meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.</p>
 <!-- 
 Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note</a>, when he/she is absent (or simply edit this page).
 <table border="1" cellpadding="4" cellspacing="1">
@@ -23,22 +23,41 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 <tr><td>25.7. - 29.7.</td><td></td><td></td></tr>
 <tr><td>01.8. - 05.8.</td><td>Jonas, Nils</td><td>COSPAR/Turkey, Combustion Symposium/Korea</td></tr>
 </table>
- -->
 <table border="1" cellpadding="4" cellspacing="1">
-<tr><td>date:</td><td>conferences&amp;workshops:</td></tr>
+<tr><td><b><u>DATE:</u></b></td><td>conferences&amp;workshops:</td></tr>
 <tr><td>31.7. - 07.8.</td><td>COSPAR/Turkey, Combustion Symposium/Korea</td></tr>
-<tr><td>08.8. - 12.8.</td><td><font color="#E00000">12th Pencil Code User Meeting</font></td></tr>
+<tr><td>08.8. - 12.8.</td><td><font color="#E00000">12th Pencil Code User Meeting</font>, Graz/Austria</td></tr>
+</table>
+ -->
+</p>
+
+<p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
+
+<p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>.<br>
+Please also state your planned presentation topic and the time span of your stay.</p>
+
+<p><b><u>PROGRAM:</u></b>
+
+<p>The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.</p>
+<p>Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and a preliminary program:<br>
+<table border="1" cellpadding="4" cellspacing="1">
+<tr><td rowspan="4">Monday</td><td>morning</td><td>meet &amp; greet</td></tr>
+<tr><td>13:30</td><td>Official Welcome</td></tr>
+<tr><td>afternoon</td><td>status reports &amp; discussions</td></tr>
+<tr><td>evening</td><td>city walking tour &amp; dinner</td></tr>
+<tr><td rowspan="2">Tuesday</td><td>morning</td><td>presentations &amp; discussions</td></tr>
+<tr><td>afternoon</td><td>excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;</td></tr>
+<tr><td rowspan="2">Wednesday</td><td>morning &amp; afternoon</td><td>presentations &amp; discussions</td></tr>
+<tr><td>evening</td><td>barbecue at the institute</td></tr>
+<tr><td rowspan="3">Thursday</td><td>morning</td><td>presentations &amp; discussions</td></tr>
+<tr><td>afternoon</td><td>general code questions &amp; discussions</td></tr>
+<tr><td>evening</td><td>&quot;Buschenschank&quot; dinner</td></tr>
+<tr><td rowspan="2">Friday</td><td>morning &amp; afternoon</td><td>expert coding &amp; beginners hands-on sessions</td></tr>
+<tr><td>evening</td><td>formal end of meeting</td></tr>
 </table>
 </p>
 
-<p>The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.</p>
-<p>Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a>.</p>
-
-<p>Social program: There will be a ~3-hours hike to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (yes, it is pretty secure, because this is a well maintained trail). Furthermore, the social program will comprise a conference dinner in a &quot;Buschenschank&quot;, where you might be offered some locally produced wines and juices and locally produced foods.</p>
-
-<p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly (until 7th of August) in Istanbul/Turkey, please note there are now daily (~2 hours direct) flights between Graz and Istanbul by <a href="http://www.turkishairlines.com/en-int/">Turkish Airlines</a>.</p>
-
-<p><b><u>REGISTRATION:</u></b> Please register soon <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a> or add yourself below (the earlier, the better):</p>
+<p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (it is pretty secure, because this is a well maintained trail). Furthermore, the social program will comprise a conference dinner in a traditional &quot;Buschenschank&quot;, where you might be offered some locally produced wines and juices and locally produced foods.</p>
 
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
@@ -46,15 +65,10 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 <li>Axel Brandenburg, HAO Boulder</li>
 <li>Frederick Gent, Aalto University</li>
 <li>...</li>
-<li>...</li>
-<li>...</li>
-<li>...</li>
-<li>...</li>
 </ul></p>
 
 <p>More details will follow on this page...<br>
 Thank you for visiting again.
-<!-- li><a href="http://agenda.albanova.se/conferenceDisplay.py?confId=4701">Pencil Code User Meeting</a> (meeting page)</li -->
 </p>
 
 </div>
