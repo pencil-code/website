@@ -1,5 +1,6 @@
 <?php
-	 include "../../inc/header.inc";
+	set_include_path ("../../");
+	include "inc/header.inc";
  ?>
 <div class="centcolumnpad">
 <h2>Pencil Code User Meeting 2007: draft report and links</h2>
@@ -25,5 +26,5 @@ svn co --username $USER https://norlx01.albanova.se/svn/pencil-code/trunk</li>
 
 </div>
 <?php
-	include "../../inc/footer.inc";
+	include "inc/footer.inc";
  ?>

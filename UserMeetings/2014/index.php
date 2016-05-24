@@ -1,5 +1,6 @@
 <?php
-	 include "inc/header.inc";
+	set_include_path ("../../");
+	include "inc/header.inc";
  ?>
 <div class="centcolumnpad">
 <h2>Pencil Code User Meeting 2014</h2>
