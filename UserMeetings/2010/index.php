@@ -15,5 +15,5 @@
 
 </div>
 <?php
-	include "../../inc/footer.inc";
+	include "inc/footer.inc";
  ?>
