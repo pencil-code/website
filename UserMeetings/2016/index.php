@@ -35,7 +35,7 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 <p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
 
 <p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>.<br>
-Please also state your planned presentation topic and the time span of your stay.</p>
+Please state your planned presentation topic, the time span of your stay, and if you need a room reservation (see below).</p>
 
 <p><b><u>PROGRAM:</u></b><br>
 The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
@@ -77,6 +77,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>****</td><td><a href="http://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 129/night</td><td><a href="http://www.booking.com/hotel/at/dasweitzer.en-gb.html">booking</a></tr>
 <tr><td>****</td><td><a href="http://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 129/night</td><td><a href="http://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html">booking</a></tr>
 </table>
+A block-reservation request was made, please indicate <a href="mailto:pc16@Bourdin.ch?subject=hotel-reservation">to me</a> if I should reserve a room for you at the above listed rate.
 </p>
 
 </p>
