@@ -71,9 +71,9 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <table border="1" cellpadding="4" cellspacing="1">
 <!-- tr><td>**-</td><td><a href="http://www.altertelegraf.at/">Hotel Alter Telegraf</a></td><td>€ 65/night</td><td><a href="http://www.booking.com/hotel/at/alter-telegraf.en-gb.html">booking</a></td></tr -->
 <tr><td>***</td><td><a href="http://www.roemerstube.at/en/">Hotel R&ouml;merstube</a></td><td>€ 70/night</td><td><a href="http://www.booking.com/hotel/at/romerstube.en-gb.html">booking</a></tr>
-<tr><td>***-</td><td><a href="https://starinnhotels.com/en/star-inn-hotel-graz-by-comfort">Star Inn Hotel Graz</a></td><td>€ 69-89/night</td><td><a href="http://www.booking.com/searchresults.en-gb.html">booking</a></tr>
-<tr><td>****</td><td><a href="http://www.dermarienhof.at/index.php?lang=en">Der Marienhof Hotel Garni</a></td><td>€ 75/night</td><td><a href="http://www.booking.com/hotel/at/der-marienhof-garni.en-gb.html">booking</a></tr>
-<tr><td>****</td><td><a href="http://www.roomz-graz.com/en">Roomz Graz</a></td><td>€ 90/night</td><td><a href="http://www.booking.com/hotel/at/roomz-graz.en-gb.html">booking</a></tr>
+<tr><td>***+</td><td><a href="https://starinnhotels.com/en/star-inn-hotel-graz-by-comfort">Star Inn Hotel Graz</a></td><td>€ 69-89/night</td><td><a href="http://www.booking.com/searchresults.en-gb.html">booking</a></tr>
+<tr><td>***+</td><td><a href="http://www.dermarienhof.at/index.php?lang=en">Der Marienhof Hotel Garni</a></td><td>€ 75/night</td><td><a href="http://www.booking.com/hotel/at/der-marienhof-garni.en-gb.html">booking</a></tr>
+<tr><td>***+</td><td><a href="http://www.roomz-graz.com/en">Roomz Graz</a></td><td>€ 90/night</td><td><a href="http://www.booking.com/hotel/at/roomz-graz.en-gb.html">booking</a></tr>
 <tr><td>****</td><td><a href="http://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 129/night</td><td><a href="http://www.booking.com/hotel/at/dasweitzer.en-gb.html">booking</a></tr>
 <tr><td>****</td><td><a href="http://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 129/night</td><td><a href="http://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html">booking</a></tr>
 </table>
