@@ -64,6 +64,9 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Philippe Bourdin, IWF Graz (8.-12.8.)</li>
 <li>Axel Brandenburg, HAO Boulder</li>
 <li>Frederick Gent, Aalto University</li>
+<li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
+<li>Rohit Sharma, NORDITA Stockholm</li>
+<li>Akshay Bhatnagar, NORDITA Stockholm</li>
 <li>...</li>
 </ul></p>
 
