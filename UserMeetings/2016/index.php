@@ -67,6 +67,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
 <li>Rohit Sharma, NORDITA Stockholm</li>
 <li>Akshay Bhatnagar, NORDITA Stockholm</li>
+<li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li>
 <li>...</li>
 </ul></p>
 
