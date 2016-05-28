@@ -62,12 +62,13 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
 <li>Akshay Bhatnagar, NORDITA Stockholm</li>
-<li>Philippe Bourdin, IWF Graz (8.-12.8.)</li>
+<li>Philippe Bourdin, IWF Graz</li>
 <li>Axel Brandenburg, HAO Boulder</li>
 <li>Frederick Gent, Aalto University</li>
+<li>Xiang-Yu Li, NORDITA Stockholm (preliminary)</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
 <li>Rohit Sharma, NORDITA Stockholm</li>
-<li>Nishant Singh</li>
+<li>Nishant Singh, NORDITA Stockholm</li>
 <li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li>
 <li>...</li>
 </ul></p>
