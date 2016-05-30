@@ -66,6 +66,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Axel Brandenburg, HAO Boulder</li>
 <li>Frederick Gent, Aalto University</li>
 <li>Xiang-Yu Li, NORDITA Stockholm (preliminary)</li>
+<li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
 <li>Rohit Sharma, NORDITA Stockholm</li>
 <li>Nishant Singh, NORDITA Stockholm</li>
