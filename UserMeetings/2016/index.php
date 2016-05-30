@@ -34,7 +34,7 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 
 <p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
 
-<p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>.<br>
+<p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is no registration free.<br>
 Please state your planned presentation topic, the time span of your stay, and if you need a room reservation (see below).</p>
 
 <p><b><u>PROGRAM:</u></b><br>
