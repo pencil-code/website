@@ -84,7 +84,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>****</td><td><a href="http://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 93/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/dasweitzer.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. tram + 10 min. bus or walking</td></tr>
 <tr><td>****</td><td><a href="http://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 105/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. tram + 10 min. bus or walking</td></tr>
 </table>
-<b>(*)</b> Please indicate <a href="mailto:pc16@Bourdin.ch?subject=hotel-reservation">to me</a> if I should reserve a room for you at this special block-reservation rate.
+<b>(*)</b> Please indicate <a href="mailto:pc16@Bourdin.ch?subject=hotel-reservation">to me</a> if I should reserve a room for you at this <b>special block-reservation rate</b>.
 </p>
 
 </p>
