@@ -36,6 +36,19 @@ Topics for Pencil code User Meeting in Graz 2016:
 
 - github status: recent increase in response time
 
-- messy initial conditions folder
+- messy initial conditions folder 
+  (WL: I disagree that the initial condition folder is messy, 
+       unless it is said that the special folder is messy too)
+
+- better documentation of python; all the stuff in the manual is in IDL; 
+  (WL: I've been telling newcomers to avoid IDL and use python instead but 
+       there's no proper documentation, either in the manual or the subroutines themselves.)
+
+- Combining special modules;
+
+- The code is getting too multipurpose, is it a good thing? Colin described it as "walking into someone's attic". 
+  Pencil is an engine and a toolbox, and right now they're amalgamated together. Ideally we should separate them: 
+  a clean engine and an extended toolbox. The engine should be magnetic.f90 with the induction equation and little
+  else, and all the "battery term", "lambda term" and other user-specific things should go in specials. 
 
 - future PC user meetings: Newcastle, Boulder, ...?
