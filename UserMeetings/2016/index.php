@@ -70,6 +70,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Xiang-Yu Li, NORDITA Stockholm (preliminary)</li>
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
+<li>Alex Richert, Penn State University</li>
 <li>Rohit Sharma, NORDITA Stockholm</li>
 <li>Nishant Singh, NORDITA Stockholm</li>
 <li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li>
