@@ -64,6 +64,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Philippe Bourdin, IWF Graz</li>
 <li>Axel Brandenburg, HAO Boulder</li>
 <li>Frederick Gent, Aalto University</li>
+<li>Nils Haugen, NTNU/SINTEF Trondheim</li>
 <li>Xiang-Yu Li, NORDITA Stockholm (preliminary)</li>
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
