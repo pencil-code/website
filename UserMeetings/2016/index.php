@@ -5,7 +5,7 @@
 <div class="centcolumnpad">
 <h2>Pencil Code User Meeting 2016</h2>
 
-<p><b><u>DATE & VENUE:</u></b>
+<p><b><u>DATE &amp; VENUE:</u></b>
 <b>8<sup>th</sup> to 12<sup>th</sup> August 2016</b><br>
 The meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.</p>
 <!-- 
