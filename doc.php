@@ -47,13 +47,12 @@ exercises is available through the
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
 <h2>FAQ</h2>
-For code problems, <a href="/doc/faq.php">here</a> an automatically generated excerpt from the manual with FAQs.
+For code problems, please check this automatically generated <a href="/doc/faq.php">excerpt from the manual with FAQs</a>.
 </div>
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
 <h2>Wiki</h2>
-
 Some helpful information are available on our <a href="https://github.com/pencil-code/pencil-code/wiki">project wiki</a>.
 </div>
 <?php
