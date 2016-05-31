@@ -7,7 +7,8 @@
 
 <p><b><u>DATE &amp; VENUE:</u></b>
 <b>8<sup>th</sup> to 12<sup>th</sup> August 2016</b><br>
-The meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.</p>
+The meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.
+</p>
 <!-- 
 Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note</a>, when he/she is absent (or simply edit this page).
 <table border="1" cellpadding="4" cellspacing="1">
@@ -30,7 +31,6 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 <tr><td>08.8. - 12.8.</td><td><font color="#E00000">12th Pencil Code User Meeting</font>, Graz/Austria</td></tr>
 </table>
  -->
-</p>
 
 <p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
 
@@ -87,8 +87,6 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>****</td><td><a href="http://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 105/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. tram + 10 min. bus or walking</td></tr>
 </table>
 <b>(*)</b> Please indicate <a href="mailto:pc16@Bourdin.ch?subject=hotel-reservation">to me</a> if I should reserve a room for you at this <b>special block-reservation rate</b>.
-</p>
-
 </p>
 
 <p>More details will follow on this page...<br>
