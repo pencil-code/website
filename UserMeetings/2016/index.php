@@ -46,7 +46,8 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>evening</td><td>city walking tour &amp; dinner</td></tr>
 <tr><td rowspan="2" bgcolor="#c0c0c0">Tuesday</td><td>morning</td><td bgcolor="#f0c040">presentations &amp; discussions</td></tr>
 <tr><td>afternoon</td><td>excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;</td></tr>
-<tr><td rowspan="2" bgcolor="#f0f0f0">Wednesday</td><td>morning &amp; afternoon</td><td bgcolor="#f0c040">presentations &amp; discussions</td></tr>
+<tr><td rowspan="3" bgcolor="#f0f0f0">Wednesday</td><td>morning</td><td bgcolor="#f0c040">presentations &amp; discussions</td></tr>
+<tr><td>afternoon</td><td bgcolor="#95e080">general methods &amp; discussions</td></tr>
 <tr><td>evening</td><td>barbecue at the institute</td></tr>
 <tr><td rowspan="3" bgcolor="#c0c0c0">Thursday</td><td>morning</td><td bgcolor="#f0c040">presentations &amp; discussions</td></tr>
 <tr><td>afternoon</td><td bgcolor="#95e080">general code questions &amp; discussions</td></tr>
