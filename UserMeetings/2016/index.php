@@ -34,8 +34,7 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 
 <p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
 
-<p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is no registration free.<br>
-Please state your planned presentation topic, the time span of your stay, and if you need a room reservation (see below).</p>
+<p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is <b>no registration fee</b>. Please state your planned presentation topic, the time span of your stay, and if you need a room reservation (see below).</p>
 
 <p><b><u>PROGRAM:</u></b><br>
 The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
@@ -57,7 +56,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 </table>
 </p>
 
-<p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (it is pretty secure, because this is a well maintained trail). Furthermore, the social program will comprise a conference dinner in a traditional &quot;Buschenschank&quot;, where you might be offered some locally produced wines and juices and locally produced foods.</p>
+<p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (it is pretty secure, because this is a well maintained trail). Furthermore, the social program will comprise a conference dinner in a traditional &quot;Buschenschank&quot;, where you might be offered some locally produced wines and juices and locally produced foods. Please note the social program is at your own costs, which will be around 30 &euro; per person for transportation and the barbecue.</p>
 
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
