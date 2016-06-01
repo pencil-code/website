@@ -43,8 +43,8 @@ Topics for Pencil code User Meeting in Graz 2016:
 - better documentation of the alternatives to IDL (Python and Julia)
   (WL: I've been telling newcomers to avoid IDL and use python instead but 
        there's no proper documentation, either in the manual or the subroutines themselves.)
-  (Philippe: Julia is the better choice over Phyton and IDL. If you need
-       some Phyton/IDL modules, you may remote-control them from Julia.)
+  (Philippe: Julia is the better choice over Python and IDL. If you need
+       some Python/IDL modules, you may remote-control them from Julia.)
 
 - Combining special modules;
 
