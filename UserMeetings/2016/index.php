@@ -58,7 +58,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 </table>
 </p>
 
-<p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (it is pretty secure, because this is a well maintained trail). Furthermore, the social program will comprise a conference dinner in a traditional &quot;Buschenschank&quot;, that serves locally produced wines, juices, and rustic foods. Please note: the social program is at your own costs, which will be around 30 &euro; per person for excursions and the barbecue, if weather permits it.</p>
+<p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (it is pretty secure, because this is a well maintained trail). Furthermore, the social program will comprise a conference dinner in a traditional &quot;Buschenschank&quot;, that serves locally produced wines, juices, and rustic foods. Please note: the social program is at your own costs, which will be around 30 &euro; per person for excursions and the barbecue, if weather permits.</p>
 
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
