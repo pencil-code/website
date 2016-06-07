@@ -62,6 +62,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
+<!-- li>Patrick Adams, University of Cape Town (not yet sure)</li -->
 <li>Akshay Bhatnagar, NORDITA Stockholm</li>
 <li>Philippe Bourdin, IWF Graz</li>
 <li>Axel Brandenburg, HAO Boulder</li>
@@ -71,6 +72,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
 <li>Alex Richert, Penn State University</li>
+<li>Graeme Sarson, Newcastle University (preliminary)</li>
 <li>Rohit Sharma, NORDITA Stockholm</li>
 <li>Nishant Singh, NORDITA Stockholm</li>
 <li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li>
