@@ -3,6 +3,7 @@
 	include "inc/header.inc";
  ?>
 <div class="centcolumnpad">
+<!-- HEADER -->
 <h2>12<sup>th</sup> Pencil Code User Meeting 2016</h2>
 
 <p><b><u>DATE &amp; VENUE:</u></b>
