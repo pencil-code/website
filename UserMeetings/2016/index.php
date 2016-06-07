@@ -84,6 +84,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>...</li>
 </ul></p>
 
+<!-- ACCOMODATION PROPOSALS -->
 <p><b><u>ACCOMODATION PROPOSALS:</u></b>
 <table border="1" cellpadding="4" cellspacing="1">
 <!-- tr><td>**-</td><td><a href="http://www.altertelegraf.at/">Hotel Alter Telegraf</a></td><td>€ 65/night</td><td><a href="http://www.booking.com/hotel/at/alter-telegraf.en-gb.html">booking</a></td></tr -->
