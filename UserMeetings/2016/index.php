@@ -67,7 +67,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <!-- PARTICIPANTS -->
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
-<!-- li>Patrick Adams, University of Cape Town (not yet sure)</li -->
+<!-- li>Patrick W. Adams, University of Cape Town (not yet sure)</li -->
 <li>Akshay Bhatnagar, NORDITA Stockholm</li>
 <li>Philippe Bourdin, IWF Graz</li>
 <li>Axel Brandenburg, HAO Boulder</li>
