@@ -37,6 +37,7 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 
 <p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is <b>no registration fee</b>. Please state your planned presentation topic, the time span of your stay, and if you need a room reservation (see below).</p>
 
+<!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
 The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
 Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and a preliminary program:<br>
