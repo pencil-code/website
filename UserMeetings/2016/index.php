@@ -36,6 +36,7 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 
 <p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
 
+<!-- REGISTRATION -->
 <p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is <b>no registration fee</b>. Please state your planned presentation topic, the time span of your stay, and if you need a room reservation (see below).</p>
 
 <!-- PROGRAM -->
@@ -63,6 +64,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 
 <p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (it is pretty secure, because this is a well maintained trail). Furthermore, the social program will comprise a conference dinner in a traditional &quot;Buschenschank&quot;, that serves locally produced wines, juices, and rustic foods. Please note: the social program is at your own costs, which will be around 30 &euro; per person for excursions and the barbecue, if weather permits.</p>
 
+<!-- PARTICIPANTS -->
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
 <!-- li>Patrick Adams, University of Cape Town (not yet sure)</li -->
