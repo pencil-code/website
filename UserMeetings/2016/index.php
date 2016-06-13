@@ -101,6 +101,11 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <b>(*)</b> Please indicate <a href="mailto:pc16@Bourdin.ch?subject=hotel-reservation">to me</a> if I should reserve a room for you at this <b>special block-reservation rate</b>.
 </p>
 
+<!-- MAPS -->
+<p><b><u>MAPS:</u></b><br>
+<a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a>
+</p>
+
 <p>More details will follow on this page...<br>
 Thank you for visiting again.
 </p>
