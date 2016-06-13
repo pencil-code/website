@@ -67,12 +67,15 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <!-- PARTICIPANTS -->
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
-<!-- li>Patrick W. Adams, University of Cape Town (not yet sure)</li -->
+<li>Patrick W. Adams, University of Cape Town (preliminiary)</li>
 <li>Akshay Bhatnagar, NORDITA Stockholm</li>
+<li>Deniz Bilgin, Ege University, Izmir (visa request)</li>
 <li>Philippe Bourdin, IWF Graz</li>
 <li>Axel Brandenburg, University of Colorado, Boulder</li>
+<li>Navin Dwivedi, Ben-Gurion University, Beersheba (visa request)</li>
 <li>Frederick Gent, Aalto University</li>
 <li>Nils Haugen, NTNU/SINTEF Trondheim</li>
+<li>Tobias Heinemann, University of California, Santa Barbara (preliminary)</li>
 <li>Xiang-Yu Li, NORDITA Stockholm (preliminary)</li>
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
