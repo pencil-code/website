@@ -27,6 +27,12 @@ Boris Dintrans wrote a comprehensive introduction to Python and
 <a href="http://userpages.irap.omp.eu/~bdintrans/docs/talks/talk_pcmeeting08_19aug08.pdf">postprocessing
 with Python</a>.
 </p>
+
+<p>
+Wolfgang Dobler wrote a
+<a href="/doc/git-best-practises.pdf">Git Best Practises</a> guide (Nov 4, 2015).
+</p>
+
 </div>
 
 <div class="centerdivider"></div>
