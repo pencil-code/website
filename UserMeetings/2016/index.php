@@ -85,10 +85,10 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 </ul></p>
 
 <!-- ACCOMMODATION PROPOSALS -->
-<p><b><u>ACCOMMODATION PROPOSALS:</u></b>
+<p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
+<b>In order to have many people together in one place, I would propose to use the block reservation in &quot;Hotel R&ouml;merstube&quot;, which is in walking distance to our venue and has good connections to the airport, train station, and the city center.</b>
 <table border="1" cellpadding="4" cellspacing="1">
-<!-- tr><td>**-</td><td><a href="http://www.altertelegraf.at/">Hotel Alter Telegraf</a></td><td>€ 65/night</td><td><a href="http://www.booking.com/hotel/at/alter-telegraf.en-gb.html">booking</a></td></tr -->
-<tr><td>***</td><td><a href="http://www.roemerstube.at/en/">Hotel R&ouml;merstube</a></td><td>€ 70/night</td><td><a href="http://www.booking.com/hotel/at/romerstube.en-gb.html">booking</a></td><td>15 min. walking distance (or bus)</td></tr>
+<tr><td>***</td><td><a href="http://www.roemerstube.at/en/">Hotel R&ouml;merstube</a></td><td>€ 70/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/romerstube.en-gb.html">booking</a></td><td>15 min. walking distance (or bus)</td></tr>
 <tr><td>***+</td><td><a href="https://starinnhotels.com/en/star-inn-hotel-graz-by-comfort">Star Inn Hotel Graz</a></td><td>€ 73/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/star-inn-hotel-graz.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>8 min. bus + 5 min. walking</td></tr>
 <tr><td>***+</td><td><a href="http://www.dermarienhof.at/index.php?lang=en">Der Marienhof Hotel Garni</a></td><td>€ 76/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/der-marienhof-garni.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. bus + 5 min. walking</td></tr>
 <tr><td>***+</td><td><a href="http://www.roomz-graz.com/en">Roomz Graz</a></td><td>€ 90/night</td><td><a href="http://www.booking.com/hotel/at/roomz-graz.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>10 min. tram + 10 min. bus or walking</td></tr>
