@@ -70,7 +70,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <!-- li>Patrick W. Adams, University of Cape Town (not yet sure)</li -->
 <li>Akshay Bhatnagar, NORDITA Stockholm</li>
 <li>Philippe Bourdin, IWF Graz</li>
-<li>Axel Brandenburg, HAO Boulder</li>
+<li>Axel Brandenburg, University of Colorado, Boulder</li>
 <li>Frederick Gent, Aalto University</li>
 <li>Nils Haugen, NTNU/SINTEF Trondheim</li>
 <li>Xiang-Yu Li, NORDITA Stockholm (preliminary)</li>
@@ -84,8 +84,8 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>...</li>
 </ul></p>
 
-<!-- ACCOMODATION PROPOSALS -->
-<p><b><u>ACCOMODATION PROPOSALS:</u></b>
+<!-- ACCOMMODATION PROPOSALS -->
+<p><b><u>ACCOMMODATION PROPOSALS:</u></b>
 <table border="1" cellpadding="4" cellspacing="1">
 <!-- tr><td>**-</td><td><a href="http://www.altertelegraf.at/">Hotel Alter Telegraf</a></td><td>€ 65/night</td><td><a href="http://www.booking.com/hotel/at/alter-telegraf.en-gb.html">booking</a></td></tr -->
 <tr><td>***</td><td><a href="http://www.roemerstube.at/en/">Hotel R&ouml;merstube</a></td><td>€ 70/night</td><td><a href="http://www.booking.com/hotel/at/romerstube.en-gb.html">booking</a></td><td>15 min. walking distance (or bus)</td></tr>
