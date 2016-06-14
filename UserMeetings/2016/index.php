@@ -109,7 +109,7 @@ Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en
 <p>A taxi beween airport and the venue takes about 15&nbsp;mins and costs about 20&nbsp;&euro;.
 The airport is also connected to the Graz city public transport system by bus lines and the S-Bahn&nbsp;S5, which leaves outside of the airport (follow signs) from the train station &quot;Flughafen Graz&quot;.
 The vending machines (at train stations and inside trams) sell a weekly public transport ticket for the whole city of Graz (zone 101, includes airport) for 14,20&nbsp;&euro;, which is highly recommended.
-A &quot;1-hour ticket&quot; costs 2,20&nbsp;&euro; and the &quot;24-hours ticket&quot; costs 5&nbps;&euro, these are sold inside busses, too.
+A &quot;1-hour ticket&quot; costs 2,20&nbsp;&euro; and the &quot;24-hours ticket&quot; costs 5&nbsp;&euro;, these are sold inside busses, too.
 </p>
 
 <p>More details will follow on this page...<br>
