@@ -102,8 +102,8 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 </p>
 
 <!-- MAPS & PUBLIC TRANSPORT -->
-<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
-<a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a></p>
+<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b></p>
+<p><a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a></p>
 <p>For a public-transport map with point-to-point connections, please see <a href="http://verkehrsauskunft.verbundlinie.at/bin/query.exe/dn?L=vs_stvg">BahnBusBim.at</a>.
 Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>.</p>
 <p>A taxi beween airport and the venue takes about 15&nbsp;mins and costs about 20&nbsp;&euro;.
