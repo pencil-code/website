@@ -98,13 +98,18 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>****</td><td><a href="http://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 93/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/dasweitzer.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. tram + 10 min. bus or walking</td></tr>
 <tr><td>****</td><td><a href="http://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 105/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. tram + 10 min. bus or walking</td></tr>
 </table>
-<b>(*)</b> Please indicate <a href="mailto:pc16@Bourdin.ch?subject=hotel-reservation">to me</a> if I should reserve a room for you at this <b>special block-reservation rate</b> (including breakfast).
+<b>(*)</b> Please indicate <a href="mailto:pc16@Bourdin.ch?subject=hotel-reservation">to me</a> <b>until 24<sup>th</sup> of June</b> if I should reserve a room for you at this <b>special block-reservation rate</b> (including breakfast).
 </p>
 
-<!-- MAPS -->
-<p><b><u>MAPS:</u></b><br>
-<a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a><br>
-For a public-transport map with point-to-point connections, please see <a href="http://verkehrsauskunft.verbundlinie.at/bin/query.exe/dn?L=vs_stvg">BahnBusBim.at</a>. Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>.
+<!-- MAPS & PUBLIC TRANSPORT -->
+<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
+<a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a>
+For a public-transport map with point-to-point connections, please see <a href="http://verkehrsauskunft.verbundlinie.at/bin/query.exe/dn?L=vs_stvg">BahnBusBim.at</a>.
+Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>.</p>
+<p>A taxi from/to the airport from the venue takes about 15&nbsp;mins and costs about 20&nbps;&euml;.
+The airport is also connected to the Graz city public transport system by bus lines and the S-Bahn&nbsp;S5, which leaves outside of the airport (follow signs) from the train station &quot;Flughafen Graz&quot;.
+The vending machines (at train stations and inside trams) sell a weekly public transport ticket for the whole city of Graz (zone 101, includes airport) for 14,20&nbsp;&euro;, which is highly recommended.
+A &quot;1-hour ticket&quot; costs 2,20&nbsp;&euro; and the &quot;24-hours ticket&quot; costs 5&nbps;&euro, these are sold inside busses, too.
 </p>
 
 <p>More details will follow on this page...<br>
