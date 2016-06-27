@@ -78,12 +78,13 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Nils Haugen, NTNU/SINTEF Trondheim</li>
 <li>Tobias Heinemann, University of California, Santa Barbara (preliminary)</li>
 <li>Xiang-Yu Li, NORDITA Stockholm (preliminary)</li>
+<li>Edward Liverts, Ben-Gurion University, Beersheba</li>
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
+<li>Matthias Rheinhardt, University of Helsinki</li>
 <li>Alex Richert, Penn State University</li>
 <li>Graeme Sarson, Newcastle University</li>
 <li>Rohit Sharma, NORDITA Stockholm</li>
-<li>Nishant Singh, NORDITA Stockholm</li>
 <li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li>
 <li>...</li>
 </ul></p>
