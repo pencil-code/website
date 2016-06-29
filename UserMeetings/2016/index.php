@@ -77,7 +77,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Frederick Gent, Aalto University</li>
 <li>Nils Haugen, NTNU/SINTEF Trondheim</li>
 <li>Tobias Heinemann, University of California, Santa Barbara (preliminary)</li>
-<li>Xiang-Yu Li, NORDITA Stockholm (preliminary)</li>
+<!-- li>Xiang-Yu Li, NORDITA Stockholm (no visa)</li -->
 <li>Edward Liverts, Ben-Gurion University, Beersheba</li>
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
