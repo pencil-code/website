@@ -28,6 +28,8 @@ Topics for Pencil code User Meeting in Graz 2016:
 
 - F2003, status report, Matthias & Philippe
 
+- Boundary conditions, Matthias
+
 - cuda, GPU, status report
 
 - Parallel IO with HDF5
