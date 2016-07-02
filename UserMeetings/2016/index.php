@@ -68,7 +68,6 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
 <li>J&oslash;rgen R. Aarnes, NTNU Trondheim</li>
-<li>Patrick W. Adams, University of Cape Town (preliminiary)</li>
 <li>Akshay Bhatnagar, NORDITA Stockholm</li>
 <!-- li>Deniz Bilgin, Ege University, Izmir (visa request)</li -->
 <li>Philippe Bourdin, IWF Graz</li>
