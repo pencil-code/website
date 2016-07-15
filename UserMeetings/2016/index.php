@@ -37,7 +37,7 @@ Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note
 <p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
 
 <!-- REGISTRATION -->
-<p><b><u>REGISTRATION:</u></b> Please register <b>until 1st of July</b> <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is <b>no registration fee</b>. Please state your planned presentation topic, the time span of your stay, and if you need a room reservation (see below).</p>
+<p><b><u>REGISTRATION:</u></b> Please register <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is <b>no registration fee</b>.</p>
 
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
@@ -72,14 +72,14 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <!-- li>Deniz Bilgin, Ege University, Izmir (visa request)</li -->
 <li>Philippe Bourdin, IWF Graz</li>
 <li>Axel Brandenburg, University of Colorado, Boulder</li>
-<!-- li>Navin Dwivedi, Ben-Gurion University, Beersheba (visa request)</li -->
+<li>Navin Dwivedi, Ben-Gurion University, Beersheba (preliminary)</li>
 <li>Frederick Gent, Aalto University</li>
 <li>Nils Haugen, NTNU/SINTEF Trondheim</li>
 <li>Tobias Heinemann, University of California, Santa Barbara (preliminary)</li>
-<!-- li>Xiang-Yu Li, NORDITA Stockholm (no visa)</li -->
 <li>Edward Liverts, Ben-Gurion University, Beersheba</li>
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
+<li>Kiwan Park, Heidelberg University</li>
 <li>Matthias Rheinhardt, University of Helsinki</li>
 <li>Alex Richert, Penn State University</li>
 <li>Graeme Sarson, Newcastle University</li>
