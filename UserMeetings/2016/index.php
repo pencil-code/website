@@ -90,7 +90,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Edward Liverts, Ben-Gurion University, Beersheba</li>
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
-<li>Kiwan Park, Heidelberg University</li>
+<li>Kiwan W. Park, Heidelberg University</li>
 <li>Matthias Rheinhardt, University of Helsinki</li>
 <li>Alex Richert, Penn State University</li>
 <li>Graeme Sarson, Newcastle University</li>
