@@ -11,28 +11,6 @@
 <b>8<sup>th</sup> to 12<sup>th</sup> August 2016</b><br>
 The meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.
 </p>
-<!-- 
-Anyone may <a href="mailto:pc16@Bourdin.ch?subject=absence">give me a short note</a>, when he/she is absent (or simply edit this page).
-<table border="1" cellpadding="4" cellspacing="1">
-<tr><td>date:</td><td>absent:</td><td>conferences&amp;workshops:</td></tr>
-<tr><td>23.5. - 27.5.</td><td>Philippe, Nils</td><td>AGU Chapman/Croatia, Multiphase Flow/Italy</td></tr>
-<tr><td>30.5. - 03.6.</td><td>J&ouml;rn</td><td>SPD meeting/USA</td></tr>
-<tr><td>06.6. - 10.6.</td><td>Axel, J&ouml;rn</td><td>Cool Stars/Sweden</td></tr>
-<tr><td>13.6. - 17.6.</td><td></td><td>American Astronomical Society/USA</td></tr>
-<tr><td>20.6. - 24.6.</td><td>Axel?, Nils</td><td>IRIS-6/Sweden</td></tr>
-<tr><td>27.6. - 01.7.</td><td>Nils</td><td></td></tr>
-<tr><td>04.7. - 08.7.</td><td>Nils, Chao-Chin</td><td>Exoplanets I/Switzerland, IMA Turbulence/UK</td></tr>
-<tr><td>11.7. - 15.7.</td><td>Nils</td><td></td></tr>
-<tr><td>18.7. - 22.7.</td><td>Nils</td><td></td></tr>
-<tr><td>25.7. - 29.7.</td><td></td><td></td></tr>
-<tr><td>01.8. - 05.8.</td><td>Jonas, Nils</td><td>COSPAR/Turkey, Combustion Symposium/Korea</td></tr>
-</table>
-<table border="1" cellpadding="4" cellspacing="1">
-<tr><td><b><u>DATE:</u></b></td><td>conferences&amp;workshops:</td></tr>
-<tr><td>31.7. - 07.8.</td><td>COSPAR/Turkey, Combustion Symposium/Korea</td></tr>
-<tr><td>08.8. - 12.8.</td><td><font color="#E00000">12th Pencil Code User Meeting</font>, Graz/Austria</td></tr>
-</table>
- -->
 
 <p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
 
