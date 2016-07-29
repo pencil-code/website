@@ -51,7 +51,8 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>14:30</td><td>Wlad: Multiple special modules</td></tr>
 <tr bgcolor="#f0a080"><td>15:00</td><td>discussions &amp; coffee break</td></tr>
 <tr><td>15:30</td><td>Alex: A Barnes-Hut self-gravity module for Pencil</td></tr>
-<tr><td>16:00</td><td>flexible discussions</td></tr>
+<tr><td>16:00</td><td>Tobias: GIT</td></tr>
+<tr><td>16:30</td><td>flexible discussions</td></tr>
 <tr bgcolor="#f0a080"><td>17:30</td><td>barbequeue</td></tr>
 
 <tr><td rowspan="11" bgcolor="#c0c0c0">Thursday, 11</td>
@@ -86,7 +87,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>Navin Dwivedi, Ben-Gurion University, Beersheba</li>
 <li>Frederick Gent, Aalto University</li>
 <li>Nils Haugen, NTNU/SINTEF Trondheim</li>
-<li>Tobias Heinemann, University of California, Santa Barbara (preliminary)</li>
+<li>Tobias Heinemann, Niels Bohr International Academy, Copenhagen</li>
 <li>Edward Liverts, Ben-Gurion University, Beersheba</li>
 <li>Wladimir Lyra, JPL/NASA Pasadena</li>
 <li>Dhrubaditya Mitra, NORDITA Stockholm (preliminary)</li>
