@@ -51,7 +51,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>14:30</td><td>Wlad: Multiple special modules</td></tr>
 <tr bgcolor="#f0a080"><td>15:00</td><td>discussions &amp; coffee break</td></tr>
 <tr><td>15:30</td><td>Alex: A Barnes-Hut self-gravity module for Pencil</td></tr>
-<tr><td>16:00</td><td>Tobias: GIT</td></tr>
+<tr><td>16:00</td><td>Tobias: GIT introduction &amp; discussions</td></tr>
 <tr><td>16:30</td><td>flexible discussions</td></tr>
 <tr bgcolor="#f0a080"><td>17:30</td><td>barbequeue</td></tr>
 
