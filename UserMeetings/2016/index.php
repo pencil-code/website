@@ -39,7 +39,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>11:00</td><td>discussions related to particles</td></tr>
 <tr bgcolor="#f0a080"><td>12:00</td><td>sandwich lunch &amp; excursion</td></tr>
 
-<tr><td rowspan="13" bgcolor="#f0f0f0">Wednesday,&nbsp;10</td>
+<tr><td rowspan="14" bgcolor="#f0f0f0">Wednesday,&nbsp;10</td>
     <td>09:00</td><td>Akshay: Relative velocities and collisions between heavy particles in turbulent flows</td></tr>
 <tr><td>09:30</td><td>Kiwan: Inverse transfer of magnetic energy in decaying MHD turbulence</td></tr>
 <tr bgcolor="#f0a080"><td>10:00</td><td>discussions &amp; coffee break</td></tr>
