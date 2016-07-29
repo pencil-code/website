@@ -75,7 +75,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 </table>
 </p>
 
-<p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise, since we will &quot;climb&quot; up a waterfall via stairs and ladders (it is pretty secure, because this is a well maintained trail). Furthermore, the social program will comprise a conference dinner in a traditional &quot;Buschenschank&quot;, that serves locally produced wines, juices, and rustic foods. Please note: the social program is at your own costs, which will be around 30 &euro; per person for excursions and the barbecue, if weather permits.</p>
+<p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise. On Thursday, we plan for a dinner in a traditional &quot;Buschenschank&quot;, that serves locally produced wines, juices, and rustic foods. Please note: all this is at your own costs, which will be around 30 &euro; per person for excursions and the barbecue, if weather permits.</p>
 
 <!-- PARTICIPANTS -->
 <p><b><u>PARTICIPANTS:</u></b>
@@ -100,22 +100,9 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>...</li>
 </ul></p>
 
-<!-- ACCOMMODATION PROPOSALS -->
-<p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
-<font color="#e00000"><b>Please note:</b></font> Most people are in &quot;<font color="#e00000"><b>Hotel R&ouml;merstube</b></font>&quot;, you may still get a free room there at our block-reservation rate, just mention &quot;Pencil Code&quot;. If you need a checkin after 22 hrs, please just <a href="mailto:pc16@Bourdin.ch?subject=hotel-reservation">let me know</a>.
-<table border="1" cellpadding="4" cellspacing="1">
-<tr><td>***</td><td><a href="http://www.roemerstube.at/en/"><font color="e00000">Hotel R&ouml;merstube</font></a></td><td>€ 76/night <b>(*)</b></td><td><a href="http://www.booking.com/hotel/at/romerstube.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. walking distance (or bus)</td></tr>
-<tr><td>***</td><td><a href="https://starinnhotels.com/en/star-inn-hotel-graz-by-comfort">Star Inn Hotel Graz</a></td><td>€ 77/night</td><td><a href="http://www.booking.com/hotel/at/star-inn-hotel-graz.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>8 min. bus + 10 min. walking</td></tr>
-<tr><td>***</td><td><a href="http://www.dermarienhof.at/index.php?lang=en">Der Marienhof Hotel Garni</a></td><td>€ 74/night</td><td><a href="http://www.booking.com/hotel/at/der-marienhof-garni.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. bus + 5 min. walking</td></tr>
-<tr><td>***</td><td><a href="http://www.roomz-graz.com/en">Roomz Graz</a></td><td>€ 76/night</td><td><a href="http://www.booking.com/hotel/at/roomz-graz.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>10 min. tram + 10 min. bus or walking</td></tr>
-<tr><td>****</td><td><a href="http://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 129/night</td><td><a href="http://www.booking.com/hotel/at/dasweitzer.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. tram + 10 min. bus or walking</td></tr>
-<tr><td>****</td><td><a href="http://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 110/night</td><td><a href="http://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2016-08-08;checkout=2016-08-12;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking</a></td><td>15 min. tram + 10 min. bus or walking</td></tr>
-</table>
-<b>(*)</b> <b>special block-reservation rate</b> (including breakfast and city tax).
-</p>
-
 <!-- MAPS & PUBLIC TRANSPORT -->
-<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b></p>
+<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
+Almost everyone stays in &quot;<a href="http://www.roemerstube.at/en/"><font color="#e00000"><b>Hotel R&ouml;merstube</b></font></a>&quot;.</p>
 <p><a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a></p>
 <p>For a public-transport map with point-to-point connections, please see <a href="http://verkehrsauskunft.verbundlinie.at/bin/query.exe/dn?L=vs_stvg">BahnBusBim.at</a>.
 Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>.</p>
