@@ -32,7 +32,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr bgcolor="#f0a080"><td>17:30</td><td>city waling tour &amp; dinner</td></tr>
 
 <tr><td rowspan="6" bgcolor="#c0c0c0">Tuesday, 9</td>
-    <td>09:00</td><td>Jonas: Combusting particles in the Pencil Code</td></tr>
+    <td>09:00</td><td>Jonas Kr&uuml;ger: Combusting particles in the Pencil Code (via internet)</td></tr>
 <tr><td>09:30</td><td>Nils: The effect of turbulence on particles with surface reactions</td></tr>
 <tr bgcolor="#f0a080"><td>10:00</td><td>coffee break</td></tr>
 <tr><td>10:30</td><td>J&oslash;rgen: The effect of free-stream turbulence on the transition in the wake of a circular cylinder</td></tr>
