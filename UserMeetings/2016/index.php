@@ -37,7 +37,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr bgcolor="#f0a080"><td>10:00</td><td>coffee break</td></tr>
 <tr><td>10:30</td><td>J&oslash;rgen: The effect of free-stream turbulence on the transition in the wake of a circular cylinder</td></tr>
 <tr><td>11:00</td><td>discussions related to particles</td></tr>
-<tr bgcolor="#f0a080"><td>12:00</td><td>sandwich lunch &amp; excursion</td></tr>
+<tr bgcolor="#f0a080"><td>12:00</td><td>sandwich lunch &amp; excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;</td></tr>
 
 <tr><td rowspan="14" bgcolor="#f0f0f0">Wednesday,&nbsp;10</td>
     <td>09:00</td><td>Akshay: Relative velocities and collisions between heavy particles in turbulent flows</td></tr>
