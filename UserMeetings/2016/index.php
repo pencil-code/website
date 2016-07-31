@@ -12,7 +12,7 @@
 The meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.
 </p>
 
-<p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. If you plan to attend also the COSPAR assembly, there are daily (~2 hours direct) flights from/to Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
+<p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
 
 <!-- REGISTRATION -->
 <p><b><u>REGISTRATION:</u></b> Please register <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is <b>no registration fee</b>.</p>
