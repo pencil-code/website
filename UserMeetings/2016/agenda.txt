@@ -16,15 +16,21 @@ Topics for Pencil code User Meeting in Graz 2016:
 - state of the conductivity module?
 
 - state of the particle modules (documentation, avoiding overlap, etc)
+  Dhruba to report
 
 - re-organization of the particle modules with "swarms" being a sub-module?
+  Dhruba to report
 
 - PC paper - now for real?
+  Axel to report
+
+- hightlights to update on the webpage
+  Axel to report
 
 - IDL auto tests, status report & workplan
   what is actually tested and when/where is this test actually run?
 
-- Yin-yang mesh, status report
+- Yin-yang mesh, status report (Matthias)
 
 - F2003, status report, Matthias & Philippe
 
@@ -41,6 +47,7 @@ Topics for Pencil code User Meeting in Graz 2016:
 - messy initial conditions folder 
   (WL: I disagree that the initial condition folder is messy, 
        unless it is said that the special folder is messy too)
+   AB: yes both are messy; for the time being a proper README file would help
 
 - better documentation of the alternatives to IDL (Python and Julia)
   (WL: I've been telling newcomers to avoid IDL and use python instead but 
