@@ -29,8 +29,9 @@ with Python</a>.
 </p>
 
 <p>
-Wolfgang Dobler wrote a
-<a href="/doc/git-best-practises.pdf">Git Best Practises</a> guide (Nov 4, 2015).
+Wolfgang Dobler wrote
+<a href="/doc/git-getting-started.pdf">Git Getting Started</a> (Jun 10, 2016) and
+<a href="/doc/git-best-practises.pdf">Git Best Practises</a> guide (Jun 10, 2016).
 </p>
 
 </div>
