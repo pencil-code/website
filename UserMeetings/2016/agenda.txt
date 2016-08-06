@@ -21,6 +21,10 @@ Topics for Pencil code User Meeting in Graz 2016:
 - re-organization of the particle modules with "swarms" being a sub-module?
   Dhruba to report
 
+- general re-initialization of particles
+  inject particles during the run.
+  Axel
+
 - PC paper - now for real?
   Axel to report
 
