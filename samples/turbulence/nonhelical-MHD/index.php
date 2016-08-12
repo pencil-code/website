@@ -25,7 +25,13 @@ k<sup>2</sup> (dashed, blue), and k<sup>-2</sup> (red, solid).
 t/&tau;<sub>A</sub>==1300 shown as bold lines.
 The insets show E<sub>M</sub> and E<sub>K</sub> compensated by E<sub>WT</sub>.
 
+References:
+<ul>
+Brandenburg, A., Kahniashvili, T., &amp; Tevzadze, A. G.:&nbsp;2015, ``Nonhelical inverse transfer of a decaying turbulent magnetic field,'' <EM>Phys. Rev. Lett. </EM><B>114</B>, 075001
+</ul>
+
 </div>
+
 <?php
 	include "inc/footer.inc";
  ?>
