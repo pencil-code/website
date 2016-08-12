@@ -33,6 +33,7 @@ Ohter highlighting uses of the Pencil Code include the following topics:
 	// Please replace "<X ...>...</X> with <a ...>...</a> when the proper documents are ready"
 	//
  ?>
+	<li><a href="/samples/turbulence/nonhelical-MHD">Isotropic nonhelical MHD turbulence</a> [AB]</li>
 	<li><X href="/highlights/isotropic_turbulence/">Isotropic turbulence</X> [NH]</li>
 	<li><X href="/highlights/stellar_convection/">Stellar convection</X> [PJK/JW]</li>
 	<li><X href="/highlights/magnetorotational_instability/">Magnetorotational instability</X> [AJ/WL]</li>
