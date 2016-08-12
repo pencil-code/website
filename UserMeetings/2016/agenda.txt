@@ -14,6 +14,7 @@ Topics for Pencil code User Meeting in Graz 2016:
 # http://pencil-code.nordita.org/UserMeetings/2016/
 
 - state of the conductivity module?
+  (Wlad, Boris, Anders, Sven => Friday?)
 
 - state of the particle modules (documentation, avoiding overlap, etc)
   Dhruba to report
@@ -21,18 +22,25 @@ Topics for Pencil code User Meeting in Graz 2016:
 - re-organization of the particle modules with "swarms" being a sub-module?
   Dhruba to report
 
-- general re-initialization of particles
++ general re-initialization of particles
   inject particles during the run.
-  Axel
+  Nils, Axel, Alex, Jorgen
 
-- PC paper - now for real?
-  Axel to report
++ PC paper?
+  Fred: compilation on the webpage on existing papers, RAS
+  Philippe: find out about Fronties in Science: instrumentation & methods
 
-- hightlights to update on the webpage
-  Axel to report
++ hightlights to update on the webpage
+  People are informed
 
-- IDL auto tests, status report & workplan
++ reduce size of compiles src-directories
+  Matthias: dynamic linking of Fortran libraries?
+  Philippe: keep compile files on DATA partition
+  Jörn: linking on request
+
++ IDL auto tests, status report & workplan
   what is actually tested and when/where is this test actually run?
+  ask Wolfgang for status and next steps
 
 - Yin-yang mesh, status report (Matthias)
 
