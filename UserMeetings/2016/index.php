@@ -47,7 +47,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <tr><td>11:30</td><td>Philippe: The PIC method and its application to mangetic reconnection</td></tr>
 <tr bgcolor="#f0a080"><td>12:00</td><td>discussions &amp; lunch break</td></tr>
 <tr><td>13:30</td><td>J&ouml;rn: Slope limited diffusion in the Pencil Code</td></tr>
-<tr><td>14:00</td><td>Matthias: PC goes YY</td></tr>
+<tr><td>14:00</td><td><a href="/UserMeetings/2016/talks/YinYang_talk.pdf">Matthias: PC goes YY</a></td></tr>
 <tr><td>14:30</td><td>Wlad: Multiple special modules</td></tr>
 <tr bgcolor="#f0a080"><td>15:00</td><td>discussions &amp; coffee break</td></tr>
 <tr><td>15:30</td><td>Alex: A Barnes-Hut self-gravity module for Pencil</td></tr>

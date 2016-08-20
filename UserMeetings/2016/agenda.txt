@@ -29,9 +29,17 @@ Topics for Pencil code User Meeting in Graz 2016:
 + PC paper?
   Fred: compilation on the webpage on existing papers, RAS
   Philippe: find out about Fronties in Science: instrumentation & methods
+  use just a *compilation* of individual contributions
+  multigrid (there are now 2 versions)
+  link README file into manual.
+  review hightlights or write methods paper
+  Frontiers in Science
 
 + hightlights to update on the webpage
   People are informed
+
+- filter out sound waves during the run with an adaptation
+  of the anelastic module
 
 + reduce size of compiles src-directories
   Matthias: dynamic linking of Fortran libraries?
@@ -42,6 +50,8 @@ Topics for Pencil code User Meeting in Graz 2016:
   what is actually tested and when/where is this test actually run?
   ask Wolfgang for status and next steps
 
+- 3-D visualization using radiation transport
+
 + Yin-yang mesh, status report (Matthias)
 
 + F2003, status report, Matthias & Philippe
@@ -49,8 +59,10 @@ Topics for Pencil code User Meeting in Graz 2016:
   Matthias has to add one more check, first.
   After that, everyone should try out this test.
 
+- post-processing and many other things always compiled.
+
 + Boundary conditions, Matthias
-  An theoretical discussion lead to no suggestions for improvement,
+  A theoretical discussion lead to no suggestions for improvement,
   but there seems to be some over-determination with boundary conditions.
 
 / cuda, GPU, status report
@@ -88,4 +100,9 @@ x better documentation of the alternatives to IDL (Python and Julia)
   a clean engine and an extended toolbox. The engine should be magnetic.f90 with the induction equation and little
   else, and all the "battery term", "lambda term" and other user-specific things should go in specials. 
 
-x future PC user meeting: Newcastle
+- wlyra@caltech.edu
+    SMTP error from remote mail server after RCPT TO:<wlyra@caltech.edu>:
+    host mail-incoming.caltech.edu [131.215.239.181]:
+    504 5.5.2 <norlx51b>: Helo command rejected: need fully-qualified hostname
+
++ future PC user meetings: Newcastle, Boulder, Ventura, elsewhere...?
