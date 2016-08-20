@@ -34,6 +34,11 @@ Wolfgang Dobler wrote
 <a href="/doc/git-best-practises.pdf">Git Best Practises</a> guide (Jun 10, 2016).
 </p>
 
+<p>
+Matthias Rheinhardt presented a talk about the
+<a href="/UserMeetings/2016/talks/YinYang_talk.pdf">Yin-Yang mesh</a> (10 Aug 2016)
+</p>
+
 </div>
 
 <div class="centerdivider"></div>
