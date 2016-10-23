@@ -9,13 +9,8 @@
 <!-- DATE and VENUE -->
 <p><b><u>DATE &amp; VENUE:</u></b>
 <b>8<sup>th</sup> to 12<sup>th</sup> August 2016</b><br>
-The meeting will be in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.
+The meeting was held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="http://www.iwf.oeaw.ac.at/?L=1">Space Research Institute</a> of the <a href="http://www.oeaw.ac.at/en/">Austrian Academy of Sciences</a>.
 </p>
-
-<p>Graz airport is now connected with direct flights to: Vienna, Frankfurt, Munich, Z&uuml;rich, D&uuml;sseldorf, Stuttgart, Berlin-Tegel, and Istanbul. Please note that short transfer times in Vienna (down to 25 minutes) are actually guaranteed by the airport.</p>
-
-<!-- REGISTRATION -->
-<p><b><u>REGISTRATION:</u></b> Please register <a href="mailto:pc16@Bourdin.ch?subject=registration">by email</a>. There is <b>no registration fee</b>.</p>
 
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
@@ -75,8 +70,6 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 </table>
 </p>
 
-<p>Social program: There will be an afternoon excursion to &quot;B&auml;rensch&uuml;tzklamm&quot;, which requires some good hiking shoes and physical excercise. On Thursday, we plan for a dinner in a traditional &quot;Buschenschank&quot;, that serves locally produced wines, juices, and rustic foods. Please note: all this is at your own costs, which will be around 30 &euro; per person for excursions and the barbecue, if weather permits.</p>
-
 <!-- PARTICIPANTS -->
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
@@ -99,21 +92,7 @@ Please find here the <a href="/UserMeetings/2016/agenda.txt">agenda.txt</a> and 
 <li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li>
 </ul></p>
 
-<!-- MAPS & PUBLIC TRANSPORT -->
-<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
-Almost everyone stays in &quot;<a href="http://www.roemerstube.at/en/"><font color="#e00000"><b>Hotel R&ouml;merstube</b></font></a>&quot;.</p>
-<p><a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a></p>
-<p>For a public-transport map with point-to-point connections, please see <a href="http://verkehrsauskunft.verbundlinie.at/bin/query.exe/dn?L=vs_stvg">BahnBusBim.at</a>.
-Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>.</p>
-<p>A taxi beween airport and the venue takes about 15&nbsp;mins and costs about 20&nbsp;&euro;.
-The airport is also connected to the Graz city public transport system by bus lines and the S-Bahn&nbsp;S5, which leaves outside of the airport (follow signs) from the train station &quot;Flughafen Graz&quot;.
-The vending machines (at train stations and inside trams) sell a weekly public transport ticket for the whole city of Graz (zone 101, includes airport) for 14,20&nbsp;&euro;, which is highly recommended.
-A &quot;1-hour ticket&quot; costs 2,20&nbsp;&euro; and the &quot;24-hours ticket&quot; costs 5&nbsp;&euro;, these are sold inside busses, too.
-</p>
-
-<p>More details will follow on this page...<br>
-Thank you for visiting again.
-</p>
+<p>The next meeting will be in Newcastle in 2017...</p>
 
 </div>
 <?php
