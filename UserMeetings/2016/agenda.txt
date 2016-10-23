@@ -105,4 +105,4 @@ x better documentation of the alternatives to IDL (Python and Julia)
     host mail-incoming.caltech.edu [131.215.239.181]:
     504 5.5.2 <norlx51b>: Helo command rejected: need fully-qualified hostname
 
-+ future PC user meetings: Newcastle, Boulder, Ventura, elsewhere...?
++ next PC user meeting: Newcastle, 2017
