@@ -16,11 +16,11 @@ our own tests. The latest test results for a can be seen online:</p>
 
 <ul STYLE="font-size:13px;">
 <!-- Hourly test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Hourly Nordita: GNU gfortran with OpenMPI (norlx51, by Wolfgang/Axel)</a>
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Hourly Nordita: GNU gfortran 4.6.3-1ubuntu5 with OpenMPI (norlx51, by Wolfgang/Axel)</a>
 <!-- Daily test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Daily Nordita: g95 with OpenMPI (norlx51, by Wolfgang/Axel)</a>
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Daily Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>
 <!-- Philippe Bourdin -->
-<li><a href="http://www.pab-software.de/Pencil/pc_auto-test.txt">GNU gfortran 4.8.2-19ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin)</a>
+<li><a href="http://www.PAB-Software.de/Pencil/daily-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin)</a>
 <!-- Boris Dintrans -->
 <li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Copernic: Intel ifort v12.0.1.107 (Linux/CentOS 5, 64 bit, by Boris Dintrans, regular level 2 test)</a>
 <!-- Boris Dintrans additional -->
