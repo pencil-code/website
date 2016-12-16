@@ -14,3 +14,7 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 # http://pencil-code.nordita.org/UserMeetings/2017/
 
 - future PC user meetings: Boulder, Ventura, elsewhere...?
+
+- decoupling sample (which is huge) from website
+
+- Pencil Code Steering Committee (report & elections)
