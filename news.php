@@ -6,9 +6,14 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">13 Mar 2016:<br>
-The <a href="http://pencil-code.nordita.org/UserMeetings/2016/">12th Pencil Code Meeting</a> will take place 8-12 Aug 2016 in Graz/Austria.
-Don't forget to sign up.
+<li class="separated">17 Dec 2016:<br>
+The Doodle for Pencil Code User Meeting 2017 is out:
+<a href="http://doodle.com/poll/ci7d8bhdb4yxcxr5">http://doodle.com/poll/ci7d8bhdb4yxcxr5</a>
+</li>
+
+<li class="separated">17 Dec 2016:<br>
+A Pencil Code Stearing Committee (PCSC) has now been set up:
+<a href="http://www.nordita.org/~brandenb/pencil-code/PCSC/">http://www.nordita.org/~brandenb/pencil-code/PCSC/</a>
 </li>
 
 <li class="separated">Link to <a href="/previous_news_items.php">previous news items</a>.</li>

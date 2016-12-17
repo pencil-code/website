@@ -7,6 +7,11 @@
 
 <ul>
 
+<li class="separated">13 Mar 2016:<br>
+The <a href="http://pencil-code.nordita.org/UserMeetings/2016/">12th Pencil Code Meeting</a> will take place 8-12 Aug 2016 in Graz/Austria.
+Don't forget to sign up.
+</li>
+
 <li class="separated">19 April 2015:
 Pencil Code moved from Google Code to Github.<br>
 We proudly announce the successful move to
