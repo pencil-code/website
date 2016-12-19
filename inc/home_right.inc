@@ -1,7 +1,9 @@
 <div class="rightcolumn">
 
 <h2>Pencil News</h2>
-The next Pencil Code User Meeting will be in August 8-12, 2016. <a href="/news.php">[more...]</a>
+The Doodle for Pencil Code User Meeting 2017 is out and
+a Pencil Code Stearing Committee has been set up.
+<a href="/news.php">[more...]</a>
 
 <div class="rightdivider"></div>
 
