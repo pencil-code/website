@@ -6,7 +6,7 @@
 	foreach (array ('title','date','link','notes','agenda','videos','city','venue','country') as $item) define ($item, $item);
 
 	$meetings = array (
-		array ( title => "13th meeting", date => "tba, 2017", link => "/UserMeetings/2017/", agenda => "/UserMeetings/2017/agenda.txt", city => "Newcastle", venue => "", country => "UK" ),
+		array ( title => "13th meeting", date => "10-14 Jul, 2017", link => "/UserMeetings/2017/", agenda => "/UserMeetings/2017/agenda.txt", city => "Newcastle", venue => "Newcastle University", country => "UK" ),
 		array ( title => "12th meeting", date => "08-12 Aug, 2016", link => "/UserMeetings/2016/", agenda => "/UserMeetings/2016/agenda.txt", city => "Graz", venue => "Space Research Institute, Academy of Sciences", country => "Austria" ),
 		array ( title => "11th meeting", date => "11-15 May, 2015", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=4701", agenda => "/UserMeetings/2015/agenda.txt", city => "Trondheim", venue => "Norwegian University of Science and Technology", country => "Norway" ),
 		array ( title => "10th meeting", date => "07-11 Jul, 2014", link => "http://agenda.albanova.se/conferenceDisplay.py?confId=4213", agenda => "/UserMeetings/2014/agenda.txt", city => "Göttingen", venue => "Max Planck Institute for Solar System Research", country => "Germany" ),
