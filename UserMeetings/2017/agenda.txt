@@ -18,3 +18,5 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 - decoupling sample (which is huge) from website
 
 - Pencil Code Steering Committee (report & elections)
+
+- Presenting pencilnew plus tutorial section and discussion further development
