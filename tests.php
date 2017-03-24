@@ -27,19 +27,12 @@ our own tests. The latest test results for a can be seen online:</p>
 <li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Copernic: Intel ifort v12.0.1.107 (Linux/CentOS 5, 64 bit, by Boris Dintrans, additional tests)</a>
 <!-- Sven Bingert -->
 <li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, 64 bit, by Sven Bingert, standard and personal tests)</a>
-</ul>
-
-<p>Note: before checking in your own changes, you should at least do
-the very minimal auto-test:</p>
-
-<div class="codescroll"><code>pc_auto-test --level=0 --no-pencil-check -C</code></div>
-
-<h2>Third-party tests (partly outdated)</h2>
-<ul STYLE="font-size:13px;">
-<!-- Nordita PowerMac -->
+<!-- Nordita PowerMac
 <li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac: g95 with OpenMPI (MacOS X, by Axel)</a> [<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
-<!-- Anders Johansen -->
+-->
+<!-- Anders Johansen
 <li><a href="http://www.astro.ku.dk/~ajohan/pencil-test.html">GNU gfortran with OpenMPI (by Anders Johansen)</a>
+-->
 <!--
 <li><a href="http://www.nordita.org/~brandenb/pencil-code/normac.html">Nordita Mac Mini: g95 with lammpi (MacOS X, by Axel)</a>
 [<a href="http://www.nordita.org/~brandenb/pencil-code/normac_previous.html">previous</a>]
@@ -58,6 +51,15 @@ the very minimal auto-test:</p>
 <li><a href="http://www.tac.dk/~brandenb/pencil-code/tac.html">tacsg2 (SGI machine, always some problems...)</a>
 -->
 </ul>
+
+<h2>Test your changes</h2>
+
+<p>Note: before checking in your own changes, you should at least do
+the very minimal auto-tests:</p>
+
+<div class="codescroll"><code>pc_auto-test --max-level=0 --no-pencil-check -C</code></div>
+
+You may alternatively give a larger integer number, e.g. '--max-level=2', in order to run more auto-tests with your changes.
 
 </div>
 
