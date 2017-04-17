@@ -12,7 +12,7 @@ The Doodle for Pencil Code User Meeting 2017 is out:
 </li>
 
 <li class="separated">17 Dec 2016:<br>
-A Pencil Code Stearing Committee (PCSC) has now been set up:
+A Pencil Code Steering Committee (PCSC) has now been set up:
 <a href="http://www.nordita.org/~brandenb/pencil-code/PCSC/">http://www.nordita.org/~brandenb/pencil-code/PCSC/</a>
 </li>
 
