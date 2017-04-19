@@ -16,17 +16,18 @@ our own tests. The latest test results for a can be seen online:</p>
 
 <ul STYLE="font-size:13px;">
 <!-- Hourly test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Hourly Nordita: GNU gfortran 4.6.3-1ubuntu5 with OpenMPI (norlx51, by Wolfgang/Axel)</a>
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Nordita: GNU gfortran 4.6.3-1ubuntu5 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, hourly
 <!-- Daily test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Daily Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>
+<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily
 <!-- Philippe Bourdin -->
-<li><a href="http://www.PAB-Software.de/Pencil/daily-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin)</a>
+<li><a href="http://www.PAB-Software.de/Pencil/daily-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin)</a>, daily
+<li><a href="http://www.PAB-Software.de/Pencil/previous-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin)</a>, previous run
 <!-- Boris Dintrans -->
-<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Copernic: Intel ifort v12.0.1.107 (Linux/CentOS 5, 64 bit, by Boris Dintrans, regular level 2 test)</a>
+<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Copernic: Intel ifort v12.0.1.107 (Linux/CentOS 5, 64 bit, by Boris Dintrans)</a>, regular level 2 test
 <!-- Boris Dintrans additional -->
-<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Copernic: Intel ifort v12.0.1.107 (Linux/CentOS 5, 64 bit, by Boris Dintrans, additional tests)</a>
+<li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Copernic: Intel ifort v12.0.1.107 (Linux/CentOS 5, 64 bit, by Boris Dintrans)</a>, additional tests
 <!-- Sven Bingert -->
-<li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, 64 bit, by Sven Bingert, standard and personal tests)</a>
+<li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, 64 bit, by Sven Bingert)</a>, standard and personal tests
 <!-- Nordita PowerMac
 <li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac: g95 with OpenMPI (MacOS X, by Axel)</a> [<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
 -->
