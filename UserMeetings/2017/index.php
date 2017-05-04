@@ -14,7 +14,7 @@ The meeting will be held in <a href="https://en.wikipedia.org/wiki/Newcastle_upo
 
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
-Details of the meeting will be posted in due course.
+A detailed program for the meeting will be posted in due course.
 For now, please note requested discussion topics in <a href="/UserMeetings/2017/agenda.txt">agenda.txt</a>.
 
 <!-- TRAVEL -->
@@ -56,6 +56,7 @@ page is a good introduction to the city's public transport options.
 </p>
 
 <!-- ACCOMMODATION -->
+<p><b><u>ACCOMMODATION:</u></b><br>
 
 Accommodation options will be posted here shortly.
 
