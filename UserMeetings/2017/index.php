@@ -58,7 +58,123 @@ page is a good introduction to the city's public transport options.
 <!-- ACCOMMODATION -->
 <p><b><u>ACCOMMODATION:</u></b><br>
 
-Accommodation options will be posted here shortly.
+A large variety of accommodation is available in Newcastle.
+Most of the options listed below have been used by University visitors before.
+<!-- or have been otherwise recommended. -->
+For some of these options,
+standard University rates are available.
+<!--the rates posted below are for a single room, including breakfast.-->
+(The University rates listed are for a single room, but other rooms are available.
+To ensure the use of these rates, it's simplest to go via our Office Staff;
+so please email any booking requests to 
+<a href="mailto:g.r. .sarson@ncl.ac.uk">g.r.sarson@ncl.ac.uk</a>, 
+and we'll arrange the booking.)
+For the other options,
+rates have not been agreed with these hotels;
+the prices listed below are simply rough indications of the typical rates.
+
+<p><b>City Centre</b><br>
+Newcastle City Centre is 15-20 minutes walk from the University.
+
+<p>
+<table cellspacing="0px" cellpadding="2.5%">
+<tr>
+<td><a href="http://www.countyhotel.co.uk/">County Hotel</a>
+<td>Victorian hotel, next to train station: University rate &pound;78 per night, incl. breakfast
+<tr>
+<td><a href="http://www.expressnewcastle.co.uk/">Holiday Inn Express Newcastle</a>
+<td>central branch of chain: University rate &pound;57 per night, incl. breakfast
+<tr>
+<td><a href="https://www.motel-one.com/en/hotels/newcastle/hotel-newcastle/">Motel One</a>
+<td>new, modern hotel: University rate &pound;82.20 per night, incl. breakfast
+<!--
+<tr>
+<td><a href="http://www.hotelindigonewcastle.co.uk/">Hotel Indigo</a> 
+<td>new, modern hotel, ca. &pound;80 per night
+-->
+<tr>
+<td><a href="http://www.premierinn.com/en/hotel/NEWNEW/newcastle-central">Premier Inn Newcastle Central</a>
+<td>central branch of budget chain, ca. &pound;40-50 per night
+<tr>
+<td><a href="http://www.premierinn.com/en/checkHotel/NEWPTI/newcastle-quayside">Premier Inn Newcastle Quayside</a>
+<td>Quayside branch of budget chain, ca. &pound;40-50 per night
+<!--
+<tr>
+<td><a href="http://www.royalstationhotel.com/">Royal Station Hotel</a>
+<td>Victorian hotel, next to train station: University rate &pound;78 per night, incl. breakfast
+-->
+<tr>
+<td><a href="http://sleeperz.com/#newcastle">Sleeperz Newcastle</a>
+<td>new, modern hotel, near train station, ca. &pound;60-70 per night
+<!--
+<tr>
+<td><a href="http://www.vermont-hotel.com/">Vermont Hotel</a> 
+<td>upmarket hotel, in historic city centre, ca. &pound;80-100 per night
+-->
+</table>
+</p>
+
+<p><b>Jesmond</b><br>
+The suburb of Jesmond is 20-25 minutes walk from the University.
+<!-- (and is also served by Newcastle's Metro and Bus systems). -->
+
+<p>
+<table cellspacing="0px" cellpadding="2.5%">
+<!--
+<tr>
+<td><a href="http://www.avenuenewcastle.co.uk/">The Avenue</a> 
+<td>small, family-run guesthouse, ca. &pound;40 per night
+-->
+<tr>
+<td><a href="http://www.peelhotels.co.uk/hotels/caledonian-hotel-newcastle-upon-tyne-tyne-and-wear-england/">Caledonian Hotel</a>
+<td>larger, midmarket hotel: University rate &pound;75 per night, incl. breakfast
+<!--
+<tr>
+<td><a href="http://www.ihg.com/holidayinn/hotels/gb/en/newcastle-upon-tyne/ncljm/hoteldetail">Holiday Inn Newcastle Jesmond</a> 
+<td>Jesmond branch of chain, ca. &pound;80-100 per night
+-->
+<tr>
+<td><a href="http://www.theosbornehotel.co.uk/">Osborne Hotel</a>
+<td>basic, reliable hotel: University rate &pound;45 per night, incl. breakfast
+<!--
+<tr>
+<td><a href="http://www.jesmondhotel.co.uk/">Jesmond Hotel</a> 
+<td>small hotel, ca. &pound;40-50 per night
+<tr>
+<td><a href="http://www.thenewnorthumbriahotel.co.uk/">New Northumbria Hotel</a>
+<td>larger, midmarket hotel, ca. &pound;60-80 per night
+-->
+</table>
+</p>
+
+<p><b>Whitley Bay</b><br>
+The coastal town of Whitley Bay is a 25 minute Metro ride from the University. (And continues to boast a thriving MHD community, even if former residents Axel Brandenburg and Wolfgang Dobler are no longer local!)
+
+<p>
+<table cellspacing="0px" cellpadding="2.5%">
+<tr>
+<td><a href="http://www.themetropolitan.co/">Metropolitan</a>
+<td>modernised bed and breakfast, ca. &pound;45 per night
+<tr>
+<td><a href="http://www.royalhotelwhitleybay.co.uk/">Royal Hotel</a>
+<td>sea-front hotel, ca. &pound;45 per night
+<!--
+<tr>
+<td><a href="">Park Lodge Guest House</a>
+<td>family-run guest house, ca. &pound;65 per night
+-->
+<tr>
+<td><a href="http://www.yorkhousehotel.com/">York House Hotel</a>
+<td>upmarket, family-run hotel, ca. &pound;100 per night
+</table>
+</p>
+
+<p><b>Other options</b><br>
+For a more comprehensive list (with booking links), please see the
+<a href="http://www.newcastlegateshead.com/accommodation">Accommodation</a>
+page of the Newcastle Gateshead Initiative.
+</p>
+<p>
 
 <!--
 <li><a href="/UserMeetings/2017/agenda.txt">agenda.txt</a></li>
