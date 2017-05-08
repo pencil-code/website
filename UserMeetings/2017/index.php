@@ -14,7 +14,8 @@ The meeting will be held in <a href="https://en.wikipedia.org/wiki/Newcastle_upo
 
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
-A detailed program for the meeting will be posted in due course.
+The meeting will run from ca. midday Monday to midday Friday.
+A more detailed preliminary program will be posted shortly.
 For now, please note requested discussion topics in <a href="/UserMeetings/2017/agenda.txt">agenda.txt</a>.
 
 <!-- TRAVEL -->
@@ -24,8 +25,11 @@ The meeting will take place in the
 the home of the <a href="http://www.ncl.ac.uk/maths/">School of Mathematics &amp; Statistics</a> 
 of 
 <a href="http://www.ncl.ac.uk/">Newcastle University</a>.
-The Herschel Building is opposite the Haymarket Metro station,
+The Herschel Building is opposite the Haymarket 
+<a href="https://www.nexus.org.uk/metro">Metro</a> station,
 in Newcastle City Centre.
+The Metro system connects directly to the Airport (Newcastle International: NCL), 
+and to the Central (Train) Station.
 </p>
 
 <p>
@@ -40,7 +44,7 @@ A variety of
 are also available.
 (Perhaps most useful is the
 <a href="http://www.ncl.ac.uk/media/wwwnclacuk/abouttheuniversity/files/campus-map.pdf">Campus map</a>;
-the Herschel Building is Building 17 on this map.)
+the Herschel Building is Building 17 on page 2 of this map.)
 </p>
 
 <p>
