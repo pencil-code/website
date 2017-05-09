@@ -71,7 +71,7 @@ standard University rates are available.
 (The University rates listed are for a single room, but other rooms are available.
 To ensure the use of these rates, it's simplest to go via our Office Staff;
 so please email any booking requests to 
-<a href="mailto:g.r. .sarson@ncl.ac.uk">g.r.sarson@ncl.ac.uk</a>, 
+<a href="mailto:g.r.sarson@ncl.ac.uk">g.r.sarson@ncl.ac.uk</a>, 
 and we'll arrange the booking.)
 For the other options,
 rates have not been agreed with these hotels;
@@ -184,7 +184,14 @@ page of the Newcastle Gateshead Initiative.
 <li><a href="/UserMeetings/2017/agenda.txt">agenda.txt</a></li>
 -->
 
+<!-- ACCOMMODATION -->
+<p><b><u>REGISTRATION:</u></b><br>
+To register your intended participation, 
+please email <a href="mailto:g.r.sarson@ncl.ac.uk">g.r.sarson@ncl.ac.uk</a>.
+There is no registration fee.
+
 </div>
+
 <?php
 	include "inc/footer.inc";
  ?>

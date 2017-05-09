@@ -6,9 +6,9 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">17 Dec 2016:<br>
-The Doodle for Pencil Code User Meeting 2017 is out:
-<a href="http://doodle.com/poll/ci7d8bhdb4yxcxr5">http://doodle.com/poll/ci7d8bhdb4yxcxr5</a>
+<li class="separated">8 May 2017:<br>
+Travel, accommodation and registration details have been posted for the 
+<a href="http://pencil-code.nordita.org/UserMeetings/2017/">Pencil Code User Meeting 2017</a> in Newcastle, July 10-14.
 </li>
 
 <li class="separated">17 Dec 2016:<br>
