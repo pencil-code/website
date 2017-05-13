@@ -21,5 +21,18 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 - Presenting pencilnew plus tutorial section and discussion further development
   to present?
 
+- other 'obvious' topics (discussed last year, or currently/recently active) include:
+
+  - reorganising the code to separate 'engine' from 'toolbox'?
+  - reorganising/streamlining the 'particles' modules (incl. swarms?)
+  - linking to special modules dynamically?
+  - cuda/gpu
+  - auto-test
+  - hdf5 (Philippe stopped because of letter, he says)
+  - yin-yang grid
+  - svn bridge
+  - f2003?
+  - reducing size of compiled src directory (done, or more to do?)
+
 - future PC user meetings: Boulder, Ventura, elsewhere...?
 
