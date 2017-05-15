@@ -18,6 +18,12 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 - Pencil Code Steering Committee (report & elections)
   Approval of ToR
 
+- Updating various data bases:
+    pencil-code/license/developers.txt
+    ~/public_html/pencil-code/PCSC/committers/list.tex
+    ~/pencil-code/doc/citations/notes.pdf
+    http://pencil-code.nordita.org/doc/citations.pdf
+
 - Presenting pencilnew plus tutorial section and discussion further development
   to present?
 
