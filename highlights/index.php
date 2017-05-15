@@ -6,8 +6,8 @@
 <h2>Highlights</h2>
 
 The document about the
-<a href="http://norlx51.nordita.org/~brandenb/tmp/citations/notes.pdf">Scientific Usage of the Pencil Code</a>
-lists currently about 400 research papers quoting the Pencil Code.
+<a href="http://pencil-code.nordita.org/doc/citations.pdf">Scientific Usage of the Pencil Code</a>
+lists currently over 400 research papers quoting the Pencil Code<a href="http://norlx51.nordita.org/~brandenb/tmp/citations/notes.pdf">.</a>
 
 <p>
 Currently, we may present the following highlights:
