@@ -10,7 +10,11 @@ The manual for the Pencil Code is available <a href="/doc/manual.pdf" target="_b
 <p>
 <b><u>Hint:</u></b> We also have a <a href="/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
 </p>
+</div>
 
+<div class="centerdivider"></div>
+<div class="centcolumnpad">
+<h2>Supplements</h2>
 <p>
 Axel Brandenburg gave a general presentation on the Pencil code in Oslo (2003):
 <i>The Pencil Code: multi-purpose and multi-user maintained.</i>
