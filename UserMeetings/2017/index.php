@@ -184,11 +184,50 @@ page of the Newcastle Gateshead Initiative.
 <li><a href="/UserMeetings/2017/agenda.txt">agenda.txt</a></li>
 -->
 
-<!-- ACCOMMODATION -->
 <p><b><u>REGISTRATION:</u></b><br>
 To register your intended participation, 
 please email <a href="mailto:g.r.sarson@ncl.ac.uk">g.r.sarson@ncl.ac.uk</a>.
 There is no registration fee.
+</p>
+<p>
+
+<p><b><u>PARTICIPANTS:</u></b><br>
+Participants registered to date:
+<p>
+<table cellspacing="0px" cellpadding="2.5%">
+<tr>
+<td> J&oslash;rgen Aarnes (NTNU Trondheim)
+<tr>
+<td> Axel Brandenburg (Nordita)
+<tr>
+<td> Simon Candalersi (University of Dundee)
+<tr>
+<td> Boris Dintrans (IRAP Toulouse)
+<tr>
+<td> Can Evirgen (Newcastle University)
+<tr>
+<td> Fred Gent (Aalto University)
+<tr>
+<td> Nils Haugen (NTNU Trondheim)
+<tr>
+<td> James Hollins (Newcastle University)
+<tr>
+<td> Johannes Pekkil&auml; (Aalto University)
+<tr>
+<td> Matthias Rheinhardt (Aalto University)
+<tr>
+<td> Luiz Felippe Rodrigues (Newcastle University)
+<tr>
+<td> Graeme Sarson (Newcastle University)
+<tr>
+<td> Amit Seta (Newcastle University)
+<tr>
+<td> Andrew Snodin (King Mongkut's University of Technology North Bangkok)
+<tr>
+<td> Xujiang Wang (UCL)
+</table>
+</p>
+<p>
 
 </div>
 

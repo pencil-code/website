@@ -13,8 +13,6 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 %
 # http://pencil-code.nordita.org/UserMeetings/2017/
 
-- decoupling sample (which is huge) from website
-
 - Pencil Code Steering Committee (report & elections)
   Approval of ToR
 
@@ -24,15 +22,27 @@ Topics for Pencil code User Meeting in Newcastle 2017:
     ~/pencil-code/doc/citations/notes.pdf
     http://pencil-code.nordita.org/doc/citations.pdf
 
-- Presenting pencilnew plus tutorial section and discussion further development
-  to present?
+- decoupling sample (which is huge) from website
+
+- python/pencilnew presentation plus workshop (Simon)
+
+- pencil gpu-CUDA links, astaroth (Matthias, Johannes)
+
+- diffusion of cosmic rays (Luiz, Andrew, Amit, Graeme)
+
+- 'introduction to pencil ISM modules' workshop (Fred)
+
+- overset grids (Joergen)
+
+- pencil-code boundary conditions (Matthias)
+
+- code stability/timestep control and code units (Fred)
 
 - other 'obvious' topics (discussed last year, or currently/recently active) include:
 
   - reorganising the code to separate 'engine' from 'toolbox'?
   - reorganising/streamlining the 'particles' modules (incl. swarms?)
   - linking to special modules dynamically?
-  - cuda/gpu
   - auto-test
   - hdf5 (Philippe stopped because of letter, he says)
   - yin-yang grid
