@@ -229,6 +229,17 @@ Participants registered to date:
 </p>
 <p>
 
+Remote participants:
+<p>
+<table cellspacing="0px" cellpadding="2.5%">
+<tr>
+<td> Wladimir Lyra (Cal State Northridge)
+<tr>
+<td> J&ouml;rn Warnecke (MPS G&ouml;ttingen)
+<tr>
+<td> Chao-Chin Yang (Lund University)
+</table>
+
 </div>
 
 <?php
