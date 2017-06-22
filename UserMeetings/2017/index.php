@@ -14,9 +14,138 @@ The meeting will be held in <a href="https://en.wikipedia.org/wiki/Newcastle_upo
 
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
-The meeting will run from ca. midday Monday to midday Friday.
-A more detailed preliminary program will be posted shortly.
-For now, please note requested discussion topics in <a href="/UserMeetings/2017/agenda.txt">agenda.txt</a>.
+The meeting will involve technical and scientific presentations and workshops, open discussions about the Pencil Code, and sessions for coding and/or individual discussion.
+Topics are listed in <a href="/UserMeetings/2017/agenda.txt">agenda.txt</a>,
+and a provisional schedule is below.
+<p>
+<table border="1" cellpadding="4" cellspacing="1">
+<!-- <tr><td rowspan="9" bgcolor="#f0f0f0">Monday, 10</td> -->
+<tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 10</td>
+    <td>am</td><td>Arrivals, 'meet &amp; greet'</td></tr>
+<tr bgcolor="#6dc6ff"><td>14:00</td><td>Welcome</td></tr>
+<tr><td>14:05</td><td>Introduction, code updates &amp; statistics (Axel) </td></tr>
+<tr><td>14:35</td><td>Steering Committee report, Terms of Reference, updating databases</td></tr>
+<tr bgcolor="#6dc6ff"><td>15:00</td><td>Coffee</td></tr>
+<tr><td>15:30</td><td>Status reports</td></tr>
+<tr><td>16:00</td><td>Open discussion on agenda/schedule</td></tr>
+<!-- <tr><td>17:00</td><td>Individual discussions/coding</td></tr> -->
+<tr bgcolor="#6dc6ff"><td>18:00</td><td>Dinner</td></tr>
+
+<!--<tr><td rowspan="15" bgcolor="#c0c0c0">Tuesday, 11</td>
+    <td>09:00</td><td>Individual discussions/coding</td></tr> -->
+<tr><td rowspan="13" bgcolor="#c0c0c0">Tuesday, 11</td>
+    <td>09:30</td><td>Astaroth (Johannes)</td></tr>
+<tr><td>10:00</td><td>Pencil code with GPU/CUDA (Matthias) </td></tr>
+<tr><td>10:30</td><td>Discussion on GPU/CUDA issues </td></tr>
+<tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
+<tr><td>11:30</td><td>Discussion on particles modules</td></tr>
+<tr><td>12:00</td><td>Decoupling sample from website? </td></tr>
+<tr><td>12:30</td><td>Discussion on other code topics </td></tr>
+<tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch</td></tr>
+<tr><td>14:00</td><td>python/pencilnew presentation (Simon) </td></tr>
+<tr><td>14:45</td><td>Discussion on python issues </td></tr>
+<tr bgcolor="#6dc6ff"><td>15:00</td><td>Coffee </td></tr>
+<tr><td>15:30</td><td>python/pencilnew workshop (Simon) </td></tr>
+<!-- <tr><td>17:30</td><td>Individual discussions/coding</td></tr> -->
+<tr bgcolor="#6dc6ff"><td>18:00</td><td>Dinner</td></tr>
+
+<!-- <tr><td rowspan="6" bgcolor="#f0f0f0">Wednesday, 12</td>
+    <td>09:00</td><td>Individual discussions/coding</td></tr> -->
+<tr><td rowspan="5" bgcolor="#f0f0f0">Wednesday, 12</td>
+    <td>09:30</td><td>Cosmic ray diffusion: particles &amp; continuum (Luiz, Andrew, Amit, Graeme)</td></tr>
+<tr bgcolor="#6dc6ff"><td>10:15</td><td>Coffee</td></tr>
+<tr><td>10:45</td><td>Overset Grids in the Pencil code (J&oslash;rgen)</td></tr>
+<tr><td>11:15</td><td>Code stability/timestep control/code units (Fred)</td></tr>
+<tr bgcolor="#6dc6ff"><td>12:00</td><td>Outing to Hadrian's Wall (t.b.c.)</td></tr>
+
+<!--<tr><td rowspan="12" bgcolor="#c0c0c0">Thursday 13</td>
+    <td>09:00</td><td>Individual discussions/coding</td></tr> -->
+<tr><td rowspan="11" bgcolor="#c0c0c0">Thursday 13</td>
+    <td>09:30</td><td>Lean premixed combustion at elevated pressure (Xujiang)</td></tr>
+<tr><td>10:00</td><td>Discussion of boundary conditions (Matthias)</td></tr>
+<tr><td>10:30</td><td>Discussion on other code topics </td></tr>
+<tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
+<tr><td>11:30</td><td>ISM code workshop (Fred) [For Newcastle PGs]  </td></tr>
+<tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch </td></tr>
+<tr><td>14:00</td><td>Discussion on other code topics </td></tr>
+<tr><td>14:30</td><td>Coding/individual discussions</td></tr>
+<tr bgcolor="#6dc6ff"><td>15:15</td><td>Coffee</td></tr>
+<tr><td>15:45</td><td>Coding/individual discussions</td></tr>
+<tr bgcolor="#6dc6ff"><td>18:00</td><td>Dinner</td></tr>
+
+<!-- <tr><td rowspan="7" bgcolor="#f0f0f0">Friday 14</td>
+    <td>09:00</td><td>Individual discussions/coding</td></tr> -->
+<tr><td rowspan="6" bgcolor="#f0f0f0">Friday 14</td>
+    <td>09:30</td><td>Summary and outlook</td></tr>
+<tr><td>10:15</td><td>Coding/individual discussions</td></tr>
+<tr bgcolor="#6dc6ff"><td>10:45</td><td>Coffee</td></tr>
+<tr><td>11:15</td><td>Coding/individual discussions</td></tr>
+<tr bgcolor="#6dc6ff"><td>12:00</td><td>Meeting ends</td></tr>
+<tr><td>pm</td><td>Departure (room still available)</td></tr>
+
+</table>
+</p>
+
+<p><b><u>PARTICIPANTS:</u></b><br>
+Participants registered to date:
+<p>
+<table cellspacing="0px" cellpadding="2.5%">
+<tr>
+<td> J&oslash;rgen Aarnes (NTNU Trondheim)
+<tr>
+<td> Axel Brandenburg (Nordita)
+<tr>
+<td> Simon Candalersi (University of Dundee)
+<tr>
+<td> Boris Dintrans (IRAP Toulouse)
+<tr>
+<td> Can Evirgen (Newcastle University)
+<tr>
+<td> Frederick Gent (Aalto University)
+<tr>
+<td> Nils Haugen (NTNU Trondheim)
+<tr>
+<td> James Hollins (Newcastle University)
+<tr>
+<td> Johannes Pekkil&auml; (Aalto University)
+<tr>
+<td> Matthias Rheinhardt (Aalto University)
+<tr>
+<td> Luiz Felippe Rodrigues (Newcastle University)
+<tr>
+<td> Graeme Sarson (Newcastle University)
+<tr>
+<td> Amit Seta (Newcastle University)
+<tr>
+<td> Andrew Snodin (King Mongkut's University of Technology North Bangkok)
+<tr>
+<td> Ajay Tiwari (Northumbria University)
+<tr>
+<td> Xujiang Wang (UCL)
+</table>
+</p>
+<p>
+
+Remote participants:
+<p>
+<table cellspacing="0px" cellpadding="2.5%">
+<tr>
+<td> Wladimir Lyra (Cal State Northridge)
+<tr>
+<td> Andreas Schreiber (MPIA Heidelberg)
+<tr>
+<td> J&ouml;rn Warnecke (MPS G&ouml;ttingen)
+<tr>
+<td> Chao-Chin Yang (Lund University)
+</table>
+</p>
+
+<p><b><u>REGISTRATION:</u></b><br>
+If you would still like to register to participate,
+please email <a href="mailto:g.r.sarson@ncl.ac.uk">g.r.sarson@ncl.ac.uk</a>.
+There is no registration fee.
+</p>
+<p>
 
 <!-- TRAVEL -->
 <p><b><u>TRAVEL:</u></b><br>
@@ -183,62 +312,6 @@ page of the Newcastle Gateshead Initiative.
 <!--
 <li><a href="/UserMeetings/2017/agenda.txt">agenda.txt</a></li>
 -->
-
-<p><b><u>REGISTRATION:</u></b><br>
-To register your intended participation, 
-please email <a href="mailto:g.r.sarson@ncl.ac.uk">g.r.sarson@ncl.ac.uk</a>.
-There is no registration fee.
-</p>
-<p>
-
-<p><b><u>PARTICIPANTS:</u></b><br>
-Participants registered to date:
-<p>
-<table cellspacing="0px" cellpadding="2.5%">
-<tr>
-<td> J&oslash;rgen Aarnes (NTNU Trondheim)
-<tr>
-<td> Axel Brandenburg (Nordita)
-<tr>
-<td> Simon Candalersi (University of Dundee)
-<tr>
-<td> Boris Dintrans (IRAP Toulouse)
-<tr>
-<td> Can Evirgen (Newcastle University)
-<tr>
-<td> Fred Gent (Aalto University)
-<tr>
-<td> Nils Haugen (NTNU Trondheim)
-<tr>
-<td> James Hollins (Newcastle University)
-<tr>
-<td> Johannes Pekkil&auml; (Aalto University)
-<tr>
-<td> Matthias Rheinhardt (Aalto University)
-<tr>
-<td> Luiz Felippe Rodrigues (Newcastle University)
-<tr>
-<td> Graeme Sarson (Newcastle University)
-<tr>
-<td> Amit Seta (Newcastle University)
-<tr>
-<td> Andrew Snodin (King Mongkut's University of Technology North Bangkok)
-<tr>
-<td> Xujiang Wang (UCL)
-</table>
-</p>
-<p>
-
-Remote participants:
-<p>
-<table cellspacing="0px" cellpadding="2.5%">
-<tr>
-<td> Wladimir Lyra (Cal State Northridge)
-<tr>
-<td> J&ouml;rn Warnecke (MPS G&ouml;ttingen)
-<tr>
-<td> Chao-Chin Yang (Lund University)
-</table>
 
 </div>
 

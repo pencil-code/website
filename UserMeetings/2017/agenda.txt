@@ -4,7 +4,7 @@ svn checkout https://github.com/pencil-code/website/trunk/ www
 
 Topics for Pencil code User Meeting in Newcastle 2017:
 ======================================================
-% Notes: "-" means that this item is still open (nothing has happend)
+% Notes: "-" means that this item is still open (nothing has happened)
 %        "+" means that it is already in progress (people working on it)
 %        "*" same, but high priority
 %        "/" postponed
@@ -24,13 +24,13 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 
 - decoupling sample (which is huge) from website
 
-- python/pencilnew presentation plus workshop (Simon)
+- python/pencilnew (Simon)
 
-- pencil gpu-CUDA links, astaroth (Matthias, Johannes)
+- pencil GPU/CUDA, astaroth (Matthias, Johannes)
+
+- state of the 'particles' modules: reorganisation, avoiding overlap, swarms as a sub-module?; + documentation. (Nils + Chao-Chin & Wlad, remotely)
 
 - diffusion of cosmic rays (Luiz, Andrew, Amit, Graeme)
-
-- 'introduction to pencil ISM modules' workshop (Fred)
 
 - overset grids (Joergen)
 
@@ -41,14 +41,13 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 - other 'obvious' topics (discussed last year, or currently/recently active) include:
 
   - reorganising the code to separate 'engine' from 'toolbox'?
-  - reorganising/streamlining the 'particles' modules (incl. swarms?)
   - linking to special modules dynamically?
+  - reducing size of compiled src directory (more to do?)
   - auto-test
   - hdf5 (Philippe stopped because of letter, he says)
   - yin-yang grid
   - svn bridge
-  - f2003?
-  - reducing size of compiled src directory (done, or more to do?)
+  - f2003
 
 - future PC user meetings: Boulder, Ventura, elsewhere...?
 
