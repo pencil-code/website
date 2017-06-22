@@ -6,8 +6,8 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">8 May 2017:<br>
-Travel, accommodation and registration details have been posted for the 
+<li class="separated">22 June 2017:<br>
+A provisional schedule has been posted for the 
 <a href="http://pencil-code.nordita.org/UserMeetings/2017/">Pencil Code User Meeting 2017</a> in Newcastle, July 10-14.
 </li>
 
