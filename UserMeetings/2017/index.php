@@ -21,7 +21,7 @@ and a provisional schedule is below.
 <table border="1" cellpadding="4" cellspacing="1">
 <!-- <tr><td rowspan="9" bgcolor="#f0f0f0">Monday, 10</td> -->
 <tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 10</td>
-    <td>am</td><td>Arrivals, 'meet &amp; greet'</td></tr>
+    <td>am</td><td>Arrival (room available)</td></tr>
 <tr bgcolor="#6dc6ff"><td>14:00</td><td>Welcome</td></tr>
 <tr><td>14:05</td><td>Introduction, code updates &amp; statistics (Axel) </td></tr>
 <tr><td>14:35</td><td>Steering Committee report, Terms of Reference, updating databases</td></tr>
@@ -36,14 +36,14 @@ and a provisional schedule is below.
 <tr><td rowspan="13" bgcolor="#c0c0c0">Tuesday, 11</td>
     <td>09:30</td><td>Astaroth (Johannes)</td></tr>
 <tr><td>10:00</td><td>Pencil code with GPU/CUDA (Matthias) </td></tr>
-<tr><td>10:30</td><td>Discussion on GPU/CUDA issues </td></tr>
+<tr><td>10:30</td><td>Discussion on GPU/CUDA issues (Matthias) </td></tr>
 <tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
-<tr><td>11:30</td><td>Discussion on particles modules</td></tr>
-<tr><td>12:00</td><td>Decoupling sample from website? </td></tr>
-<tr><td>12:30</td><td>Discussion on other code topics </td></tr>
+<tr><td>11:30</td><td>Discussion on particles modules (Nils) </td></tr>
+<tr><td>12:00</td><td>Decoupling sample from website? (Axel) </td></tr>
+<tr><td>12:30</td><td>Discussion on other code topics (t.b.c.) </td></tr>
 <tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch</td></tr>
 <tr><td>14:00</td><td>python/pencilnew presentation (Simon) </td></tr>
-<tr><td>14:45</td><td>Discussion on python issues </td></tr>
+<tr><td>14:45</td><td>Discussion on python issues (Simon) </td></tr>
 <tr bgcolor="#6dc6ff"><td>15:00</td><td>Coffee </td></tr>
 <tr><td>15:30</td><td>python/pencilnew workshop (Simon) </td></tr>
 <!-- <tr><td>17:30</td><td>Individual discussions/coding</td></tr> -->
@@ -54,7 +54,7 @@ and a provisional schedule is below.
 <tr><td rowspan="5" bgcolor="#f0f0f0">Wednesday, 12</td>
     <td>09:30</td><td>Cosmic ray diffusion: particles &amp; continuum (Luiz, Andrew, Amit, Graeme)</td></tr>
 <tr bgcolor="#6dc6ff"><td>10:15</td><td>Coffee</td></tr>
-<tr><td>10:45</td><td>Overset Grids in the Pencil code (J&oslash;rgen)</td></tr>
+<tr><td>10:45</td><td>Overset grids in the Pencil code (J&oslash;rgen)</td></tr>
 <tr><td>11:15</td><td>Code stability/timestep control/code units (Fred)</td></tr>
 <tr bgcolor="#6dc6ff"><td>12:00</td><td>Outing to Hadrian's Wall (t.b.c.)</td></tr>
 
@@ -62,12 +62,12 @@ and a provisional schedule is below.
     <td>09:00</td><td>Individual discussions/coding</td></tr> -->
 <tr><td rowspan="11" bgcolor="#c0c0c0">Thursday 13</td>
     <td>09:30</td><td>Lean premixed combustion at elevated pressure (Xujiang)</td></tr>
-<tr><td>10:00</td><td>Discussion of boundary conditions (Matthias)</td></tr>
-<tr><td>10:30</td><td>Discussion on other code topics </td></tr>
+<tr><td>10:00</td><td>Immersed boundary method in Pencil (Tai)</td></tr>
+<tr><td>10:30</td><td>Discussion of boundary conditions (Matthias)</td></tr>
 <tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
 <tr><td>11:30</td><td>ISM code workshop (Fred) [For Newcastle PGs]  </td></tr>
 <tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch </td></tr>
-<tr><td>14:00</td><td>Discussion on other code topics </td></tr>
+<tr><td>14:00</td><td>Discussion on other code topics (t.b.c.) </td></tr>
 <tr><td>14:30</td><td>Coding/individual discussions</td></tr>
 <tr bgcolor="#6dc6ff"><td>15:15</td><td>Coffee</td></tr>
 <tr><td>15:45</td><td>Coding/individual discussions</td></tr>
@@ -107,6 +107,8 @@ Participants registered to date:
 <tr>
 <td> James Hollins (Newcastle University)
 <tr>
+<td> Tai Jin (Zhejiang University)
+<tr>
 <td> Johannes Pekkil&auml; (Aalto University)
 <tr>
 <td> Matthias Rheinhardt (Aalto University)
@@ -131,6 +133,8 @@ Remote participants:
 <table cellspacing="0px" cellpadding="2.5%">
 <tr>
 <td> Wladimir Lyra (Cal State Northridge)
+<tr>
+<td> Dhruba Mitra (Nordita)
 <tr>
 <td> Andreas Schreiber (MPIA Heidelberg)
 <tr>
