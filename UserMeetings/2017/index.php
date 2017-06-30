@@ -39,7 +39,7 @@ and a provisional schedule is below.
 <tr><td>10:30</td><td>Discussion on GPU/CUDA issues (Matthias) </td></tr>
 <tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
 <tr><td>11:30</td><td>Discussion on particles modules (Nils) </td></tr>
-<tr><td>12:00</td><td>Decoupling sample from website? (Axel) </td></tr>
+<tr><td>12:00</td><td>Decoupling sample from website? </td></tr>
 <tr><td>12:30</td><td>Discussion on other code topics (t.b.c.) </td></tr>
 <tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch</td></tr>
 <tr><td>14:00</td><td>python/pencilnew presentation (Simon) </td></tr>
@@ -134,7 +134,7 @@ Remote participants:
 <tr>
 <td> Wladimir Lyra (Cal State Northridge)
 <tr>
-<td> Dhruba Mitra (Nordita)
+<td> Dhrubaditya Mitra (Nordita)
 <tr>
 <td> Andreas Schreiber (MPIA Heidelberg)
 <tr>
