@@ -20,9 +20,10 @@ and a provisional schedule is below.
 <p>
 <table border="1" cellpadding="4" cellspacing="1">
 <!-- <tr><td rowspan="9" bgcolor="#f0f0f0">Monday, 10</td> -->
-<tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 10</td>
+<tr><td rowspan="9" bgcolor="#f0f0f0">Monday, 10</td>
     <td>am</td><td>Arrival (room available)</td></tr>
-<tr bgcolor="#6dc6ff"><td>14:00</td><td>Welcome</td></tr>
+<tr><td>10:00</td><td>ISM code workshop [For Newcastle PGs] (Fred) </td></tr>
+<tr bgcolor="#6dc6ff"><td>14:00</td><td>Start/Welcome</td></tr>
 <tr><td>14:05</td><td>Introduction, code updates &amp; statistics (Axel) </td></tr>
 <tr><td>14:35</td><td>Steering Committee report, Terms of Reference, updating databases</td></tr>
 <tr bgcolor="#6dc6ff"><td>15:00</td><td>Coffee</td></tr>
@@ -39,7 +40,7 @@ and a provisional schedule is below.
 <tr><td>10:30</td><td>Discussion on GPU/CUDA issues (Matthias) </td></tr>
 <tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
 <tr><td>11:30</td><td>Discussion on particles modules (Nils) </td></tr>
-<tr><td>12:00</td><td>Decoupling sample from website? </td></tr>
+<tr><td>12:00</td><td>Decoupling sample from website? (t.b.c.) </td></tr>
 <tr><td>12:30</td><td>Discussion on other code topics (t.b.c.) </td></tr>
 <tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch</td></tr>
 <tr><td>14:00</td><td>python/pencilnew presentation (Simon) </td></tr>
@@ -60,15 +61,14 @@ and a provisional schedule is below.
 
 <!--<tr><td rowspan="12" bgcolor="#c0c0c0">Thursday 13</td>
     <td>09:00</td><td>Individual discussions/coding</td></tr> -->
-<tr><td rowspan="11" bgcolor="#c0c0c0">Thursday 13</td>
+<tr><td rowspan="10" bgcolor="#c0c0c0">Thursday 13</td>
     <td>09:30</td><td>Lean premixed combustion at elevated pressure (Xujiang)</td></tr>
 <tr><td>10:00</td><td>Immersed boundary method in Pencil (Tai)</td></tr>
 <tr><td>10:30</td><td>Discussion of boundary conditions (Matthias)</td></tr>
 <tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
-<tr><td>11:30</td><td>ISM code workshop (Fred) [For Newcastle PGs]  </td></tr>
+<tr><td>11:30</td><td>Discussion on other code topics (t.b.c) </td></tr>
 <tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch </td></tr>
-<tr><td>14:00</td><td>Discussion on other code topics (t.b.c.) </td></tr>
-<tr><td>14:30</td><td>Coding/individual discussions</td></tr>
+<tr><td>14:00</td><td>Coding/individual discussions</td></tr>
 <tr bgcolor="#6dc6ff"><td>15:15</td><td>Coffee</td></tr>
 <tr><td>15:45</td><td>Coding/individual discussions</td></tr>
 <tr bgcolor="#6dc6ff"><td>18:00</td><td>Dinner</td></tr>
