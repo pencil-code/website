@@ -53,11 +53,11 @@ and a provisional schedule is below.
 <!-- <tr><td rowspan="6" bgcolor="#f0f0f0">Wednesday, 12</td>
     <td>09:00</td><td>Individual discussions/coding</td></tr> -->
 <tr><td rowspan="5" bgcolor="#f0f0f0">Wednesday, 12</td>
-    <td>09:30</td><td>Cosmic ray diffusion: particles &amp; continuum (Luiz, Andrew, Amit, Graeme)</td></tr>
+    <td>09:30</td><td>Cosmic ray diffusion: particles &amp; continuum (Luiz, Andrew, Graeme)</td></tr>
 <tr bgcolor="#6dc6ff"><td>10:15</td><td>Coffee</td></tr>
 <tr><td>10:45</td><td>Overset grids in the Pencil code (J&oslash;rgen)</td></tr>
 <tr><td>11:15</td><td>Code stability/timestep control/code units (Fred)</td></tr>
-<tr bgcolor="#6dc6ff"><td>12:00</td><td>Outing to Hadrian's Wall (t.b.c.)</td></tr>
+<tr bgcolor="#6dc6ff"><td>12:00</td><td>Outing to Hadrian's Wall</td></tr>
 
 <!--<tr><td rowspan="12" bgcolor="#c0c0c0">Thursday 13</td>
     <td>09:00</td><td>Individual discussions/coding</td></tr> -->
