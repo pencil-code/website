@@ -41,7 +41,7 @@ and a provisional schedule is below.
 <tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
 <tr><td>11:30</td><td>Discussion on particles modules (Nils) </td></tr>
 <tr><td>12:00</td><td>Decoupling sample from website? (t.b.c.) </td></tr>
-<tr><td>12:30</td><td>Discussion on other code topics (t.b.c.) </td></tr>
+<tr><td>12:30</td><td>Discussion on HDF5 </td></tr>
 <tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch</td></tr>
 <tr><td>14:00</td><td>python/pencilnew presentation (Simon) </td></tr>
 <tr><td>14:45</td><td>Discussion on python issues (Simon) </td></tr>
