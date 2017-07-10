@@ -40,8 +40,8 @@ and a provisional schedule is below.
 <tr><td>10:30</td><td>Discussion on GPU/CUDA issues (Matthias) </td></tr>
 <tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
 <tr><td>11:30</td><td>Discussion on particles modules (Nils) </td></tr>
-<tr><td>12:00</td><td>Decoupling sample from website? (t.b.c.) </td></tr>
-<tr><td>12:30</td><td>Discussion on HDF5 </td></tr>
+<tr><td>12:00</td><td>Discussion on decoupling sample from website </td></tr>
+<tr><td>12:30</td><td>Discussions on HDF5, git/svn </td></tr>
 <tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch</td></tr>
 <tr><td>14:00</td><td>python/pencilnew presentation (Simon) </td></tr>
 <tr><td>14:45</td><td>Discussion on python issues (Simon) </td></tr>
@@ -66,7 +66,7 @@ and a provisional schedule is below.
 <tr><td>10:00</td><td>Immersed boundary method in Pencil (Tai)</td></tr>
 <tr><td>10:30</td><td>Discussion of boundary conditions (Matthias)</td></tr>
 <tr bgcolor="#6dc6ff"><td>11:00</td><td>Coffee</td></tr>
-<tr><td>11:30</td><td>Discussion on other code topics (t.b.c) </td></tr>
+<tr><td>11:30</td><td>Discussions on special modules, auto-test, PC paper </td></tr>
 <tr bgcolor="#6dc6ff"><td>13:00</td><td>Lunch </td></tr>
 <tr><td>14:00</td><td>Coding/individual discussions</td></tr>
 <tr bgcolor="#6dc6ff"><td>15:15</td><td>Coffee</td></tr>
@@ -131,6 +131,8 @@ Participants registered to date:
 Remote participants:
 <p>
 <table cellspacing="0px" cellpadding="2.5%">
+<tr>
+<td> Philippe Bourdin (Graz)
 <tr>
 <td> Wladimir Lyra (Cal State Northridge)
 <tr>

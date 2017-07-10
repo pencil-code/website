@@ -22,35 +22,43 @@ Topics for Pencil code User Meeting in Newcastle 2017:
     ~/pencil-code/doc/citations/notes.pdf
     http://pencil-code.nordita.org/doc/citations.pdf
 
-- decoupling sample (which is huge) from website
-
-- python/pencilnew (Simon)
-
 - pencil GPU/CUDA, astaroth (Matthias, Johannes)
 
 - state of the 'particles' modules: reorganisation, avoiding overlap, swarms as a sub-module?; + documentation. (Nils + Chao-Chin & Wlad, remotely)
 
-- diffusion of cosmic rays (Luiz, Andrew, Amit, Graeme)
+- decoupling sample (which is huge) from website
+
+- HDF5
+
+- git/svn
+
+- python/pencilnew (Simon)
+
+- diffusion of cosmic rays (Luiz, Andrew, Graeme)
 
 - overset grids (Joergen)
 
+- code stability/timestep control/code units (Fred)
+
 - pencil-code boundary conditions (Matthias)
 
-- code stability/timestep control and code units (Fred)
+- reorganising special modules (moving more code into, or out of, specials), using multiple specials, linking to special modules dynamically?
+
+- auto-test (stop using g95 compiler, start using pgi as an additional option ( on which machine)?  streamline suite of 53 samples?)
+
+- PC paper (resuscitate idea of special issue).  Re-try Physica Scripta?  other possibilities: SIAM J Sci Comp, JPP, GAFD.
 
 - chase up alternative ways to track pencil-using publications (cf. ADS bumblebee)
 
-- other 'obvious' topics (discussed last year, or currently/recently active) include:
+- chase up whitelisting of norlx51b, for people currently being blacklisted
 
-  - reorganising the code to separate 'engine' from 'toolbox'?
-  - linking to special modules dynamically?
-  - reducing size of compiled src directory (more to do?)
-  - auto-test
-  - hdf5 (Philippe stopped because of letter, he says)
+- other possible topics (but not currently prioritised for meeting):
+
+  - reorganising the code to separate 'engine' from 'toolbox'
+  - reducing size of compiled src directory.  (dynamical linking?)
   - yin-yang grid
-  - svn bridge
   - f2003
-  - non-equidistant grid issues?
+  - non-equidistant grid (glitch in deriv_alt)
 
 - future PC user meetings: Boulder, Ventura, elsewhere...?
 
