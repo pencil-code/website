@@ -38,6 +38,8 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 
 - code stability/timestep control and code units (Fred)
 
+- chase up alternative ways to track pencil-using publications (cf. ADS bumblebee)
+
 - other 'obvious' topics (discussed last year, or currently/recently active) include:
 
   - reorganising the code to separate 'engine' from 'toolbox'?
