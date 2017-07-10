@@ -1,2 +1,5 @@
 #To update citations.pdf, compile it on ~/pencil-code/doc/citations and
+gt ~/pencil-code/doc/citations
+svn up
+gb
 cp ~/pencil-code/doc/citations/notes.pdf citations.pdf
