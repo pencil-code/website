@@ -50,6 +50,7 @@ Topics for Pencil code User Meeting in Newcastle 2017:
   - yin-yang grid
   - svn bridge
   - f2003
+  - non-equidistant grid issues?
 
 - future PC user meetings: Boulder, Ventura, elsewhere...?
 
