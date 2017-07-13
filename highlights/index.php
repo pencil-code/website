@@ -26,7 +26,7 @@ Currently, we may present the following highlights:
 </p>
 
 <p>
-Ohter highlighting uses of the Pencil Code include the following topics:
+Other highlighting uses of the Pencil Code include the following topics:
 <ul>
 <?php
 	//
