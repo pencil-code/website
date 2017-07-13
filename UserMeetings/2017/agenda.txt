@@ -22,43 +22,46 @@ Topics for Pencil code User Meeting in Newcastle 2017:
     ~/pencil-code/doc/citations/notes.pdf
     http://pencil-code.nordita.org/doc/citations.pdf
 
-- pencil GPU/CUDA, astaroth (Matthias, Johannes)
++ pencil GPU/CUDA, astaroth: implementation for basic hydro problem (samples/gputest) almost complete. [Matthias, Johannes]
 
-- state of the 'particles' modules: reorganisation, avoiding overlap, swarms as a sub-module?; + documentation. (Nils + Chao-Chin & Wlad, remotely)
++ particles' modules: new 'particles_intertial' module, without swarms, to be created from particles_dust.  most particles_* modules to be moved to a subdirectory src/particles (cf. src/magnetic). [Nils, Chao-Chin, Dhruba]
 
-- decoupling sample (which is huge) from website
++ 'decoupling sample from website': Create new 'highlights'/'production_runs' directory in repository, for 'serious' simulations (cf. the smaller problems considered in samples).  Also expand highlights on website with additional examples (chase up individuals currently with unexpanded listings). Adopt *.md format for README files on github. [Many]
 
-- HDF5
+- python/pencilnew: these (more object-orientated) python scripts now functional for most purposes; users encouraged to use them.
 
-- git/svn
+- HDF5: currently implemented, beyond minor issue with persistent variables (particularly any processor-dependent variables: e.g. random seed?). 
 
-- python/pencilnew (Simon)
+- git/svn. Previously-suggested alternatives to the current hosting on github were not considered acceptable. (Without paying for hosting, bitbucket only allows five committers, which is unworkable for pencil;  and most people were unhappy with the idea of a private server.)  So in the absence of other specific suggestions (?), we continue with the status quo.
 
-- diffusion of cosmic rays (Luiz, Andrew, Graeme)
+x code stability/timestep control: additional dt-control functionality added for momentum equation, via lcdt_tauf. [Fred]
 
-- overset grids (Joergen)
+- pencil-code boundary conditions: one-sided b.c.s implemented, avoiding overspecification of b.c.s by current 'a'/'s' options. But currently prone to instability. (Matthias)
 
-- code stability/timestep control/code units (Fred)
+- reorganising code to allow multiple special modules: in principle possible, but more concrete applications where this is needed are requested, before proceeding.  (And before this is done, there is no need to link to special modules dynamically.)
 
-- pencil-code boundary conditions (Matthias)
++ auto-test: stop using g95 compiler, start using pgi as an additional option (on norlx51 or scylla?). [?]
 
-- reorganising special modules (moving more code into, or out of, specials), using multiple specials, linking to special modules dynamically?
++ PC paper: revive the idea of a special issue.  Possible destinations: Physica Scripta; SIAM J Sci Comp; GAFD; Comp Phys Commun; JPP.  Possible guest-editors: Fred and Simon.  A revised list of likely submissions to be chased up.  [Simon, Fred]
 
-- auto-test (stop using g95 compiler, start using pgi as an additional option ( on which machine)?  streamline suite of 53 samples?)
-
-- PC paper (resuscitate idea of special issue).  Re-try Physica Scripta?  other possibilities: SIAM J Sci Comp, JPP, GAFD.
-
-- chase up alternative ways to track pencil-using publications (cf. ADS bumblebee)
+- chase up alternative ways to track pencil-code-using publications (cf. ADS bumblebee); any possibilities on Web of Science?
 
 - chase up whitelisting of norlx51b, for people currently being blacklisted
 
-- other possible topics (but not currently prioritised for meeting):
+- documentation: some (many?) modules not currentl documented in manual.
 
-  - reorganising the code to separate 'engine' from 'toolbox'
+- registering: do all registering from register_* subroutines. Do all put_shared_variable calls in register_*.  Do all get_shared_variable calls in initialize_*. 
+
+- code style: it is proposed that we avoid using labelled-if structures shorter than, say, 20 lines of code.
+
+- yin-yang grid: progress currently stalled due to interpolation issues at grid boundaries.
+
+- non-equidistant grid: upwinding still not currently possible, due to glitch in deriv_alt.
+
+- other topics (not discussed in detail at this meeting):
+  - reorganising the code to separate 'engine' from 'toolbox' (involving moving more code into special modules?)
   - reducing size of compiled src directory.  (dynamical linking?)
-  - yin-yang grid
   - f2003
-  - non-equidistant grid (glitch in deriv_alt)
 
-- future PC user meetings: Boulder, Ventura, elsewhere...?
+- future PC user meetings: probably Boulder for 2018;  a doodle-poll will be arranged for dates.  (Future possibilities discussed include Aalto and Goethenburg (t.b.c.), possibly also Ventura, Zhejiang?)  Also considering the possibility of running alongside an associated meeting, for a wider science community. (Axel)
 
