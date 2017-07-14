@@ -28,7 +28,7 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 
 + 'decoupling sample from website': Create new 'highlights'/'production_runs' directory in repository, for 'serious' simulations (cf. the smaller problems considered in samples).  Also expand highlights on website with additional examples (chase up individuals currently with unexpanded listings). Adopt *.md format for README files on github. [Many]
 
-- python/pencilnew: these (more object-orientated) python scripts now functional for most purposes; users encouraged to use them.
+- python/pencilnew: these (more object-orientated) python scripts now functional for most purposes; users encouraged to use them. More functionalities will be ported soon. Sim objects largely functional.
 
 - HDF5: currently implemented, beyond minor issue with persistent variables (particularly any processor-dependent variables: e.g. random seed?). 
 
