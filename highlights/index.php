@@ -34,15 +34,21 @@ Other highlighting uses of the Pencil Code include the following topics:
 	//
  ?>
 	<li><a href="/samples/turbulence/nonhelical-MHD">Isotropic nonhelical MHD turbulence</a> [AB]</li>
-	<li><X href="/highlights/isotropic_turbulence/">Isotropic turbulence</X> [NH]</li>
+	<li><a href="https://www.nordita.org/~brandenb/projects/Classes/">Isotropic turbulence</a> [NH]</li>
 	<li><X href="/highlights/stellar_convection/">Stellar convection</X> [PJK/JW]</li>
 	<li><X href="/highlights/magnetorotational_instability/">Magnetorotational instability</X> [AJ/WL]</li>
 	<li><X href="/highlights/Kelvin_Helmholtz/">Kelvin Helmholtz instability</X> [MM/WL]</li>
 	<li><X href="/highlights/streaming_instability/">Streaming instability</X> [DC/ML/AJ/WL]</li>
 	<li><X href="/highlights/global_cartesian_discs/">Global discs</X> [WL]</li>
 	<li><X href="/highlights/particle_flow_around_objects/">Particle flow around objects</X> [NH/DM]</li>
-	<li><X href="/highlights/spot_self_assembly/">spot self assembly</X> [AB]</li>
-	<li><X href="/highlights/test_methods/">test methods</X> [MR]</li>
+	<li><a href="https://www.nordita.org/~brandenb/projects/NEMPI/">spot self assembly</a> [AB]</li>
+	<li><a href="https://www.nordita.org/~brandenb/projects/testfield/">test methods</a> [AB]</li>
+</ul>
+
+<p>
+Selected published projects with links to run directories:
+<ul>
+	<li><a href="https://www.nordita.org/~brandenb/projects/">Projects involving A. Brandenburg</a></li>
 </ul>
 
 </div>
