@@ -22,35 +22,38 @@ Topics for Pencil code User Meeting in Newcastle 2017:
     ~/pencil-code/doc/citations/notes.pdf
     http://pencil-code.nordita.org/doc/citations.pdf
 
-+ pencil GPU/CUDA, astaroth: implementation for basic hydro problem (samples/gputest) almost complete. [Matthias, Johannes]
++ pencil GPU/CUDA, astaroth: implementation for basic hydro problem (samples/gputest) almost complete. Plans for future convergence of astaroth and pencil/gpu code. [Matthias, Johannes]
 
-+ particles' modules: new 'particles_intertial' module, without swarms, to be created from particles_dust.  most particles_* modules to be moved to a subdirectory src/particles (cf. src/magnetic). [Nils, Chao-Chin, Dhruba]
++ particles' modules: new 'particles_inertial' (or 'particles_lagrangian') module, without swarms, to be created from particles_dust.  most particles_* modules to be moved to a subdirectory src/particles (cf. src/magnetic).  Also some streamlining of the particles code to be implemented, to reduce the amount of interpolation and allocation/deallocation. [Nils, Chao-Chin, Dhruba, Andrew]
+o
 
-+ 'decoupling sample from website': Create new 'highlights'/'production_runs' directory in repository, for 'serious' simulations (cf. the smaller problems considered in samples).  Also expand highlights on website with additional examples (chase up individuals currently with unexpanded listings). Adopt *.md format for README files on github. [Many]
+- also re: particles: some 'direct' unformatted writes from within particles modules should be replaced by calls to routines in the i/o modules, to facilitate the implementation of the HDF5 file i/o option for particles.
+
++ 'decoupling sample from website': Create new 'highlights'/'production_runs' directory in repository, for 'serious' simulations (cf. the smaller problems considered in samples).  Also expand highlights on website with additional examples (chase up individuals currently with unexpanded listings). Adopt *.md format for README files on github. [Many?]
 
 - python/pencilnew: these (more object-orientated) python scripts now functional for most purposes; users encouraged to use them. More functionalities will be ported soon. Sim objects largely functional.
 
-- HDF5: currently implemented, beyond minor issue with persistent variables (particularly any processor-dependent variables: e.g. random seed?). 
+- HDF5: currently implemented, beyond minor issue with persistent variables used by some modules (particularly any processor-dependent variables: e.g. random seed?). And some particles files not yet dealt with: needs work on particles modules (some 'direct' writes to unformatted fortran output should be replaced by calls to routines in the i/o modules.)
 
-- git/svn. Previously-suggested alternatives to the current hosting on github were not considered acceptable. (Without paying for hosting, bitbucket only allows five committers, which is unworkable for pencil;  and most people were unhappy with the idea of a private server.)  So in the absence of other specific suggestions (?), we continue with the status quo.
+- git/svn. Given problems with svn-bridge on github, bitbucket was discussed as an alternative. They provide free hosting for academic users, and have a facility for mirrored git and svn repositories (using SubGit). To be tested with the website repository. If ultimately adopted, github repository would be maintained as a read-only mirror. 
 
 x code stability/timestep control: additional dt-control functionality added for momentum equation, via lcdt_tauf. [Fred]
 
-- pencil-code boundary conditions: one-sided b.c.s implemented, avoiding overspecification of b.c.s by current 'a'/'s' options. But currently prone to instability. (Matthias)
+- pencil-code boundary conditions: one-sided b.c.s implemented, avoiding overspecification of b.c.s by current 'a'/'s' options. But currently prone to instability -- Joergen has some experience of this? (Matthias, Joergen)
 
 - reorganising code to allow multiple special modules: in principle possible, but more concrete applications where this is needed are requested, before proceeding.  (And before this is done, there is no need to link to special modules dynamically.)
 
-+ auto-test: stop using g95 compiler, start using pgi as an additional option (on norlx51 or scylla?). [?]
++ auto-test: stop using g95 compiler, start using pgi as an additional option? (On norlx51 or scylla?) To be discussed further with Wolfgang et al. (NB: current gfortran compilers have more debugging options than currently being used.) [Axel, Boris, Wolfgang?]
 
-+ PC paper: revive the idea of a special issue.  Possible destinations: Physica Scripta; SIAM J Sci Comp; GAFD; Comp Phys Commun; JPP.  Possible guest-editors: Fred and Simon.  A revised list of likely submissions to be chased up.  [Simon, Fred]
++ PC paper: the idea of a special issue was revived.  Likely destination GAFD, after discussion with editor (Andrew Soward).  (Physica Scripta, SIAM J Sci Comp, Comp Phys Commun, & JPP were earlier discussed).  Likely guest-editors: Axel, Fred, Simon.  A revised list of likely submissions to be chased up; likely deadline Feb 2018?  [Axel, Simon, Fred]
 
 - chase up alternative ways to track pencil-code-using publications (cf. ADS bumblebee); any possibilities on Web of Science?
 
-- chase up whitelisting of norlx51b, for people currently being blacklisted
+- chase up whitelisting of norlx51b, for people currently being blacklisted [Graeme, w.r.t. Newcastle]
 
-- documentation: some (many?) modules not currentl documented in manual.
+- documentation: some (many?) modules not currently documented in manual.
 
-- registering: do all registering from register_* subroutines. Do all put_shared_variable calls in register_*.  Do all get_shared_variable calls in initialize_*. 
++ registering: do all registering from register_* subroutines:  i.e. do all put_shared_variable calls from register_*; and do all get_shared_variable calls from initialize_*. Boris concerned this is not so simple (entropy modules very messy)? [Matthias, Boris]
 
 - code style: it is proposed that we avoid using labelled-if structures shorter than, say, 20 lines of code.
 
