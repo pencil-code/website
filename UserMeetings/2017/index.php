@@ -9,14 +9,14 @@
 <!-- DATE and VENUE -->
 <p><b><u>DATE &amp; VENUE:</u></b>
 <b>10<sup>th</sup> to 14<sup>th</sup> July 2017</b><br>
-The meeting will be held in <a href="https://en.wikipedia.org/wiki/Newcastle_upon_Tyne">Newcastle (UK)</a> in the <a href="http://www.ncl.ac.uk/maths/">School of Mathematics & Statistics</a> of <a href="http://www.ncl.ac.uk/">Newcastle University</a>.
+The meeting was held in <a href="https://en.wikipedia.org/wiki/Newcastle_upon_Tyne">Newcastle (UK)</a>, in the <a href="http://www.ncl.ac.uk/maths/">School of Mathematics & Statistics</a> of <a href="http://www.ncl.ac.uk/">Newcastle University</a>.
 </p>
 
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
-The meeting will involve technical and scientific presentations and workshops, open discussions about the Pencil Code, and sessions for coding and/or individual discussion.
-Topics are listed in <a href="/UserMeetings/2017/agenda.txt">agenda.txt</a>,
-and a provisional schedule is below.
+The meeting involved technical and scientific presentations and workshops, open discussions about the Pencil Code, and sessions for coding and/or individual discussion.
+Topics (with some outcomes) are listed in <a href="/UserMeetings/2017/agenda.txt">agenda.txt</a>;
+the meeting schedule is below.
 <p>
 <table border="1" cellpadding="4" cellspacing="1">
 <!-- <tr><td rowspan="9" bgcolor="#f0f0f0">Monday, 10</td> -->
@@ -148,14 +148,20 @@ Remote participants:
 </table>
 </p>
 
+<p><b><u>NEXT MEETING:</u></b><br>
+
+The next meeting should be in Boulder, in 2018&hellip;
+
+<!--
 <p><b><u>REGISTRATION:</u></b><br>
 If you would still like to register to participate,
 please email <a href="mailto:g.r.sarson@ncl.ac.uk">g.r.sarson@ncl.ac.uk</a>.
 There is no registration fee.
 </p>
 <p>
+-->
 
-<!-- TRAVEL -->
+<!--
 <p><b><u>TRAVEL:</u></b><br>
 The meeting will take place in the 
 <a href="http://www.ncl.ac.uk/tour/academic/herschel-building/">Herschel Building</a>,
@@ -195,16 +201,15 @@ pages; and their
 <a href="http://www.newcastlegateshead.com/plan-your-visit/travel/getting-around">Getting around</a>
 page is a good introduction to the city's public transport options.
 </p>
+-->
 
-<!-- ACCOMMODATION -->
+<!--
 <p><b><u>ACCOMMODATION:</u></b><br>
 
 A large variety of accommodation is available in Newcastle.
 Most of the options listed below have been used by University visitors before.
-<!-- or have been otherwise recommended. -->
 For some of these options,
 standard University rates are available.
-<!--the rates posted below are for a single room, including breakfast.-->
 (The University rates listed are for a single room, but other rooms are available.
 To ensure the use of these rates, it's simplest to go via our Office Staff;
 so please email any booking requests to 
@@ -228,63 +233,29 @@ Newcastle City Centre is 15-20 minutes walk from the University.
 <tr>
 <td><a href="https://www.motel-one.com/en/hotels/newcastle/hotel-newcastle/">Motel One</a>
 <td>new, modern hotel: University rate &pound;82.20 per night, incl. breakfast
-<!--
-<tr>
-<td><a href="http://www.hotelindigonewcastle.co.uk/">Hotel Indigo</a> 
-<td>new, modern hotel, ca. &pound;80 per night
--->
 <tr>
 <td><a href="http://www.premierinn.com/en/hotel/NEWNEW/newcastle-central">Premier Inn Newcastle Central</a>
 <td>central branch of budget chain, ca. &pound;40-50 per night
 <tr>
 <td><a href="http://www.premierinn.com/en/checkHotel/NEWPTI/newcastle-quayside">Premier Inn Newcastle Quayside</a>
 <td>Quayside branch of budget chain, ca. &pound;40-50 per night
-<!--
-<tr>
-<td><a href="http://www.royalstationhotel.com/">Royal Station Hotel</a>
-<td>Victorian hotel, next to train station: University rate &pound;78 per night, incl. breakfast
--->
 <tr>
 <td><a href="http://sleeperz.com/#newcastle">Sleeperz Newcastle</a>
 <td>new, modern hotel, near train station, ca. &pound;60-70 per night
-<!--
-<tr>
-<td><a href="http://www.vermont-hotel.com/">Vermont Hotel</a> 
-<td>upmarket hotel, in historic city centre, ca. &pound;80-100 per night
--->
 </table>
 </p>
 
 <p><b>Jesmond</b><br>
 The suburb of Jesmond is 20-25 minutes walk from the University.
-<!-- (and is also served by Newcastle's Metro and Bus systems). -->
 
 <p>
 <table cellspacing="0px" cellpadding="2.5%">
-<!--
-<tr>
-<td><a href="http://www.avenuenewcastle.co.uk/">The Avenue</a> 
-<td>small, family-run guesthouse, ca. &pound;40 per night
--->
 <tr>
 <td><a href="http://www.peelhotels.co.uk/hotels/caledonian-hotel-newcastle-upon-tyne-tyne-and-wear-england/">Caledonian Hotel</a>
 <td>larger, midmarket hotel: University rate &pound;75 per night, incl. breakfast
-<!--
-<tr>
-<td><a href="http://www.ihg.com/holidayinn/hotels/gb/en/newcastle-upon-tyne/ncljm/hoteldetail">Holiday Inn Newcastle Jesmond</a> 
-<td>Jesmond branch of chain, ca. &pound;80-100 per night
--->
 <tr>
 <td><a href="http://www.theosbornehotel.co.uk/">Osborne Hotel</a>
 <td>basic, reliable hotel: University rate &pound;45 per night, incl. breakfast
-<!--
-<tr>
-<td><a href="http://www.jesmondhotel.co.uk/">Jesmond Hotel</a> 
-<td>small hotel, ca. &pound;40-50 per night
-<tr>
-<td><a href="http://www.thenewnorthumbriahotel.co.uk/">New Northumbria Hotel</a>
-<td>larger, midmarket hotel, ca. &pound;60-80 per night
--->
 </table>
 </p>
 
@@ -299,11 +270,6 @@ The coastal town of Whitley Bay is a 25 minute Metro ride from the University. (
 <tr>
 <td><a href="http://www.royalhotelwhitleybay.co.uk/">Royal Hotel</a>
 <td>sea-front hotel, ca. &pound;45 per night
-<!--
-<tr>
-<td><a href="">Park Lodge Guest House</a>
-<td>family-run guest house, ca. &pound;65 per night
--->
 <tr>
 <td><a href="http://www.yorkhousehotel.com/">York House Hotel</a>
 <td>upmarket, family-run hotel, ca. &pound;100 per night
@@ -316,9 +282,6 @@ For a more comprehensive list (with booking links), please see the
 page of the Newcastle Gateshead Initiative.
 </p>
 <p>
-
-<!--
-<li><a href="/UserMeetings/2017/agenda.txt">agenda.txt</a></li>
 -->
 
 </div>
