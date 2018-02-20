@@ -3,3 +3,4 @@ gt ~/pencil-code/doc/citations
 svn up
 gb
 cp ~/pencil-code/doc/citations/notes.pdf citations.pdf
+cp ~/pencil-code/doc/manual.pdf .
