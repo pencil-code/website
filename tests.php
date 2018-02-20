@@ -16,9 +16,9 @@ our own tests. The latest test results for a can be seen online:</p>
 
 <ul STYLE="font-size:13px;">
 <!-- Hourly test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/gfortran_hourly.html">Nordita: GNU gfortran 4.6.3-1ubuntu5 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, hourly
+<li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/gfortran_hourly.html">Nordita: GNU gfortran 4.6.3-1ubuntu5 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, hourly
 <!-- Daily test -->
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/g95_debug.html">Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily
+<li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/g95_debug.html">Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily
 <!-- Philippe Bourdin -->
 <li><a href="http://www.PAB-Software.de/Pencil/daily-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin)</a>, daily
 <li><a href="http://www.PAB-Software.de/Pencil/previous-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin)</a>, previous run
@@ -29,7 +29,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Sven Bingert -->
 <li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, 64 bit, by Sven Bingert)</a>, standard and personal tests
 <!-- Nordita PowerMac
-<li><a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac: g95 with OpenMPI (MacOS X, by Axel)</a> [<a href="http://norlx51.albanova.se/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
+<li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac: g95 with OpenMPI (MacOS X, by Axel)</a> [<a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
 -->
 <!-- Anders Johansen
 <li><a href="http://www.astro.ku.dk/~ajohan/pencil-test.html">GNU gfortran with OpenMPI (by Anders Johansen)</a>
