@@ -1,0 +1,49 @@
+To edit this file or the web pages, please do:
+svn checkout https://github.com/pencil-code/website/trunk/ www
+
+
+Topics for Pencil code User Meeting in Newcastle 2017:
+======================================================
+% Notes: "-" means that this item is still open (nothing has happened)
+%        "+" means that it is already in progress (people working on it)
+%        "*" same, but high priority
+%        "/" postponed
+%        "x" means that it has been dealt with
+%            [assigned Persons] feel free to add yourself
+%
+# http://pencil-code.nordita.org/UserMeetings/2018/
+
+- Report from the Pencil Code Steering Committee
+
+- Scientific use of the Pencil Code
+    ~/pencil-code/doc/citations/notes.pdf
+    http://pencil-code.nordita.org/doc/citations.pdf
+
+- GAFD Special Issue (update)
+
+- Complaints? (e.g. long compile time etc)
+
+- IDL auto-tests? Similar things for python?
+
+- New code developments/status reports? E.g.:
+    acscalar (active scalar)
+    slope limited diffusion?
+    gravitational waves
+    Yin-Yang grid
+    chemistry?
+    src/cuda?
+    grid refinement?
+    turbulence test problem against inviscous codes.
+    not all the idl code exists in python (and vice versa?)
+    code clean-up (walking into someone's attic)
+
+- 'decoupling sample from website': Create new 'highlights'/'production_runs' directory in repository, for 'serious' simulations (cf. the smaller problems considered in samples).  Also expand highlights on website with additional examples (chase up individuals currently with unexpanded listings). Adopt *.md format for README files on github. [Many?]
+
+- python/pencilnew: these (more object-orientated) python scripts now functional for most purposes; users encouraged to use them. More functionalities will be ported soon. Sim objects largely functional.
+
+- HDF5: currently implemented, beyond minor issue with persistent variables used by some modules (particularly any processor-dependent variables: e.g. random seed?). And some particles files not yet dealt with: needs work on particles modules (some 'direct' writes to unformatted fortran output should be replaced by calls to routines in the i/o modules.)
+
+- auto-test
+
+- documentation: some (many?) modules not currently documented in manual.
+
