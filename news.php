@@ -6,13 +6,13 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">22 June 2017:<br>
-A provisional schedule has been posted for the 
-<a href="http://pencil-code.nordita.org/UserMeetings/2017/">Pencil Code User Meeting 2017</a> in Newcastle, July 10-14.
+<li class="separated">11 April 2018:<br>
+The next
+<a href="http://agenda.albanova.se/conferenceDisplay.py?confId=6539">Pencil Code User Meeting 2018</a> will be in Boulder, June 11-15.
 </li>
 
-<li class="separated">17 Dec 2016:<br>
-A Pencil Code Steering Committee (PCSC) has now been set up:
+<li class="separated">11 April 2018:<br>
+The minutes of the Pencil Code Steering Committee (PCSC) are posted on:
 <a href="http://www.nordita.org/~brandenb/pencil-code/PCSC/">http://www.nordita.org/~brandenb/pencil-code/PCSC/</a>
 </li>
 
