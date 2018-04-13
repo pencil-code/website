@@ -43,7 +43,7 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 
 - HDF5: currently implemented, beyond minor issue with persistent variables used by some modules (particularly any processor-dependent variables: e.g. random seed?). And some particles files not yet dealt with: needs work on particles modules (some 'direct' writes to unformatted fortran output should be replaced by calls to routines in the i/o modules.)
 
-- auto-test
+- auto-test (Jenkins server)
 
 - documentation: some (many?) modules not currently documented in manual.
 
