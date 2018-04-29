@@ -48,3 +48,6 @@ Topics for Pencil code User Meeting in Newcastle 2017:
 - documentation: some (many?) modules not currently documented in manual.
 
 - is anybody having problems with getconf (too "convoluted")?
+
+- should src/*.local files reside and be checked in elsewhere?
+  And should one link the entire src directory -s the -s option?
