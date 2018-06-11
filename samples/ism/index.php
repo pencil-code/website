@@ -18,9 +18,9 @@ We model conditions typical of the solar neighbourhood. (1 kpc = 30.86 thousand 
 <div align="center">
     <table border=0 cellspacing=15>
       <tr>
-        <td align="center"><a href="/samples/ism/rho.avi"><img src="/samples/ism/rho.jpg" width="240" height="200" border="0" alt="plasma density"></a></td>
-        <td align="center"><a href="/samples/ism/tt.avi"><img src="/samples/ism/tt.jpg" width="240" height="200" border="0" alt="plasma temperature"></a></td>
-        <td align="center"><a href="/samples/ism/e_b.avi"><img src="/samples/ism/b2.jpg" width="240" height="200" border="0" alt="magnetic field strength"></a></td>
+        <td align="center"><a href="http://fagent.wdfiles.com/local--files/astro/rho1.gif"><img src="/samples/ism/rho.jpg" width="240" height="200" border="0" alt="plasma density"></a></td>
+        <td align="center"><a href="http://fagent.wdfiles.com/local--files/astro/tt1.gif"><img src="/samples/ism/tt.jpg" width="240" height="200" border="0" alt="plasma temperature"></a></td>
+        <td align="center"><a href="http://fagent.wdfiles.com/local--files/astro/e_b.gif"><img src="/samples/ism/b2.jpg" width="240" height="200" border="0" alt="magnetic field strength"></a></td>
       </tr>
       <tr>
         <td align="center">plasma density</td>
