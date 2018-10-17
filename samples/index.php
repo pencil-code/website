@@ -12,6 +12,7 @@ Currently, we have the following samples planned for further documentation:
 	<li><a href="/samples/turbulence/helical-MHDturb32-4procs/">helical MHD turbulence</a></li>
 	<li><a href="/samples/turbulence/hydro512f/">non-helical hydro turbulence</a></li>
 	<li><a href="/samples/shearing-box/">Shearing box</a></li>
+	<li><a href="/samples/corona/">Coronal heating problem</a></li>
 <?php
 	//
 	// Please replace "<X ...>...</X> with <a ...>...</a> when the proper documents are ready"
