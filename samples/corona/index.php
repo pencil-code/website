@@ -25,7 +25,7 @@ As responsible for the coronal energy input, we could identify the vertical Poyn
 These motions avect the footpoints of magnetic field lines in the photosphere, where the plasma beta is large and hence the so-called field-line braiding mechanism injects magnetic energy from below.
 While these magnetic disturbances travel into the corona they may induce electric currents, which eventually heat the plasma by Ohmic dissipation.</p>
 
-<p>The model is driven by an active regeion magnetogram observed in the photosphere (black/gray/white, middle panel) and reproduces well observations of the corona.
+<p>The model is driven by an active region magnetogram observed in the photosphere (black/gray/white, middle panel) and reproduces well observations of the corona.
 This explains the magnetic energy input and yields to realistic coronal heating in the active region core.</p>
 
 References:
@@ -34,7 +34,7 @@ References:
 	<li>Bourdin et al. (2014), PASJ 66, S7&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2014PASJ...66S...7B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1093/pasj/psu123">10.1093/pasj/psu123</a>)</li>
 	<li>Bourdin et al. (2015), A&amp;A 580, A72&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2015A%26A...580A..72B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525839">10.1051/0004-6361/201525839</a>)</li>
 	<li>Bourdin et al. (2016), A&amp;A 589, A86&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2016A%26A...589A..86B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525840">10.1051/0004-6361/201525840</a>)</li>
-	<li>Bourdin (2017), ApJL 850, L29&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2017ApJ...850L..29B">ADS</a>, DOI: <a href="http://dx.doi.org/10.3847/2041-8213/aa9988">10.3847/2041-8213/aa9988</a>)</li>
+	<li>Bourdin (2017), ApJL 850, L29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2017ApJ...850L..29B">ADS</a>, DOI: <a href="http://dx.doi.org/10.3847/2041-8213/aa9988">10.3847/2041-8213/aa9988</a>)</li>
 </ul>
 
 </div>
