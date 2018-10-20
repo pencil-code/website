@@ -21,7 +21,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/g95_debug.html">Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily
 <!-- Philippe Bourdin -->
 <li><a href="http://www.PAB-Software.de/Pencil/daily-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin), large daily</a>, (<a href="http://www.PAB-Software.de/Pencil/previous-daily.html">previous run</A>)
-<li><a href="http://www.PAB-Software.de/Pencil/minimal-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin), small hourly</a>, (<a href="http://www.PAB-Software.de/Pencil/previous-minimal.html">previous run</A>)
+<li><a href="http://www.PAB-Software.de/Pencil/minimal-test.html">GNU gfortran 4.8.4-2ubuntu1, (Ubuntu 14.04 LTS, 64 bit, by Philippe Bourdin), minimal minutely</a>, (<a href="http://www.PAB-Software.de/Pencil/previous-minimal.html">previous run</A>)
 <!-- Boris Dintrans -->
 <li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Toulouse: Intel ifort v12.1.3.293 (Ubuntu 13.10, 64 bit, by Boris Dintrans)</a>, daily standard level 2 test
 <!-- Boris Dintrans additional -->
