@@ -16,6 +16,7 @@ our own tests. The latest test results for a can be seen online:</p>
 
 <ul STYLE="font-size:13px;">
 <!-- Hourly test -->
+<li><a href="https://www.travis-ci.com/pencil-code/pencil-code">Travis</a>, after each check-in
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/gfortran_hourly.html">Nordita: GNU gfortran 4.6.3-1ubuntu5 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, hourly
 <!-- Daily test -->
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/g95_debug.html">Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily
