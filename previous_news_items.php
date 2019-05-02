@@ -7,6 +7,11 @@
 
 <ul>
 
+<li class="separated">11 April 2018:<br>
+The next
+<a href="http://agenda.albanova.se/conferenceDisplay.py?confId=6539">Pencil Code User Meeting 2018</a> will be in Boulder, June 11-15.
+</li>
+
 <li class="separated">17 Dec 2016:<br>
 The Doodle for Pencil Code User Meeting 2017 is out:
 <a href="http://doodle.com/poll/ci7d8bhdb4yxcxr5">http://doodle.com/poll/ci7d8bhdb4yxcxr5</a>
