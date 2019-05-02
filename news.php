@@ -6,9 +6,9 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">11 April 2018:<br>
+<li class="separated">02 May 2019:<br>
 The next
-<a href="http://agenda.albanova.se/conferenceDisplay.py?confId=6539">Pencil Code User Meeting 2018</a> will be in Boulder, June 11-15.
+<a href="http://agenda.albanova.se/conferenceDisplay.py?confId=6539">Pencil Code User Meeting 2019</a> will be in Espoo, August 12-16.
 </li>
 
 <li class="separated">11 April 2018:<br>
