@@ -4,7 +4,7 @@
  ?>
 <div class="centcolumnpad">
 <!-- HEADER -->
-<h2>13<sup>th</sup> Pencil Code User Meeting 2019</h2>
+<h2>15<sup>th</sup> Pencil Code User Meeting 2019</h2>
 
 <!-- DATE and VENUE -->
 <p><b><u>DATE &amp; VENUE:</u></b>
