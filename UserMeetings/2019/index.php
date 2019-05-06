@@ -87,6 +87,21 @@ the meeting schedule is below.
 
 <p><b><u>PARTICIPANTS:</u></b><br>
 <p>
+<?php
+$row = 1;
+if (($handle = fopen("https://docs.google.com/spreadsheets/d/1B-SXclNzuoq5IsP9GBmUdpx37b0Rb5QxlzNoCq6sCUA/edit?usp=sharing", "r")) !== FALSE) {
+    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+        $num = count($data);
+        echo "<p> $num fields in line $row: <br /></p>\n";
+        $row++;
+        for ($c=0; $c < $num; $c++) {
+            echo $data[$c] . "<br />\n";
+        }
+    }
+    fclose($handle);
+}
+?>
+<!--
 <table cellspacing="0px" cellpadding="2.5%">
 <tr>
 <td> Axel Brandenburg (Nordita)
@@ -109,7 +124,6 @@ Remote participants:
 <table cellspacing="0px" cellpadding="2.5%">
 <tr>
 <td> TBA
-<!--
 <tr>
 <td> Wladimir Lyra (Cal State Northridge)
 <tr>
