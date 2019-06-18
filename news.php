@@ -8,7 +8,7 @@
 
 <li class="separated">02 May 2019:<br>
 The next
-<a href="UserMeetings/2019">Pencil Code User Meeting 2019</a> will be in Espoo, August 12-16.
+<a href="https://agenda.albanova.se/conferenceDisplay.py?confId=6785">Pencil Code User Meeting 2019</a> will be in Espoo, August 12-16.
 </li>
 
 <li class="separated">11 April 2018:<br>
