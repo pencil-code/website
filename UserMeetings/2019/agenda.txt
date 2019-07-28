@@ -17,4 +17,4 @@ Topics for Pencil code User Meeting in Aalto 2019:
 
 - Developments of HDF5 file formats and application 
 
-
+- Updates of the manual (e.g. remeshing)
