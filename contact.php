@@ -17,6 +17,7 @@ The current core-development team consists of:
 <li>Axel Brandenburg (brandenb&#64;nordita&#46;org)</li>
 <li>Sven Bingert</li>
 <li>Philippe-A. Bourdin</li>
+<li>Piyali Chatterjee</li>
 <li>Boris Dintrans</li>
 <li>Wolfgang Dobler</li>
 <li>Nils E. Haugen</li>
