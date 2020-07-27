@@ -13,21 +13,25 @@ Topics for Pencil code User Meeting in Glasgow (virtual) 2020:
 %
 # http://pencil-code.nordita.org/UserMeetings/2020/
 
-- Updates of the manual (DOI, as follow-up on GAFD spec issue)
+- Newsletter <-- Mon 13:00
+
+- Status of HDF5: efficency? Default standard? (-> Mon 10:30)
+
+- Updates of the manual (DOI, as follow-up on GAFD spec issue) <-- Mon 19:00
 - code license, data license questions
 
 - Summary from the Pencil Code Steering Committee -> for Newsletter
 
-- Status of HDF5: efficency? Default standard? (-> Fri 16:30)
-
-- autotest issues (when something breaks, and idl)
-- fix/clarify solar atmosphere (Wed 10:00)
+- autotest issues (when something breaks, and idl) <-- Tue 14:00
+- fix/clarify solar atmosphere (Wed 10:00) <-- Tue 14:00
 
 - list of committers (familiarize)
 
 - specific coding goals
-- user-specific initialization
+- user-specific initialization (Tue 11:00) $USER/start.in, and then start.in (e.g., it1=1)
 - xyz range to specify in units of pi (for example)
-- GW w/ x-parallelization
+- GW w/ x-parallelization (Fourier)
 - GW output in real space
+- ...
 
+- non-resistive MHD (Wed pm)
