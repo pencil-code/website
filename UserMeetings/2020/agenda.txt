@@ -13,7 +13,7 @@ Topics for Pencil code User Meeting in Glasgow (virtual) 2020:
 %
 # http://pencil-code.nordita.org/UserMeetings/2020/
 
-- Newsletter <-- Mon 13:00
+- Newsletter <-- Mon 17:00
 
 - Status of HDF5: efficency? Default standard? (-> Mon 10:30, + Fri 16:30)
 - Particles + Wed 18:30 random numbers (Xiang-Yu)
@@ -30,7 +30,11 @@ Topics for Pencil code User Meeting in Glasgow (virtual) 2020:
 
 - deriv_in_3sec_instead_of_14min for Alberto
 
-- to add src/pc_build_details
+- to add src/pc_build_details <-- Philipe looking into it
+
+- xyaver in uniform time intervals
+
+- change default for lwrite_last_powersnap=F
 
 - specific coding goals
 - user-specific initialization (Tue 11:00) $USER/start.in, and then start.in (e.g., it1=1)
