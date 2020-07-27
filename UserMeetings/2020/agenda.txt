@@ -30,6 +30,8 @@ Topics for Pencil code User Meeting in Glasgow (virtual) 2020:
 
 - deriv_in_3sec_instead_of_14min for Alberto
 
+- to add src/pc_build_details
+
 - specific coding goals
 - user-specific initialization (Tue 11:00) $USER/start.in, and then start.in (e.g., it1=1)
 - xyz range to specify in units of pi (for example)
