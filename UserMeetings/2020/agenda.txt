@@ -15,7 +15,8 @@ Topics for Pencil code User Meeting in Glasgow (virtual) 2020:
 
 - Newsletter <-- Mon 13:00
 
-- Status of HDF5: efficency? Default standard? (-> Mon 10:30)
+- Status of HDF5: efficency? Default standard? (-> Mon 10:30, + Fri 16:30)
+- Particles + Wed 18:30 random numbers (Xiang-Yu)
 
 - Updates of the manual (DOI, as follow-up on GAFD spec issue) <-- Mon 19:00
 - code license, data license questions
@@ -26,6 +27,8 @@ Topics for Pencil code User Meeting in Glasgow (virtual) 2020:
 - fix/clarify solar atmosphere (Wed 10:00) <-- Tue 14:00
 
 - list of committers (familiarize)
+
+- deriv_in_3sec_instead_of_14min for Alberto
 
 - specific coding goals
 - user-specific initialization (Tue 11:00) $USER/start.in, and then start.in (e.g., it1=1)
