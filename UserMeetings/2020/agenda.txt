@@ -1,0 +1,33 @@
+To edit this file or the web pages, please do:
+svn checkout https://github.com/pencil-code/website/trunk/ www
+
+
+Topics for Pencil code User Meeting in Glasgow (virtual) 2020:
+==============================================================
+% Notes: "-" means that this item is still open (nothing has happened)
+%        "+" means that it is already in progress (people working on it)
+%        "*" same, but high priority
+%        "/" postponed
+%        "x" means that it has been dealt with
+%            [assigned Persons] feel free to add yourself
+%
+# http://pencil-code.nordita.org/UserMeetings/2020/
+
+- Updates of the manual (DOI, as follow-up on GAFD spec issue)
+- code license, data license questions
+
+- Summary from the Pencil Code Steering Committee -> for Newsletter
+
+- Status of HDF5: efficency? Default standard? (-> Fri 16:30)
+
+- autotest issues (when something breaks, and idl)
+- fix/clarify solar atmosphere (Wed 10:00)
+
+- list of committers (familiarize)
+
+- specific coding goals
+- user-specific initialization
+- xyz range to specify in units of pi (for example)
+- GW w/ x-parallelization
+- GW output in real space
+
