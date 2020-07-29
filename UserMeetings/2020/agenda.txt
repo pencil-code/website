@@ -23,7 +23,7 @@ Topics for Pencil code User Meeting in Glasgow (virtual) 2020:
 
 - Summary from the Pencil Code Steering Committee -> for Newsletter
 
-- xyaver in uniform time intervals (Tue 12:00)
+x xyaver in uniform time intervals (Tue 12:00)
 
 - autotest issues (when something breaks, and idl) <-- Tue 14:00
 - fix/clarify solar atmosphere (Wed 10:00) <-- Tue 14:00
