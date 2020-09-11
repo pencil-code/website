@@ -76,6 +76,15 @@ For code problems, please check this automatically generated <a href="/doc/faq.p
 <h2>Wiki</h2>
 Some helpful information are available on our <a href="https://github.com/pencil-code/pencil-code/wiki">project wiki</a>.
 </div>
+
+<div class="centerdivider"></div>
+<div class="centcolumnpad">
+<h2>Newsletter</h2>
+Since July 2020, the Pencil Code community has a newsletter to inform the users about recent developments,
+events, and opportunities.
+Back issues are available <a href="https://www.nordita.org/~brandenb/pencil-code/newsletter/">here</a>.
+</div>
+
 <?php
 	include "inc/footer.inc";
  ?>
