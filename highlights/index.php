@@ -36,9 +36,9 @@ Other highlighting uses of the Pencil Code include the following topics:
 	<li><a href="/samples/turbulence/nonhelical-MHD">Isotropic nonhelical MHD turbulence</a> [AB]</li>
 	<li><a href="https://www.nordita.org/~brandenb/projects/Classes/">Isotropic turbulence</a> [NH]</li>
 	<li><X href="/highlights/stellar_convection/">Stellar convection</X> [PJK/JW]</li>
-	<li><X href="/highlights/magnetorotational_instability/">Magnetorotational instability</X> [AJ/WL]</li>
-	<li><X href="/highlights/Kelvin_Helmholtz/">Kelvin Helmholtz instability</X> [MM/WL]</li>
-	<li><X href="/highlights/streaming_instability/">Streaming instability</X> [DC/ML/AJ/WL]</li>
+	<li><a href="http://wladimirlyra.com/turbulence.html">Magnetorotational instability</a> [AJ/WL]</li>
+	<li><a href="http://www.colinmcnally.ca/khcomp/index.html">Kelvin Helmholtz instability</a> [MM/WL]</li>
+	<li><a href="http://www.astro.lu.se/~anders/research.php#movies">Streaming instability</a> [DC/ML/AJ/WL]</li>
 	<li><X href="/highlights/global_cartesian_discs/">Global discs</X> [WL]</li>
 	<li><X href="/highlights/particle_flow_around_objects/">Particle flow around objects</X> [NH/DM]</li>
 	<li><a href="https://www.nordita.org/~brandenb/projects/NEMPI/">spot self assembly</a> [AB]</li>
