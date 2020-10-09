@@ -27,12 +27,6 @@ global accretion disk simulations.
 </p>
 
 <p>
-Boris Dintrans wrote a comprehensive introduction to Python and
-<a href="http://userpages.irap.omp.eu/~bdintrans/docs/talks/talk_pcmeeting08_19aug08.pdf">postprocessing
-with Python</a>.
-</p>
-
-<p>
 Wolfgang Dobler wrote
 <a href="/doc/git-getting-started.pdf">Git Getting Started</a> (Jun 10, 2016) and
 <a href="/doc/git-best-practises.pdf">Git Best Practises</a> guide (Jun 10, 2016).
