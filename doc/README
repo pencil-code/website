@@ -1,7 +1,8 @@
 #To update citations.pdf, compile it on ~/pencil-code/doc/citations and
-gt ~/pencil-code/doc/citations
+cd ~/pencil-code/doc/citations
 svn up
 gb
 cp ~/pencil-code/doc/citations/notes.pdf citations.pdf
 cp ~/pencil-code/doc/manual.pdf .
 cp ~/pencil-code/doc/git/git-best-practises.pdf .
+cp ~/pencil-code/doc/quick-guide/quick_start.pdf .
