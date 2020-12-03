@@ -6,12 +6,12 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">02 May 2019:<br>
-The next
-<a href="https://agenda.albanova.se/conferenceDisplay.py?confId=6785">Pencil Code User Meeting 2019</a> will be in Espoo, August 12-16.
+<li class="separated">3 December 2020:<br>
+For detailed news, see the
+<a href="https://www.nordita.org/~brandenb/pencil-code/newsletter/">Pencil Code Newsletter</a>
 </li>
 
-<li class="separated">11 April 2018:<br>
+<li class="separated">3 December 2020:<br>
 The minutes of the Pencil Code Steering Committee (PCSC) are posted on:
 <a href="http://www.nordita.org/~brandenb/pencil-code/PCSC/">http://www.nordita.org/~brandenb/pencil-code/PCSC/</a>
 </li>
