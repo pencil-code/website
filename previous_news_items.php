@@ -9,7 +9,7 @@
 
 <li class="separated">02 May 2019:<br>
 The next
-<a href="https://agenda.albanova.se/conferenceDisplay.py?confId=6785">Pencil Code User Meeting 2019</a> will be in Espoo, August 12-16.
+<a href="http://agenda.albanova.se/conferenceDisplay.py?confId=6785">Pencil Code User Meeting 2019</a> will be in Espoo, August 12-16.
 </li>
 
 <li class="separated">11 April 2018:<br>
@@ -35,7 +35,7 @@ Don't forget to sign up.
 <li class="separated">19 April 2015:
 Pencil Code moved from Google Code to Github.<br>
 We proudly announce the successful move to
-<a href="https://github.com/pencil-code/">https://github.com/pencil-code/</a>
+<a href="http://github.com/pencil-code/">http://github.com/pencil-code/</a>
 and thank Toby (aka tobson) for doing a splendid job!
 The move became neccessary after Google announced to close Google Code.
 Commands to download the code with git or svn are given on the <a href="download.php">download page</a>.

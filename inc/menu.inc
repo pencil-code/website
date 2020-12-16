@@ -10,7 +10,7 @@
 		"Meetings"            => "/meetings.php",
 		"References"          => "/references.php",
 		"Contact"             => "/contact.php",
-		"Latest changes ..."  => "https://github.com/pencil-code/pencil-code/commits/master",
+		"Latest changes ..."  => "http://github.com/pencil-code/pencil-code/commits/master",
 	);
 
 	$own = parse_url ($_SERVER['SCRIPT_NAME'], PHP_URL_PATH);

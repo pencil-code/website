@@ -39,7 +39,7 @@ Examples are</p>
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-Available as open source: <a href="https://github.com/pencil-code/" target="_top">https://github.com/pencil-code</a>.
+Available as open source: <a href="http://github.com/pencil-code/" target="_top">http://github.com/pencil-code</a>.
 </div>
 <?php
 	include "inc/footer.inc";

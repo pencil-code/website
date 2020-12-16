@@ -2146,8 +2146,8 @@ following:
 <!--l. 1143--><p class="noindent" ><span 
 class="pncb7t-x-x-120">A</span>: Detailed correspondence on this item can be found on:
 <a 
-href="https://groups.google.com/forum/?fromgroups#!topic/pencil-code-discuss/zek-uYNbgXI" class="url" ><span 
-class="cmtt-12">https://groups.google.com/forum/?fromgroups#!topic/pencil-code-discuss/zek-uYNbgXI</span></a> There is also working
+href="http://groups.google.com/forum/?fromgroups#!topic/pencil-code-discuss/zek-uYNbgXI" class="url" ><span 
+class="cmtt-12">http://groups.google.com/forum/?fromgroups#!topic/pencil-code-discuss/zek-uYNbgXI</span></a> There is also working
 material on unit systems under <a 
 href="http://www.nordita.org/~brandenb/teach/PencilCode/MixedTopics.html" class="url" ><span 
 class="cmtt-12">http://www.nordita.org/</span><span 

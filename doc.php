@@ -39,7 +39,7 @@ Matthias Rheinhardt presented a talk about the
 
 <p>
 A Python introduction can be found here:
-<a href="https://github.com/pencil-code/pencil-code/wiki/PythonForPencil">Python with the Pencil Code</a>.
+<a href="http://github.com/pencil-code/pencil-code/wiki/PythonForPencil">Python with the Pencil Code</a>.
 </p>
 	
 </div>
@@ -68,7 +68,7 @@ For code problems, please check this automatically generated <a href="/doc/faq.p
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
 <h2>Wiki</h2>
-Some helpful information are available on our <a href="https://github.com/pencil-code/pencil-code/wiki">project wiki</a>.
+Some helpful information are available on our <a href="http://github.com/pencil-code/pencil-code/wiki">project wiki</a>.
 </div>
 
 <div class="centerdivider"></div>
@@ -76,7 +76,7 @@ Some helpful information are available on our <a href="https://github.com/pencil
 <h2>Newsletter</h2>
 Since July 2020, the Pencil Code community has a newsletter to inform the users about recent developments,
 events, and opportunities.
-Back issues are available <a href="https://www.nordita.org/~brandenb/pencil-code/newsletter/">here</a>.
+Back issues are available <a href="http://www.nordita.org/~brandenb/pencil-code/newsletter/">here</a>.
 </div>
 
 <?php

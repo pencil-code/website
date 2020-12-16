@@ -4,10 +4,10 @@
  ?>
 <div class="centcolumnpad">
 <h2>Contact</h2>
-Detailed questions regarding the code and its usage can be discussed on our <a href="https://groups.google.com/forum/?fromgroups#!forum/pencil-code-discuss">public&nbsp;mailing&nbsp;list</a>.
+Detailed questions regarding the code and its usage can be discussed on our <a href="http://groups.google.com/forum/?fromgroups#!forum/pencil-code-discuss">public&nbsp;mailing&nbsp;list</a>.
 
 Issues of major concern to the Pencil Code community should be addressed
-to the <a href=https://www.nordita.org/~brandenb/pencil-code/PCSC/>Pencil Code Steering Committee</a>.
+to the <a href=http://www.nordita.org/~brandenb/pencil-code/PCSC/>Pencil Code Steering Committee</a>.
 </div>
 
 <div class="centerdivider"></div>
@@ -31,7 +31,7 @@ The current core-development team consists of:
 <li>Chao-Chin Yang</li>
 </ul>
 
-All the people involved in this project are <a href="https://github.com/pencil-code/pencil-code/graphs/contributors">listed here</a>.
+All the people involved in this project are <a href="http://github.com/pencil-code/pencil-code/graphs/contributors">listed here</a>.
 </div>
 <?php
 	include "inc/footer.inc";

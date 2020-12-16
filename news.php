@@ -8,7 +8,7 @@
 
 <li class="separated">3 December 2020:<br>
 For detailed news, see the
-<a href="https://www.nordita.org/~brandenb/pencil-code/newsletter/">Pencil Code Newsletter</a>
+<a href="http://www.nordita.org/~brandenb/pencil-code/newsletter/">Pencil Code Newsletter</a>
 </li>
 
 <li class="separated">3 December 2020:<br>
