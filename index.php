@@ -35,6 +35,7 @@ Examples are</p>
 	<td><em class="larger">Dynamo<br>experiments</em></td>
 </tr>
 </table>
+See also <a href="https://github.com/pencil-code/pencil-code/blob/master/README.md">https://github.com/pencil-code/pencil-code/blob/master/README.md"</a> for an entry to our GitHub papes.
 </div>
 
 <div class="centerdivider"></div>

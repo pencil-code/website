@@ -4,11 +4,10 @@
  ?>
 <div class="centcolumnpad">
 <h2>Documentation</h2>
-The manual for the Pencil Code is available <a href="/doc/manual.pdf" target="_blank">in PDF</a> (2.3M) or
- as <a href="/doc/manual.ps.gz">gzipped PostScript</a> (1.1M).
+The manual for the Pencil Code is available <a href="https://github.com/pencil-code/website/blob/master/doc/manual.pdf" target="_blank">in PDF</a> (2.3M).
 
 <p>
-<b><u>Hint:</u></b> We also have a <a href="/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
+<b><u>Hint:</u></b> We also have a <a href="https://github.com/pencil-code/website/blob/master/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
 </p>
 </div>
 
@@ -41,7 +40,12 @@ Matthias Rheinhardt presented a talk about the
 A Python introduction can be found here:
 <a href="http://github.com/pencil-code/pencil-code/wiki/PythonForPencil">Python with the Pencil Code</a>.
 </p>
-	
+
+<p>
+<a href="https://github.com/pencil-code/website/blob/master/doc/citations.pdf">Scientific usage of the Pencil Code</a>.
+</p>
+
+
 </div>
 
 <div class="centerdivider"></div>

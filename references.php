@@ -8,6 +8,16 @@
 <ul>
 
 <li class="separated">
+The Pencil Code Collaboration: <SPAN ID="hue6368">Brandenburg, A.</SPAN>, Johansen, A., Bourdin, P. A., Dobler, W., Lyra, W., Rheinhardt, M., Bingert, S., Haugen, N. E. L., Mee, A., Gent, F., Babkovskaia, N., Yang, C.-C., Heinemann, T., Dintrans, B., Mitra, D., Candelaresi, S., Warnecke, J., Käpylä, P. J., Schreiber, A., Chatterjee, P., Käpylä, M. J., Li, X.-Y., Krüger, J., Aarnes, J. R., Sarson, G. R., Oishi, J. S., Schober, J., Plasson, R., Sandin, C., Karchniwy, E., Rodrigues, L. F. S., Hubbard, A., Guerrero, G., Snodin, A., Losada, I. R., Pekkilä, J., &amp; Qian, C.:&nbsp;2021, &ldquo;The Pencil Code, a modular MPI code for partial differential equations and particles: multipurpose and multiuser-maintained,&rdquo; <EM>J. Open Source Software</EM> <B>6</B>, 2807
+<A ID="tex2html39"
+  HREF="http://arXiv.org/abs/2009.08231">(arXiv:2009.08231</A><A ID="tex2html40"
+  HREF="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2021JOSS....6.2807C">, ADS</A><A ID="tex2html41"
+  HREF="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2020arXiv200908231B">, ADS</A><A ID="tex2html42"
+  HREF="http://dx.doi.org/10.21105/joss.02807">, DOI</A><A ID="tex2html43"
+  HREF="http://norlx51.nordita.org/~brandenb/pencil-code/paper">, HTML</A><A ID="tex2html44"
+  HREF="http://www.nordita.org/~brandenb/Own_Papers/2021/PCcollab21.pdf">, PDF)</A>
+
+<li class="separated">
 Brandenburg, A., &amp; Dobler, W.: 2002, &quot;Hydromagnetic turbulence in computer simulations&quot;, <em>Comp. Phys. Comm.</em> <b>147</b>, 471-475
 (<a href="http://arXiv.org/abs/astro-ph/0111569"><i>astro-ph/0111569</i></a>,
 <a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2002CoPhC.147..471B&amp;db_key=PHY&amp;high=3ba10b02e000421">ADS</a>,

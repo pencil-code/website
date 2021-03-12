@@ -4,6 +4,13 @@
  ?>
 <div class="centcolumnpad">
 <h2>Contact</h2>
+Please make use of the Pencil Code Office Hours every second Friday
+of the month at 13:00 Central European Time (CET) or Central European
+Summer Time (CEST, in the Summer) to chat with the experts informally on
+<a href="https://stockholmuniversity.zoom.us/j/6415995185">zoom:6415995185</a>.
+Regular updates are also provided in the Pencil Code 
+<a href="https://www.nordita.org/~brandenb/pencil-code/newsletter/">Newsletter</a>,
+which appears several times per year.
 Detailed questions regarding the code and its usage can be discussed on our <a href="http://groups.google.com/forum/?fromgroups#!forum/pencil-code-discuss">public&nbsp;mailing&nbsp;list</a>.
 
 Issues of major concern to the Pencil Code community should be addressed
