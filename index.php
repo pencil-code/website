@@ -41,6 +41,7 @@ Examples are</p>
 <div class="centcolumnpad">
 Available as open source: <a href="http://github.com/pencil-code/" target="_top">http://github.com/pencil-code</a>.
 <br>
+<br>
 See also <a href="https://github.com/pencil-code/pencil-code/blob/master/README.md">https://github.com/pencil-code/pencil-code/blob/master/README.md"</a> for an entry to our GitHub papes.
 </div>
 <?php
