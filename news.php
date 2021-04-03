@@ -6,6 +6,11 @@
 <h2>News</h2>
 <ul>
 
+<li class="separated">3 April 2021:<br>
+The next Pencil Code User Meeting will be via zoom hosted by
+<a href="https://www.epfl.ch/labs/lastro/meetings/pcum2021/">EPFL</a>
+</li>
+
 <li class="separated">3 December 2020:<br>
 For detailed news, see the
 <a href="http://www.nordita.org/~brandenb/pencil-code/newsletter/">Pencil Code Newsletter</a>
