@@ -21,13 +21,16 @@ to the <a href=http://www.nordita.org/~brandenb/pencil-code/PCSC/>Pencil Code St
 <div class="centcolumnpad">
 The current core-development team consists of:
 <ul>
-<li>Axel Brandenburg (brandenb&#64;nordita&#46;org)</li>
 <li>Sven Bingert</li>
 <li>Philippe-A. Bourdin</li>
+<li>Axel Brandenburg (brandenb&#64;nordita&#46;org)</li>
+<li>Simon Candelaresi</li>
 <li>Piyali Chatterjee</li>
 <li>Boris Dintrans</li>
 <li>Wolfgang Dobler</li>
+<li>Frederick Gent</li>
 <li>Nils E. Haugen</li>
+<li>Tobias Heinemann</li>
 <li>Anders Johansen</li>
 <li>Petri K&auml;pyl&auml;</li>
 <li>Maarit K&auml;pyl&auml;</li>

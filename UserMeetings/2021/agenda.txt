@@ -15,6 +15,8 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 
 - try breakout room facilities: Remo, Sococo, Gathertown
 
+- travis: updates and actions
+
 - avoid WARNING when i_EEE is PROVIDED in multiple special modules
 
 - Newsletter: feedback
