@@ -13,38 +13,19 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 %
 # http://pencil-code.nordita.org/UserMeetings/2021/
 
-- breakout room facilities: Remo, Sococo, Gathertown
+- try breakout room facilities: Remo, Sococo, Gathertown
 
-x Newsletter <-- Mon 17:00
-  --> Letters to the editor
+- avoid WARNING when i_EEE is PROVIDED in multiple special modules
 
-- Status of HDF5: efficency? Default standard? (-> Mon 10:30, + Fri 16:30)
-  factor 2 is normal, have to live with it
+- Newsletter: feedback
 
-- Particles + Wed 18:30 random numbers (Xiang-Yu)
+- Status of HDF5
 
-- Updates of the manual (DOI, as follow-up on GAFD spec issue) <-- Mon 19:00
-- code license, data license questions
+- Summary from the Pencil Code Steering Committee
 
-x Summary from the Pencil Code Steering Committee -> for Newsletter
+- list of committers (review)
 
-x xyaver in uniform time intervals (Tue 12:00)
+- to add src/pc_build_details (Status; Philippe?)
 
-- autotest issues (when something breaks, and idl) <-- Tue 14:00
-- fix/clarify solar atmosphere (Wed 10:00) <-- Tue 14:00
+- user-specific initialization (Status: Philippe)
 
-- list of committers (familiarize)
-
-- to add src/pc_build_details <-- Philipe looking into it
-
-- change default for lwrite_last_powersnap=F
-not done yet, but to mention in newsletter
-
-- specific coding goals
-- user-specific initialization (Tue 11:00) $USER/start.in, and then start.in (e.g., it1=1) <-- Thu 9:00
-- xyz range to specify in units of pi (for example)
-x GW w/ x-parallelization (Fourier)
-- GW output in real space <-- Axel
-- ...
-
-x non-resistive MHD (Wed pm)
