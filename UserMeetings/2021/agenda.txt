@@ -19,9 +19,21 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 
 - avoid WARNING when i_EEE is PROVIDED in multiple special modules
 
+- pic developments?
+
+- move some modules to specials
+
+- to explain in manual how special works
+
+- do multiple simulations via a special special (Lyapunov exp, diff latitude)
+
 - Newsletter: feedback
 
-- Status of HDF5
+- Status of HDF5 (global arrays)
+
+- should we rename some more README files to README.md
+
+- varcontent problem, to report to Philippe
 
 - Summary from the Pencil Code Steering Committee
 
