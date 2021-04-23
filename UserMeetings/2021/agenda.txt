@@ -43,3 +43,14 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 
 - user-specific initialization (Status: Philippe)
 
+- to reduce error messages from FOURIER = fourier_fftpack
+
+- ccyang to present bfield module
+
+- cross_mn
+
+- reading xyaver without proc directries
+
+- pc_read_var,obj=var,/trimall,proc=0
+% Error occurred at: IDENTIFY_VARFILE   45 /home/brandenb/pencil-code/idl/read/identify_varfile.pro
+
