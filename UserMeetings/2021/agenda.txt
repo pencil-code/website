@@ -54,3 +54,6 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 - pc_read_var,obj=var,/trimall,proc=0
 % Error occurred at: IDENTIFY_VARFILE   45 /home/brandenb/pencil-code/idl/read/identify_varfile.pro
 
+- restart problems with param.nml being outdated
+
+- uut etc not ok anymore
