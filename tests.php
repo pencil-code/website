@@ -21,14 +21,14 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Daily test -->
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/g95_debug.html">Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily
 <!-- Philippe Bourdin -->
-<li><a href="http://www.PAB-Software.de/Pencil/daily-test.html">GNU gfortran 4.8.4, (Ubuntu, 64 bit, by Philippe Bourdin), large daily</a>, (<a href="http://www.PAB-Software.de/Pencil/previous-daily.html">previous run</A>)
-<li><a href="http://www.PAB-Software.de/Pencil/minimal-test.html">GNU gfortran 4.8.4, (Ubuntu, 64 bit, by Philippe Bourdin), minimal minutely</a>, (<a href="http://www.PAB-Software.de/Pencil/previous-minimal.html">previous run</A>)
+<li><a href="http://www.PAB-Software.de/Pencil/daily-test.html">GNU gfortran 9.3.0, (Ubuntu, by Philippe Bourdin), large daily</a>, (<a href="http://www.PAB-Software.de/Pencil/previous-daily.html">previous run</A>)
+<li><a href="http://www.PAB-Software.de/Pencil/minimal-test.html">GNU gfortran 9.3.0, (Ubuntu, by Philippe Bourdin), minimal minutely</a>, (<a href="http://www.PAB-Software.de/Pencil/previous-minimal.html">previous run</A>)
 <!-- Boris Dintrans (March 2021: 404 not found) -->
-<!--li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Toulouse: Intel ifort v12.1.3.293 (Ubuntu 13.10, 64 bit, by Boris Dintrans)</a>, daily standard level 2 test -->
+<!--li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Toulouse: Intel ifort v12.1.3.293 (Ubuntu 13.10, by Boris Dintrans)</a>, daily standard level 2 test -->
 <!-- Boris Dintrans additional (March 2021: 404 not found) -->
-<!-- li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Toulouse: Intel ifort v12.1.3.293 (Ubuntu 13.10, 64 bit, by Boris Dintrans)</a>, daily additional tests -->
+<!-- li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Toulouse: Intel ifort v12.1.3.293 (Ubuntu 13.10, by Boris Dintrans)</a>, daily additional tests -->
 <!-- Sven Bingert -->
-<li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, 64 bit, by Sven Bingert)</a>, standard and personal tests
+<li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, by Sven Bingert)</a>, standard and personal tests
 <!-- Nordita PowerMac
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac: g95 with OpenMPI (MacOS X, by Axel)</a> [<a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
 -->
