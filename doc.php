@@ -4,7 +4,7 @@
  ?>
 <div class="centcolumnpad">
 <h2>Documentation</h2>
-The manual for the Pencil Code is available <a href="https://github.com/pencil-code/website/blob/master/doc/manual.pdf" target="_blank">in PDF</a> (2.3M).
+The manual for the Pencil Code is available <a href="https://github.com/pencil-code/website/raw/master/doc/manual.pdf" target="_blank">in PDF</a> (2.3M).
 
 <p>
 <b><u>Hint:</u></b> We also have a <a href="https://github.com/pencil-code/website/blob/master/doc/quick_start.pdf" target="_blank">Quick Start guide</a> for beginners.
