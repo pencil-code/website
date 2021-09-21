@@ -35,7 +35,7 @@ if you look under another <i>data/proc?</i> directory.)</p>
 
 <p>The timings that are reported in the manual and shown in the figure below
 (for an Origin 3000 and a Linux cluster with clock frequencies between 2.0 and
-3.2 MHz) are obtained by looking at the output at the end, where it says for example
+3.2 GHz) are obtained by looking at the output at the end, where it says for example
 <i>Wall clock time/timestep/meshpoint [microsec] =  5.4</i>, which means it
 ran 5.4 microseconds per meshpoint and per time step. (Make sure the code
 doesn't produce NaNs, of course...)</p>
