@@ -1,0 +1,7 @@
+cp -rp ~/public_html/pencil-code/newsletter/2020/1/newsletter.pdf 2020/newsletter1.pdf
+cp -rp ~/public_html/pencil-code/newsletter/2020/2/newsletter.pdf 2020/newsletter2.pdf
+cp -rp ~/public_html/pencil-code/newsletter/2020/3/newsletter.pdf 2020/newsletter3.pdf
+
+cp -rp ~/public_html/pencil-code/newsletter/2021/1/newsletter.pdf 2021/newsletter1.pdf
+cp -rp ~/public_html/pencil-code/newsletter/2021/2/newsletter.pdf 2021/newsletter2.pdf
+cp -rp ~/public_html/pencil-code/newsletter/2021/3/newsletter.pdf 2021/newsletter3.pdf
