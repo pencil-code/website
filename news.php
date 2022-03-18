@@ -6,17 +6,12 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">3 April 2021:<br>
+<li class="separated">18 March 2022:<br>
 The next Pencil Code User Meeting will be via zoom hosted by
-<a href="https://www.epfl.ch/labs/lastro/meetings/pcum2021/">EPFL</a>
+<a href="https://www.iiap.res.in/pcum2022/">IIA</a>
 </li>
 
-<li class="separated">3 December 2020:<br>
-For detailed news, see the
-<a href="http://www.nordita.org/~brandenb/pencil-code/newsletter/">Pencil Code Newsletter</a>
-</li>
-
-<li class="separated">3 December 2020:<br>
+<li class="separated">18 March 2022:<br>
 The minutes of the Pencil Code Steering Committee (PCSC) are posted on:
 <a href="http://www.nordita.org/~brandenb/pencil-code/PCSC/">http://www.nordita.org/~brandenb/pencil-code/PCSC/</a>
 </li>
