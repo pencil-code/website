@@ -5,8 +5,8 @@
 <div class="centcolumnpad">
 <h2>Contact</h2>
 <h3>Pencil Code Office Hours</h3>
-Please make use of the Pencil Code Office Hours every <a href=https://www.nordita.org/~brandenb/pencil-code/office_hours/>second Friday</a>
-of the month at 14:30 Central European Time (CET) or Central European
+Please make use of the Pencil Code Office Hours, usually every <a href=https://www.nordita.org/~brandenb/pencil-code/office_hours/>second Thursday</a>
+of the month at 13:00 Central European Time (CET) or Central European
 Summer Time (CEST, in the Summer) to chat with the experts informally on
 <a href=https://stockholmuniversity.zoom.us/j/69160607217>zoom:69160607217</a>.<BR>
 
