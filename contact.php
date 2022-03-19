@@ -45,6 +45,7 @@ The current core-development team consists of:
 <li>Wladimir Lyra</li>
 <li>Dhruba Mitra</li>
 <li>Matthias Rheinhardt</li>
+<li>Jennifer Schober</li>
 <li>J&ouml;rn Warnecke</li>
 <li>Chao-Chin Yang</li>
 </ul>
