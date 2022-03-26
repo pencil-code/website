@@ -1,0 +1,36 @@
+To edit this file or the web pages, please do:
+svn checkout https://github.com/pencil-code/website/trunk/www
+
+
+Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
+==============================================================
+% Notes: "-" means that this item is still open (nothing has happened)
+%        "+" means that it is already in progress (people working on it)
+%        "*" same, but high priority
+%        "/" postponed
+%        "x" means that it has been dealt with
+%            [assigned Persons] feel free to add yourself
+%
+# http://pencil-code.nordita.org/UserMeetings/2021/
+
+- review of auto-test sensitivities
+
+- updates of various data bases (pencil-code/license/developers.txt and https://www.nordita.org/~brandenb/pencil-code/PCSC/committers/list.pdf, for example)
+
+- to explain in manual how special works
+
+- do multiple simulations via a special special (Lyapunov exp, diff latitude)
+
+- Newsletter: feedback
+
+- Status of HDF5
+
+- should we rename some more README files to README.md
+
+- Summary from the Pencil Code Steering Committee
+
+- to add src/pc_build_details (Status; Philippe?)
+
+- user-specific initialization (Status: Philippe)
+
+- restart problems with param.nml being outdated (add details in manual)
