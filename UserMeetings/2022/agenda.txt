@@ -11,7 +11,7 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 %        "x" means that it has been dealt with
 %            [assigned Persons] feel free to add yourself
 %
-# http://pencil-code.nordita.org/UserMeetings/2021/
+# http://pencil-code.nordita.org/UserMeetings/2022/
 
 - review of auto-test sensitivities
 
@@ -31,8 +31,12 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 
 - to add src/pc_build_details (Status; Philippe?)
 
-- user-specific initialization (Status: Philippe)
+- user-specific initialization (Status: Philippe) ***
 
 - restart problems with param.nml being outdated (add details in manual)
 
 - make pc_read_xyaver independent of proc*/dim.dat
+
+- turn off fatal error when just spectra aren't working.
+
+- spectra also for the initial time
