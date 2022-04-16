@@ -40,3 +40,5 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 - turn off fatal error when just spectra aren't working.
 
 - spectra also for the initial time
+
+- default settings for compilation: read_all_videofiles (and what does pc_videofiles do?)
