@@ -1,6 +1,8 @@
 To edit this file or the web pages, please do:
 svn checkout https://github.com/pencil-code/website/trunk/www
 
+Conversion between Indian and Central European Summer Time (CEST):
+<a href=https://www.nordita.org/~brandenb/pencil-code/office_hours/2022/PCUM.txt>https://www.nordita.org/~brandenb/pencil-code/office_hours/2022/PCUM.txt</a>
 
 Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 ==============================================================
@@ -42,3 +44,7 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 - spectra also for the initial time
 
 - default settings for compilation: read_all_videofiles (and what does pc_videofiles do?)
+
+- upwinding details
+
+- paraview or yt 3-D visualization tutorials?
