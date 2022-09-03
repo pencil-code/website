@@ -8,7 +8,7 @@
 Please make use of the Pencil Code Office Hours, usually every <a href=https://www.nordita.org/~brandenb/pencil-code/office_hours/>second Thursday</a>
 of the month at 13:00 Central European Time (CET) or Central European
 Summer Time (CEST, in the Summer) to chat with the experts informally on
-<a href=https://stockholmuniversity.zoom.us/j/69160607217>zoom:69160607217</a>.<BR>
+<a href=https://stockholmuniversity.zoom.us/j/69160607217>zoom:69160607217</a>.
 All questions from everyone are welcome!
 In addition, there are semi-regular developer meetings, which are being announced on
 <a href=https://groups.google.com/g/pencil-code-discuss/c/HnS4i9Xrx7o>pencil-code-discuss</a>.
