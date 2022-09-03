@@ -9,8 +9,10 @@ Please make use of the Pencil Code Office Hours, usually every <a href=https://w
 of the month at 13:00 Central European Time (CET) or Central European
 Summer Time (CEST, in the Summer) to chat with the experts informally on
 <a href=https://stockholmuniversity.zoom.us/j/69160607217>zoom:69160607217</a>.<BR>
-
 All questions from everyone are welcome!
+In addition, there are semi-regular developer meetings, which are being announced on
+<a href=https://groups.google.com/g/pencil-code-discuss/c/HnS4i9Xrx7o>pencil-code-discuss</a>.
+The last one was on Sept 1 at 15:00 CEST.
 
 <h3>Newsletter</h3>
 Regular updates are also provided in the Pencil Code 
