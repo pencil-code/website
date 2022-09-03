@@ -2,9 +2,7 @@ To edit this file or the web pages, please do:
 svn checkout https://github.com/pencil-code/website/trunk/www
 
 Conversion between Indian and Central European Summer Time (CEST):
-<html>
-<a href=https://www.nordita.org/~brandenb/pencil-code/office_hours/2022/PCUM.txt>https://www.nordita.org/~brandenb/pencil-code/office_hours/2022/PCUM.txt</a>
-</html>
+https://www.nordita.org/~brandenb/pencil-code/office_hours/2022/PCUM.txt
 
 Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 ==============================================================
@@ -25,13 +23,13 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 
 - do multiple simulations via a special special (Lyapunov exp, diff latitude)
 
-- Newsletter: feedback
+v Newsletter: feedback
 
 - Status of HDF5
 
 - should we rename some more README files to README.md
 
-- Summary from the Pencil Code Steering Committee
+v Summary from the Pencil Code Steering Committee
 
 - to add src/pc_build_details (Status; Philippe?)
 
@@ -41,12 +39,14 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 
 - make pc_read_xyaver independent of proc*/dim.dat
 
-- turn off fatal error when just spectra aren't working.
+v turn off fatal error when just spectra aren't working.
 
-- spectra also for the initial time
+v spectra also for the initial time
 
 - default settings for compilation: read_all_videofiles (and what does pc_videofiles do?)
 
-- upwinding details
+v upwinding details
 
 - paraview or yt 3-D visualization tutorials?
+
+v routine output (under cvs) about cpu time and memory usage
