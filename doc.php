@@ -32,6 +32,11 @@ Wolfgang Dobler wrote
 </p>
 
 <p>
+Hongzhe Zhou wrote
+<a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Hongzhe_response_August2022.html">a response to a problematic git check-in and how to avoid it!</a> (August 24, 2022) and
+</p>
+
+<p>
 Matthias Rheinhardt presented a talk about the
 <a href="/UserMeetings/2016/talks/YinYang_talk.pdf">Yin-Yang mesh</a> (10 Aug 2016)
 </p>
