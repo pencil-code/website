@@ -35,7 +35,8 @@ Wolfgang Dobler wrote
 Responses to a problematic git check-in and how to avoid it by
 <a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Hongzhe_response_August2022.html">Hongzhe Zhou (August 24, 2022)</a>,
 <a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_November2022.html">Philippe Bourdin (November 4, 2022</a> and
-<a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_December2022.html">December 4, 2022)</a>.
+<a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_December2022.html">December 4, 2022)</a>:
+<a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_December2022b.html">How to commit without "Master Branch Merge"?</a>.
 </p>
 
 <p>
