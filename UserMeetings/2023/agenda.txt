@@ -1,0 +1,51 @@
+To edit this file or the web pages, please do:
+svn checkout https://github.com/pencil-code/website/trunk/www
+
+Conversion between Indian and Central European Summer Time (CEST):
+https://www.nordita.org/~brandenb/pencil-code/office_hours/2022/PCUM.txt
+
+Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
+==============================================================
+% Notes: "-" means that this item is still open (nothing has happened)
+%        "+" means that it is already in progress (people working on it)
+%        "*" same, but high priority
+%        "/" postponed
+%        "x" means that it has been dealt with
+%            [assigned Persons] feel free to add yourself
+%
+# http://pencil-code.nordita.org/UserMeetings/2022/
+
+- promote practice of making init routines additive.
+
+- Newsletter: feedback
+
+- Summary from the Pencil Code Steering Committee
+
+- restart problems with param.nml being outdated (add details in manual)
+  Find out & document what practice exactly leads to problems
+
+- Status of HDF5: why is it slow, and how slow is it?
+
+----------------------------------------------------------------------------
+OLD ITEMS:
+
+- review of auto-test sensitivities
+
+- updates of various data bases (pencil-code/license/developers.txt and https://www.nordita.org/~brandenb/pencil-code/PCSC/committers/list.pdf, for example)
+
+- to explain in manual how special works
+
+- do multiple simulations via a special special (Lyapunov exp, diff latitude)
+
+- should we rename some more README files to README.md
+
+- to add src/pc_build_details (Status; Philippe?)
+
+- user-specific initialization (Status: Philippe) ***
+
+- make pc_read_xyaver independent of proc*/dim.dat
+
+- default settings for compilation: read_all_videofiles (and what does pc_videofiles do?)
+
+- paraview or yt 3-D visualization tutorials?
+
