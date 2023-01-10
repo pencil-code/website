@@ -1,19 +1,17 @@
 To edit this file or the web pages, please do:
 svn checkout https://github.com/pencil-code/website/trunk/www
 
-Conversion between Indian and Central European Summer Time (CEST):
-https://www.nordita.org/~brandenb/pencil-code/office_hours/2022/PCUM.txt
-
-Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
+Topics for Pencil code User Meeting in Graz 2023:
 ==============================================================
 % Notes: "-" means that this item is still open (nothing has happened)
 %        "+" means that it is already in progress (people working on it)
 %        "*" same, but high priority
 %        "/" postponed
+%        "v" problem solved
 %        "x" means that it has been dealt with
 %            [assigned Persons] feel free to add yourself
 %
-# http://pencil-code.nordita.org/UserMeetings/2022/
+# http://pencil-code.nordita.org/UserMeetings/2023/agenda.txt
 
 - promote practice of making init routines additive.
 
