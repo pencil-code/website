@@ -31,7 +31,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Boris Dintrans additional (March 2021: 404 not found) -->
 <!-- li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/our_tests.html">Toulouse: Intel ifort v12.1.3.293 (Ubuntu 13.10, by Boris Dintrans)</a>, daily additional tests -->
 <!-- Sven Bingert -->
-<li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, by Sven Bingert)</a>, standard and personal tests
+<!-- li><a href="http://www.svenbingert.de/auto-test.html">Intel ifort v11.1 with MPICH2 (Ubuntu 13.04, by Sven Bingert)</a>, standard and personal tests -->
 <!-- Nordita PowerMac
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/nor52.html">Nordita PowerMac: g95 with OpenMPI (MacOS X, by Axel)</a> [<a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/nor52_previous.html">previous</a>]
 -->
