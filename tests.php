@@ -24,8 +24,8 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Daily test -->
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/daily-samples/">Nordita: g95 0.92 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily
 <!-- Philippe Bourdin -->
-<li><a href="http://www.PAB-Software.de/Pencil/daily/">GNU gfortran 9.3.0, (Ubuntu, by Philippe Bourdin), large daily</a>, (<a href="http://www.PAB-Software.de/Pencil/daily/previous.html">previous run</A>)
-<li><a href="http://www.PAB-Software.de/Pencil/minimal/">GNU gfortran 9.3.0, (Ubuntu, by Philippe Bourdin), minimal minutely</a>, (<a href="http://www.PAB-Software.de/Pencil/minimal/previous.html">previous run</A>)
+<li><a href="http://www.PAB-Software.de/Pencil/daily/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin), large daily</a>, (<a href="http://www.PAB-Software.de/Pencil/daily/previous.html">previous run</A>)
+<li><a href="http://www.PAB-Software.de/Pencil/minimal/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin), minimal minutely</a>, (<a href="http://www.PAB-Software.de/Pencil/minimal/previous.html">previous run</A>)
 <!-- Boris Dintrans (March 2021: 404 not found) -->
 <!--li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Toulouse: Intel ifort v12.1.3.293 (Ubuntu 13.10, by Boris Dintrans)</a>, daily standard level 2 test -->
 <!-- Boris Dintrans additional (March 2021: 404 not found) -->
