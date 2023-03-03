@@ -13,35 +13,35 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 %
 # http://pencil-code.nordita.org/UserMeetings/2021/
 
-- try breakout room facilities: Remo, Sococo, Gathertown
+x try breakout room facilities: Remo, Sococo, Gathertown
 
-- travis: updates and actions
+x travis: updates and actions
 
 - avoid WARNING when i_EEE is PROVIDED in multiple special modules
 
-- pic developments?
+x pic developments?
 
-- move some modules to specials
+x move some modules to specials
 
 - to explain in manual how special works
 
-- do multiple simulations via a special special (Lyapunov exp, diff latitude)
+x do multiple simulations via a special special (Lyapunov exp, diff latitude)
 
-- Newsletter: feedback
+x Newsletter: feedback
 
-- Status of HDF5 (global arrays)
+x Status of HDF5 (global arrays)
 
 - should we rename some more README files to README.md
 
 - varcontent problem, to report to Philippe
 
-- Summary from the Pencil Code Steering Committee
+x Summary from the Pencil Code Steering Committee
 
 - list of committers (review)
 
 - to add src/pc_build_details (Status; Philippe?)
 
-- user-specific initialization (Status: Philippe)
+? user-specific initialization (Status: Philippe)
 
 - to reduce error messages from FOURIER = fourier_fftpack
 
@@ -57,3 +57,8 @@ Topics for Pencil code User Meeting in Lausanne (virtual) 2021:
 - restart problems with param.nml being outdated
 
 - uut etc not ok anymore
+  --> now fixed for hydro
+
+- do pull request on CoD
+
+- spectral output at initial time
