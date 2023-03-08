@@ -35,7 +35,6 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td></tr>
 <tr><td>11:00-11:30</td>
     <td rowspan="3" bgcolor="#b9f8fa">Session 2.2 Talk & Discussion</td>
@@ -46,7 +45,6 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr><td>12:00-12:30</td>
     <td rowspan="1" bgcolor="#faf7a5">Closing</td></tr>
 <tr><td>12:30-13:00</td>
-    <td rowspan="2" bgcolor="#f0a080">Lunch Break</td>
     <td rowspan="2" bgcolor="#f0a080">Lunch Break</td>
     <td rowspan="2" bgcolor="#f0a080">Lunch Break</td>
     <td rowspan="2" bgcolor="#f0a080">Lunch Break</td>
@@ -64,7 +62,6 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="2" bgcolor="#b9f8fa">technical session 1.1 Coding & Discussion</td></tr>
 <tr><td>15:00-15:30</td></tr>
 <tr><td>15:30-16:00</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td></tr>
