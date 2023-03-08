@@ -10,15 +10,15 @@ You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git
 The read-only version you can check out by:
 <div class="codescroll"><code>svn checkout http://github.com/pencil-code/pencil-code/trunk/ pencil-code</code></div>
 
-For a read-write access, you need to have a github user name ('MY_GITHUB_NAME') and become part of the <em>pencil-code</em> group.
-<div class="codescroll"><code>svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username 'MY_GITHUB_NAME'</code></div>
+For a read-write access, you need to have a github user name ('GITHUB_USER') and become part of the <em>pencil-code</em> group.
+<div class="codescroll"><code>svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username 'GITHUB_USER'</code></div>
 
 <h3>&bull; GIT checkout:</h3>
 If you just want to check out the latest version of the code use:
 <div class="codescroll"><code>git clone http://github.com/pencil-code/pencil-code.git</code></div>
 
-If you have a github username 'MY_GITHUB_NAME' and like to submit changes you can use:
-<div class="codescroll"><code>git clone https://MY_GITHUB_NAME@github.com/pencil-code/pencil-code.git<br>
+If you have a github username 'GITHUB_USER' and like to submit changes you can use:
+<div class="codescroll"><code>git clone https://GITHUB_USER@github.com/pencil-code/pencil-code.git<br>
 git config --global credential.helper 'cache --timeout=3600'<br>
 git config --global branch.autosetuprebase always</code></div>
 With the second line, you set the password cache to one hour, the third line should actually become a default.
