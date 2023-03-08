@@ -17,12 +17,12 @@ The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (A
 The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
 Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and our detailed schedule:<br>
 <table border="1" cellpadding="4" cellspacing="1" style="width:100%">
-<tr><td style="min-width:100px"></td>
+<tr><td style="min-width:80px"></td>
     <td style="min-width:140px">Monday</td>
-    <td style="min-width:140px">Tuesday</td>
-    <td style="min-width:140px">Wednesday</td>
-    <td style="min-width:140px">Thursday</td>
-    <td style="min-width:140px">Friday</td></tr>
+    <td style="min-width:130px">Tuesday</td>
+    <td style="min-width:130px">Wednesday</td>
+    <td style="min-width:130px">Thursday</td>
+    <td style="min-width:130px">Friday</td></tr>
 <tr><td>09:00-09:30</td>
     <td rowspan="9" bgcolor="#ddffa1">Meet &amp; Greet</td>
     <td rowspan="3" bgcolor="#b9f8fa">Session 2.1<br>Talk &amp; Discussion</td>
