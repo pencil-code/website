@@ -81,6 +81,12 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 </table>
 </p>
 
+<!-- REGISTRATION -->
+<p><b><u>REGISTRATION:</u></b><br>
+Please register by submitting our <a href="register.php">registration form</a>.<br>
+The registration deadline is the 30<sup>th</sup> of July 2023.
+</p>
+
 <!-- PARTICIPANTS -->
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
@@ -96,12 +102,6 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <!-- li>Matthias Rheinhardt, University of Helsinki</li -->
 <!-- li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li -->
 </ul></p>
-
-<!-- REGISTRATION -->
-<p><b><u>REGISTRATION:</u></b><br>
-Please register by submitting our <a href="register.php">registration form</a>.<br>
-The registration deadline is the 30<sup>th</sup> of July 2023.
-</p>
 
 <!-- p>The next meeting will be in (t.b.c.)...</p -->
 
