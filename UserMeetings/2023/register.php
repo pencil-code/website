@@ -16,7 +16,7 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <input type="hidden" name="recipient" value="@PC">
 <input type="hidden" name="subject" value="Mitteilung von der Homepage">
 <input type="hidden" name="required" value="affiliation,type,status">
-<input type="hidden" name="redirect" value="./thanks.php">
+<input type="hidden" name="redirect" value="http://pencil-code.nordita.org/UserMeetings/2023/thanks.php">
 <pre>Full name:</pre>
 <input type="text" size=40 name="realname"><br>
 <pre>eMail:</pre>
