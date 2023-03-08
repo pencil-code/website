@@ -55,7 +55,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="4" bgcolor="#b9f8fa">Session 2.3<br>Coding &amp; Discussion</td>
     <td rowspan="11" bgcolor="#b7faa5">Excursion</td>
     <td rowspan="4" bgcolor="#b9f8fa">Session 4.3<br>Coding &amp; Discussion</td>
-    <td rowspan="9" bgcolor="#b9f8fa">Individual Coding Session</td></tr>
+    <td rowspan="9" bgcolor="#b9f8fa">Individual Coding Sessions</td></tr>
 <tr><td>14:00-14:30</td>
     <td rowspan="1" bgcolor="#a1a1ff">Status Report</td></tr>
 <tr><td>14:30-15:00</td>
