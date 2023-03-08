@@ -51,6 +51,7 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <option value="regular">regular</option>
 <option value="beginner" selected>beginner</option>
 </select>
+<input type="submit" value="submit registration form">
 </form>
 </p>
 
