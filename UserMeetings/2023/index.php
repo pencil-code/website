@@ -12,6 +12,12 @@
 The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="https://physik.uni-graz.at/en/igam/">Physics Institute</a> of the <a href="https://uni-graz.at/en/">University of Graz</a>.
 </p>
 
+<!-- REGISTRATION -->
+<p><b><u>REGISTRATION:</u></b><br>
+Please register by submitting our <a href="register.php">registration form</a>.<br>
+The registration deadline is the 30<sup>th</sup> of July 2023.
+</p>
+
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
 The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
@@ -79,12 +85,6 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="2" bgcolor="#f0f0f0"></td></tr>
 <tr><td>open end</td></tr>
 </table>
-</p>
-
-<!-- REGISTRATION -->
-<p><b><u>REGISTRATION:</u></b><br>
-Please register by submitting our <a href="register.php">registration form</a>.<br>
-The registration deadline is the 30<sup>th</sup> of July 2023.
 </p>
 
 <!-- PARTICIPANTS -->
