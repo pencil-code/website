@@ -37,7 +37,6 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <option value="5">5th Sep</option>
 <option value="6">6th Sep</option>
 </select>
-<input type="text" size=16 name=""><br>
 <pre>Leave date:</pre>
 <select name="leave">
 <option value="6">6th Sep</option>
