@@ -90,9 +90,10 @@ The registration deadline is the 30<sup>th</sup> of July 2023.
 <!-- PARTICIPANTS -->
 <p><b><u>PARTICIPANTS:</u></b>
 <ul>
-<li>Vartika Pandey, IGAM/Graz</li>
-<li>Johannes Tschernitz, IGAM/Graz</li>
-<li>Isabella Kraus, IGAM/Graz</li>
+<li>LOC: Vartika Pandey, IGAM/Graz</li>
+<li>LOC: Johannes Tschernitz, IGAM/Graz</li>
+<li>LOC: Isabella Kraus, IGAM/Graz</li>
+<li>-----</li>
 <li>Philippe-A. Bourdin, IGAM/Graz</li>
 <li>Axel Brandenburg, NORDITA/Stockholm</li>
 <!-- li>Frederick Gent, Aalto University</li -->
