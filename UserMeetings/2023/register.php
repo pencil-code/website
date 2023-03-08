@@ -30,20 +30,23 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 </select>
 <pre>Arrival date:</pre>
 <select name="arrival">
-<option value="1">1st Sep</option>
-<option value="2">2nd Sep</option>
-<option value="3">3rd Sep</option>
-<option value="4" selected>4th Sep</option>
-<option value="5">5th Sep</option>
-<option value="6">6th Sep</option>
+<option value="1.9.">Fri, 1st Sep</option>
+<option value="2.9.">Sat, 2nd Sep</option>
+<option value="3.9.">Sun, 3rd Sep</option>
+<option value="4.9." selected>Mon, 4th Sep</option>
+<option value="5.9.">Tue, 5th Sep</option>
+<option value="6.9.">Wed, 6th Sep</option>
+<option value="7.9.">Thu, 7th Sep</option>
 </select>
 <pre>Leave date:</pre>
 <select name="leave">
-<option value="6">6th Sep</option>
-<option value="7">7th Sep</option>
-<option value="8" selected>8th Sep</option>
-<option value="9">9th Sep</option>
-<option value="10">10th Sep</option>
+<option value="5.9.">Tue, 5th Sep</option>
+<option value="6.9.">Wed, 6th Sep</option>
+<option value="7.9.">Thu, 7th Sep</option>
+<option value="8.9." selected>Fri, 8th Sep</option>
+<option value="9.9.">Sat, 9th Sep</option>
+<option value="10.9.">Sun, 10th Sep</option>
+<option value="11.9.">Mon, 10th Sep</option>
 </select>
 <pre>Experience level:</pre>
 <select name="status">
