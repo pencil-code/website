@@ -11,7 +11,7 @@
 The registration deadline is the 30<sup>th</sup> July 2023.
 </p>
 
-<p><b><u>REGISTRATION FORM <font color="#f00000">(NOT YET OPERATIONAL!)</font>:</u></b><br>
+<p><b><u>REGISTRATION FORM:</u></b><br>
 <form action="https://www.PAB-Software.de/cgi/MyFormMailer.cgi" method="post" accept-charset="UTF-8">
 <input type="hidden" name="recipient" value="@PC">
 <input type="hidden" name="subject" value="Mitteilung von der Homepage">
