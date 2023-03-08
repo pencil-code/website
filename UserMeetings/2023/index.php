@@ -20,11 +20,11 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 
 <tr><td></td><td>Monday</td><td>Tuesday</td><td>Wednesday</td><td>Thursday</td><td>Friday</td></tr>
 </tr><td>09:00-09:30</td><td rowspan="9" bgcolor="#ddffa1">Meet & Greet</td><td rowspan="3" bgcolor="#b9f8fa">Session 2.1 Talk & Discussion</td><td rowspan="3" bgcolor="#b9f8fa">Session 3.1 Talk & Discussion</td><td rowspan="3" bgcolor="#b9f8fa">Session 4.1 Talk & Discussion</td><td rowspan="3" bgcolor="#b9f8fa">Session 5.1 Talk & Discussion</td></tr>
-</tr><td>09:30-10:00</td></tr>
-</tr><td>10:00-10:30</td></tr>
+<tr><td>09:30-10:00</td></tr>
+<tr><td>10:00-10:30</td></tr>
 <tr><td>10:30-11:00</td><td rowspan="1" bgcolor="#f0a080">Coffee Break</td></td rowspan="1" bgcolor="#f0a080">Coffee Break</td><td rowspan="1" bgcolor="#f0a080">Coffee Break</td><td rowspan="1" bgcolor="#f0a080">Coffee Break</td><td rowspan="1" bgcolor="#f0a080">Coffee Break</td></tr>
-</tr><td>11:00-11:30</td><td rowspan="3" bgcolor="#b9f8fa">Session 2.2 Talk & Discussion</td><td rowspan="3" bgcolor="#b9f8fa">Session 3.2 Talk & Discussion</td><td rowspan="3" bgcolor="#b9f8fa">Session 4.2 Talk & Discussion</td><td rowspan="2" bgcolor="#d9a1ff">Wrap up Discussion</td></tr>
-</tr><td>11:30-12:00</td></tr>
+<tr><td>11:00-11:30</td><td rowspan="3" bgcolor="#b9f8fa">Session 2.2 Talk & Discussion</td><td rowspan="3" bgcolor="#b9f8fa">Session 3.2 Talk & Discussion</td><td rowspan="3" bgcolor="#b9f8fa">Session 4.2 Talk & Discussion</td><td rowspan="2" bgcolor="#d9a1ff">Wrap up Discussion</td></tr>
+<tr><td>11:30-12:00</td></tr>
 <tr><td>12:00-12:30</td><td rowspan="1" bgcolor="#faf7a5">Closing</td></tr>
 <tr><td>12:30-13:00</td><td rowspan="2" bgcolor="#f0a080">Lunch Break</td></td rowspan="2" bgcolor="#f0a080">Lunch Break</td><td rowspan="2" bgcolor="#f0a080">Lunch Break</td><td rowspan="2" bgcolor="#f0a080">Lunch Break</td><td rowspan="2" bgcolor="#f0a080">Lunch Break</td></tr>
 <tr><td>13:00-13:30</td></tr>
