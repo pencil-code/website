@@ -24,11 +24,11 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td>Thursday</td>
     <td>Friday</td></tr>
 <tr><td>09:00-09:30</td>
-    <td rowspan="9" bgcolor="#ddffa1">Meet & Greet</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Session 2.1 Talk & Discussion</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Session 3.1 Talk & Discussion</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Session 4.1 Talk & Discussion</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Session 5.1 Talk & Discussion</td></tr>
+    <td rowspan="9" bgcolor="#ddffa1">Meet &amp; Greet</td>
+    <td rowspan="3" bgcolor="#b9f8fa">Session 2.1<br>Talk &amp; Discussion</td>
+    <td rowspan="3" bgcolor="#b9f8fa">Session 3.1<br>Talk &amp; Discussion</td>
+    <td rowspan="3" bgcolor="#b9f8fa">Session 4.1<br>Talk &amp; Discussion</td>
+    <td rowspan="3" bgcolor="#b9f8fa">Session 5.1<br>Talk &amp; Discussion</td></tr>
 <tr><td>09:30-10:00</td></tr>
 <tr><td>10:00-10:30</td></tr>
 <tr><td>10:30-11:00</td>
@@ -37,9 +37,9 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td></tr>
 <tr><td>11:00-11:30</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Session 2.2 Talk & Discussion</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Session 3.2 Talk & Discussion</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Session 4.2 Talk & Discussion</td>
+    <td rowspan="3" bgcolor="#b9f8fa">Session 2.2<br>Talk &amp; Discussion</td>
+    <td rowspan="3" bgcolor="#b9f8fa">Session 3.2<br>Talk &amp; Discussion</td>
+    <td rowspan="3" bgcolor="#b9f8fa">Session 4.2<br>Talk &amp; Discussion</td>
     <td rowspan="2" bgcolor="#d9a1ff">Wrap up Discussion</td></tr>
 <tr><td>11:30-12:00</td></tr>
 <tr><td>12:00-12:30</td>
@@ -52,23 +52,23 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr><td>13:00-13:30</td></tr>
 <tr><td>13:30-14:00</td>
     <td rowspan="1" bgcolor="#faf7a5">Open Remarks</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Session 2.3 Coding & Discussion</td>
+    <td rowspan="4" bgcolor="#b9f8fa">Session 2.3<br>Coding &amp; Discussion</td>
     <td rowspan="11" bgcolor="#b7faa5">Excursion</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Session 4.3 Coding & Discussion</td>
+    <td rowspan="4" bgcolor="#b9f8fa">Session 4.3<br>Coding &amp; Discussion</td>
     <td rowspan="9" bgcolor="#b9f8fa">Individual Coding Session</td></tr>
 <tr><td>14:00-14:30</td>
     <td rowspan="1" bgcolor="#a1a1ff">Status Report</td></tr>
 <tr><td>14:30-15:00</td>
-    <td rowspan="2" bgcolor="#b9f8fa">technical session 1.1 Coding & Discussion</td></tr>
+    <td rowspan="2" bgcolor="#b9f8fa">Technical Session 1.1<br>Coding &amp; Discussion</td></tr>
 <tr><td>15:00-15:30</td></tr>
 <tr><td>15:30-16:00</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td></tr>
 <tr><td>16:00-16:30</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Session 1.2 Coding & Discussion</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Session 2.4 Coding & Discussion</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Session 4.4 Coding & Discussion</td></tr>
+    <td rowspan="4" bgcolor="#b9f8fa">Session 1.2<br>Coding &amp; Discussion</td>
+    <td rowspan="4" bgcolor="#b9f8fa">Session 2.4<br>Coding &amp; Discussion</td>
+    <td rowspan="4" bgcolor="#b9f8fa">Session 4.4<br>Coding &amp; Discussion</td></tr>
 <tr><td>16:30-17:00</td></tr>
 <tr><td>17:00-17:30</td></tr>
 <tr><td>17:30-18:00</td></tr>
