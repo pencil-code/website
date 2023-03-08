@@ -11,7 +11,7 @@
 The registration deadline is the 30<sup>th</sup> July 2023.
 </p>
 
-<p><b><u>REGISTRATION FORM:</u></b><br>
+<p><b><u>REGISTRATION FORM <font color="#f00000">(NOT YET OPERATIONAL!)</font>:</u></b><br>
 <form action="https://www.PAB-Software.de/cgi/MyFormMailer.cgi" method="post" accept-charset="UTF-8">
 <input type="hidden" name="recipient" value="@PC">
 <input type="hidden" name="subject" value="Mitteilung von der Homepage">
@@ -26,9 +26,9 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <pre>Participation:</pre>
 <input type="radio" name="type" value="in person"> in person, <input type="radio" name="type" value="online"> online<br>
 <pre>Arrival date:</pre>
-<input type="text" size=40 name="arrival"><br>
+<input type="text" size=16 name="arrival"><br>
 <pre>Leave date:</pre>
-<input type="text" size=40 name="leave"><br>
+<input type="text" size=16 name="leave"><br>
 <pre>Experience level:</pre>
 <input type="radio" name="status" value="expert"> expert, <input type="radio" name="status" value="regular"> regular, <input type="radio" name="status" value="beginner"> beginner<br>
 </form>
