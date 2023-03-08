@@ -17,13 +17,13 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <input type="hidden" name="subject" value="Mitteilung von der Homepage">
 <input type="hidden" name="required" value="affiliation,type,status">
 <input type="hidden" name="redirect" value="./thanks.php">
-Full name: <input type="text" size=40 name="realname"><br>
-eMail: <input type="text" size=40 name="email"><br>
-Affiliation: <input type="text" size=40 name="affiliation"><br>
-Participation: <input type="radio" name="type" value="in person"> <input type="radio" name="type" value="online"><br>
-Arrival date: <input type="text" size=40 name="arrival"><br>
-Leave data: <input type="text" size=40 name="leave"><br>
-Experience level: <input type="radio" name="status" value="expert"> <input type="radio" name="status" value="regular"> <input type="radio" name="status" value="beginner"><br>
+<pre>Full name:       </pre> <input type="text" size=40 name="realname"><br>
+<pre>eMail:           </pre> <input type="text" size=40 name="email"><br>
+<pre>Affiliation:     </pre> <input type="text" size=40 name="affiliation"><br>
+<pre>Participation:   </pre> <input type="radio" name="type" value="in person"> in person, <input type="radio" name="type" value="online"> online<br>
+<pre>Arrival date:    </pre> <input type="text" size=40 name="arrival"><br>
+<pre>Leave date:      </pre> <input type="text" size=40 name="leave"><br>
+<pre>Experience level:</pre> <input type="radio" name="status" value="expert"> expert, <input type="radio" name="status" value="regular"> regular, <input type="radio" name="status" value="beginner"> beginner<br>
 </form>
 </p>
 
