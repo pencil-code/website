@@ -52,9 +52,8 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 </select>
 <pre>Experience level:</pre>
 <select name="status">
-<option value="expert">expert</option>
-<option value="regular">regular</option>
-<option value="beginner" selected>beginner</option>
+<option value="average" selected>regular user</option>
+<option value="beginner">beginner</option>
 </select>
 <br><br>
 <font color="f00000"><b>=&gt;</b></font> <input type="submit" value="submit registration form">
