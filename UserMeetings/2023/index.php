@@ -37,7 +37,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr><td>16:30-17:00</td></tr>
 <tr><td>17:00-17:30</td></tr>
 <tr><td>17:30-18:00</td></tr>
-<tr><td>18:00-18:30</td><td rowspan="2" bgcolor="#f5c545">Welcome Reception</td><td rowspan="2" bgcolor="#f0f0f0"></td><td rowspan="2" bgcolor="#b7faa5">Social Event</td><td rowspan="2" bgcolor="#f0f0f0"></td></tr>
+<tr><td>18:00-18:30</td><td rowspan="2" bgcolor="#f5c545">Welcome Reception</td><td rowspan="2" bgcolor="#f0f0f0"></td><td rowspan="2" bgcolor="#ddffa1">Social Event</td><td rowspan="2" bgcolor="#f0f0f0"></td></tr>
 <tr><td>18:30-19:00</td></tr>
 </table>
 </p>
