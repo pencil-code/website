@@ -189,7 +189,7 @@ a.mmenuselect {
 	margin-left: 0px;
 	margin-top: 6px;
 	border: 2px solid #000000;
-	overflow: scroll; /* allow to scroll if there is more content than available space */
+	overflow-x: scroll; /* allow to scroll if there is more content than available space */
 	min-height: 330px; /* = leftcolumn.min-height - 2 * border */
 	min-width: 440px; /* = mcontainerouter.min-width - 2 * (mcontainer.border + mcontainer.padding) - (leftcolumn.min-width + leftcolumn.margin-right) - (rightcolumn.min-width + rightcolumn.margin-left + 2 * rightcolumn.padding) - 2 * border */
 }
