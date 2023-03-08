@@ -23,6 +23,8 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <input type="text" size=40 name="email"><br>
 <pre>Affiliation:</pre>
 <input type="text" size=40 name="affiliation"><br>
+<pre>Title of talk (optional):</pre>
+<input type="text" size=40 name="title"><br>
 <pre>Participation:</pre>
 <select name="type">
 <option value="in person" selected>in person</option>
