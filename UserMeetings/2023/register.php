@@ -24,13 +24,34 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <pre>Affiliation:</pre>
 <input type="text" size=40 name="affiliation"><br>
 <pre>Participation:</pre>
-<input type="radio" name="type" value="in person"> in person, <input type="radio" name="type" value="online"> online<br>
+<select name="type">
+<option value="in person" selected>in person</option>
+<option value="online">online</option>
+</select>
 <pre>Arrival date:</pre>
-<input type="text" size=16 name="arrival"><br>
+<select name="arrival">
+<option value="1">1st Sep</option>
+<option value="2">2nd Sep</option>
+<option value="3">3rd Sep</option>
+<option value="4" selected>4th Sep</option>
+<option value="5">5th Sep</option>
+<option value="6">6th Sep</option>
+</select>
+<input type="text" size=16 name=""><br>
 <pre>Leave date:</pre>
-<input type="text" size=16 name="leave"><br>
+<select name="leave">
+<option value="6">6th Sep</option>
+<option value="7">7th Sep</option>
+<option value="8" selected>8th Sep</option>
+<option value="9">9th Sep</option>
+<option value="10">10th Sep</option>
+</select>
 <pre>Experience level:</pre>
-<input type="radio" name="status" value="expert"> expert, <input type="radio" name="status" value="regular"> regular, <input type="radio" name="status" value="beginner"> beginner<br>
+<select name="status">
+<option value="expert">expert</option>
+<option value="regular">regular</option>
+<option value="beginner" selected>beginner</option>
+</select>
 </form>
 </p>
 
