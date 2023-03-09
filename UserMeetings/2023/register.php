@@ -8,7 +8,7 @@
 
 <!-- REGISTRATION -->
 <p><b><u>REGISTRATION:</u></b><br>
-The registration deadline is the 30<sup>th</sup> July 2023.
+The registration deadline is the 31<sup>st</sup> July 2023.
 </p>
 
 <p><b><u>REGISTRATION FORM:</u></b><br>
