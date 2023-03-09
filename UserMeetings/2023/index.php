@@ -9,7 +9,7 @@
 <!-- DATE and VENUE -->
 <p><b><u>DATE &amp; VENUE:</u></b>
 <b>4<sup>th</sup> to 8<sup>th</sup> September 2023</b><br>
-The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="https://physik.uni-graz.at/en/igam/">Physics Institute</a> of the <a href="https://uni-graz.at/en/">University of Graz</a>.
+The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="https://physik.uni-graz.at/en/astrophysics-geophysics/">Physics Institute</a> of the <a href="https://uni-graz.at/en/">University of Graz</a>.
 </p>
 
 <!-- REGISTRATION -->
