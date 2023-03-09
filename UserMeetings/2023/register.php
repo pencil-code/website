@@ -53,6 +53,7 @@ The registration deadline is the 31<sup>st</sup> July 2023.
 <option value="in person" selected>in person</option>
 <option value="online">online</option>
 </select>
+&nbsp;as&nbsp;
 <select name="status">
 <option value="average" selected>regular user</option>
 <option value="beginner">beginner</option>
