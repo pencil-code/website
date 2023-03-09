@@ -25,12 +25,7 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <input type="text" size=40 name="affiliation"><br>
 <pre>Title of talk (optional):</pre>
 <input type="text" size=40 name="title"><br>
-<pre>Participation:</pre>
-<select name="type">
-<option value="in person" selected>in person</option>
-<option value="online">online</option>
-</select>
-<pre>Arrival date:</pre>
+<pre>Planned stay dates:</pre>
 <select name="arrival">
 <option value="1.9.">Fri, 1st Sep</option>
 <option value="2.9.">Sat, 2nd Sep</option>
@@ -40,7 +35,7 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <option value="6.9.">Wed, 6th Sep</option>
 <option value="7.9.">Thu, 7th Sep</option>
 </select>
-<pre>Leave date:</pre>
+&nbsp;&nbsp;-&nbsp;&nbsp;
 <select name="leave">
 <option value="5.9.">Tue, 5th Sep</option>
 <option value="6.9.">Wed, 6th Sep</option>
@@ -50,7 +45,14 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <option value="10.9.">Sun, 10th Sep</option>
 <option value="11.9.">Mon, 10th Sep</option>
 </select>
-<pre>Experience level:</pre>
+<pre>desired number of T-Shirt and sizes (~20 &euro; each):</pre>
+<input type="text" name="T-shirt" size=16>
+</select>
+<pre>Participation &amp; Experience level:</pre>
+<select name="type">
+<option value="in person" selected>in person</option>
+<option value="online">online</option>
+</select>
 <select name="status">
 <option value="average" selected>regular user</option>
 <option value="beginner">beginner</option>
