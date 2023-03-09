@@ -45,8 +45,8 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <option value="10.9.">Sun, 10th Sep</option>
 <option value="11.9.">Mon, 10th Sep</option>
 </select>
-<pre>desired number of T-Shirts and sizes (~20 &euro; each):</pre>
-<input type="text" size=20 name="T-shirt">
+<pre>Sizes of desired T-shirts (~20 &euro; each):</pre>
+<input type="text" size=20 name="T-shirt"> (XS-XXL, normal/lady shirt?)
 </select>
 <pre>Participation &amp; Experience level:</pre>
 <select name="type">
