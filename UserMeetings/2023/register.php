@@ -35,7 +35,7 @@ The registration deadline is the 30<sup>th</sup> July 2023.
 <option value="6.9.">Wed, 6th Sep</option>
 <option value="7.9.">Thu, 7th Sep</option>
 </select>
-&nbsp;&nbsp;-&nbsp;&nbsp;
+&nbsp;-&nbsp;
 <select name="leave">
 <option value="5.9.">Tue, 5th Sep</option>
 <option value="6.9.">Wed, 6th Sep</option>
