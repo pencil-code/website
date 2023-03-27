@@ -96,6 +96,11 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>LOC: Philippe-A. Bourdin, IGAM/Graz</li>
 <li>-----</li>
 <li>Axel Brandenburg, NORDITA/Stockholm</li>
+<li>Antonino Salvino Midiri, Université de Genève</li>
+<li>Dhrubaditya Mitra (online), NORDITA/Stockholm</li>
+<li>Alberto Roper Pol, Université de Genève</li>
+<li>Hongzhe Zhou (online), Tsung-Dao Lee Institute, Shanghai Jiao Tong University</li>
+
 <!-- li>Frederick Gent, Aalto University</li -->
 <!-- li>Nils Haugen, NTNU/SINTEF Trondheim</li -->
 <!-- li>Wladimir Lyra, JPL/NASA Pasadena</li -->
