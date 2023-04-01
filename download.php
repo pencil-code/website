@@ -35,7 +35,7 @@ We also provide the stable release <a href="http://norlx51.albanova.se/~brandenb
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-Available as open source at our project page: <a href="https://github.com/pencil-code/" target="_top">gitbub.com/pencil-code</a>
+Available as open source at our project page: <a href="https://github.com/pencil-code/" target="_top">github.com/pencil-code</a>
 </div>
 <?php
 	include "inc/footer.inc";
