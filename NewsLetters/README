@@ -9,3 +9,5 @@ cp -rp ~/public_html/pencil-code/newsletter/2021/3/newsletter.pdf 2021/newslette
 cp -rp ~/public_html/pencil-code/newsletter/2022/1/newsletter.pdf 2022/newsletter1.pdf
 cp -rp ~/public_html/pencil-code/newsletter/2022/2/newsletter.pdf 2022/newsletter2.pdf
 cp -rp ~/public_html/pencil-code/newsletter/2022/3/newsletter.pdf 2022/newsletter3.pdf
+
+cp -rp ~/public_html/pencil-code/newsletter/2023/1/newsletter.pdf 2023/newsletter1.pdf
