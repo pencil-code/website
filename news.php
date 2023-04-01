@@ -6,13 +6,14 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">18 March 2022:<br>
-The next Pencil Code User Meeting will be via zoom hosted by
-<a href="https://www.iiap.res.in/pcum2022/">IIA</a>
+<li class="separated">31 March 2023:<br>
+The next Pencil Code User Meeting will be at the
+<a href="http://pencil-code.nordita.org/UserMeetings/2023/">Physics Institute of the University of Graz</a>.
 </li>
 
-<li class="separated">18 March 2022:<br>
-The minutes of the Pencil Code Steering Committee (PCSC) are posted on:
+<li class="separated">31 March 2023:<br>
+The next Pencil Code Steering Committee (PCSC) meeting will be on: June 12, 2023, at 12:00.
+The minutes of the previous meeting are posted on:
 <a href="http://www.nordita.org/~brandenb/pencil-code/PCSC/">http://www.nordita.org/~brandenb/pencil-code/PCSC/</a>
 </li>
 
