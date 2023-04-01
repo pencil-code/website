@@ -7,6 +7,11 @@
 <ul>
 
 <li class="separated">31 March 2023:<br>
+The current Pencil Code Newsletter is on:
+<a href="https://www.nordita.org/~brandenb/pencil-code/newsletter/">https://www.nordita.org/~brandenb/pencil-code/newsletter/</a>.
+</li>
+
+<li class="separated">31 March 2023:<br>
 The next Pencil Code User Meeting will be at the
 <a href="http://pencil-code.nordita.org/UserMeetings/2023/">Physics Institute of the University of Graz</a>.
 </li>
