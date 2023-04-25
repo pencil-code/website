@@ -99,7 +99,8 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Antonino Salvino Midiri, Université de Genève</li>
 <li>Dhrubaditya Mitra (online), NORDITA/Stockholm</li>
 <li>Alberto Roper Pol, Université de Genève</li>
-<li>Hongzhe Zhou (online), Tsung-Dao Lee Institute, Shanghai Jiao Tong University</li>
+<li>Antonio Salvino Midiri, Université de Genève</li>
+<li>Hongzhe Zhou, Tsung-Dao Lee Institute, Shanghai Jiao Tong University</li>
 
 <!-- li>Frederick Gent, Aalto University</li -->
 <!-- li>Nils Haugen, NTNU/SINTEF Trondheim</li -->
