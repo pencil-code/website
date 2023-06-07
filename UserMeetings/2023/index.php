@@ -96,7 +96,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>LOC: Philippe-A. Bourdin, IGAM/Graz</li>
 <li>-----</li>
 <li>Axel Brandenburg, NORDITA/Stockholm</li>
-<li>Piyali Chatterjee, Indian Institute of Astrophysics</li>
+<li>Piyali Chatterjee (online), Indian Institute of Astrophysics</li>
 <li>Yutong He, NORDITA/Stockholm</li>
 <li>Antonino Salvino Midiri, Université de Genève</li>
 <li>Dhrubaditya Mitra (online), NORDITA/Stockholm</li>
