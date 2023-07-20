@@ -96,17 +96,19 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>LOC: Philippe-A. Bourdin, IGAM/Graz</li>
 <li>-----</li>
 <li>Axel Brandenburg, NORDITA/Stockholm</li>
+<li>Simon Candelaresi, University of Stuttgart</li>
 <li>Piyali Chatterjee (online), Indian Institute of Astrophysics</li>
+<li>Ming-Yang Cui, Purple Mountain Observatory</li>
 <li>Yutong He, NORDITA/Stockholm</li>
+<li>Nils Haugen, SINTEF Energy Research</li>
 <li>Antonino Salvino Midiri, Université de Genève</li>
+<li>Yao-Yu Li, Purple Mountain Observatory</li>
 <li>Dhrubaditya Mitra (online), NORDITA/Stockholm</li>
 <li>Alberto Roper Pol, Université de Genève</li>
-<li>Antonio Salvino Midiri, Université de Genève</li>
 <li>Sovan Sau (online), Indian Institute of Technology Guwahati</li>
 <li>Hongzhe Zhou, Tsung-Dao Lee Institute, Shanghai Jiao Tong University</li>
 
 <!-- li>Frederick Gent, Aalto University</li -->
-<!-- li>Nils Haugen, NTNU/SINTEF Trondheim</li -->
 <!-- li>Wladimir Lyra, JPL/NASA Pasadena</li -->
 <!-- li>Dhrubaditya Mitra, NORDITA/Stockholm</li -->
 <!-- li>Matthias Rheinhardt, University of Helsinki</li -->
