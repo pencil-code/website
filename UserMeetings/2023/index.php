@@ -96,23 +96,23 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>LOC: Philippe-A. Bourdin, IGAM/Graz</li>
 <li>-----</li>
 <li>Axel Brandenburg, NORDITA/Stockholm</li>
-<li>Simon Candelaresi, University of Stuttgart</li>
+<li>Simon Candelaresi (online), University of Stuttgart</li>
 <li>Piyali Chatterjee (online), Indian Institute of Astrophysics</li>
 <li>Ming-Yang Cui, Purple Mountain Observatory</li>
 <li>Frederick Gent, Aalto University/Espoo</li>
-<li>Oksana Iarygina, NORDITA/Stockholm</li>
+<li>Oksana Iarygina (online), NORDITA/Stockholm</li>
 <li>Yutong He, NORDITA/Stockholm</li>
-<li>Nils Haugen, SINTEF Energy Research</li>
-<li>Maarit Korpi-Lagg, Aalto University/Espoo</li>
+<li>Nils Haugen (online), SINTEF Energy Research</li>
+<li>Maarit Korpi-Lagg (online), Aalto University/Espoo</li>
 <li>Yao-Yu Li, Purple Mountain Observatory</li>
 <li>Antonino Salvino Midiri, Université de Genève</li>
 <li>Dhrubaditya Mitra (online), NORDITA/Stockholm</li>
 <li>Matthias Reinhardt, Aalto University/Espoo</li>
 <li>Alberto Roper Pol, Université de Genève</li>
-<li>Touko Puro, Aalto University/Espoo</li>
+<li>Touko Puro (online), Aalto University/Espoo</li>
 <li>Sovan Sau (online), Indian Institute of Technology Guwahati</li>
 <li>Ramkishor Sharma, NORDITA/Stockholm</li>
-<li>Jörn Warnecke, MPS/Göttingen</li>
+<li>Jörn Warnecke (online), MPS/Göttingen</li>
 <li>Hongzhe Zhou, Tsung-Dao Lee Institute, Shanghai Jiao Tong University</li>
 
 <!-- li>Frederick Gent, Aalto University</li -->
