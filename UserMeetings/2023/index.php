@@ -27,7 +27,7 @@ Please register by submitting our <a href="register.php">registration form</a>.
 <!-- tr><td>****</td><td><a href="https://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 129/night</td><td><a href="https://www.booking.com/hotel/at/dasweitzer.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr -->
 <tr><td>****</td><td><a href="https://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 141/night</td><td><a href="https://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
 </table>
-<b>(*)</b> <b>special &quot;direct bookers&quot; discount via <a href="https://hoteldaniel.com/en/graz/"><font color="e00000">their website</font></a></b> (including city tax).
+<b>(*)</b> <b>special &quot;direct bookers&quot; discount via <a href="https://reservations.hoteldanielgraz.com/?_ga=o&currency=EUR&rooms=1&languageid=1&location=graz&adults=1&datein=09%2F04%2F2023&dateout=09%2F08%2F2023&identifier=#/accommodation/room"><font color="e00000">their website</font></a></b> (including city tax).
 </p>
 
 <!-- MAPS & PUBLIC TRANSPORT -->
