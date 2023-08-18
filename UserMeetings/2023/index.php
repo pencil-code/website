@@ -28,7 +28,7 @@ Please register by submitting our <a href="register.php">registration form</a>.
 <tr><td>****</td><td><a href="https://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 141/night</td><td><a href="https://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
 <tr valign="top"><td>**</td><td><a href="https://www.aohostels.com/en/graz/graz-hauptbahnhof/">A&amp;O Hostel</a></td><td>€ 43/night (double)<br>€ 71/night (single)</td><td><a href="https://www.booking.com/hotel/at/a-amp-o-graz-hauptbahnhof.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
 </table>
-<b>(*)</b> special <b>&quot;direct bookers&quot; discount</a> without breakfast</b>,<br>
+<b>(*)</b> special <b>&quot;direct bookers&quot; discount</a></b> without breakfast,<br>
 but we provide in the morning at the venue: fruits, pastries, juice, coffee, and tea.
 </p>
 
