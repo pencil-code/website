@@ -7,9 +7,7 @@
 <h2>19<sup>th</sup> Pencil Code User Meeting 2023</h2>
 
 <!-- REGISTRATION -->
-<p><b><u>REGISTRATION:</u></b><br>
-The registration deadline is the 31<sup>st</sup> July 2023.
-</p>
+<p><b><u>REGISTRATION:</u></b></p>
 
 <p><b><u>REGISTRATION FORM:</u></b><br>
 <form action="https://www.PAB-Software.de/cgi/MyFormMailer.cgi" method="post" accept-charset="UTF-8">

@@ -14,8 +14,7 @@ The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (A
 
 <!-- REGISTRATION -->
 <p><b><u>REGISTRATION:</u></b><br>
-Please register by submitting our <a href="register.php">registration form</a>.<br>
-The registration deadline is the 31<sup>st</sup> of July 2023.
+Please register by submitting our <a href="register.php">registration form</a>.
 </p>
 
 <!-- ACCOMMODATION PROPOSALS -->
