@@ -31,9 +31,9 @@ Please register by submitting our <a href="register.php">registration form</a>.
 </p>
 
 <!-- MAPS & PUBLIC TRANSPORT -->
-<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b></p>
+<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
 <!-- p><a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a></p -->
-<p>For a public-transport map with point-to-point connections, please see <a href="https://verkehrsauskunft.verbundlinie.at/index_en.html">BahnBusBim.at</a>.
+For a public-transport map with point-to-point connections, please see <a href="https://verkehrsauskunft.verbundlinie.at/index_en.html">BahnBusBim.at</a>.
 <!-- Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>. --></p>
 <p>From the airport, you may take a taxi (20&nbsp;mins for about 30&nbsp;&euro;) or use the local trains and busses (standard city ticket) leaving from before the airport (follow signs).
 Vending machines at train stations and inside trams sell a weekly public transport ticket (city zone &quot;101&quot;, includes airport) for 18,30&nbsp;&euro;, which we highly recommend.
