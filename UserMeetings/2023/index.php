@@ -18,6 +18,29 @@ Please register by submitting our <a href="register.php">registration form</a>.<
 The registration deadline is the 31<sup>st</sup> of July 2023.
 </p>
 
+<!-- ACCOMMODATION PROPOSALS -->
+<p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
+<font color="#e00000"><b>Please note:</b></font> We recommend the &quot;<a href="https://hoteldaniel.com/en/graz/"><b>Hotel Daniel</b></a>&quot; and made sure rooms are available for all. Please book individually now from € 79/night.
+<table border="1" cellpadding="4" cellspacing="1">
+<tr><td>***</td><td><a href="https://hoteldaniel.com/en/graz/"><font color="e00000">Hotel Daniel</font></a></td><td>€ 79/night <b>(*)</b></td><td><a href="https://www.booking.com/hotel/at/hoteddaniel.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+<tr><td>****</td><td><a href="https://hrewards.com/en/intercityhotel-graz">InterCity Hotel</a></td><td>€ 104/night</td><td><a href="https://www.booking.com/hotel/at/intercityhotel-graz.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+<tr><td>****</td><td><a href="https://all.accor.com/hotel/5742/index.en.shtml">Mercure Hotel</a></td><td>€ 126/night</td><td><a href="https://www.booking.com/hotel/at/mercuregrazcity.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+<!-- tr><td>****</td><td><a href="https://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 129/night</td><td><a href="https://www.booking.com/hotel/at/dasweitzer.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr -->
+<tr><td>****</td><td><a href="https://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 141/night</td><td><a href="https://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+</table>
+<b>(*)</b> <b>special block-reservation rate</b> (including breakfast and city tax).
+</p>
+
+<!-- MAPS & PUBLIC TRANSPORT -->
+<p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b></p>
+<!-- p><a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a></p -->
+<p>For a public-transport map with point-to-point connections, please see <a href="https://verkehrsauskunft.verbundlinie.at/index_en.html">BahnBusBim.at</a>.
+<!-- Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>. --></p>
+<p>From the airport, you may take a taxi (20&nbsp;mins for about 30&nbsp;&euro;) or use the local trains and busses (standard city ticket) leaving from before the airport (follow signs).
+Vending machines at train stations and inside trams sell a weekly public transport ticket (city zone &quot;101&quot;, includes airport) for 18,30&nbsp;&euro;, which we highly recommend.
+A &quot;1-hour ticket&quot; costs 3&nbsp;&euro; and the &quot;24-hours ticket&quot; costs 6,40&nbsp;&euro;.
+</p>
+
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
 The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
@@ -121,6 +144,10 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <!-- li>Matthias Rheinhardt, University of Helsinki</li -->
 <!-- li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li -->
 </ul></p>
+
+<p>More details will follow on this page...<br>
+Thank you for visiting again.
+</p>
 
 <!-- p>The next meeting will be in (t.b.c.)...</p -->
 
