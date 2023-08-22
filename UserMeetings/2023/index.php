@@ -131,6 +131,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Yao-Yu Li, Purple Mountain Observatory</li>
 <li>Antonino Salvino Midiri, Université de Genève</li>
 <li>Dhrubaditya Mitra (online), NORDITA/Stockholm</li>
+<li>Yasuhito Narita, Austrian Academy of Sciences</li>
 <li>Matthias Reinhardt, Aalto University/Espoo</li>
 <li>Alberto Roper Pol, Université de Genève</li>
 <li>Touko Puro (online), Aalto University/Espoo</li>
