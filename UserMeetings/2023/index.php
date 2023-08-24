@@ -70,7 +70,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="3" bgcolor="#b9f8fa">Talks:<br>Ramkishor Sharma<br>Matthias Reinhardt</td>
     <td rowspan="3" bgcolor="#b9f8fa">Ask-Me-Anything<br>Questions &amp; Answers Session</td>
     <td rowspan="3" bgcolor="#b9f8fa">Discussion &amp;<br>Coding Session</td>
-    <td rowspan="1" bgcolor="#d9a1ff">Session Reports</td></tr>
+    <td rowspan="1" bgcolor="#a1a1ff">Session Reports</td></tr>
 <tr><td>11:30-12:00</td>
     <td rowspan="1" bgcolor="#d9a1ff">Agenda Wrap-up</td></tr>
 <tr><td>12:00-12:30</td>
