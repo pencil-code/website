@@ -98,7 +98,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
     <td rowspan="1" bgcolor="#f0a080">Coffee Break</td></tr>
 <tr><td>16:00-16:30</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Introductory Session<br>New Users<br>Pencil Code 101</td>
+    <td rowspan="4" bgcolor="#b9f8fa">Introductory Session<br>New Users &amp;<br>Pencil Code 101</td>
     <td rowspan="1" bgcolor="#b9f8fa">Technical Session</td>
     <td rowspan="4" bgcolor="#b9f8fa">Coding Session<br>&amp; Tutorials</td>
     <td rowspan="4" bgcolor="#b9f8fa">Individual Coding Sessions</td></tr>
