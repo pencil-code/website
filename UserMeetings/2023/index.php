@@ -82,7 +82,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="2" bgcolor="#f0a080">Lunch Break</td></tr>
 <tr><td>13:00-13:30</td></tr>
 <tr><td>13:30-14:00</td>
-    <td rowspan="1" bgcolor="#faf7a5">Open Remarks</td>
+    <td rowspan="1" bgcolor="#faf7a5">Opening Remarks</td>
     <td rowspan="4" bgcolor="#b9f8fa">Talks:<br>Yaushito Narita<br>&amp; Coding Session</td>
     <td rowspan="9" bgcolor="#b7faa5">Excursion<br>&amp; Buschenschank</td>
     <td rowspan="4" bgcolor="#b9f8fa">Coding Session<br>&amp; Tutorials</td>
