@@ -102,7 +102,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="1" bgcolor="#b9f8fa">Technical Session</td>
     <td rowspan="4" bgcolor="#b9f8fa">Coding Session<br>&amp; Tutorials</td>
     <td rowspan="4" bgcolor="#b9f8fa">Individual Coding Sessions</td></tr>
-<tr><td>16:30-17:00</td></tr>
+<tr><td>16:30-17:00</td>
     <td rowspan="3" bgcolor="#ddffa1">Social Activity &amp;<br>Evening Discussion</td>
 <tr><td>17:00-17:30</td></tr>
 <tr><td>17:30-18:00</td></tr>
