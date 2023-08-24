@@ -54,7 +54,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td style="min-width:130px">Thursday</td>
     <td style="min-width:130px">Friday</td></tr>
 <tr><td>09:00-09:30</td>
-    <td rowspan="9" bgcolor="#ddffa1">Meet &amp; Greet</td>
+    <td rowspan="9" bgcolor="#ddffa1">Meet &amp; Greet<br><br>Snacks &amp; Drinks</td>
     <td rowspan="3" bgcolor="#b9f8fa">Talks:<br>Hongzhe Zhou<br>Jörn Warnecke</td>
     <td rowspan="3" bgcolor="#b9f8fa">Talks:<br>Johannes Tschernitz<br>Vartika Pandey<br>Isabella Kraus</td>
     <td rowspan="3" bgcolor="#b9f8fa">Discussion &amp;<br>Coding Session</td>
