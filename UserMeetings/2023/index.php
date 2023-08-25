@@ -142,6 +142,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Touko Puro (online), Aalto University/Espoo</li>
 <li>Sovan Sau (online), Indian Institute of Technology Guwahati</li>
 <li>Ramkishor Sharma, NORDITA/Stockholm</li>
+<li>Daniel Teubenbacher, Austrian Academy of Sciences</li>
 <li>Jörn Warnecke (online), MPS/Göttingen</li>
 <li>Hongzhe Zhou, Tsung-Dao Lee Institute, Shanghai Jiao Tong University</li>
 
