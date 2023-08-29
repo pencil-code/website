@@ -34,7 +34,7 @@ Due to construction works, you may have to cross the green.
 </p>
 
 <!-- PROGRAM OVERVIEW -->
-<p><b><u>PROGRAM OVERVIEW:</u></b><br>
+<!-- p><b><u>PROGRAM OVERVIEW:</u></b><br>
 The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
 Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and our detailed schedule:<br>
 <table border="1" cellpadding="4" cellspacing="1" style="width:100%">
@@ -105,7 +105,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
     <td rowspan="2" bgcolor="#f0f0f0"></td></tr>
 <tr><td>open end</td></tr>
 </table>
-</p>
+</p -->
 
 <!-- DETAILED SCHEDULE & TALKS -->
 <p><b><u>DETAILED SCHEDULE &amp; TALKS:</u></b><br>
@@ -134,8 +134,8 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr><td>14:00</td><td>Daniel Teubenbacher: Hermean magnetospheric boundary in AIKEF hybrid simulations</td></tr>
 <tr><td>14:30</td><td>Technical Discussion &amp; Coding Session</td></tr>
 <tr bgcolor="#f0a080"><td>15:30</td><td>Coffee break</td></tr>
-<tr><td>16:00</td><td>Tour in the Institute</td></tr>
-<tr bgcolor="#f0a080"><td>16:30</td><td>Social Activity &amp; Guided Tour</td></tr>
+<tr><td>16:00</td><td>Tour in the Institute (Tower Library &amp; Observation Platform)</td></tr>
+<tr bgcolor="#f0a080"><td>16:30</td><td>Social Activity &amp; Guided Tour (Landeszeughaus, City)</td></tr>
 
 <tr><td rowspan="7" bgcolor="#f0f0f0">Wednesday,&nbsp;6</td>
     <td>09:00</td><td>Johannes Tschernitz: Ohmic heating of a hot loop above an active region</td></tr>
@@ -144,7 +144,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr bgcolor="#f0a080"><td>10:30</td><td>Coffee break</td></tr>
 <tr><td>11:00</td><td>Ask-Me-Anything, general Q&amp;A Session</td></tr>
 <tr bgcolor="#f0a080"><td>12:15</td><td>Lunch break</td></tr>
-<tr><td>13:30</td><td>Excursion &amp; Buschenschank Dinner</td></tr>
+<tr><td>13:30</td><td>Excursion (Köflach &amp; Piber) &amp; Buschenschank Dinner (at &quot;Sattler&quot;, Graz)</td></tr>
 
 <tr><td rowspan="8" bgcolor="#c0c0c0">Thursday, 7</td>
     <td>09:00</td><td>Discussion &amp; Coding Session</td></tr>
