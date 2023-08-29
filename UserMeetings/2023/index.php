@@ -14,6 +14,10 @@ The venue is at the 1st floor of the <a href="https://physik.uni-graz.at/en/astr
 After entering the building just follow the signs guiding you a right turn, go up the stairs and you are practically there.
 </p>
 
+<!-- ARRIVAL DAY -->
+<p><b><u>ARRIVAL DAY:</u></b><br>
+<p>On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your convenience.</p>
+
 <!-- MAPS & PUBLIC TRANSPORT -->
 <p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
 <!-- p><a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a></p -->
@@ -27,10 +31,6 @@ A &quot;1-hour ticket&quot; costs 3&nbsp;&euro; and the &quot;24-hours ticket&qu
 Get off the bus at the stop "University of Graz" and follow the signs to the Physics Institute (left side if you stand in front of the main building).
 Due to construction works, you may have to cross the green.
 </p>
-
-<!-- ARRIVAL DAY -->
-<p><b><u>ARRIVAL DAY:</u></b><br>
-<p>On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your convenience.</p>
 
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
