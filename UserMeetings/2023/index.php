@@ -112,7 +112,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <table border="1" cellpadding="4" cellspacing="1">
 
 <tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 4</td>
-    <td>morning</td><td>meet &amp; greet</td></tr>
+    <td>morning</td><td>Meet &amp; Greet</td></tr>
 <tr bgcolor="#f0a080"><td>13:30</td><td>Opening remarks, Axel: code updates &amp; statistics</td></tr>
 <tr><td>14:00</td><td>PC Steering Committee: Status Report</td></tr>
 <tr><td>14:30</td><td>Meeting Agenda</td></tr>
