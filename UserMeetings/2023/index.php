@@ -147,13 +147,13 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr><td>13:30</td><td>Excursion (Köflach &amp; Piber) &amp; Buschenschank Dinner (at &quot;Sattler&quot;, Graz)</td></tr>
 
 <tr><td rowspan="8" bgcolor="#c0c0c0">Thursday, 7</td>
-    <td>09:00</td><td>Discussion &amp; Coding Session</td></tr>
+    <td>09:00</td><td>Coding Session &amp; Tutorials for beginners</td></tr>
 <tr bgcolor="#f0a080"><td>10:30</td><td>Coffee break</td></tr>
-<tr><td>11:00</td><td>Discussion &amp; Coding Session</td></tr>
+<tr><td>11:00</td><td>Coding Session &amp; Tutorials for beginners</td></tr>
 <tr bgcolor="#f0a080"><td>12:15</td><td>Lunch break</td></tr>
-<tr><td>13:30</td><td>Coding Session &amp; Tutorials for beginners</td></tr>
+<tr><td>13:30</td><td>Discussion &amp; Coding Session</td></tr>
 <tr bgcolor="#f0a080"><td>15:30</td><td>Coffee break</td></tr>
-<tr><td>16:00</td><td>Coding Session &amp; Tutorials for beginners</td></tr>
+<tr><td>16:00</td><td>Discussion &amp; Coding Session</td></tr>
 <tr bgcolor="#f0a080"><td>18:00</td><td>Barbeque at the Lustbühel Observatory</td></tr>
 
 <tr><td rowspan="9" bgcolor="#f0f0f0">Friday, 8</td>
