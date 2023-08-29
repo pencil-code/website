@@ -41,6 +41,16 @@ For a public-transport map with point-to-point connections, please see <a href="
 Vending machines at train stations and inside trams sell a weekly public transport ticket (city zone &quot;101&quot;, includes airport) for 18,30&nbsp;&euro;, which we highly recommend.
 A &quot;1-hour ticket&quot; costs 3&nbsp;&euro; and the &quot;24-hours ticket&quot; costs 6,40&nbsp;&euro;.
 </p>
+<p>To get from the train station to the venue, please use bus line 63 that departs in front of the train station at :00, :15, :30, and :45 minutes every hour (6-18).
+Get off the bus at the stop "University of Graz" and follow the signs to the Physics Institute (left side if you stand in front of the main building).
+Due to construction works, you may have to cross the green.
+</p>
+
+<!-- VENUE & ARRIVAL DAY -->
+<p><b><u>VENUE &amp; ARRIVAL DAY:</u></b><br>
+The venue is in the first floor of the Physics Institute (Universitätsplatz 5, 8010 Graz), where you find the rooms HS 05.12 and the library indicated with signs.
+After entering the building just follow the stairs to the first floor and you are practically there.
+<p>On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your convenience.</p>
 
 <!-- PROGRAM -->
 <p><b><u>PROGRAM:</u></b><br>
