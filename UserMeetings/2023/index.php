@@ -10,26 +10,9 @@
 <p><b><u>DATE &amp; VENUE:</u></b>
 <b>4<sup>th</sup> to 8<sup>th</sup> September 2023</b><br>
 The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="https://physik.uni-graz.at/en/astrophysics-geophysics/">Physics Institute</a> of the <a href="https://uni-graz.at/en/">University of Graz</a>.
-</p>
-
-<!-- REGISTRATION -->
-<p><b><u>REGISTRATION:</u></b><br>
-Please register by submitting our <a href="register.php">registration form</a>.
-</p>
-
-<!-- ACCOMMODATION PROPOSALS -->
-<p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
-<font color="#e00000"><b>Please note:</b></font> We recommend the &quot;<a href="https://hoteldaniel.com/en/graz/"><b>Hotel Daniel</b></a>&quot; and made sure rooms are available for all.<BR>Please book individually now from € 79,25/night (including city tax):
-<table border="1" cellpadding="4" cellspacing="1">
-<tr><td>***</td><td><a href="https://hoteldaniel.com/en/graz/"><font color="e00000">Hotel Daniel</font></a></td><td>€ 79/night <b>(*)</b></td><td><a href="https://reservations.hoteldanielgraz.com/?_ga=o&currency=EUR&rooms=1&languageid=1&location=graz&adults=1&datein=09%2F04%2F2023&dateout=09%2F08%2F2023&identifier=#/accommodation/room"><font color="e00000">discounted rate</font></a> or <a href="https://www.booking.com/hotel/at/hoteddaniel.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-<tr><td>****</td><td><a href="https://hrewards.com/en/intercityhotel-graz">InterCity Hotel</a></td><td>€ 104/night</td><td><a href="https://www.booking.com/hotel/at/intercityhotel-graz.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-<tr><td>****</td><td><a href="https://all.accor.com/hotel/5742/index.en.shtml">Mercure Hotel</a></td><td>€ 126/night</td><td><a href="https://www.booking.com/hotel/at/mercuregrazcity.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-<!-- tr><td>****</td><td><a href="https://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 129/night</td><td><a href="https://www.booking.com/hotel/at/dasweitzer.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr -->
-<tr><td>****</td><td><a href="https://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 141/night</td><td><a href="https://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-<tr valign="top"><td>**</td><td><a href="https://www.aohostels.com/en/graz/graz-hauptbahnhof/">A&amp;O Hostel</a></td><td>€ 45/night (double)<br>€ 71/night (single)</td><td><a href="https://www.booking.com/hotel/at/a-amp-o-graz-hauptbahnhof.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-</table>
-<b>(*)</b> special <b>&quot;direct bookers&quot; discount</a></b> without breakfast,<br>
-but we provide in the morning at the venue: fruits, pastries, juice, coffee, and tea.
+<br>
+The venue is in the first floor of the Physics Institute (Universitätsplatz 5, 8010 Graz), where you find the rooms HS 05.12 and the library indicated with signs.
+After entering the building just follow the stairs to the first floor and you are practically there.
 </p>
 
 <!-- MAPS & PUBLIC TRANSPORT -->
@@ -46,10 +29,8 @@ Get off the bus at the stop "University of Graz" and follow the signs to the Phy
 Due to construction works, you may have to cross the green.
 </p>
 
-<!-- VENUE & ARRIVAL DAY -->
-<p><b><u>VENUE &amp; ARRIVAL DAY:</u></b><br>
-The venue is in the first floor of the Physics Institute (Universitätsplatz 5, 8010 Graz), where you find the rooms HS 05.12 and the library indicated with signs.
-After entering the building just follow the stairs to the first floor and you are practically there.
+<!-- ARRIVAL DAY -->
+<p><b><u>ARRIVAL DAY:</u></b><br>
 <p>On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your convenience.</p>
 
 <!-- PROGRAM -->
@@ -162,6 +143,26 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <!-- li>Matthias Rheinhardt, University of Helsinki</li -->
 <!-- li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li -->
 </ul></p>
+
+<!-- REGISTRATION -->
+<p><b><u>REGISTRATION:</u></b><br>
+Please register by submitting our <a href="register.php">registration form</a>.
+</p>
+
+<!-- ACCOMMODATION PROPOSALS -->
+<p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
+<font color="#e00000"><b>Please note:</b></font> We recommend the &quot;<a href="https://hoteldaniel.com/en/graz/"><b>Hotel Daniel</b></a>&quot; and made sure rooms are available for all.<BR>Please book individually now from € 79,25/night (including city tax):
+<table border="1" cellpadding="4" cellspacing="1">
+<tr><td>***</td><td><a href="https://hoteldaniel.com/en/graz/"><font color="e00000">Hotel Daniel</font></a></td><td>€ 79/night <b>(*)</b></td><td><a href="https://reservations.hoteldanielgraz.com/?_ga=o&currency=EUR&rooms=1&languageid=1&location=graz&adults=1&datein=09%2F04%2F2023&dateout=09%2F08%2F2023&identifier=#/accommodation/room"><font color="e00000">discounted rate</font></a> or <a href="https://www.booking.com/hotel/at/hoteddaniel.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+<tr><td>****</td><td><a href="https://hrewards.com/en/intercityhotel-graz">InterCity Hotel</a></td><td>€ 104/night</td><td><a href="https://www.booking.com/hotel/at/intercityhotel-graz.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+<tr><td>****</td><td><a href="https://all.accor.com/hotel/5742/index.en.shtml">Mercure Hotel</a></td><td>€ 126/night</td><td><a href="https://www.booking.com/hotel/at/mercuregrazcity.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+<!-- tr><td>****</td><td><a href="https://www.hotelweitzer.com/en/">Das Weitzer</a></td><td>€ 129/night</td><td><a href="https://www.booking.com/hotel/at/dasweitzer.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr -->
+<tr><td>****</td><td><a href="https://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 141/night</td><td><a href="https://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+<tr valign="top"><td>**</td><td><a href="https://www.aohostels.com/en/graz/graz-hauptbahnhof/">A&amp;O Hostel</a></td><td>€ 45/night (double)<br>€ 71/night (single)</td><td><a href="https://www.booking.com/hotel/at/a-amp-o-graz-hauptbahnhof.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
+</table>
+<b>(*)</b> special <b>&quot;direct bookers&quot; discount</a></b> without breakfast,<br>
+but we provide in the morning at the venue: fruits, pastries, juice, coffee, and tea.
+</p>
 
 <p>More details will follow on this page...<br>
 Thank you for visiting again.
