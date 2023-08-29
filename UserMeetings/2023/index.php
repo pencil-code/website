@@ -10,7 +10,7 @@
 <p><b><u>DATE &amp; VENUE:</u></b>
 <b>4<sup>th</sup> to 8<sup>th</sup> September 2023</b><br>
 The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="https://uni-graz.at/en/">University of Graz</a>.<br>
-The venue is at the 1st floor of the <a href="https://physik.uni-graz.at/en/astrophysics-geophysics/">Physics Institute</a> (Universitätsplatz 5, 8010 Graz) in the rooms HS 05.12, SR 05.13, and the library.
+The venue is at the 1st floor of the <a href="https://physik.uni-graz.at/en/astrophysics-geophysics/">Physics Institute</a> (Universitätsplatz 5, 8010 Graz) in the rooms HS&nbsp;05.12, SR&nbsp;05.13, and the library.
 After entering the building just follow the signs guiding you a right turn, go up the stairs and you are practically there.
 </p>
 
