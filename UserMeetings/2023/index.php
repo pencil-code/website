@@ -16,7 +16,8 @@ After entering the building just follow the signs guiding you a right turn, go u
 
 <!-- ARRIVAL DAY -->
 <p><b><u>ARRIVAL DAY:</u></b><br>
-<p>On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your convenience.</p>
+On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your convenience.
+</p>
 
 <!-- MAPS & PUBLIC TRANSPORT -->
 <p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
