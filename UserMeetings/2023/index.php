@@ -21,7 +21,6 @@ On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your c
 
 <!-- MAPS & PUBLIC TRANSPORT -->
 <p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
-<!-- p><a href="map_institute-local.png"><img src="map_institute-local.png" width="625" height="391" border="1" alt="surrounding map of the institute with public transport"></a></p -->
 For a public-transport map with point-to-point connections, please see <a href="https://verkehrsauskunft.verbundlinie.at/index_en.html">BahnBusBim.at</a>.
 <!-- Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>. --></p>
 <p>From the airport, you may take a taxi (20&nbsp;mins for about 30&nbsp;&euro;) or use the local trains and busses (standard city ticket) leaving from before the airport (follow signs).
@@ -32,6 +31,7 @@ A &quot;1-hour ticket&quot; costs 3&nbsp;&euro; and the &quot;24-hours ticket&qu
 Get off the bus at the stop "University of Graz" and follow the signs to the Physics Institute (left side if you stand in front of the main building).
 Due to construction works, you may have to cross the green.
 </p>
+<p><a href="map_institute-local.png"><img src="map_institute-local.png" width="490" height="530" border="1" alt="surrounding map of the institute with public transport"></a></p>
 
 <!-- PROGRAM OVERVIEW -->
 <!-- p><b><u>PROGRAM OVERVIEW:</u></b><br>
