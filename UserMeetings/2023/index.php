@@ -116,9 +116,9 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr bgcolor="#f0a080"><td>13:30</td><td>Opening remarks, Axel: code updates &amp; statistics</td></tr>
 <tr><td>14:00</td><td>PC Steering Committee: Status Report</td></tr>
 <tr><td>14:30</td><td>Meeting Agenda</td></tr>
-<tr><td>15:00</td><td>General Dicussion</td></tr>
+<tr><td>15:00</td><td>Introduction round for new users</td></tr>
 <tr bgcolor="#f0a080"><td>15:30</td><td>Coffee break</td></tr>
-<tr><td>16:00</td><td>Introduction round for new users, Pencil Code 101</td></tr>
+<tr><td>16:00</td><td>Pencil Code 101: General Concepts &amp; Dicussion</td></tr>
 <tr bgcolor="#f0a080"><td>18:00</td><td>Welcome Reception</td></tr>
 
 <tr><td rowspan="14" bgcolor="#c0c0c0">Tuesday, 5</td>
