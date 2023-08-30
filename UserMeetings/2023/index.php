@@ -114,7 +114,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 4</td>
     <td>morning</td><td>Meet &amp; Greet</td></tr>
 <tr bgcolor="#f0a080"><td>13:30</td><td>Opening remarks, Axel: code updates &amp; statistics</td></tr>
-<tr><td>14:00</td><td>PC Steering Committee: Status Report</td></tr>
+<tr><td>14:00</td><td>PC Steering Committee: Status Report (Nils)</td></tr>
 <tr><td>14:30</td><td>Meeting Agenda</td></tr>
 <tr><td>15:00</td><td>Introduction round for new users</td></tr>
 <tr bgcolor="#f0a080"><td>15:30</td><td>Coffee break</td></tr>
@@ -132,7 +132,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr bgcolor="#f0a080"><td>12:15</td><td>Lunch break</td></tr>
 <tr><td>13:30</td><td>Alberto Roper Pol: Cosmology and gravitational waves with the Pencil Code and CosmoGW</td></tr>
 <tr><td>14:00</td><td>Daniel Teubenbacher: Hermean magnetospheric boundary in AIKEF hybrid simulations</td></tr>
-<tr><td>14:30</td><td>Philippe Bourdin: Diffusion in solar HD convection. Technical advancements of PC</td></tr>
+<tr><td>14:30</td><td>Philippe Bourdin: Diffusion in solar HD convection &amp; Technical advancements of PC</td></tr>
 <tr bgcolor="#f0a080"><td>15:30</td><td>Coffee break</td></tr>
 <tr><td>16:00</td><td>Tour in the Institute (Tower Library &amp; Observation Platform)</td></tr>
 <tr bgcolor="#f0a080"><td>16:30</td><td>Social Activity &amp; Guided Tour (Landeszeughaus, City)</td></tr>
