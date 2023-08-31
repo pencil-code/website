@@ -121,7 +121,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr><td>16:00</td><td>Pencil Code 101: General Concepts &amp; Dicussion</td></tr>
 <tr bgcolor="#f0a080"><td>18:00</td><td>Welcome Reception</td></tr>
 
-<tr><td rowspan="14" bgcolor="#c0c0c0">Tuesday, 5</td>
+<tr><td rowspan="15" bgcolor="#c0c0c0">Tuesday, 5</td>
     <td>09:00</td><td>Matthias Reinhardt: GPU acceleration of Pencil Code by Astaroth</td></tr>
 <tr><td>09:30</td><td>Jörn Warnecke: Studying small-scale dynamos at low magnetic Prandtl numbers using GPUs and smart initial conditions</td></tr>
 <tr><td>10:00</td><td>Discussion on large-scale models &amp; GPU</td></tr>
