@@ -176,7 +176,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>LOC: Vartika Pandey, IGAM/Graz</li>
 <li>LOC: Johannes Tschernitz, IGAM/Graz</li>
 <li>LOC: Isabella Kraus, IGAM/Graz</li>
-<li>LOC: Philippe-A. Bourdin, IGAM/Graz</li>
+<li>LOC&amp;SOC: Philippe-A. Bourdin, IGAM/Graz</li>
 <li>-----</li>
 <li>Axel Brandenburg, NORDITA/Stockholm</li>
 <li>Simon Candelaresi (online), University of Stuttgart</li>
