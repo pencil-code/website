@@ -109,7 +109,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 
 <!-- DETAILED SCHEDULE & TALKS -->
 <p><b><u>DETAILED SCHEDULE &amp; TALKS:</u></b><br>
-<table border="1" cellpadding="4" cellspacing="1">
+<table border="1" cellpadding="4" cellspacing="0">
 
 <tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 4</td>
     <td>morning</td><td>Meet &amp; Greet</td></tr>
