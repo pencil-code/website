@@ -144,8 +144,8 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <tr><td>10:00</td><td>Isabella Kraus: Coronal bright point simulation driven with Hinode observations</td></tr>
 <tr bgcolor="#f0a080"><td>10:30</td><td>Coffee break</td></tr>
 <tr><td>11:00</td><td>Ask-Me-Anything, general Q&amp;A Session</td></tr>
-<tr bgcolor="#f0a080"><td>12:15</td><td>Lunch break</td></tr>
-<tr><td>13:30</td><td>Excursion (Köflach &amp; Piber) &amp; Dinner at Heurigenschänke &quot;Sattler&quot; (Graz)</td></tr>
+<tr bgcolor="#f0a080"><td>12:15</td><td>Grab your Lunch</td></tr>
+<tr><td>12:30</td><td>Excursion (Köflach &amp; Piber) &amp; Dinner at Heurigenschänke &quot;Sattler&quot; (Graz)</td></tr>
 
 <tr><td rowspan="8" bgcolor="#c0c0c0">Thursday, 7</td>
     <td>09:00</td><td>Coding Session &amp; Tutorials for beginners</td></tr>
