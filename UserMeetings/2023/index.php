@@ -112,61 +112,61 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <table border="1" cellpadding="4" cellspacing="0">
 
 <tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 4</td>
-    <td>morning</td><td valign="top">Meet &amp; Greet</td></tr>
-<tr bgcolor="#f0a080"><td>13:30</td><td valign="top">Opening remarks, Axel: code updates &amp; statistics</td></tr>
-<tr><td>14:00</td><td valign="top">PC Steering Committee: Status Report (Nils)</td></tr>
-<tr><td>14:30</td><td valign="top">Meeting Agenda</td></tr>
-<tr><td>15:00</td><td valign="top">Introduction round for new users</td></tr>
-<tr bgcolor="#f0a080"><td>15:30</td><td valign="top">Coffee break</td></tr>
-<tr><td>16:00</td><td valign="top">Pencil Code 101: General Concepts &amp; Dicussion</td></tr>
-<tr bgcolor="#f0a080"><td>18:00</td><td valign="top">Welcome Reception</td></tr>
+    <td valign="top">morning</td><td valign="top">Meet &amp; Greet</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">13:30</td><td valign="top">Opening remarks, Axel: code updates &amp; statistics</td></tr>
+<tr><td valign="top">14:00</td><td valign="top">PC Steering Committee: Status Report (Nils)</td></tr>
+<tr><td valign="top">14:30</td><td valign="top">Meeting Agenda</td></tr>
+<tr><td valign="top">15:00</td><td valign="top">Introduction round for new users</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">15:30</td><td valign="top">Coffee break</td></tr>
+<tr><td valign="top">16:00</td><td valign="top">Pencil Code 101: General Concepts &amp; Dicussion</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">18:00</td><td valign="top">Welcome Reception</td></tr>
 
 <tr><td rowspan="15" bgcolor="#c0c0c0">Tuesday, 5</td>
-    <td>09:00</td><td valign="top">Matthias Reinhardt: GPU acceleration of Pencil Code by Astaroth</td></tr>
-<tr><td>09:30</td><td valign="top">Jörn Warnecke: Studying small-scale dynamos at low magnetic Prandtl numbers using GPUs and smart initial conditions</td></tr>
-<tr><td>10:00</td><td valign="top">Discussion on large-scale models &amp; GPU</td></tr>
-<tr bgcolor="#f0a080"><td>10:30</td><td valign="top">Coffee break</td></tr>
-<tr><td>10:30</td><td valign="top">Hongzhe Zhou: Helical and nonhelical dynamos in thin accretion disks</td></tr>
-<tr><td>11:00</td><td valign="top">Ramkishor Sharma: Gravitational waves from a first-oder phase transition</td></tr>
-<tr><td>12:00</td><td valign="top">Yaoyu Li: Primodial Magnetic Field as a common solution of nanohertz gravitational waves and Hubble tension</td></tr>
-<tr bgcolor="#f0a080"><td>12:15</td><td valign="top">Lunch break</td></tr>
-<tr><td>13:30</td><td valign="top">Alberto Roper Pol: Cosmology and gravitational waves with the Pencil Code and CosmoGW</td></tr>
-<tr><td>14:00</td><td valign="top">Daniel Teubenbacher: Hermean magnetospheric boundary in AIKEF hybrid simulations</td></tr>
-<tr><td>14:30</td><td valign="top">Philippe Bourdin: Diffusion in solar HD convection &amp; Technical advancements of PC</td></tr>
-<tr><td>15:00</td><td valign="top">Discussion on existing and future Code Interfaces</td></tr>
-<tr bgcolor="#f0a080"><td>15:30</td><td valign="top">Coffee break</td></tr>
-<tr><td>16:00</td><td valign="top">Tour in the Institute (Tower Library &amp; Observation Platform)</td></tr>
-<tr bgcolor="#f0a080"><td>16:30</td><td valign="top">Social Activity &amp; Guided Tour (Landeszeughaus, City)</td></tr>
+    <td valign="top">09:00</td><td valign="top">Matthias Reinhardt: GPU acceleration of Pencil Code by Astaroth</td></tr>
+<tr><td valign="top">09:30</td><td valign="top">Jörn Warnecke: Studying small-scale dynamos at low magnetic Prandtl numbers using GPUs and smart initial conditions</td></tr>
+<tr><td valign="top">10:00</td><td valign="top">Discussion on large-scale models &amp; GPU</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">10:30</td><td valign="top">Coffee break</td></tr>
+<tr><td valign="top">10:30</td><td valign="top">Hongzhe Zhou: Helical and nonhelical dynamos in thin accretion disks</td></tr>
+<tr><td valign="top">11:00</td><td valign="top">Ramkishor Sharma: Gravitational waves from a first-oder phase transition</td></tr>
+<tr><td valign="top">12:00</td><td valign="top">Yaoyu Li: Primodial Magnetic Field as a common solution of nanohertz gravitational waves and Hubble tension</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Lunch break</td></tr>
+<tr><td valign="top">13:30</td><td valign="top">Alberto Roper Pol: Cosmology and gravitational waves with the Pencil Code and CosmoGW</td></tr>
+<tr><td valign="top">14:00</td><td valign="top">Daniel Teubenbacher: Hermean magnetospheric boundary in AIKEF hybrid simulations</td></tr>
+<tr><td valign="top">14:30</td><td valign="top">Philippe Bourdin: Diffusion in solar HD convection &amp; Technical advancements of PC</td></tr>
+<tr><td valign="top">15:00</td><td valign="top">Discussion on existing and future Code Interfaces</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">15:30</td><td valign="top">Coffee break</td></tr>
+<tr><td valign="top">16:00</td><td valign="top">Tour in the Institute (Tower Library &amp; Observation Platform)</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">16:30</td><td valign="top">Social Activity &amp; Guided Tour (Landeszeughaus, City)</td></tr>
 
 <tr><td rowspan="7" bgcolor="#f0f0f0">Wednesday,&nbsp;6</td>
-    <td>09:00</td><td valign="top">Johannes Tschernitz: Ohmic heating of a hot loop above an active region</td></tr>
-<tr><td>09:30</td><td valign="top">Vartika Pandey: Finding an equilibrium stratification for solar atmospheric models</td></tr>
-<tr><td>10:00</td><td valign="top">Isabella Kraus: Coronal bright point simulation driven with Hinode observations</td></tr>
-<tr bgcolor="#f0a080"><td>10:30</td><td valign="top">Coffee break</td></tr>
-<tr><td>11:00</td><td valign="top">Ask-Me-Anything, general Q&amp;A Session</td></tr>
-<tr bgcolor="#f0a080"><td>12:15</td><td valign="top">Grab your Lunch</td></tr>
+    <td valign="top">09:00</td><td valign="top">Johannes Tschernitz: Ohmic heating of a hot loop above an active region</td></tr>
+<tr><td valign="top">09:30</td><td valign="top">Vartika Pandey: Finding an equilibrium stratification for solar atmospheric models</td></tr>
+<tr><td valign="top">10:00</td><td valign="top">Isabella Kraus: Coronal bright point simulation driven with Hinode observations</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">10:30</td><td valign="top">Coffee break</td></tr>
+<tr><td valign="top">11:00</td><td valign="top">Ask-Me-Anything, general Q&amp;A Session</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Grab your Lunch</td></tr>
 <tr><td valign="top">12:30</td><td valign="top">Excursion (Köflach &amp; Piber) &amp; Dinner at Heurigenschänke &quot;Sattler&quot; (Graz)<br>We leave 12:40 with Bus 63 from "Universität" or 13:06 from track 9 at Graz main station.<br>We take tram 7 from Graz main station at 19:08 for "LKH" and at "Klinikum Mitte" we change for Bus 82 to arrive at "Schmied König" at 19:38. Arrival at "Heurigenschänke Sattler" about 19:45.</td></tr>
 
 <tr><td rowspan="8" bgcolor="#c0c0c0">Thursday, 7</td>
-    <td>09:00</td><td valign="top">Coding Session &amp; Tutorials for beginners</td></tr>
-<tr bgcolor="#f0a080"><td>10:30</td><td valign="top">Coffee break</td></tr>
-<tr><td>11:00</td><td valign="top">Coding Session &amp; Tutorials for beginners</td></tr>
-<tr bgcolor="#f0a080"><td>12:15</td><td valign="top">Lunch break</td></tr>
-<tr><td>13:30</td><td valign="top">Discussion &amp; Coding Session</td></tr>
-<tr bgcolor="#f0a080"><td>15:30</td><td valign="top">Coffee break</td></tr>
-<tr><td>16:00</td><td valign="top">Discussion &amp; Coding Session</td></tr>
-<tr bgcolor="#f0a080"><td>18:00</td><td valign="top">Barbeque at the Lustbühel Observatory</td></tr>
+    <td valign="top">09:00</td><td valign="top">Coding Session &amp; Tutorials for beginners</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">10:30</td><td valign="top">Coffee break</td></tr>
+<tr><td valign="top">11:00</td><td valign="top">Coding Session &amp; Tutorials for beginners</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Lunch break</td></tr>
+<tr><td valign="top">13:30</td><td valign="top">Discussion &amp; Coding Session</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">15:30</td><td valign="top">Coffee break</td></tr>
+<tr><td valign="top">16:00</td><td valign="top">Discussion &amp; Coding Session</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">18:00</td><td valign="top">Barbeque at the Lustbühel Observatory</td></tr>
 
 <tr><td rowspan="9" bgcolor="#f0f0f0">Friday, 8</td>
-    <td>09:00</td><td valign="top">Discussion &amp; Coding Session</td></tr>
-<tr bgcolor="#f0a080"><td>10:30</td><td valign="top">Coffee break</td></tr>
-<tr><td>11:00</td><td valign="top">Session reports</td></tr>
-<tr><td>11:30</td><td valign="top">Agenda wrap-up</td></tr>
-<tr><td>12:00</td><td valign="top">Closing Remarks</td></tr>
-<tr bgcolor="#f0a080"><td>12:15</td><td valign="top">Lunch break</td></tr>
-<tr><td>13:30</td><td valign="top">Individual Coding Sessions</td></tr>
-<tr bgcolor="#f0a080"><td>15:30</td><td valign="top">Coffee break</td></tr>
-<tr><td>16:00</td><td valign="top">Individual Coding Sessions</td></tr>
+    <td valign="top">09:00</td><td valign="top">Discussion &amp; Coding Session</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">10:30</td><td valign="top">Coffee break</td></tr>
+<tr><td valign="top">11:00</td><td valign="top">Session reports</td></tr>
+<tr><td valign="top">11:30</td><td valign="top">Agenda wrap-up</td></tr>
+<tr><td valign="top">12:00</td><td valign="top">Closing Remarks</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Lunch break</td></tr>
+<tr><td valign="top">13:30</td><td valign="top">Individual Coding Sessions</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">15:30</td><td valign="top">Coffee break</td></tr>
+<tr><td valign="top">16:00</td><td valign="top">Individual Coding Sessions</td></tr>
 </table>
 </p>
 
