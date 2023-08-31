@@ -37,7 +37,7 @@ Due to construction works, you may have to cross the green.
 <!-- p><b><u>PROGRAM OVERVIEW:</u></b><br>
 The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
 Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and our detailed schedule:<br>
-<table border="1" cellpadding="4" cellspacing="1" style="width:100%">
+<table border="1" cellpadding="4" cellspacing="0" style="width:100%">
 <tr><td style="min-width:80px"></td>
     <td style="min-width:140px">Monday</td>
     <td style="min-width:130px">Tuesday</td>
