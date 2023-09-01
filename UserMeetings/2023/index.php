@@ -186,7 +186,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Fabio Del Sordo (online), Institute of Space Sciences - CSIC/Barcelona</li>
 <li>Frederick Gent, Aalto University/Espoo</li>
 <li>Oksana Iarygina (online), NORDITA/Stockholm</li>
-<li>Yutong He, NORDITA/Stockholm</li>
+<li>Yutong He (online), NORDITA/Stockholm</li>
 <li>Nils Haugen (online), SINTEF Energy Research</li>
 <li>Maarit Korpi-Lagg (online), Aalto University/Espoo</li>
 <li>Yao-Yu Li, Purple Mountain Observatory</li>
