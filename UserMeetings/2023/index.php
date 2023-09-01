@@ -183,6 +183,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Piyali Chatterjee (online), Indian Institute of Astrophysics</li>
 <li>Ming-Yang Cui, Purple Mountain Observatory</li>
 <li>Mayusree Das (online), Indian Institute of Science/Bengaluru</li>
+<li>Fabio Del Sordo (online), Institute of Space Sciences - CSIC/Barcelona</li>
 <li>Frederick Gent, Aalto University/Espoo</li>
 <li>Oksana Iarygina (online), NORDITA/Stockholm</li>
 <li>Yutong He, NORDITA/Stockholm</li>
