@@ -182,6 +182,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Simon Candelaresi (online), University of Stuttgart</li>
 <li>Piyali Chatterjee (online), Indian Institute of Astrophysics</li>
 <li>Ming-Yang Cui, Purple Mountain Observatory</li>
+<li>Mayusree Das (online), Indian Institute of Science/Bengaluru</li>
 <li>Frederick Gent, Aalto University/Espoo</li>
 <li>Oksana Iarygina (online), NORDITA/Stockholm</li>
 <li>Yutong He, NORDITA/Stockholm</li>
@@ -194,8 +195,9 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Matthias Reinhardt, Aalto University/Espoo</li>
 <li>Alberto Roper Pol, Université de Genève</li>
 <li>Touko Puro (online), Aalto University/Espoo</li>
-<li>Sovan Sau (online), Indian Institute of Technology Guwahati</li>
+<li>Sovan Sau (online), Indian Institute of Technology/Guwahati</li>
 <li>Ramkishor Sharma, NORDITA/Stockholm</li>
+<li>Sankalp Srivastava (online), Indian Institute of Astrophysics/Bengaluru</li>
 <li>Daniel Teubenbacher, Austrian Academy of Sciences</li>
 <li>Jörn Warnecke (online), MPS/Göttingen</li>
 <li>Hongzhe Zhou, Tsung-Dao Lee Institute, Shanghai Jiao Tong University</li>
