@@ -181,7 +181,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Axel Brandenburg, NORDITA/Stockholm</li>
 <li>Simon Candelaresi (online), University of Stuttgart</li>
 <li>Piyali Chatterjee (online), Indian Institute of Astrophysics</li>
-<li>Ming-Yang Cui, Purple Mountain Observatory</li>
+<li>Ming-Yang Cui, Purple Mountain Observatory/Nanjing</li>
 <li>Mayusree Das (online), Indian Institute of Science/Bengaluru</li>
 <li>Fabio Del Sordo (online), Institute of Space Sciences - CSIC/Barcelona</li>
 <li>Frederick Gent, Aalto University/Espoo</li>
@@ -189,7 +189,7 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Yutong He (online), NORDITA/Stockholm</li>
 <li>Nils Haugen (online), SINTEF Energy Research</li>
 <li>Maarit Korpi-Lagg (online), Aalto University/Espoo</li>
-<li>Yao-Yu Li, Purple Mountain Observatory</li>
+<li>Yao-Yu Li, Purple Mountain Observatory/Nanjing</li>
 <li>Antonino Salvino Midiri, Université de Genève</li>
 <li>Dhrubaditya Mitra (online), NORDITA/Stockholm</li>
 <li>Yasuhito Narita, Austrian Academy of Sciences</li>
