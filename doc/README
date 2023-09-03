@@ -2,6 +2,8 @@
 cd ~/pencil-code/doc/citations
 svn up
 gb
+cp ~/pencil-code/doc/citations/2022.pdf Publications_2022.pdf
+cp ~/pencil-code/doc/citations/2023.pdf Publications_2023.pdf
 cp ~/pencil-code/doc/citations/notes.pdf citations.pdf
 cp ~/pencil-code/doc/manual.pdf .
 cp ~/pencil-code/doc/git/git-best-practises.pdf .
