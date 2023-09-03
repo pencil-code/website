@@ -33,82 +33,9 @@ Due to construction works, you may have to cross the green.
 </p>
 <p><a href="map_institute-local.png"><img src="map_institute-local.png" width="490" height="530" border="1" alt="surrounding map of the institute with public transport"></a></p>
 
-<!-- PROGRAM OVERVIEW -->
-<!-- p><b><u>PROGRAM OVERVIEW:</u></b><br>
-The program of the meeting will be as usual: Scientific presentations and technical discussions around the Pencil Code.<br>
-Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and our detailed schedule:<br>
-<table border="1" cellpadding="4" cellspacing="0" style="width:100%">
-<tr><td style="min-width:80px"></td>
-    <td style="min-width:140px">Monday</td>
-    <td style="min-width:130px">Tuesday</td>
-    <td style="min-width:130px">Wednesday</td>
-    <td style="min-width:130px">Thursday</td>
-    <td style="min-width:130px">Friday</td></tr>
-<tr><td>09:00-09:30</td>
-    <td rowspan="9" bgcolor="#ddffa1">Meet &amp; Greet<br><br>Snacks &amp; Drinks</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Talks:<br>Hongzhe Zhou<br>Jörn Warnecke</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Talks:<br>Johannes Tschernitz<br>Vartika Pandey<br>Isabella Kraus</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Discussion &amp;<br>Coding Session</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Discussion &amp;<br>Coding Session</td></tr>
-<tr><td>09:30-10:00</td></tr>
-<tr><td>10:00-10:30</td></tr>
-<tr><td>10:30-11:00</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td></tr>
-<tr><td>11:00-11:30</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Talks:<br>Ramkishor Sharma<br>Matthias Reinhardt</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Ask-Me-Anything<br>Questions &amp; Answers Session</td>
-    <td rowspan="3" bgcolor="#b9f8fa">Discussion &amp;<br>Coding Session</td>
-    <td rowspan="1" bgcolor="#a1a1ff">Session Reports</td></tr>
-<tr><td>11:30-12:00</td>
-    <td rowspan="1" bgcolor="#d9a1ff">Agenda Wrap-up</td></tr>
-<tr><td>12:00-12:30</td>
-    <td rowspan="1" bgcolor="#faf7a5">Closing Remarks</td></tr>
-<tr><td>12:30-13:00</td>
-    <td rowspan="2" bgcolor="#f0a080">Lunch Break</td>
-    <td rowspan="2" bgcolor="#f0a080">Lunch Break</td>
-    <td rowspan="2" bgcolor="#f0a080">Lunch Break</td>
-    <td rowspan="2" bgcolor="#f0a080">Lunch Break</td></tr>
-<tr><td>13:00-13:30</td></tr>
-<tr><td>13:30-14:00</td>
-    <td rowspan="1" bgcolor="#faf7a5">Opening Remarks</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Talks:<br>Alberto Roper Pol<br>D. Teubenbacher<br>&amp; Coding Session</td>
-    <td rowspan="9" bgcolor="#b7faa5">Excursion<br>&amp; Buschenschank</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Coding Session<br>&amp; Tutorials</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Individual Coding Sessions</td></tr>
-<tr><td>14:00-14:30</td>
-    <td rowspan="1" bgcolor="#a1a1ff">PCSC Status Report</td></tr>
-<tr><td>14:30-15:00</td>
-    <td rowspan="2" bgcolor="#d9a1ff">Meeting Agenda<BR>&amp; Discussion</td></tr>
-<tr><td>15:00-15:30</td></tr>
-<tr><td>15:30-16:00</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td>
-    <td rowspan="1" bgcolor="#f0a080">Coffee Break</td></tr>
-<tr><td>16:00-16:30</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Introductory Session<br>New Users &amp;<br>Pencil Code 101</td>
-    <td rowspan="1" bgcolor="#b9f8fa">Technical Session</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Coding Session<br>&amp; Tutorials</td>
-    <td rowspan="4" bgcolor="#b9f8fa">Individual Coding Sessions</td></tr>
-<tr><td>16:30-17:00</td>
-    <td rowspan="3" bgcolor="#ddffa1">Social Activity<br>&amp; Guided Tour</td>
-<tr><td>17:00-17:30</td></tr>
-<tr><td>17:30-18:00</td></tr>
-<tr><td>18:00</td>
-    <td rowspan="2" bgcolor="#f5c545">Welcome Reception</td>
-    <td rowspan="2" bgcolor="#b9f8fa">Evening Gathering</td>
-    <td rowspan="2" bgcolor="#b9f8fa">Evening Gathering</td>
-    <td rowspan="2" bgcolor="#ddffa1">Social Event<br>with Barbeque</td>
-    <td rowspan="2" bgcolor="#f0f0f0"></td></tr>
-<tr><td>open end</td></tr>
-</table>
-</p -->
-
 <!-- DETAILED SCHEDULE & TALKS -->
 <p><b><u>DETAILED SCHEDULE &amp; TALKS:</u></b><br>
+=&gt; Download <a href="schedule.pdf">Detailed Schedule as PDF</a>.<br>
 <table border="1" cellpadding="4" cellspacing="0">
 
 <tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 4</td>
