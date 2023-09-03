@@ -139,12 +139,12 @@ Due to construction works, you may have to cross the green.
 </ul></p>
 
 <!-- REGISTRATION -->
-<p><b><u>REGISTRATION:</u></b><br>
+<!-- p><b><u>REGISTRATION:</u></b><br>
 Please register by submitting our <a href="register.php">registration form</a>.
-</p>
+</p -->
 
 <!-- ACCOMMODATION PROPOSALS -->
-<p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
+<!-- p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
 <font color="#e00000"><b>Please note:</b></font> We recommend the &quot;<a href="https://hoteldaniel.com/en/graz/"><b>Hotel Daniel</b></a>&quot; and made sure rooms are available for all.<BR>Please book individually now from € 79,25/night (including city tax):
 <table border="1" cellpadding="4" cellspacing="1">
 <tr><td>***</td><td><a href="https://hoteldaniel.com/en/graz/"><font color="e00000">Hotel Daniel</font></a></td><td>€ 79/night <b>(*)</b></td><td><a href="https://reservations.hoteldanielgraz.com/?_ga=o&currency=EUR&rooms=1&languageid=1&location=graz&adults=1&datein=09%2F04%2F2023&dateout=09%2F08%2F2023&identifier=#/accommodation/room"><font color="e00000">discounted rate</font></a> or <a href="https://www.booking.com/hotel/at/hoteddaniel.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
@@ -156,13 +156,9 @@ Please register by submitting our <a href="register.php">registration form</a>.
 </table>
 <b>(*)</b> special <b>&quot;direct bookers&quot; discount</a></b> without breakfast,<br>
 but we provide in the morning at the venue: fruits, pastries, juice, coffee, and tea.
-</p>
+</p -->
 
-<p>More details will follow on this page...<br>
-Thank you for visiting again.
-</p>
-
-<!-- p>The next meeting will be in (t.b.c.)...</p -->
+<p>The next meeting will be in ...? (t.b.d.)</p>
 
 </div>
 <?php
