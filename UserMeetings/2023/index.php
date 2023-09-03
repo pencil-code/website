@@ -193,9 +193,10 @@ Please find here the <a href="/UserMeetings/2023/agenda.txt">agenda.txt</a> and 
 <li>Antonino Salvino Midiri, Université de Genève</li>
 <li>Dhrubaditya Mitra (online), NORDITA/Stockholm</li>
 <li>Yasuhito Narita, Austrian Academy of Sciences</li>
+<li>Nousaba Nasrin Protiti (online), NORDITA/Stockholm</li>
+<li>Touko Puro (online), Aalto University/Espoo</li>
 <li>Matthias Reinhardt, Aalto University/Espoo</li>
 <li>Alberto Roper Pol, Université de Genève</li>
-<li>Touko Puro (online), Aalto University/Espoo</li>
 <li>Sovan Sau (online), Indian Institute of Technology/Guwahati</li>
 <li>Ramkishor Sharma, NORDITA/Stockholm</li>
 <li>Sankalp Srivastava (online), Indian Institute of Astrophysics/Bengaluru</li>
