@@ -51,10 +51,25 @@ NEW ITEMS:
 
 - register_report_aux versus 
 
-- file size in samplesz
+- file size in samples
 
 - add HDF5 distributed IO to handle huge data files (similar to IO_collective?) (Fred)
 
 - make HDF5 IO reading of persistent variables robust against changes in number of processors (Fred) 
 
+How to deal with inactive owners?
+
+How to deal with broken auto-test: Joern
+
+EoS and energy module combinability: general re-design
+
+Nonuniform output of snapshots
+
+How to enforce certain coding standards, for example how to deal with shared variables, registering, etc.
+
+Higgsless implementation in non-relativistic code: Ramkishor
+
+GPU accelerated 
+
+HDF5: break up, slices (Fred Gent): future i/o strategies, but backwards compatible 
 
