@@ -37,10 +37,6 @@ OLD ITEMS:
 
 - should we rename some more README files to README.md
 
-- add HDF5 distributed IO to handle huge data files (similar to IO_collective?) (Fred)
-
-- make HDF5 IO reading of persistent variables robust against changes in number of processors (Fred) 
-
 - to add src/pc_build_details (Status; Philippe?)
 
 - user-specific initialization (Status: Philippe) ***
@@ -55,4 +51,10 @@ NEW ITEMS:
 
 - register_report_aux versus 
 
-- file size in samples
+- file size in samplesz
+
+- add HDF5 distributed IO to handle huge data files (similar to IO_collective?) (Fred)
+
+- make HDF5 IO reading of persistent variables robust against changes in number of processors (Fred) 
+
+
