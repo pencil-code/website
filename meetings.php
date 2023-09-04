@@ -31,6 +31,7 @@
 <h2>Meetings</h2>
 
 <p align="center">
+<img src="/pics/2023a.jpg" width="510" height="180" border="0" alt="2023"><br>
 <img src="/pics/2006b.jpg" width="240" height="180" border="0" alt="2006"><img src="/pics/2011a.jpg" width="240" height="180" border="0" alt="2011"><img src="/pics/2011b.jpg" width="240" height="180" border="0" alt="2011">
 </p>
 
