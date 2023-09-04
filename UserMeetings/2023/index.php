@@ -143,6 +143,11 @@ Due to construction works, you may have to cross the green.
 Please register by submitting our <a href="register.php">registration form</a>.
 </p -->
 
+<!-- GROUP PHOTO -->
+<p><b><u>GROUP PHOTO:</u></b><br>
+<a href="group-photo.jpg"><img src="group-photo.jpg" width="510" height="287" border="1" alt="Group Photo of the User Meeting 2023"></a>
+</p>
+
 <!-- ACCOMMODATION PROPOSALS -->
 <!-- p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
 <font color="#e00000"><b>Please note:</b></font> We recommend the &quot;<a href="https://hoteldaniel.com/en/graz/"><b>Hotel Daniel</b></a>&quot; and made sure rooms are available for all.<BR>Please book individually now from € 79,25/night (including city tax):
