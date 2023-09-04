@@ -145,7 +145,7 @@ Please register by submitting our <a href="register.php">registration form</a>.
 
 <!-- GROUP PHOTO -->
 <p><b><u>GROUP PHOTO:</u></b><br>
-<a href="group-photo.jpg"><img src="group-photo.jpg" width="510" height="287" border="1" alt="Group Photo of the User Meeting 2023"></a>
+<a href="group-photo.jpg"><img src="group-photo_small.jpg" width="510" height="287" border="1" alt="Group Photo of the User Meeting 2023"></a>
 </p>
 
 <!-- ACCOMMODATION PROPOSALS -->
