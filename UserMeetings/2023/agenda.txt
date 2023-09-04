@@ -47,3 +47,8 @@ OLD ITEMS:
 
 - paraview or yt 3-D visualization tutorials?
 
+NEW ITEMS:
+
+- register_report_aux versus 
+
+- file size in samples
