@@ -10,14 +10,14 @@
 <p><b><u>DATE &amp; VENUE:</u></b>
 <b>4<sup>th</sup> to 8<sup>th</sup> September 2023</b><br>
 The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="https://uni-graz.at/en/">University of Graz</a>.<br>
-The venue is at the 1st floor of the <a href="https://physik.uni-graz.at/en/astrophysics-geophysics/">Physics Institute</a> (Universitätsplatz 5, 8010 Graz) in the rooms HS&nbsp;05.12, SR&nbsp;05.13, and the library.
-After entering the building just follow the signs guiding you a right turn, go up the stairs and you are practically there.
+<!-- The venue is at the 1st floor of the <a href="https://physik.uni-graz.at/en/astrophysics-geophysics/">Physics Institute</a> (Universitätsplatz 5, 8010 Graz) in the rooms HS&nbsp;05.12, SR&nbsp;05.13, and the library.
+After entering the building just follow the signs guiding you a right turn, go up the stairs and you are practically there. -->
 </p>
 
 <!-- ARRIVAL DAY -->
-<p><b><u>ARRIVAL DAY:</u></b><br>
+<!-- p><b><u>ARRIVAL DAY:</u></b><br>
 On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your convenience.
-</p>
+</p -->
 
 <!-- MAPS & PUBLIC TRANSPORT -->
 <p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
@@ -28,14 +28,12 @@ Vending machines at train stations and inside trams sell a weekly public transpo
 A &quot;1-hour ticket&quot; costs 3&nbsp;&euro; and the &quot;24-hours ticket&quot; costs 6,40&nbsp;&euro;.
 </p>
 <p>To get from the train station to the venue, please use bus line 63 that departs in front of the train station at :00, :15, :30, and :45 minutes every hour (6-18).
-Get off the bus at the stop "University of Graz" and follow the signs to the Physics Institute (left side if you stand in front of the main building).
-Due to construction works, you may have to cross the green.
+<!-- Get off the bus at the stop "University of Graz" and follow the signs to the Physics Institute (left side if you stand in front of the main building). -->
 </p>
-<p><a href="map_institute-local.png"><img src="map_institute-local.png" width="490" height="530" border="1" alt="surrounding map of the institute with public transport"></a></p>
+<!-- p><a href="map_institute-local.png"><img src="map_institute-local.png" width="490" height="530" border="1" alt="surrounding map of the institute with public transport"></a></p -->
 
 <!-- DETAILED SCHEDULE & TALKS -->
 <p><b><u>DETAILED SCHEDULE &amp; TALKS:</u></b><br>
-=&gt; Download <a href="schedule.pdf">Detailed Schedule as PDF</a>.<br>
 <table border="1" cellpadding="4" cellspacing="0">
 
 <tr><td rowspan="8" bgcolor="#f0f0f0">Monday, 4</td>
