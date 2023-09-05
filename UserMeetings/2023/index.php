@@ -53,8 +53,8 @@ Due to construction works, you may have to cross the green.
 <tr><td valign="top">09:30</td><td valign="top">Jörn Warnecke: Studying small-scale dynamos at low magnetic Prandtl numbers using GPUs and smart initial conditions</td></tr>
 <tr><td valign="top">10:00</td><td valign="top">Discussion on large-scale models &amp; GPU</td></tr>
 <tr bgcolor="#f0a080"><td valign="top">10:30</td><td valign="top">Coffee break</td></tr>
-<tr><td valign="top">10:30</td><td valign="top">Hongzhe Zhou: Helical and nonhelical dynamos in thin accretion disks</td></tr>
-<tr><td valign="top">11:00</td><td valign="top">Ramkishor Sharma: Gravitational waves from a first-oder phase transition</td></tr>
+<tr><td valign="top">11:00</td><td valign="top">Hongzhe Zhou: Helical and nonhelical dynamos in thin accretion disks</td></tr>
+<tr><td valign="top">11:30</td><td valign="top">Ramkishor Sharma: Gravitational waves from a first-oder phase transition</td></tr>
 <tr><td valign="top">12:00</td><td valign="top">Yaoyu Li: Primodial Magnetic Field as a common solution of nanohertz gravitational waves and Hubble tension</td></tr>
 <tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Lunch break</td></tr>
 <tr><td valign="top">13:30</td><td valign="top">Alberto Roper Pol: Cosmology and gravitational waves with the Pencil Code and CosmoGW</td></tr>
