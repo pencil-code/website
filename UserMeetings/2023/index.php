@@ -144,8 +144,8 @@ Please register by submitting our <a href="register.php">registration form</a>.
 <!-- GROUP PHOTO -->
 <p><b><u>GROUP PHOTO:</u></b><br>
 <a href="group-photo.jpg"><img src="group-photo_small.jpg" width="510" height="287" border="1" alt="Group Photo of the User Meeting 2023"></a><br>
-<a href="group-photo_armory.jpg"><img src="group-photo_armory-small.jpg" width="510" height="287" border="1" alt="Group Photo of the User Meeting 2023 at the Armory"></a>
-</p>
+<a href="group-photo_armory.jpg"><img src="group-photo_armory-small.jpg" width="510" height="287" border="1" alt="Group Photo of the User Meeting 2023 at the Armory"></a><br>
+<a href="group-photo_dinner.jpg"><img src="group-photo_dinner-small.jpg" width="510" height="287" border="1" alt="Group Photo of the Dinner after the Excursion"></a></p>
 
 <!-- ACCOMMODATION PROPOSALS -->
 <!-- p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
