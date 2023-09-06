@@ -73,7 +73,7 @@ A taxi to the airport costs about 30&nbsp;&euro; and takes about 20&nbsp;mins.
 <tr><td valign="top">12:30</td><td valign="top">Excursion (Köflach &amp; Piber) &amp; Dinner at Heurigenschänke &quot;Sattler&quot; (Graz)<br>We leave 12:40 with Bus 63 from "Universität" or 13:06 from track 9 at Graz main station.<br>We take tram 7 from Graz main station at 19:08 for "LKH" and at "Klinikum Mitte" we change for Bus 82 to arrive at "Schmied König" at 19:38. Arrival at "Heurigenschänke Sattler" about 19:45.</td></tr>
 
 <tr><td rowspan="8" bgcolor="#c0c0c0">Thursday, 7</td>
-    <td valign="top">09:00</td><td valign="top">Coding Session &amp; Tutorials for beginners</td></tr>
+    <td valign="top">09:00</td><td valign="top">Hands-on tutorial for beginners:<br>Running an example and data reading</td></tr>
 <tr bgcolor="#f0a080"><td valign="top">10:30</td><td valign="top">Coffee break</td></tr>
 <tr><td valign="top">11:00</td><td valign="top">Coding Session &amp; Tutorials for beginners</td></tr>
 <tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Lunch break</td></tr>
