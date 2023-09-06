@@ -75,10 +75,12 @@ HDF5: break up, slices (Fred Gent): future i/o strategies, but backwards compati
 
 MAC users
 
-generalize scale factor reading
-
 Matthias: make energy module more general
 
 run scripts (any advantage?)
 
 documentation/tests of relativistic options in hydro and MHD
+
+Preliminary schedule:
+
+Thursday: generalize scale factor reading
