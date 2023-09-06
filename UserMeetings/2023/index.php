@@ -75,7 +75,7 @@ A taxi to the airport costs about 30&nbsp;&euro; and takes about 20&nbsp;mins.
 <tr><td rowspan="8" bgcolor="#c0c0c0">Thursday, 7</td>
     <td valign="top">09:00</td><td valign="top">Hands-on tutorial for beginners:<br>Running an example and data reading in IDL, Python, Mathematica<br>Break-out rooms: Coding Session</td></tr>
 <tr bgcolor="#f0a080"><td valign="top">10:30</td><td valign="top">Coffee break</td></tr>
-<tr><td valign="top">11:00</td><td valign="top">Work on Agenda items</td></tr>
+<tr><td valign="top">11:00</td><td valign="top">Discussion of Agenda Items &amp; Work Distribution</td></tr>
 <tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Lunch break</td></tr>
 <tr><td valign="top">13:30</td><td valign="top">Coding Session</td></tr>
 <tr bgcolor="#f0a080"><td valign="top">15:30</td><td valign="top">Coffee break</td></tr>
