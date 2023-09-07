@@ -27,25 +27,36 @@ Topics for Pencil code User Meeting in Graz 2023:
 ----------------------------------------------------------------------------
 OLD ITEMS:
 
-- review of auto-test sensitivities
+- review of auto-test sensitivities (accuracies too high)
+  reference.out versus reference.out.double
+  resolved for now.
 
 - updates of various data bases (pencil-code/license/developers.txt and https://www.nordita.org/~brandenb/pencil-code/PCSC/committers/list.pdf, for example)
+  AM1
 
-- to explain in manual how special works
+- to explain in manual how multiple special works
+  for Matthias to do after the meeting.
 
 - do multiple simulations via a special special (Lyapunov exp, diff latitude)
+  Scanning parameter space in one go (script exists, but python not documented)
 
-- should we rename some more README files to README.md
+- should we rename some more README files in sample to README.md
+  Can use link. Philippe to code some script.
 
 - to add src/pc_build_details (Status; Philippe?)
+  Too that is planned. Scans *.in file, to suggest papers to cite.
 
 - user-specific initialization (Status: Philippe) ***
+  Philippe+Matthias to discuss: need environment variable etc.
 
 - make pc_read_xyaver independent of proc*/dim.dat
+  to postpone.
 
-- default settings for compilation: read_all_videofiles (and what does pc_videofiles do?)
+- user-specific settings for compilation: read_all_videofiles (and what does pc_videofiles do?)
+  postpone to next office hours.
 
 - paraview or yt 3-D visualization tutorials?
+  postpone.
 
 NEW ITEMS:
 
@@ -85,6 +96,7 @@ Preliminary schedule:
 
 Thursday: generalize scale factor reading
 
-use of pointmasses
+use of pointmasses and/coding 
 
-learly_finalize
+early_finalize: to discuss & present when to use, or to control from outside for testing purposes.
+
