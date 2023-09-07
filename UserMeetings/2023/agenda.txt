@@ -95,14 +95,16 @@ NEW ITEMS:
 - EoS and energy module combinability: general re-design
   PM2 (Matthias: make energy module more general on a branch)
 
-- Nonuniform output of snapshots, Ramkishor has applications
-  PM2
+- Output of snapshots at arbitrary times
+  => develop a mechanism to have multiple times in a new "times_list.dat"
+  => code checks for this file and writes out at the desired times
+  PM2, discussed (Ramkishore: to be done)
 
-- use of pointmasses and/coding (Matthias+Axel+Alberto)
-  PM2
+- use of ODEvars (Matthias+Axel+Alberto)
+  PM2, discussed (Matthias took care)
 
-- GPU accelerated
-  PM2
+- GPU acceleration
+  PM2, discussed (Matthias likes to get feedback)
 
 - How to enforce certain coding standards, for example how to deal with shared variables,
   registering, etc.
