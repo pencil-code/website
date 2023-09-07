@@ -29,10 +29,11 @@ OLD ITEMS:
 
 - review of auto-test sensitivities (accuracies too high)
   reference.out versus reference.out.double
-  resolved for now.
+  AM1, resolved for now.
 
-- updates of various data bases (pencil-code/license/developers.txt and https://www.nordita.org/~brandenb/pencil-code/PCSC/committers/list.pdf, for example)
-  AM1
+- updates of various data bases (pencil-code/license/developers.txt and
+  https://www.nordita.org/~brandenb/pencil-code/PCSC/committers/list.pdf, for example)
+  AM1, discussed, but no action taken
 
 - to explain in manual how multiple special works
   for Matthias to do after the meeting.
