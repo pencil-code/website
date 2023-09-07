@@ -93,7 +93,7 @@ NEW ITEMS:
   PM1 (Philippe will create module with generalize profile reader)
 
 - EoS and energy module combinability: general re-design
-  PM2 (Matthias: make energy module more general)
+  PM2 (Matthias: make energy module more general on a branch)
 
 - Nonuniform output of snapshots, Ramkishor has applications
   PM2
