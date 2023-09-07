@@ -84,3 +84,7 @@ documentation/tests of relativistic options in hydro and MHD
 Preliminary schedule:
 
 Thursday: generalize scale factor reading
+
+use of pointmasses
+
+learly_finalize
