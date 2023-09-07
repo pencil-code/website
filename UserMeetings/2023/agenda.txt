@@ -66,6 +66,13 @@ NEW ITEMS:
 - file size in samples: EULAG sample too fig
   AM2
 
+- How to deal with inactive owners?
+  AM2
+
+- MAC users, Hongzhe, Alberto, ?Oksana
+  new compilers are complaining
+  AM2
+
 - HDF5: break up, slices (Fred Gent): future i/o strategies, but backwards compatible 
   PM1
 
@@ -76,17 +83,20 @@ NEW ITEMS:
 - make HDF5 IO reading of persistent variables robust against changes in number of processors (Fred) 
   PM1
 
-- How to deal with inactive owners?
-  AM2
-
-- How to deal with broken auto-test: Joern asked the question
-  postpone
+- generalize scale factor reading (Philippe+Axel+Alberto+Ramkishor)
+  PM1
 
 - EoS and energy module combinability: general re-design
   Matthias: make energy module more general
   PM2
 
 - Nonuniform output of snapshots, Ramkishor has applications
+  PM2
+
+- use of pointmasses and/coding (Matthias+Axel+Alberto)
+  PM2
+
+- GPU accelerated
   PM2
 
 - How to enforce certain coding standards, for example how to deal with shared variables,
@@ -96,27 +106,18 @@ NEW ITEMS:
 - Higgsless implementation in non-relativistic code: Ramkishor
   Fr-AM2
 
-- GPU accelerated
-  PM2
+- documentation/tests of relativistic options in hydro and MHD (Axel+Alberto+Ramkishor)
+  Fr-PM1
 
-- MAC users, Hongzhe, Alberto, ?Oksana
-  new compilers are complaining
-  AM2
+- early_finalize: to discuss & present when to use, or to control from outside for testing purposes.
+  (Matthias+Axel+Ramkishor)
+  Fr-PM1
 
 - run pbs scripts (any advantage?)
   to point people to documentation of PBS, maybe in quick start (examples of pages)
   Philippe to draft for quick start.
   will be solved
 
-- documentation/tests of relativistic options in hydro and MHD (Axel+Alberto+Ramkishor)
-  Fr-PM1
+- How to deal with broken auto-test: Joern asked the question
+  postpone
 
-- generalize scale factor reading (Philippe+Axel+Alberto+Ramkishor)
-  PM1
-
-- use of pointmasses and/coding (Matthias+Axel+Alberto)
-  PM2
-
-- early_finalize: to discuss & present when to use, or to control from outside for testing purposes.
-  (Matthias+Axel+Ramkishor)
-  Fr PM1
