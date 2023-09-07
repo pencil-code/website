@@ -60,14 +60,14 @@ OLD ITEMS:
 
 NEW ITEMS:
 
-- register_report_aux versus 
-  AM2
+- register_report_aux versus farray_register_pde
+  AM1, postpone
 
-- file size in samples: EULAG sample too fig
-  AM2
+- file size in samples: EULAG sample too big
+  AM1, partly fixed by Matthias
 
 - How to deal with inactive owners?
-  AM2
+  AM1, discussed
 
 - MAC users, Hongzhe, Alberto, ?Oksana
   new compilers are complaining
