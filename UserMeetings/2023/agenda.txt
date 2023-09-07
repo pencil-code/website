@@ -70,6 +70,9 @@ NEW ITEMS:
 - How to deal with inactive owners?
   AM1, discussed
 
+- initialize from file
+  AM2, discussed with Alberto+Axel+Matthias+Philippe
+
 - MAC users, Hongzhe, Alberto, ?Oksana
   new compilers are complaining
   AM2
