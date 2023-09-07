@@ -53,7 +53,7 @@ OLD ITEMS:
   to postpone.
 
 - user-specific settings for compilation: read_all_videofiles (and what does pc_videofiles do?)
-  postpone to next office hours.
+  postpone to next office hours, Matthias to work on that.
 
 - paraview or yt 3-D visualization tutorials?
   postpone.
@@ -61,42 +61,62 @@ OLD ITEMS:
 NEW ITEMS:
 
 - register_report_aux versus 
+  AM2
 
-- file size in samples
+- file size in samples: EULAG sample too fig
+  AM2
+
+- HDF5: break up, slices (Fred Gent): future i/o strategies, but backwards compatible 
+  PM1
 
 - add HDF5 distributed IO to handle huge data files (similar to IO_collective?) (Fred)
+  need conversion tool.
+  PM1
 
 - make HDF5 IO reading of persistent variables robust against changes in number of processors (Fred) 
+  PM1
 
-How to deal with inactive owners?
+- How to deal with inactive owners?
+  AM2
 
-How to deal with broken auto-test: Joern
+- How to deal with broken auto-test: Joern asked the question
+  postpone
 
-EoS and energy module combinability: general re-design
+- EoS and energy module combinability: general re-design
+  Matthias: make energy module more general
+  PM2
 
-Nonuniform output of snapshots
+- Nonuniform output of snapshots, Ramkishor has applications
+  PM2
 
-How to enforce certain coding standards, for example how to deal with shared variables, registering, etc.
+- How to enforce certain coding standards, for example how to deal with shared variables,
+  registering, etc.
+  Fr-AM1
 
-Higgsless implementation in non-relativistic code: Ramkishor
+- Higgsless implementation in non-relativistic code: Ramkishor
+  Fr-AM2
 
-GPU accelerated 
+- GPU accelerated
+  PM2
 
-HDF5: break up, slices (Fred Gent): future i/o strategies, but backwards compatible 
+- MAC users, Hongzhe, Alberto, ?Oksana
+  new compilers are complaining
+  AM2
 
-MAC users
+- run pbs scripts (any advantage?)
+  to point people to documentation of PBS, maybe in quick start (examples of pages)
+  Philippe to draft for quick start.
+  will be solved
 
-Matthias: make energy module more general
+- documentation/tests of relativistic options in hydro and MHD (Axel+Alberto+Ramkishor)
+  Fr-PM1
 
-run scripts (any advantage?)
+- generalize scale factor reading (Philippe+Axel+Alberto+Ramkishor)
+  PM1
 
-documentation/tests of relativistic options in hydro and MHD
+- use of pointmasses and/coding (Matthias+Axel+Alberto)
+  PM2
 
-Preliminary schedule:
-
-Thursday: generalize scale factor reading
-
-use of pointmasses and/coding 
-
-early_finalize: to discuss & present when to use, or to control from outside for testing purposes.
-
+- early_finalize: to discuss & present when to use, or to control from outside for testing purposes.
+  (Matthias+Axel+Ramkishor)
+  Fr PM1
