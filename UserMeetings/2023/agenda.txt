@@ -36,19 +36,19 @@ OLD ITEMS:
   AM1, discussed, but no action taken
 
 - to explain in manual how multiple special works
-  for Matthias to do after the meeting.
+  AM1, discussed, for Matthias to do after the meeting.
 
 - do multiple simulations via a special special (Lyapunov exp, diff latitude)
   Scanning parameter space in one go (script exists, but python not documented)
 
 - should we rename some more README files in sample to README.md
-  Can use link. Philippe to code some script.
+  AM2, discussed, Philippe needs to adapt 'pc_auto-test' scripts.
 
 - to add src/pc_build_details (Status; Philippe?)
-  Too that is planned. Scans *.in file, to suggest papers to cite.
+  AM2, dicussed. Plan is to scan Makefile.local and suggest papers to cite.
 
 - user-specific initialization (Status: Philippe) ***
-  Philippe+Matthias to discuss: need environment variable etc.
+  AM2, Philippe+Matthias clarified the situation and how to continue
 
 - make pc_read_xyaver independent of proc*/dim.dat
   to postpone.
@@ -75,7 +75,7 @@ NEW ITEMS:
 
 - MAC users, Hongzhe, Alberto, ?Oksana
   new compilers are complaining
-  AM2
+  PM1
 
 - HDF5: break up, slices (Fred Gent): future i/o strategies, but backwards compatible 
   PM1
