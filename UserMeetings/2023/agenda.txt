@@ -28,18 +28,20 @@ Topics for Pencil code User Meeting in Graz 2023:
 OLD ITEMS:
 
 - review of auto-test sensitivities (accuracies too high)
-  reference.out versus reference.out.double
   AM1, resolved for now.
+
+- reference.out versus reference.out.double
+  AM1, write documentation on how it works (Philippe, todo)
 
 - updates of various data bases (pencil-code/license/developers.txt and
   https://www.nordita.org/~brandenb/pencil-code/PCSC/committers/list.pdf, for example)
   AM1, discussed, but no action taken
 
-- to explain in manual how multiple special works
-  AM1, discussed, for Matthias to do after the meeting.
+- explain in manual how multiple special modules work
+  AM1, discussed (Matthias, todo after the meeting)
 
-- do multiple simulations via a special special (Lyapunov exp, diff latitude)
-  Scanning parameter space in one go (script exists, but python not documented)
+- Phython script for multiple simulations to scan parameter space
+  PM1, discussed (Fred, todo: create documentation)
 
 - should we rename some more README files in sample to README.md
   AM2, discussed, Philippe needs to adapt 'pc_auto-test' scripts.
@@ -51,13 +53,13 @@ OLD ITEMS:
   AM2, Philippe+Matthias clarified the situation and how to continue
 
 - make pc_read_xyaver independent of proc*/dim.dat
-  to postpone.
+  AM2, discussed, to postpone.
 
 - user-specific settings for compilation: read_all_videofiles (and what does pc_videofiles do?)
-  postpone to next office hours, Matthias to work on that.
+  AM2, discussed, postpone to next office hours, Matthias to work on that.
 
-- paraview or yt 3-D visualization tutorials?
-  postpone.
+- Documentation on how to use ParaView or YT (3D visualization tools)
+  AM2, postponed, someone interested needs to take care.
 
 NEW ITEMS:
 
@@ -67,32 +69,31 @@ NEW ITEMS:
 - file size in samples: EULAG sample too big
   AM1, partly fixed by Matthias
 
-- How to deal with inactive owners?
-  AM1, discussed
+- How to deal with >5 years inactive owners?
+  AM2, discussed, will send them email
 
-- initialize from file
+- initialize with data partly coming from an input file
+  => use pc_write_var to create a VAR0 and the run
+  => implement and consolidate functions in initcond to read external file
   AM2, discussed with Alberto+Axel+Matthias+Philippe
 
-- MAC users, Hongzhe, Alberto, ?Oksana
-  new compilers are complaining
-  PM1
+- guide for MAC users to install PC (XCode compilers complain)
+  PM1, solved (Antonino writes text for the quick start guide)
 
-- HDF5: break up, slices (Fred Gent): future i/o strategies, but backwards compatible 
-  PM1
+- HDF5: break up, slices (Fred Gent): future i/o strategies
+  => backwards compatible or conversion tool
+  PM1 (long-term: Fred, Philippe needs to implement new strategies)
 
-- add HDF5 distributed IO to handle huge data files (similar to IO_collective?) (Fred)
-  need conversion tool.
-  PM1
-
-- make HDF5 IO reading of persistent variables robust against changes in number of processors (Fred) 
-  PM1
+- HDF5 IO reading of persistent variables
+  => make robust against changes in number of processors
+  => seeds need a different treatment (depending on processors)
+  PM1 (intermediate-term: Fred, Matthias, Philippe will fix that)
 
 - generalize scale factor reading (Philippe+Axel+Alberto+Ramkishor)
-  PM1
+  PM1 (Philippe will create module with generalize profile reader)
 
 - EoS and energy module combinability: general re-design
-  Matthias: make energy module more general
-  PM2
+  PM2 (Matthias: make energy module more general)
 
 - Nonuniform output of snapshots, Ramkishor has applications
   PM2
