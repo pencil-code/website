@@ -108,21 +108,24 @@ NEW ITEMS:
 
 - How to enforce certain coding standards
   => how to deal with shared variables, registering of variables, etc.
-  Fr-AM2
+  Fr-AM2, discussed, extend the coding style with coding standards (Matthias)
 
 - Higgsless implementation in non-relativistic code
-  Fr-AM2 (Ramkishor)
+  Fr-AM2, discussed (Ramkishor+Alberto: working on it)
 
 - documentation/tests of relativistic options in hydro and MHD
-  Fr-AM2 (Axel+Alberto+Ramkishor)
+  Fr-AM2, discussed (Axel+Alberto+Ramkishor+Yutong: working on it)
 
-- early_finalize: to discuss & present when to use, or to control from outside for testing purposes.
-  Fr-AM2 (Matthias+Axel+Ramkishor)
+- early_finalize flag: to stop concurrency of processes earlier
+  => proposal to rename to "lconcurrent"
+  Fr-AM2 (Matthias: working on it)
 
-- explain how run PBS scripts (advantage: easier to give many options, no long commandlines)
-  => Philippe to draft for quick start.
+- explain how run PBS scripts
+  => advantage: easier to give many options, no long commandlines
+  => Philippe to draft for quick start guide.
   will be solved
 
 - How to deal with broken auto-test: Joern asked the question
-  postpone
+  => PCSC should take action if nothing else works
+  => proposal to move long-time broken autotest to "broken" section in "pc_auto-test" (Philippe: pro, Matthias: contra)
 
