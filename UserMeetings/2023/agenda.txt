@@ -101,28 +101,26 @@ NEW ITEMS:
   PM2, discussed (Ramkishore: to be done)
 
 - use of ODEvars (Matthias+Axel+Alberto)
-  PM2, discussed (Matthias took care)
+  PM2, discussed (Matthias: add new functions in the IO modules)
 
-- GPU acceleration
+- GPU acceleration feedback
   PM2, discussed (Matthias likes to get feedback)
 
-- How to enforce certain coding standards, for example how to deal with shared variables,
-  registering, etc.
-  Fr-AM1
-
-- Higgsless implementation in non-relativistic code: Ramkishor
+- How to enforce certain coding standards
+  => how to deal with shared variables, registering of variables, etc.
   Fr-AM2
 
-- documentation/tests of relativistic options in hydro and MHD (Axel+Alberto+Ramkishor)
-  Fr-PM1
+- Higgsless implementation in non-relativistic code
+  Fr-AM2 (Ramkishor)
+
+- documentation/tests of relativistic options in hydro and MHD
+  Fr-AM2 (Axel+Alberto+Ramkishor)
 
 - early_finalize: to discuss & present when to use, or to control from outside for testing purposes.
-  (Matthias+Axel+Ramkishor)
-  Fr-PM1
+  Fr-AM2 (Matthias+Axel+Ramkishor)
 
-- run pbs scripts (any advantage?)
-  to point people to documentation of PBS, maybe in quick start (examples of pages)
-  Philippe to draft for quick start.
+- explain how run PBS scripts (advantage: easier to give many options, no long commandlines)
+  => Philippe to draft for quick start.
   will be solved
 
 - How to deal with broken auto-test: Joern asked the question
