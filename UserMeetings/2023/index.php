@@ -9,28 +9,8 @@
 <!-- DATE and VENUE -->
 <p><b><u>DATE &amp; VENUE:</u></b>
 <b>4<sup>th</sup> to 8<sup>th</sup> September 2023</b><br>
-The meeting will be held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="https://uni-graz.at/en/">University of Graz</a>.<br>
-<!-- The venue is at the 1st floor of the <a href="https://physik.uni-graz.at/en/astrophysics-geophysics/">Physics Institute</a> (Universitätsplatz 5, 8010 Graz) in the rooms HS&nbsp;05.12, SR&nbsp;05.13, and the library.
-After entering the building just follow the signs guiding you a right turn, go up the stairs and you are practically there. -->
+The meeting was held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austria)</a> at the <a href="https://uni-graz.at/en/">University of Graz</a>.
 </p>
-
-<!-- ARRIVAL DAY -->
-<!-- p><b><u>ARRIVAL DAY:</u></b><br>
-On Monday we offer sandwiches, cakes, fruits, and drinks at the venue for your convenience.
-</p -->
-
-<!-- MAPS & PUBLIC TRANSPORT -->
-<!-- p><b><u>MAPS &amp; PUBLIC TRANSPORT:</u></b><br>
-For a public-transport map with point-to-point connections, please see <a href="https://verkehrsauskunft.verbundlinie.at/index_en.html">BahnBusBim.at</a> or <b>GrazMobil App</b>.
-Train connections are found at <a href="http://fahrplan.oebb.at/bin/query.exe/en?">&Ouml;BB.at</a>.</p>
-<p>Vending machines at train stations and inside trams sell a weekly public transport ticket (city zone &quot;101&quot;, includes airport) for 18,30&nbsp;&euro;, which we highly recommend.
-A &quot;1-hour ticket&quot; costs 3&nbsp;&euro; and the &quot;24-hours ticket&quot; costs 6,40&nbsp;&euro;.
-A taxi to the airport costs about 30&nbsp;&euro; and takes about 20&nbsp;mins.
-</p>
-<p>To get from the train station to the venue, please use bus line 63 that departs in front of the train station at :00, :15, :30, and :45 minutes every hour (6-18).
-Get off the bus at the stop "University of Graz" and follow the signs to the Physics Institute (left side if you stand in front of the main building).
-</p>
-<p><a href="map_institute-local.png"><img src="map_institute-local.png" width="490" height="530" border="1" alt="surrounding map of the institute with public transport"></a></p -->
 
 <!-- DETAILED SCHEDULE & TALKS -->
 <p><b><u>DETAILED SCHEDULE &amp; TALKS:</u></b><br>
@@ -128,38 +108,13 @@ Get off the bus at the stop "University of Graz" and follow the signs to the Phy
 <li>Daniel Teubenbacher, Austrian Academy of Sciences</li>
 <li>Jörn Warnecke (online), MPS/Göttingen</li>
 <li>Hongzhe Zhou, Tsung-Dao Lee Institute, Shanghai Jiao Tong University</li>
-
-<!-- li>Frederick Gent, Aalto University</li -->
-<!-- li>Wladimir Lyra, JPL/NASA Pasadena</li -->
-<!-- li>Dhrubaditya Mitra, NORDITA/Stockholm</li -->
-<!-- li>Matthias Rheinhardt, University of Helsinki</li -->
-<!-- li>J&ouml;rn Warnecke, MPS G&ouml;ttingen</li -->
 </ul></p>
-
-<!-- REGISTRATION -->
-<!-- p><b><u>REGISTRATION:</u></b><br>
-Please register by submitting our <a href="register.php">registration form</a>.
-</p -->
 
 <!-- GROUP PHOTO -->
 <p><b><u>GROUP PHOTO:</u></b><br>
 <a href="group-photo.jpg"><img src="group-photo_small.jpg" width="510" height="287" border="1" alt="Group Photo of the User Meeting 2023"></a><br>
 <a href="group-photo_armory.jpg"><img src="group-photo_armory-small.jpg" width="510" height="287" border="1" alt="Group Photo of the User Meeting 2023 at the Armory"></a><br>
 <a href="group-photo_dinner.jpg"><img src="group-photo_dinner-small.jpg" width="510" height="287" border="1" alt="Group Photo of the Dinner after the Excursion"></a></p>
-
-<!-- ACCOMMODATION PROPOSALS -->
-<!-- p><b><u>ACCOMMODATION PROPOSALS:</u></b><br>
-<font color="#e00000"><b>Please note:</b></font> We recommend the &quot;<a href="https://hoteldaniel.com/en/graz/"><b>Hotel Daniel</b></a>&quot; and made sure rooms are available for all.<BR>Please book individually now from € 79,25/night (including city tax):
-<table border="1" cellpadding="4" cellspacing="1">
-<tr><td>***</td><td><a href="https://hoteldaniel.com/en/graz/"><font color="e00000">Hotel Daniel</font></a></td><td>€ 79/night <b>(*)</b></td><td><a href="https://reservations.hoteldanielgraz.com/?_ga=o&currency=EUR&rooms=1&languageid=1&location=graz&adults=1&datein=09%2F04%2F2023&dateout=09%2F08%2F2023&identifier=#/accommodation/room"><font color="e00000">discounted rate</font></a> or <a href="https://www.booking.com/hotel/at/hoteddaniel.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-<tr><td>****</td><td><a href="https://hrewards.com/en/intercityhotel-graz">InterCity Hotel</a></td><td>€ 104/night</td><td><a href="https://www.booking.com/hotel/at/intercityhotel-graz.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-<tr><td>****</td><td><a href="https://all.accor.com/hotel/5742/index.en.shtml">Mercure Hotel</a></td><td>€ 126/night</td><td><a href="https://www.booking.com/hotel/at/mercuregrazcity.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-<tr><td>****</td><td><a href="https://www.hotelwiesler.com/en/">Grand-Hotel Wiesler</a></td><td>€ 141/night</td><td><a href="https://www.booking.com/hotel/at/grandhotelwiesler.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-<tr valign="top"><td>**</td><td><a href="https://www.aohostels.com/en/graz/graz-hauptbahnhof/">A&amp;O Hostel</a></td><td>€ 45/night (double)<br>€ 71/night (single)</td><td><a href="https://www.booking.com/hotel/at/a-amp-o-graz-hauptbahnhof.en-gb.html?checkin=2023-09-04;checkout=2023-09-08;dest_id=-1978544;dest_type=city;group_adults=1;no_rooms=1;sb_price_type=total;type=total">booking.com</a></td></tr>
-</table>
-<b>(*)</b> special <b>&quot;direct bookers&quot; discount</a></b> without breakfast,<br>
-but we provide in the morning at the venue: fruits, pastries, juice, coffee, and tea.
-</p -->
 
 <p>The next meeting will be in Barcelona (2024).</p>
 
