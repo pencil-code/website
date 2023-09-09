@@ -49,8 +49,8 @@ The meeting was held in <a href="https://en.wikipedia.org/wiki/Graz">Graz (Austr
 <tr><td valign="top">10:00</td><td valign="top">Isabella Kraus: Coronal bright point simulation driven with Hinode observations</td></tr>
 <tr bgcolor="#f0a080"><td valign="top">10:30</td><td valign="top">Coffee break</td></tr>
 <tr><td valign="top">11:00</td><td valign="top">Ask-Me-Anything, general Q&amp;A Session</td></tr>
-<tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Grab your Lunch</td></tr>
-<tr><td valign="top">12:30</td><td valign="top">Excursion (Köflach - Piber) &amp; Dinner at Heurigenschänke &quot;Sattler&quot;</td></tr>
+<tr bgcolor="#f0a080"><td valign="top">12:15</td><td valign="top">Lunch break</td></tr>
+<tr><td valign="top">13:30</td><td valign="top">Excursion (Köflach - Piber) &amp; Dinner at Heurigenschänke &quot;Sattler&quot;</td></tr>
 
 <tr><td rowspan="8" bgcolor="#c0c0c0">Thursday, 7</td>
     <td valign="top">09:00</td><td valign="top">Hands-on tutorial for beginners:<br>Running an example and data reading in IDL, Python, Mathematica<br>Break-out rooms: Coding Session</td></tr>
