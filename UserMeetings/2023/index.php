@@ -161,7 +161,7 @@ Please register by submitting our <a href="register.php">registration form</a>.
 but we provide in the morning at the venue: fruits, pastries, juice, coffee, and tea.
 </p -->
 
-<p>The next meeting will be in ...? (t.b.d.)</p>
+<p>The next meeting will be in Barcelona (2024).</p>
 
 </div>
 <?php
