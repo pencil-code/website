@@ -43,13 +43,14 @@ The current core-development team consists of:
 <li>Tobias Heinemann</li>
 <li>Anders Johansen</li>
 <li>Petri K&auml;pyl&auml;</li>
-<li>Maarit K&auml;pyl&auml;</li>
+<li>Maarit Korpi-Lagg</li>
 <li>Wladimir Lyra</li>
 <li>Dhruba Mitra</li>
 <li>Matthias Rheinhardt</li>
 <li>Jennifer Schober</li>
 <li>J&ouml;rn Warnecke</li>
 <li>Chao-Chin Yang</li>
+<li>Hongzhe Zhou</li>
 </ul>
 
 All the people involved in this project are <a href="http://github.com/pencil-code/pencil-code/graphs/contributors">listed here</a>.
