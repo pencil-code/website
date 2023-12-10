@@ -39,6 +39,11 @@ GIT read-only access:
 GIT read &amp; write access:
 <div class="codescroll"><code>git clone https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
 
+change existing GIT clone to new URL with read-only access:
+<div class="codescroll"><code>git remote set-url origin https://pencil-code.org/git/playground</code></div>
+change existing GIT clone to new URL with write access:
+<div class="codescroll"><code>git remote set-url origin https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
+
 <h3>&bull; Stable releases:</h3>
 The Pencil Code can also be obtained as a stable <a href="http://github.com/pencil-code/pencil-code/releases">release</a>.<br>
 We also provide the stable release <a href="http://norlx51.albanova.se/~brandenb/downloads/pencil-code-r21570.tar.gz">r21570 as TAR.gz archive</a> for direct download.
