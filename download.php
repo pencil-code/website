@@ -30,9 +30,9 @@ Or, if you prefer to use a SSH keyfile so that you do not have to type your pass
 
 <h3>&bull; Playground:</h3>
 SVN read-only access:
-<div class="codescroll"><code>svn checkout https://pencil-code.org/svn/playground/trunk pencil-code</code></div>
+<div class="codescroll"><code>svn checkout https://pencil-code.org/svn/playground/trunk playground</code></div>
 SVN read &amp; write access:
-<div class="codescroll"><code>svn checkout --username=GITHUB_LOGIN https://pencil-code.org/svn/playground/trunk pencil-code</code></div>
+<div class="codescroll"><code>svn checkout --username=GITHUB_LOGIN https://pencil-code.org/svn/playground/trunk playground</code></div>
 
 GIT read-only access:
 <div class="codescroll"><code>git clone https://pencil-code.org/git/playground</code></div>
