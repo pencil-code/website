@@ -28,6 +28,17 @@ Or, if you prefer to use a SSH keyfile so that you do not have to type your pass
 <div class="codescroll"><code>git clone git@github.com:pencil-code/pencil-code.git</code></div>
 </p>
 
+<h3>&bull; Playground:</h3>
+SVN read-only access:
+<div class="codescroll"><code>svn checkout https://pencil-code.org/svn/playground/trunk pencil-code</code></div>
+SVN read &amp; write access:
+<div class="codescroll"><code>svn checkout --username=GITHUB_LOGIN https://pencil-code.org/svn/playground/trunk pencil-code</code></div>
+
+GIT read-only access:
+<div class="codescroll"><code>git clone https://pencil-code.org/git/playground</code></div>
+GIT read &amp; write access:
+<div class="codescroll"><code>git clone https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
+
 <h3>&bull; Stable releases:</h3>
 The Pencil Code can also be obtained as a stable <a href="http://github.com/pencil-code/pencil-code/releases">release</a>.<br>
 We also provide the stable release <a href="http://norlx51.albanova.se/~brandenb/downloads/pencil-code-r21570.tar.gz">r21570 as TAR.gz archive</a> for direct download.
