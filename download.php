@@ -8,10 +8,10 @@ You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git
 
 <h3>&bull; SVN checkout:</h3>
 The read-only version you can check out by:
-<div class="codescroll"><code>svn checkout http://github.com/pencil-code/pencil-code/trunk/ pencil-code</code></div>
+<div class="codescroll"><code>svn checkout http://github.com/pencil-code/pencil-code/trunk pencil-code</code></div>
 
 For a read-write access, you need to have a github user name ('GITHUB_USER') and become part of the <em>pencil-code</em> group.
-<div class="codescroll"><code>svn checkout https://github.com/pencil-code/pencil-code/trunk/ pencil-code --username 'GITHUB_USER'</code></div>
+<div class="codescroll"><code>svn checkout https://github.com/pencil-code/pencil-code/trunk pencil-code --username 'GITHUB_USER'</code></div>
 
 <h3>&bull; GIT checkout:</h3>
 If you just want to check out the latest version of the code use:
