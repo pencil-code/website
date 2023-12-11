@@ -3,7 +3,7 @@
 	include "inc/header.inc";
 
 	$source = "GH";
-echo $_POST["source"]."\n";
+echo "=>".$_POST["source"]."<=\n";
 	if ($_POST["source"] == "GC") { $source = "GC"; }
 
 	$revision = filter_var (ltrim ($_POST["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
