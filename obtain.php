@@ -31,6 +31,7 @@ SVN read &amp; write access:
 <?php
 	}
  ?>
+</div>
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
