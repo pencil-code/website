@@ -42,9 +42,7 @@ git pull<br>
 git log</code></div>
 
 <h3>&bull; On-the-fly change from GitHub to Playground server:</h3>
-To change existing GIT clone to new URL with read-only access:
-<div class="codescroll"><code>git remote set-url origin https://pencil-code.org/git/playground</code></div>
-To change existing GIT clone to new URL with write access:
+Change an existing GIT clone to point to the new URL:
 <div class="codescroll"><code>git remote set-url origin https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
 
 <h3>&bull; Getting an old SVN revision:</h3>
