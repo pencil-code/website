@@ -44,6 +44,16 @@ change existing GIT clone to new URL with read-only access:
 change existing GIT clone to new URL with write access:
 <div class="codescroll"><code>git remote set-url origin https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
 
+<h3>&bull; Getting an old SVN revision:</h3>
+<form action="./obtain.php" method="post">
+Select the original source:<br>
+<select name="source">
+	<option value="GH">github.com/pencil-code/pencil-code</option>
+	<option value="GC" disabled>code.google.com/p/pencil-code</option>
+</select><br>
+and its revision number: <input name="revision" type="text" size="8" maxlength="8">&nbsp;<input type="submit" value=" - search - ">
+</form>
+
 <h3>&bull; Stable releases:</h3>
 The Pencil Code can also be obtained as a stable <a href="http://github.com/pencil-code/pencil-code/releases">release</a>.<br>
 We also provide the stable release <a href="http://norlx51.albanova.se/~brandenb/downloads/pencil-code-r21570.tar.gz">r21570 as TAR.gz archive</a> for direct download.
