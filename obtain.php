@@ -3,7 +3,6 @@
 	include "inc/header.inc";
 
 	$source = "GH";
-echo "=>".$_POST["source"]."<=\n";
 	if ($_POST["source"] == "GC") { $source = "GC"; }
 
 	$revision = filter_var (ltrim ($_POST["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
@@ -13,11 +12,21 @@ echo "=>".$_POST["source"]."<=\n";
 <div class="centcolumnpad">
 <h2>Obtain an old revision</h2>
 
+<?php
+	if ($new) {
+ ?>
 <h3>&bull; SVN checkout:</h3>
 SVN read-only access:
 <div class="codescroll"><code>svn checkout -r <?php echo $new; ?> https://pencil-code.org/svn/playground/trunk playground</code></div>
 SVN read &amp; write access:
 <div class="codescroll"><code>svn checkout -r <?php echo $new; ?> --username=GITHUB_LOGIN https://pencil-code.org/svn/playground/trunk playground</code></div>
+<?php
+	} else {
+ ?>
+<font color="#e00000" style="color:red"><b>No such revision found in this repository.</b></font>
+<?php
+	}
+ ?>
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
