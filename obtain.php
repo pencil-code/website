@@ -27,7 +27,7 @@ SVN read &amp; write access:
 <?php
 	} else {
  ?>
-<p><font color="#e00000" style="color:red"><b>No such revision <?php echo $revision; ?> found in <?php echo $description; ?> repository.</b></font></p>
+<p><font color="#e00000" style="color:red"><b>Revision <?php echo $revision; ?> not found in <?php echo $description; ?> repository.</b></font></p>
 <?php
 	}
  ?>
