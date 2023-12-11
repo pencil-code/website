@@ -49,7 +49,7 @@ change existing GIT clone to new URL with write access:
 Select the original source:<br>
 <select name="source">
 	<option value="GH">github.com/pencil-code/pencil-code</option>
-	<option value="GC" disabled>code.google.com/p/pencil-code</option>
+	<option value="GC">code.google.com/p/pencil-code</option>
 </select><br>
 and its revision number: <input name="revision" type="text" size="8" maxlength="8">&nbsp;<input type="submit" value=" - search - ">
 </form>
