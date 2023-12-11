@@ -2,8 +2,11 @@
 <?php
 	include "inc/header.inc";
 
+	$source = "GH";
+	if ($_POST["revision"] == "GC") { $source = "GC"; }
+
 	$revision = filter_var (ltrim ($_POST["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
-	$line = `grep -P "^r$revision\t" rev-table_GH-SVN.csv`;
+	$line = `grep -P "^r$revision\t" "rev-table_$source-SVN.csv"`;
 	$new = ltrim (substr ($line, strpos ($line, "\t") + 1), 'r');
  ?>
 <div class="centcolumnpad">
