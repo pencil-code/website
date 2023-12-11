@@ -3,7 +3,7 @@
 	include "inc/header.inc";
 
 	$revision = filter_var (ltrim ($_POST["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
-	$line = system ("grep -P \"^r$revision\\t\" rev-table_GH-SVN.csv 2>&1");
+	$line = `grep -P \"^r$revision\\t\" rev-table_GH-SVN.csv`;
 	$new = ltrim (substr ($line, strpos ($line, "\t") + 1), 'r');
  ?>
 <div class="centcolumnpad">
