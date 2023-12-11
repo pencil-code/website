@@ -40,10 +40,10 @@ GIT read &amp; write access:
 <div class="codescroll"><code>git clone https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
 
 The new Playground GIT server can show SVN revisions as GIT notes:
-<div class="codescroll"><code>git config --add remote.origin.fetch '+refs/svn/map:refs/notes/commits'</code></div>
-<div class="codescroll"><code>git config remote.origin.tagOpt '--tags'</code></div>
-<div class="codescroll"><code>git pull</code></div>
-<div class="codescroll"><code>git log</code></div>
+<div class="codescroll"><code>git config --add remote.origin.fetch '+refs/svn/map:refs/notes/commits'<br>
+<code>git config remote.origin.tagOpt '--tags'<br>
+git pull<br>
+git log</code></div>
 
 <h3>&bull; On-the-fly change from GitHub to Playground server:</h3>
 To change existing GIT clone to new URL with read-only access:
