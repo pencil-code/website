@@ -3,7 +3,7 @@
 	include "inc/header.inc";
 
 	$source = "GH";
-	if ($_POST["revision"] == "GC") { $source = "GC"; }
+	if ($_POST["source"] == "GC") { $source = "GC"; }
 
 	$revision = filter_var (ltrim ($_POST["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
 	$line = `grep -P "^r$revision\t" "rev-table_$source-SVN.csv"`;
