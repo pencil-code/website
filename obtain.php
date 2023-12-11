@@ -3,7 +3,11 @@
 	include "inc/header.inc";
 
 	$source = "GH";
-	if ($_POST["source"] == "GC") { $source = "GC"; }
+	$description = "GitHub";
+	if ($_POST["source"] == "GC") {
+		$source = "GC";
+		$description = "GoogleCode";
+	}
 
 	$revision = filter_var (ltrim ($_POST["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
 	$line = `grep -P "^r$revision\t" "rev-table_$source-SVN.csv"`;
@@ -23,7 +27,7 @@ SVN read &amp; write access:
 <?php
 	} else {
  ?>
-<font color="#e00000" style="color:red"><b>No such revision found in this repository.</b></font>
+<p><font color="#e00000" style="color:red"><b>No such revision <?php echo $revision; ?> found in <?php echo $description; ?> repository.</b></font></p>
 <?php
 	}
  ?>
