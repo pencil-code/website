@@ -23,10 +23,10 @@ git config --global credential.helper 'cache --timeout=3600'<br>
 git config --global branch.autosetuprebase always</code></div>
 With the second line, you set the password cache to one hour, the third line should actually become a default.
 
-<p>
+<!-- p><!-- [PAB]: If I remember well, SSH keys are no longer supported at GitHub -->
 Or, if you prefer to use a SSH keyfile so that you do not have to type your password on each 'push':
 <div class="codescroll"><code>git clone git@github.com:pencil-code/pencil-code.git</code></div>
-</p>
+</p -->
 
 <h3>&bull; Playground:</h3>
 SVN access:
