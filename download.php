@@ -29,19 +29,15 @@ Or, if you prefer to use a SSH keyfile so that you do not have to type your pass
 </p>
 
 <h3>&bull; Playground:</h3>
-SVN read-only access:
-<div class="codescroll"><code>svn checkout https://pencil-code.org/svn/playground/trunk playground</code></div>
-SVN read &amp; write access:
-<div class="codescroll"><code>svn checkout --username=GITHUB_LOGIN https://pencil-code.org/svn/playground/trunk playground</code></div>
+SVN access:
+<div class="codescroll"><code>svn checkout https://pencil-code.org/svn/playground/trunk playground --username=GITHUB_LOGIN</code></div>
 
-GIT read-only access:
-<div class="codescroll"><code>git clone https://pencil-code.org/git/playground</code></div>
-GIT read &amp; write access:
+GIT access:
 <div class="codescroll"><code>git clone https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
 
-The new Playground GIT server can show SVN revisions as GIT notes:
+This GIT server can show SVN revisions as notes:
 <div class="codescroll"><code>git config --add remote.origin.fetch '+refs/svn/map:refs/notes/commits'<br>
-<code>git config remote.origin.tagOpt '--tags'<br>
+git config remote.origin.tagOpt '--tags'<br>
 git pull<br>
 git log</code></div>
 
