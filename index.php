@@ -39,7 +39,7 @@ Examples are</p>
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-Available as open source: <a href="http://github.com/pencil-code/" target="_top">http://github.com/pencil-code</a>.
+Available as open source: <a href="https://pencil-code.org/download.php" target="_top">https://pencil-code.org/download.php</a>.
 <br>
 <br>
 See also the <a href="https://github.com/pencil-code/pencil-code/#readme">README.md</a> for an entry to our GitHub papes.
