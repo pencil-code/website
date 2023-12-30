@@ -4,7 +4,7 @@
  ?>
 <div class="centcolumnpad">
 <h2>Transition to pencil-code.org</h2>
-<b>Important:</b> from the <em>2nd to the 7th of January 2024</em> we perform the transfer of our repository to the new domain &quot;pencil-code.org&quot;.
+<b>Important:</b> from the <b>2nd to the 7th of January 2024</b> we perform the transfer of our repository to the new domain &quot;pencil-code.org&quot;.
 To submit your changes after the 2nd of January, 13:00 CET, please:
 
 <h3>Step 1)</h3>
