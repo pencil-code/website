@@ -29,8 +29,8 @@ If you like to submit changes with an existing account:
 <div class="codescroll"><code>git clone https://USERNAME@pencil-code.org/git/ pencil-code</code></div>
 where USERNAME is your login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
-To cache your password for #### seconds, you can configure:
-<div class="codescroll"><code>git config --global credential.helper 'cache --timeout=####'</code></div>
+<p>To cache your password for #### seconds, you can configure:
+<div class="codescroll"><code>git config --global credential.helper 'cache --timeout=####'</code></div></p>
 
 Our <em>GIT</em> server can show <em>SVN</em> revisions as notes:
 <div class="codescroll"><code>git config --add remote.origin.fetch '+refs/svn/map:refs/notes/commits'<br>
