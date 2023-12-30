@@ -20,13 +20,15 @@ with &quot;USERNAME&quot; being your account login name at <a href="https://acco
 Either submit all you changes before <b>2nd of January, 13:00 CET</b> to GitHub, or transfer the changes between two working copies: one up-to-date checkout from GitHub and one from pencil-code.org.
 Let us say you have your old GitHub working copy in &quot;pencil-code-old&quot;. Now checkout a fresh working copy from pencil-code.org in &quot;pencil-code-new&quot;:
 <div class="codescroll"><code>svn checkout --username=USERNAME https://pencil-code.org/svn/trunk pencil-code-new</code></div>
-Now you can use our transfer script &quot;pc_svn_transfer_changes&quot; to copy your changes over to the new working copy:
+with &quot;USERNAME&quot; being your account login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
+
+<p>Now you can use our transfer script &quot;pc_svn_transfer_changes&quot; to copy your changes over to the new working copy:
 <div class="codescroll"><code>cd pencil-code-old<br>
 svn up<br>
 cd ../pencil-code-new<br>
 svn up<br>
 cd ..<br>
-pencil-code-old/bin/pc_svn_transfer_changes pencil-code-old pencil-code-new</code></div>
+pencil-code-old/bin/pc_svn_transfer_changes pencil-code-old pencil-code-new</code></div></p>
 
 <h3>Step 3)</h3>
 From now on, submit your changes only to pencil-code.org at and provide your new login credentials (username and password) from <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
