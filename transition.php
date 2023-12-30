@@ -14,6 +14,7 @@ If your have already committed changes to the Pencil Code, pick up your prepared
 <h4>=&gt; for <em>GIT</em> users</h4>
 After <b>2nd of January, 13:00 CET</b> please change the remote URL:
 <div class="codescroll"><code>git remote set-url origin https://USERNAME@pencil-code.org/git/</code></div>
+with &quot;USERNAME&quot; being your account login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
 <h4>=&gt; for <em>SVN</em> users</h4>
 Either submit all you changes before <b>2nd of January, 13:00 CET</b> to GitHub, or transfer the changes between two working copies: one up-to-date checkout from GitHub and one from pencil-code.org.
@@ -28,7 +29,7 @@ cd ..<br>
 pencil-code-old/bin/pc_svn_transfer_changes pencil-code-old pencil-code-new</code></div>
 
 <h3>Step 3)</h3>
-From now on, submit your changes only to pencil-code.org at and provide your new login credentials (username and password).
+From now on, submit your changes only to pencil-code.org at and provide your new login credentials (username and password) from <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
 </div>
 <?php
