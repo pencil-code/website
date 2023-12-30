@@ -11,7 +11,7 @@ Please follow these <a href="/transition.php">instructions to submit your change
 You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git-experts).
 
 <h3>Write access</h3>
-If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository.
+If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same login as your GitHub username.
 
 <h4>&bull; SVN checkout:</h4>
 Read-only access if available without registration:
