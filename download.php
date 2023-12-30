@@ -10,7 +10,7 @@ Please follow these <a href="/transition.php">instructions to submit your change
 <h2>Download</h2>
 You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git-experts).
 
-<h3>Read-only access</h3>
+<h3>&bull; Read-only access</h3>
 
 <h4>=&gt; SVN</h4>
 Read-only access if available without registration:
@@ -20,7 +20,7 @@ Read-only access if available without registration:
 Read-only access if available without registration:
 <div class="codescroll"><code>git clone https://pencil-code.org/git/ pencil-code</code></div>
 
-<h3>Write access</h3>
+<h3>&bull; Write access</h3>
 If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same login as your GitHub username.
 
 <h4>=&gt; SVN</h4>
