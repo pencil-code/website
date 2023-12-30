@@ -10,48 +10,35 @@ Please follow these <a href="/transition.php">instructions to submit your change
 <h2>Download</h2>
 You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git-experts).
 
-<h3>&bull; SVN checkout:</h3>
-The read-only version you can check out by:
-<div class="codescroll"><code>svn checkout http://github.com/pencil-code/pencil-code/trunk pencil-code</code></div>
+<h3>Write access</h3>
+If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository.
 
-For a read-write access, you need to have a GitHub login name ('GITHUB_LOGIN') and become part of the <em>pencil-code</em> group.
-<div class="codescroll"><code>svn checkout https://github.com/pencil-code/pencil-code/trunk pencil-code --username='GITHUB_LOGIN'</code></div>
+<h4>&bull; SVN checkout:</h4>
+Read-only access if available without registration:
+<div class="codescroll"><code>svn checkout https://pencil-code.org/svn/trunk pencil-code</code></div>
 
-<h3>&bull; GIT checkout:</h3>
-If you just want to check out the latest version of the code use:
-<div class="codescroll"><code>git clone http://github.com/pencil-code/pencil-code.git</code></div>
+If you like to submit changes with an existing account:
+<div class="codescroll"><code>svn checkout --username=USERNAME https://pencil-code.org/svn/trunk pencil-code</code></div>
+where USERNAME is your login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
-If you have a GitHub username 'GITHUB_LOGIN' and like to submit changes you can use:
-<div class="codescroll"><code>git clone https://GITHUB_LOGIN@github.com/pencil-code/pencil-code.git<br>
-git config --global credential.helper 'cache --timeout=3600'<br>
-git config --global branch.autosetuprebase always</code></div>
-With the second line, you set the password cache to one hour, the third line should actually become a default.
+<h4>&bull; GIT checkout:</h4>
+Read-only access if available without registration:
+<div class="codescroll"><code>git clone https://pencil-code.org/git/ pencil-code</code></div>
 
-<!-- [PAB]: If I remember well, SSH keys are no longer supported at GitHub.
-<p>
-Or, if you prefer to use a SSH keyfile so that you do not have to type your password on each 'push':
-<div class="codescroll"><code>git clone git@github.com:pencil-code/pencil-code.git</code></div>
-</p>
- -->
+If you like to submit changes with an existing account:
+<div class="codescroll"><code>git clone https://USERNAME@pencil-code.org/git/ pencil-code</code></div>
+where USERNAME is your login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
-<h3>&bull; Playground:</h3>
-SVN access:
-<div class="codescroll"><code>svn checkout https://pencil-code.org/svn/playground/trunk playground --username='GITHUB_LOGIN'</code></div>
+To cache your password for #### seconds, you can configure:
+<div class="codescroll"><code>git config --global credential.helper 'cache --timeout=####'</code></div>
 
-GIT access:
-<div class="codescroll"><code>git clone https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
-
-This GIT server can show SVN revisions as notes:
+Our <em>GIT</em> server can show <em>SVN</em> revisions as notes:
 <div class="codescroll"><code>git config --add remote.origin.fetch '+refs/svn/map:refs/notes/commits'<br>
 git config remote.origin.tagOpt '--tags'<br>
 git pull<br>
 git log</code></div>
 
-<h3>&bull; On-the-fly change from GitHub to Playground server:</h3>
-Change an existing GIT clone to point to the new URL:
-<div class="codescroll"><code>git remote set-url origin https://GITHUB_LOGIN@pencil-code.org/git/playground</code></div>
-
-<h3>&bull; Getting an old SVN revision:</h3>
+<h2>&bull; Getting an old SVN revision:</h2>
 <form action="./obtain.php" method="post">
 Select the original source:<br>
 <select name="source">
@@ -61,7 +48,7 @@ Select the original source:<br>
 and its revision number: <input name="revision" type="text" size="8" maxlength="8">&nbsp;<input type="submit" value=" - search - ">
 </form>
 
-<h3>&bull; Stable releases:</h3>
+<h2>&bull; Stable releases:</h2>
 The Pencil Code can also be obtained as a stable <a href="http://github.com/pencil-code/pencil-code/releases">release</a>.<br>
 We also provide the stable release <a href="http://norlx51.albanova.se/~brandenb/downloads/pencil-code-r21570.tar.gz">r21570 as TAR.gz archive</a> for direct download.
 </div>
