@@ -11,25 +11,22 @@ Please follow these <a href="/transition.php">instructions to submit your change
 You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git-experts).
 
 <h3>&bull; Read-only access</h3>
+Read-only access is available without registration:
 
 <h4>=&gt; SVN</h4>
-Read-only access if available without registration:
 <div class="codescroll"><code>svn checkout https://pencil-code.org/svn/trunk pencil-code</code></div>
 
 <h4>=&gt; GIT</h4>
-Read-only access if available without registration:
 <div class="codescroll"><code>git clone https://pencil-code.org/git/ pencil-code</code></div>
 
 <h3>&bull; Write access</h3>
-If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same login as your GitHub username.
+If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same &quot;USERNAME&quot; as your GitHub account.
 
 <h4>=&gt; SVN</h4>
 <div class="codescroll"><code>svn checkout --username=USERNAME https://pencil-code.org/svn/trunk pencil-code</code></div>
-where USERNAME is your login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
 <h4>=&gt; GIT</h4>
 <div class="codescroll"><code>git clone https://USERNAME@pencil-code.org/git/ pencil-code</code></div>
-where USERNAME is your login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
 <p>To cache your password for #### seconds, you can configure:
 <div class="codescroll"><code>git config --global credential.helper 'cache --timeout=####'</code></div></p>
