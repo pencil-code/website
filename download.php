@@ -10,22 +10,24 @@ Please follow these <a href="/transition.php">instructions to submit your change
 <h2>Download</h2>
 You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git-experts).
 
-<h3>Write access</h3>
-If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same login as your GitHub username.
+<h3>Read-only access</h3>
 
-<h4>&bull; SVN checkout:</h4>
+<h4>=&gt; SVN</h4>
 Read-only access if available without registration:
 <div class="codescroll"><code>svn checkout https://pencil-code.org/svn/trunk pencil-code</code></div>
 
-If you like to submit changes with an existing account:
-<div class="codescroll"><code>svn checkout --username=USERNAME https://pencil-code.org/svn/trunk pencil-code</code></div>
-where USERNAME is your login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
-
-<h4>&bull; GIT checkout:</h4>
+<h4>=&gt; GIT</h4>
 Read-only access if available without registration:
 <div class="codescroll"><code>git clone https://pencil-code.org/git/ pencil-code</code></div>
 
-If you like to submit changes with an existing account:
+<h3>Write access</h3>
+If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same login as your GitHub username.
+
+<h4>=&gt; SVN</h4>
+<div class="codescroll"><code>svn checkout --username=USERNAME https://pencil-code.org/svn/trunk pencil-code</code></div>
+where USERNAME is your login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
+
+<h4>=&gt; GIT</h4>
 <div class="codescroll"><code>git clone https://USERNAME@pencil-code.org/git/ pencil-code</code></div>
 where USERNAME is your login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
@@ -38,7 +40,7 @@ git config remote.origin.tagOpt '--tags'<br>
 git pull<br>
 git log</code></div>
 
-<h2>&bull; Getting an old SVN revision:</h2>
+<h2>Getting an old SVN revision:</h2>
 <form action="./obtain.php" method="post">
 Select the original source:<br>
 <select name="source">
@@ -48,7 +50,7 @@ Select the original source:<br>
 and its revision number: <input name="revision" type="text" size="8" maxlength="8">&nbsp;<input type="submit" value=" - search - ">
 </form>
 
-<h2>&bull; Stable releases:</h2>
+<h2>Stable releases:</h2>
 The Pencil Code can also be obtained as a stable <a href="http://github.com/pencil-code/pencil-code/releases">release</a>.<br>
 We also provide the stable release <a href="http://norlx51.albanova.se/~brandenb/downloads/pencil-code-r21570.tar.gz">r21570 as TAR.gz archive</a> for direct download.
 </div>
