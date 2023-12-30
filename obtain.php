@@ -1,6 +1,6 @@
 <?php
 	$revision = filter_var (ltrim ($_POST["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
-	if (empty ($revision) || ($revision = "")) { header ("Location: /download.php"); }
+	if (empty ($revision) || ($revision == "")) { header ("Location: /download.php"); }
 
 	include "inc/header.inc";
 
