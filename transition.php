@@ -12,7 +12,7 @@ If your have already committed changes to the Pencil Code, pick up your prepared
 
 <h3>Step 2)</h3>
 <h4>=&gt; for <em>GIT</em> users</h4>
-After <b>2nd of January, 13:00 CET</b> please change the repository URL:
+After <b>2nd of January, 13:00 CET</b> please change the remote URL:
 <div class="codescroll"><code>git remote set-url origin https://USERNAME@pencil-code.org/git/</code></div>
 
 <h4>=&gt; for <em>SVN</em> users</h4>
