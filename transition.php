@@ -22,7 +22,7 @@ Let us say you have your old GitHub working copy in &quot;pencil-code-old&quot;.
 <div class="codescroll"><code>svn checkout --username=USERNAME https://pencil-code.org/svn/trunk pencil-code-new</code></div>
 with &quot;USERNAME&quot; being your account login name at <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
-<p>Now you can use our transfer script &quot;pc_svn_transfer_changes&quot; to copy your changes over to the new working copy:
+<p>Now you can use our transfer script &quot;pc_svn_transfer_changes&quot; to transfer your changes into the new working copy:
 <div class="codescroll"><code>cd pencil-code-old<br>
 svn up<br>
 cd ../pencil-code-new<br>
@@ -31,7 +31,7 @@ cd ..<br>
 pencil-code-old/bin/pc_svn_transfer_changes pencil-code-old pencil-code-new</code></div></p>
 
 <h3>Step 3)</h3>
-From now on, submit your changes only to pencil-code.org at and provide your new login credentials (username and password) from <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
+From now on, submit your changes only to pencil-code.org using your login credentials (username and password) from <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
 
 </div>
 <?php
