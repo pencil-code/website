@@ -8,7 +8,7 @@
 To submit your changes after the 2nd of January, 13:00 CET, please:
 
 <h3>Step 1)</h3>
-If your have already committed changes to the Pencil Code, pick up your prepared account at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> with your known GitHub username and the email address to which we have sent the notification email with the verification hash. If you are a new users, please <a href="https://account.pencil-code.org/register-user.html">register a new account</a>, ideally with the same username as on GitHub.
+If you have already committed changes to the Pencil Code, pick up your prepared account at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> with your known GitHub username and the email address to which we have sent the notification email with the verification hash. If you are a new user, please <a href="https://account.pencil-code.org/register-user.html">register a new account</a>, ideally with the same username as on GitHub.
 
 <h3>Step 2)</h3>
 <h4>=&gt; for <em>GIT</em> users</h4>
