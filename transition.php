@@ -29,7 +29,7 @@ cd ../pencil-code-new<br>
 svn up<br>
 cd ..<br>
 pencil-code-old/bin/pc_svn_transfer_changes pencil-code-old pencil-code-new</code></div>
-This transfer should be finished until <b>7th of January, 18:00 CET</b>. You can still commit your changes at a later time.</p>
+Just this transfer should be finished until <b>7th of January, 18:00 CET</b>. The checkin of your changes can still be at a later time.</p>
 
 <h3>Step 3)</h3>
 From now on, submit your changes only to pencil-code.org using your login credentials (username and password) from <a href="https://account.pencil-code.org/">account.pencil-code.org</a>.
