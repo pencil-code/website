@@ -20,7 +20,7 @@
 		# search SVN revision number
 		$update = `cd "$dir" && git pull 2>&1`;
 		$result = `cd "$dir" && git log -n1 "$hash" 2>&1 | tail -1`;
-		$result = lrtim ($result, " r");
+		$result = ltrim ($result, " r");
 		$result = substr ($result, 0, -strlen (" trunk"));
 		$revision = $result;
 	} else {
