@@ -1,6 +1,13 @@
 <?php
-	$revision = filter_var (ltrim ($_GET["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
-	$hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($_GET["hash"]));
+	$revision = $_GET["revision"];
+	$hash = $_GET["hash"];
+
+	$input = $_GET["input"];
+	if (($input != "") && empty ($revision) || ($revision = "")) { $revision = $input; }
+	if (($input != "") && empty ($hash) || ($hash = "")) { $hash = $input; }
+
+	$revision = filter_var (ltrim ($revision, 'r'), FILTER_SANITIZE_NUMBER_INT);
+	$hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($hash));
 
 	$output = filter_var (trim ($_GET["output"]), FILTER_SANITIZE_NUMBER_INT);
 	if ($output == 1) {
