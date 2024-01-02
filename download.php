@@ -33,6 +33,12 @@ git config remote.origin.tagOpt '--tags'<br>
 git pull<br>
 git log</code></div>
 
+<h2>SVN&gt;&lt;GIT translation:</h2>
+<form action="https://pencil-code.org/translate.php" method="get">
+<input type="hidden" name="output" value="1">
+Search for SVN revision: <input name="revision" type="text" size="8" maxlength="16"> or GIT hash: <input name="hash" type="text" size="12" maxlength="40">&nbsp;<input type="submit" value=" - translate - ">
+</form>
+
 <h2>Getting an old SVN revision:</h2>
 <form action="./obtain.php" method="post">
 Select the original source:<br>
@@ -41,12 +47,6 @@ Select the original source:<br>
 	<option value="GC">code.google.com/p/pencil-code</option>
 </select><br>
 and its revision number: <input name="revision" type="text" size="8" maxlength="16">&nbsp;<input type="submit" value=" - search - ">
-</form>
-
-<h2>SVN&gt;&lt;GIT translation:</h2>
-<form action="https://pencil-code.org/translate.php" method="get">
-<input type="hidden" name="output" value="1">
-Search for SVN revision: <input name="revision" type="text" size="8" maxlength="16"> or GIT hash: <input name="hash" type="text" size="12" maxlength="40">&nbsp;<input type="submit" value=" - translate - ">
 </form>
 
 <h2>Stable releases:</h2>
