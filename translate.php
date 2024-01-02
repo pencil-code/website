@@ -1,8 +1,8 @@
 <?php
-	$revision = filter_var (ltrim ($_POST["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
+	$revision = filter_var (ltrim ($_GET["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
 	$hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($_POST["hash"]));
 
-	$output = filter_var (trim ($_POST["output"]), FILTER_SANITIZE_NUMBER_INT);
+	$output = filter_var (trim ($_GET["output"]), FILTER_SANITIZE_NUMBER_INT);
 	if ($output == 1) {
 		$output = "HTML";
 	} else {
@@ -27,8 +27,8 @@
 		header ("Location: /download.php");
 	}
 
-	if (empty ($hash) || ($hash == "")) { $hash = "GIT hash not found!"; }
 	if (empty ($revision) || ($revision == "")) { $revision = "SVN revision not found!"; }
+	if (empty ($hash) || ($hash == "")) { $hash = "GIT hash not found!"; }
 
 	if ($output == "TXT") {
 		print $result."\n";
