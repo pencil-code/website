@@ -51,11 +51,6 @@ and its revision number: <input name="revision" type="text" size="8" maxlength="
 The Pencil Code can also be obtained as a stable <a href="http://github.com/pencil-code/pencil-code/releases">release</a>.<br>
 We also provide the stable release <a href="http://norlx51.albanova.se/~brandenb/downloads/pencil-code-r21570.tar.gz">r21570 as TAR.gz archive</a> for direct download.
 </div>
-
-<div class="centerdivider"></div>
-<div class="centcolumnpad">
-Available as open source at our project page: <a href="https://github.com/pencil-code/" target="_top">github.com/pencil-code</a>
-</div>
 <?php
 	include "inc/footer.inc";
  ?>
