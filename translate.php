@@ -15,45 +15,39 @@
 		$update = `cd "$dir" && git pull 2>&1`;
 		$result = `cd "$dir" && git log --grep="^r$revision trunk$" 2>&1 | head -1`;
 		$result = substr ($result, strlen ("commit "));
+		$hash = $result;
 	} elseif ($hash != "") {
 		# search SVN revision number
 		$update = `cd "$dir" && git pull 2>&1`;
 		$result = `cd "$dir" && git log -n1 "$hash" 2>&1 | tail -1`;
 		$result = lrtim ($result, " r");
 		$result = substr ($result, 0, -strlen (" trunk"));
+		$revision = $result;
 	} else {
 		header ("Location: /download.php");
 	}
 
+	if (empty ($hash) || ($hash == "")) { $hash = "GIT hash not found!"; }
+	if (empty ($revision) || ($revision == "")) { $revision = "SVN revision not found!"; }
+
 	if ($output == "TXT") {
-		print $result;
+		print $result."\n";
 	} else {
 
 		include "inc/header.inc";
  ?>
 <div class="centcolumnpad">
-<h2>Obtain an old revision</h2>
+<h2>Translation between SVN and GIT</h2>
 
-<?php
-		if ($new) {
- ?>
-<h3>&bull; SVN checkout:</h3>
-SVN read-only access:
-<div class="codescroll"><code>svn checkout -r <?php echo $new; ?> https://pencil-code.org/svn/playground/trunk playground</code></div>
-SVN read &amp; write access:
-<div class="codescroll"><code>svn checkout -r <?php echo $new; ?> --username=GITHUB_LOGIN https://pencil-code.org/svn/playground/trunk playground</code></div>
-<?php
-		} else {
- ?>
-<p><font color="#e00000" style="color:red"><b>Revision <?php echo $revision; ?> not found in <?php echo $description; ?> repository.</b></font></p>
-<?php
-	}
- ?>
-</div>
+<h3>&bull; SVN revision number:</h3>
+<div class="codescroll"><code><?php echo $revision; ?></code></div>
+
+<h3>&bull; GIT hash:</h3>
+<div class="codescroll"><code><?php echo $hash; ?></code></div>
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-Available as open source at our project page: <a href="https://github.com/pencil-code/" target="_top">github.com/pencil-code</a>
+Available as open source: <a href="https://pencil-code.org/" target="_top">pencil-code.org</a>
 </div>
 <?php
 		include "inc/footer.inc";
