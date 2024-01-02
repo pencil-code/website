@@ -44,7 +44,7 @@
 
 <h3>&bull; GIT hash:</h3>
 <div class="codescroll"><code><?php echo $hash; ?></code></div>
-<p><a href="https://github.com/pencil-code/pencil-code/commit/<?php echo $hash; ?>">Commit details</a></p>
+<p>=&gt; <a href="https://github.com/pencil-code/pencil-code/commit/<?php echo $hash; ?>">Commit details</a></p>
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
