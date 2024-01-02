@@ -12,11 +12,7 @@ You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git
 
 <h3>&bull; Read-only access</h3>
 Read-only access is available without registration:
-
-<h4>=&gt; SVN</h4>
 <div class="codescroll"><code>svn checkout https://pencil-code.org/svn/trunk pencil-code</code></div>
-
-<h4>=&gt; GIT</h4>
 <div class="codescroll"><code>git clone https://pencil-code.org/git/ pencil-code</code></div>
 
 <h3>&bull; Write access</h3>
