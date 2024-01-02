@@ -1,6 +1,6 @@
 <?php
 	$revision = filter_var (ltrim ($_GET["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
-	$hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($_POST["hash"]));
+	$hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($_GET["hash"]));
 
 	$output = filter_var (trim ($_GET["output"]), FILTER_SANITIZE_NUMBER_INT);
 	if ($output == 1) {
