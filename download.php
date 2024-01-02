@@ -18,10 +18,10 @@ No registration is required for read-only access.
 <h3>&bull; Write access</h3>
 If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same &quot;USERNAME&quot; as your GitHub account.
 
-<h4>=&gt; SVN</h4>
+<h4>=&gt; SVN:</h4>
 <div class="codescroll"><code>svn checkout --username=USERNAME https://pencil-code.org/svn/trunk pencil-code</code></div>
 
-<h4>=&gt; GIT</h4>
+<h4>=&gt; GIT:</h4>
 <div class="codescroll"><code>git clone https://USERNAME@pencil-code.org/git/ pencil-code</code></div>
 
 <p>To cache your password for #### seconds, you can configure:
