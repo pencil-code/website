@@ -36,7 +36,7 @@ SVN read &amp; write access:
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-Available as open source at our project page: <a href="https://pencil-code.org/download.php" target="_top">pencil-code.org/download.php</a>
+Available as open source: <a href="https://pencil-code.org/download.php" target="_top">https://pencil-code.org/download.php</a>.
 </div>
 <?php
 	include "inc/footer.inc";
