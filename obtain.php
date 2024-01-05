@@ -22,9 +22,9 @@
  ?>
 <h3>&bull; SVN checkout:</h3>
 SVN read-only access:
-<div class="codescroll"><code>svn checkout -r <?php echo $new; ?> https://pencil-code.org/svn/playground/trunk playground</code></div>
+<div class="codescroll"><code>svn checkout -r <?php echo $new; ?> https://pencil-code.org/svn/trunk pencil-code</code></div>
 SVN read &amp; write access:
-<div class="codescroll"><code>svn checkout -r <?php echo $new; ?> --username=GITHUB_LOGIN https://pencil-code.org/svn/playground/trunk playground</code></div>
+<div class="codescroll"><code>svn checkout -r <?php echo $new; ?> --username=GITHUB_LOGIN https://pencil-code.org/svn/trunk pencil-code</code></div>
 <?php
 	} else {
  ?>
@@ -36,7 +36,7 @@ SVN read &amp; write access:
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-Available as open source at our project page: <a href="https://github.com/pencil-code/" target="_top">github.com/pencil-code</a>
+Available as open source at our project page: <a href="https://pencil-code.org/download.php" target="_top">pencil-code.org/download.php</a>
 </div>
 <?php
 	include "inc/footer.inc";
