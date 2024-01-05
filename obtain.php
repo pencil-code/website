@@ -24,7 +24,7 @@
 SVN read-only access:
 <div class="codescroll"><code>svn checkout -r <?php echo $new; ?> https://pencil-code.org/svn/trunk pencil-code</code></div>
 SVN read &amp; write access:
-<div class="codescroll"><code>svn checkout -r <?php echo $new; ?> --username=GITHUB_LOGIN https://pencil-code.org/svn/trunk pencil-code</code></div>
+<div class="codescroll"><code>svn checkout -r <?php echo $new; ?> --username=USERNAME https://pencil-code.org/svn/trunk pencil-code</code></div>
 <?php
 	} else {
  ?>
