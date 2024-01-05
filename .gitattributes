@@ -163,6 +163,7 @@ images/reflection_shadow60.png -text
 images/shad50.png -text
 images/waves2709.png -text
 images/yourimage.png -text
+inc/download.inc -text
 inc/footer.inc -text
 inc/header.inc -text
 inc/home_right.inc -text

@@ -45,12 +45,9 @@
 <h3>&bull; GIT hash:</h3>
 <div class="codescroll"><code><?php echo $hash; ?></code></div>
 <p>=&gt; <a href="https://github.com/pencil-code/pencil-code/commit/<?php echo $hash; ?>">Commit details</a></p>
-
-<div class="centerdivider"></div>
-<div class="centcolumnpad">
-Available as open source: <a href="https://pencil-code.org/download.php" target="_top">https://pencil-code.org/download.php</a>.
 </div>
 <?php
+		include "inc/download.inc";
 		include "inc/footer.inc";
 	}
  ?>
