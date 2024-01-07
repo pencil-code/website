@@ -25,7 +25,7 @@
 	if (empty ($hash) || ($hash == "")) { $hash = "GIT hash not found!"; }
 
 	if ($output == "plain") {
-		print $result."\n";
+		print $result;
 	} else {
 
 		include "inc/header.inc";
