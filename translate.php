@@ -24,7 +24,7 @@
 	if (empty ($revision) || ($revision == "")) { $revision = "SVN revision not found!"; }
 	if (empty ($hash) || ($hash == "")) { $hash = "GIT hash not found!"; }
 
-	if ($output == "txt") {
+	if ($output == "plain") {
 		print $result."\n";
 	} else {
 
