@@ -1,13 +1,7 @@
 <?php
 	$revision = filter_var (ltrim ($_GET["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
 	$hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($_GET["hash"]));
-
-	$output = filter_var (trim ($_GET["output"]), FILTER_SANITIZE_NUMBER_INT);
-	if ($output == 1) {
-		$output = "HTML";
-	} else {
-		$output = "TXT";
-	}
+	$output = trim ($_GET["output"]);
 
 	$dir = "/home/pencil/translate/";
 	if ($revision != "") {
@@ -30,7 +24,7 @@
 	if (empty ($revision) || ($revision == "")) { $revision = "SVN revision not found!"; }
 	if (empty ($hash) || ($hash == "")) { $hash = "GIT hash not found!"; }
 
-	if ($output == "TXT") {
+	if ($output == "txt") {
 		print $result."\n";
 	} else {
 
