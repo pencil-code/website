@@ -35,7 +35,6 @@ git log</code></div>
 
 <h2>SVN-GIT translation:</h2>
 <form action="https://pencil-code.org/translate.php" method="get">
-<input type="hidden" name="output" value="1">
 Translate between SVN revision: <input name="revision" type="text" size="8" maxlength="16"> or GIT hash: <input name="hash" type="text" size="12" maxlength="40">&nbsp;<input type="submit" value=" - translate - ">
 </form>
 
