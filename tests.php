@@ -15,11 +15,8 @@ it could be useful to first see whether this problem also shows up in
 our own tests. The latest test results for a can be seen online:</p>
 
 <ul STYLE="font-size:13px;">
+<li><a href="https://github.com/pencil-code/pencil-code/commits/master/">Travis</a>, after check-ins
 <!-- Hourly test -->
-<!--
-<li><a href="http://www.travis-ci.com/pencil-code/pencil-code">Travis</a>, after each check-in
--->
-<li><a href="https://app.travis-ci.com/github/pencil-code/pencil-code">Travis</a>, after each check-in
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/hourly/">Nordita: GNU gfortran 6.4.0 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, hourly (<a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/hourly-previous/">previous run</a>)
 <!-- Daily test -->
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/daily/">Nordita: GNU gfortran 6.4.0 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily (<a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/daily-previous/">previous run</a>)
