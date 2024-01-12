@@ -17,11 +17,12 @@
 	} elseif ($hash != "") {
 		# search SVN revision number
 		$update = `cd "$dir" && git pull 2>&1`;
-		$result = `cd "$dir" && git log -n1 "$hash" 2>/dev/null | head -1`;
-		if ($result != "") { $hash = substr ($result, strlen ("commit ")); }
-		$result = `cd "$dir" && git log -n1 "$hash" 2>/dev/null | tail -1`;
-		$result = ltrim ($result, " r\t");
-		$result = rtrim ($result, " trunk");
+		$result = `cd "$dir" && git log -n1 "$hash" 2>/dev/null`;
+		if ($result != "") {
+			$result = explode ("\n", $result);
+			$hash = substr ($result[0], strlen ("commit "));
+			$result = rtrim (ltrim (end ($result), " r\t"), " trunk");
+		}
 		$revision = $result;
 	} else {
 		header ("Location: /download.php");
