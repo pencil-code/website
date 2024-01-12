@@ -1,7 +1,10 @@
 <?php
-	$revision = filter_var (ltrim ($_GET["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT);
-	$hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($_GET["hash"]));
-	$output = trim ($_GET["output"]);
+	$revision = "";
+	$hash = "";
+
+	if (isset ($_GET["revision"])) { $revision = filter_var (ltrim ($_GET["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT); }
+	if (isset ($_GET["hash"])) { $hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($_GET["hash"])); }
+	if (isset ($_GET["output"])) { $output = trim ($_GET["output"]); }
 
 	$dir = "/home/pencil/translate/";
 	if ($revision != "") {
