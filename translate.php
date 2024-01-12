@@ -17,6 +17,8 @@
 	} elseif ($hash != "") {
 		# search SVN revision number
 		$update = `cd "$dir" && git pull 2>&1`;
+		$result = `cd "$dir" && git log -n1 "$hash" 2>/dev/null | head -1`;
+		if ($result != "") { $hash = substr ($result, strlen ("commit ")); }
 		$result = `cd "$dir" && git log -n1 "$hash" 2>/dev/null | tail -1`;
 		$result = ltrim ($result, " r\t");
 		$result = rtrim ($result, " trunk");
