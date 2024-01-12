@@ -19,7 +19,7 @@
 		$update = `cd "$dir" && git pull 2>&1`;
 		$result = `cd "$dir" && git log -n1 "$hash" 2>/dev/null`;
 		if ($result != "") {
-			$lines = explode ("\n", $result);
+			$lines = explode ("\n", trim ($result));
 			$hash = substr ($lines[0], strlen ("commit "));
 echo "<!-- ".$lines[0]." -->\n";
 echo "<!-- ".count ($lines)." -->\n";
