@@ -19,9 +19,11 @@
 		$update = `cd "$dir" && git pull 2>&1`;
 		$result = `cd "$dir" && git log -n1 "$hash" 2>/dev/null`;
 		if ($result != "") {
-			$result = explode ("\n", $result);
-			$hash = substr ($result[0], strlen ("commit "));
-			$result = rtrim (ltrim (end ($result), " r\t"), " trunk");
+			$lines = explode ("\n", $result);
+			$hash = substr ($lines[0], strlen ("commit "));
+echo "<!-- ".$lines[0]." -->\n";
+echo "<!-- ".end ($lines)." -->\n";
+			$result = rtrim (ltrim (end ($lines), " r\t"), " trunk");
 		}
 		$revision = $result;
 	} else {
