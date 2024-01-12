@@ -4,22 +4,22 @@
 	$output = "";
 
 	if (isset ($_GET["revision"])) { $revision = filter_var (ltrim ($_GET["revision"], 'r'), FILTER_SANITIZE_NUMBER_INT); }
-	if (isset ($_GET["hash"])) { $hash = preg_replace ('/[^a-zA-Z0-9\$\/\.]/', '', trim ($_GET["hash"])); }
+	if (isset ($_GET["hash"])) { $hash = preg_replace ('/[^0-9a-f]/', '', strtolower (trim ($_GET["hash"]))); }
 	if (isset ($_GET["output"])) { $output = trim ($_GET["output"]); }
 
 	$dir = "/home/pencil/translate/";
 	if ($revision != "") {
 		# search GIT hash
 		$update = `cd "$dir" && git pull 2>&1`;
-		$result = `cd "$dir" && git log --grep="^r$revision trunk$" 2>&1 | head -1`;
-		$result = substr ($result, strlen ("commit "));
+		$result = `cd "$dir" && git log --grep="^r$revision trunk$" 2>/dev/null | head -1`;
+		if ($result != "") { $result = substr ($result, strlen ("commit ")); }
 		$hash = $result;
 	} elseif ($hash != "") {
 		# search SVN revision number
 		$update = `cd "$dir" && git pull 2>&1`;
-		$result = `cd "$dir" && git log -n1 "$hash" 2>&1 | tail -1`;
-		$result = ltrim ($result, " r");
-		$result = substr ($result, 0, -strlen (" trunk"));
+		$result = `cd "$dir" && git log -n1 "$hash" 2>/dev/null | tail -1`;
+		$result = ltrim ($result, " r\t");
+		$result = rtrim ($result, " trunk");
 		$revision = $result;
 	} else {
 		header ("Location: /download.php");
