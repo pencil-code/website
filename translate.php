@@ -22,7 +22,8 @@
 			$lines = explode ("\n", $result);
 			$hash = substr ($lines[0], strlen ("commit "));
 echo "<!-- ".$lines[0]." -->\n";
-echo "<!-- ".end ($lines)." -->\n";
+echo "<!-- ".count ($lines)." -->\n";
+echo "<!-- ".$lines[count ($lines)-1]." -->\n";
 			$result = rtrim (ltrim (end ($lines), " r\t"), " trunk");
 		}
 		$revision = $result;
