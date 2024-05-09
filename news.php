@@ -6,18 +6,18 @@
 <h2>News</h2>
 <ul>
 
-<li class="separated">31 March 2023:<br>
+<li class="separated">9 May 2024:<br>
 The current Pencil Code Newsletter is on:
 <a href="https://www.nordita.org/~brandenb/pencil-code/newsletter/">https://www.nordita.org/~brandenb/pencil-code/newsletter/</a>.
 </li>
 
-<li class="separated">31 March 2023:<br>
+<li class="separated">9 May 2024:<br>
 The next Pencil Code User Meeting will be at the
-<a href="http://pencil-code.nordita.org/UserMeetings/2023/">Physics Institute of the University of Graz</a>.
+<a href="https://indico.ice.csic.es/event/40/">Institute of Space Sciences (ICE-CSIC/IEEC)</a>.
 </li>
 
-<li class="separated">31 March 2023:<br>
-The next Pencil Code Steering Committee (PCSC) meeting will be on: June 12, 2023, at 12:00.
+<li class="separated">9 May 2024:<br>
+The next Pencil Code Steering Committee (PCSC) meeting will be in June 2024.
 The minutes of the previous meeting are posted on:
 <a href="http://www.nordita.org/~brandenb/pencil-code/PCSC/">http://www.nordita.org/~brandenb/pencil-code/PCSC/</a>
 </li>
