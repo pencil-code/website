@@ -31,6 +31,9 @@ NEW ITEMS:
 
 - status of the pc_mkdatadir command (AB)
 
+- how common are srun errors: task 384 launch failed: Error configuring interconnect (AB); see
+  /cfs/klemming/home/b/brandenb/scr/axel/kinematic/Roberts/crit/Tst512_2em4_10th/slurm-4089604.out
+
 OLD ITEMS:
 
 - reference.out versus reference.out.double
@@ -46,6 +49,7 @@ OLD ITEMS:
 
 - Python script for multiple simulations to scan parameter space
   (Fred, todo: create documentation)
+  AB emailed him.
 
 - should we rename some more README files in sample to README.md
   Philippe needs to adapt 'pc_auto-test' scripts.
@@ -94,11 +98,13 @@ NEW ITEMS from previous list:
 - HDF5: break up, slices (Fred Gent): future i/o strategies
   => backwards compatible or conversion tool
   (long-term: Fred, Philippe needs to implement new strategies)
+  AB emailed him.
 
 - HDF5 IO reading of persistent variables
   => make robust against changes in number of processors
   => seeds need a different treatment (depending on processors)
   (intermediate-term: Fred, Matthias, Philippe will fix that)
+  AB emailed him.
 
 - generalize scale factor reading (Philippe+Axel+Alberto+Ramkishor)
   (Philippe will create module with generalize profile reader)
