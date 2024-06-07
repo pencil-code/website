@@ -30,6 +30,7 @@ STANDARD ITEMS:
 NEW ITEMS:
 
 - status of the pc_mkdatadir command (AB)
+  not issue for most people
 
 - how common are srun errors: task 384 launch failed: Error configuring interconnect (AB); see
   /cfs/klemming/home/b/brandenb/scr/axel/kinematic/Roberts/crit/Tst512_2em4_10th/slurm-4089604.out
