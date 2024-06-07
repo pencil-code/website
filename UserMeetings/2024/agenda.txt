@@ -34,6 +34,8 @@ NEW ITEMS:
 - how common are srun errors: task 384 launch failed: Error configuring interconnect (AB); see
   /cfs/klemming/home/b/brandenb/scr/axel/kinematic/Roberts/crit/Tst512_2em4_10th/slurm-4089604.out
 
+- still wrong email addresses on branch items (?)
+
 OLD ITEMS:
 
 - reference.out versus reference.out.double
