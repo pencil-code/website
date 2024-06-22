@@ -37,6 +37,8 @@ NEW ITEMS:
 
 - still wrong email addresses on branch items (?)
 
+- reduce/eliminate usage of dot_mn and dot2_mn in favor of dot and dot2
+
 OLD ITEMS:
 
 - reference.out versus reference.out.double
