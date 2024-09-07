@@ -29,6 +29,8 @@ STANDARD ITEMS:
 ----------------------------------------------------------------------------
 NEW ITEMS:
 
+- discuss/check deriv_10th
+
 - status of the pc_mkdatadir command (AB)
   not issue for most people
 
