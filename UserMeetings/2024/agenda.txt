@@ -29,6 +29,10 @@ STANDARD ITEMS:
 ----------------------------------------------------------------------------
 NEW ITEMS:
 
+- will for Philippe
+
+- fancier home page. Fabio to present, comparison with Dedalus. Hilights don't work.
+
 - discuss/check deriv_10th
 
 - status of the pc_mkdatadir command (AB)
