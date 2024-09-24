@@ -17,6 +17,7 @@ Topics for Pencil code User Meeting in Barcelona 2024:
 STANDARD ITEMS:
 
 - Summary from the Pencil Code Steering Committee
+  Wednesday, Sept 25, 14:30
 
 - promote practice of making init routines additive.
   status & update (AB)
@@ -28,6 +29,8 @@ STANDARD ITEMS:
 
 ----------------------------------------------------------------------------
 NEW ITEMS:
+
+- grid.dat saving
 
 - will for Philippe
 
