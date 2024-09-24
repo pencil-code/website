@@ -19,7 +19,7 @@ The last one was on Sept 1 at 15:00 CEST.
 
 <h3>Newsletter</h3>
 Regular updates are also provided in the Pencil Code 
-<a href="https://www.nordita.org/~brandenb/pencil-code/newsletter/">Newsletter</a>,
+<a href="http://pencil-code.nordita.org/~brandenb/pencil-code/newsletter/">Newsletter</a>,
 which appears several times per year.
 
 <h3>Mailing list</h3>
@@ -27,7 +27,7 @@ Detailed questions regarding the code and its usage can be discussed on our <a h
 
 <h3>Steering Comittee</h3>
 Issues of major concern to the Pencil Code community should be addressed
-to the <a href=http://www.nordita.org/~brandenb/pencil-code/PCSC/>Pencil Code Steering Committee</a>.
+to the <a href="http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/">Pencil Code Steering Committee</a>.
 </div>
 
 <div class="centerdivider"></div>
