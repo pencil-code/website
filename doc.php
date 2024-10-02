@@ -32,6 +32,11 @@ Wolfgang Dobler wrote
 </p>
 
 <p>
+Deepen Garg wrote
+<a href="/doc/Pencil_Code_MacOS_Writeup.pdf">Instructions for MacOS installation</a> (Sep 29, 2024).
+</p>
+
+<p>
 Responses to a problematic git check-in and how to avoid it by
 <a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Hongzhe_response_August2022.html">Hongzhe Zhou (August 24, 2022)</a>,
 <a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_November2022.html">Philippe Bourdin (November 4, 2022</a> and
@@ -42,6 +47,9 @@ Responses to a problematic git check-in and how to avoid it by
 <p>
 Matthias Rheinhardt presented a talk about the
 <a href="/UserMeetings/2016/talks/YinYang_talk.pdf">Yin-Yang mesh</a> (10 Aug 2016)
+and the GPU acceleration in the Pencil Code using Astaroth:
+<a href="http://pencil-code.nordita.org/doc/GPUs/Presentation3.pdf">Introduction to PC-A</a> 
+[<a href="http://pencil-code.nordita.org/doc/GPUs/Presentation3.pptx">pptx</a>] (25 Sep 2024) 
 </p>
 
 <p>
