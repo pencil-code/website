@@ -33,7 +33,7 @@ Wolfgang Dobler wrote
 
 <p>
 Deepen Garg wrote
-<a href="/doc/Pencil_Code_MacOS_Writeup.pdf">Instructions for MacOS installation</a> (Sep 29, 2024).
+<a href="/doc/MacOS/Pencil_Code_MacOS_Writeup.pdf">Instructions for MacOS installation</a> (Sep 29, 2024).
 </p>
 
 <p>
