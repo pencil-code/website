@@ -144,6 +144,9 @@ UserMeetings/idl/p.pro -text
 UserMeetings/idl/participants.dat -text
 /contact.php -text
 /doc.php -text
+doc/GPUs/Presentation3.pdf -text
+doc/GPUs/Presentation3.pptx -text
+doc/MacOS/Pencil_Code_MacOS_Writeup.pdf -text
 doc/Publications_2022.pdf -text
 doc/Publications_2023.pdf -text
 doc/README -text
