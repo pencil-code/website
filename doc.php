@@ -58,6 +58,11 @@ A Python introduction can be found here:
 </p>
 
 <p>
+In her teaching material from the Barcelona User Meeting, Jennifer Schober explains
+<a href=">https://jennifer-schober.com/teaching/pcum2024/">How to simulate turbulent dynamos with the Pencil Code</a> (Sep 25, 2024).
+</p>
+
+<p>
 <a href="https://github.com/pencil-code/website/blob/master/doc/citations.pdf">Scientific usage of the Pencil Code</a>.
 </p>
 
