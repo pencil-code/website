@@ -15,3 +15,4 @@ cp -rp ~/public_html/pencil-code/newsletter/2023/2/newsletter.pdf 2023/newslette
 cp -rp ~/public_html/pencil-code/newsletter/2023/3/newsletter.pdf 2023/newsletter3.pdf
 
 cp -rp ~/public_html/pencil-code/newsletter/2024/1/newsletter.pdf 2024/newsletter1.pdf
+cp -rp ~/public_html/pencil-code/newsletter/2024/2/newsletter.pdf 2024/newsletter2.pdf
