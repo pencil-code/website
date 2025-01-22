@@ -54,7 +54,8 @@ and the GPU acceleration in the Pencil Code using Astaroth:
 
 <p>
 A Python introduction can be found here:
-<a href="http://github.com/pencil-code/pencil-code/wiki/PythonForPencil">Python with the Pencil Code</a>.
+<a href="http://github.com/pencil-code/pencil-code/wiki/PythonForPencil">Python with the Pencil Code</a>; see also the
+<a href="https://pencil-code.readthedocs.io/en/latest/tutorials/python/tutpython.html">Pencil Python Tutorials</a>.
 </p>
 
 <p>
