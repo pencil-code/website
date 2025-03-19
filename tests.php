@@ -20,6 +20,12 @@ our own tests. The latest test results for a can be seen online:</p>
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/hourly/">Nordita: GNU gfortran 6.4.0 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, hourly (<a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/hourly-previous/">previous run</a>)
 <!-- Daily test -->
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/daily/">Nordita: GNU gfortran 6.4.0 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily (<a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/daily-previous/">previous run</a>)
+<!-- Minutely test -->
+<li><a href="https://norlx29.nordita.org/tests/minutely/">Nordita: GNU gfortran 13.3.0 with OpenMPI (norlx29, by Philippe/Axel)</a>, minutely (<a href="https://norlx29.nordita.org/tests/minutely-previous/">previous run</a>)
+<!-- Hourly test -->
+<li><a href="https://norlx29.nordita.org/tests/hourly/">Nordita: GNU gfortran 13.3.0 with OpenMPI (norlx29, by Philippe/Axel)</a>, hourly (<a href="https://norlx29.nordita.org/tests/hourly-previous/">previous run</a>)
+<!-- Daily test -->
+<li><a href="https://norlx29.nordita.org/tests/daily/">Nordita: GNU gfortran 13.3.0 with OpenMPI (norlx29, by Philippe/Axel)</a>, daily (<a href="https://norlx29.nordita.org/tests/daily-previous/">previous run</a>)
 <!-- Philippe Bourdin -->
 <li><a href="http://www.PAB-Software.de/Pencil/daily/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin), large daily</a>, (<a href="http://www.PAB-Software.de/Pencil/daily-previous/">previous run</A>)
 <li><a href="http://www.PAB-Software.de/Pencil/minimal/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin), minimal minutely</a>, (<a href="http://www.PAB-Software.de/Pencil/minimal-previous/">previous run</A>)
