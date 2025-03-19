@@ -21,7 +21,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Daily test -->
 <li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/daily/">Nordita: GNU gfortran 6.4.0 with OpenMPI (norlx51, by Wolfgang/Axel)</a>, daily (<a href="http://norlx51.nordita.org/~brandenb/pencil-code/tests/daily-previous/">previous run</a>)
 <!-- Minutely test -->
-<li><a href="https://norlx29.nordita.org/tests/minimal/">Nordita: GNU gfortran 13.3.0 (norlx29, by Philippe/Axel)</a>, minimal, minutely (<a href="https://norlx29.nordita.org/tests/minimal-previous/">previous run</a>)
+<li><a href="https://norlx29.nordita.org/tests/basic/">Nordita: GNU gfortran 13.3.0 (norlx29, by Philippe/Axel)</a>, basic, minutely (<a href="https://norlx29.nordita.org/tests/basic-previous/">previous run</a>)
 <!-- Hourly test -->
 <li><a href="https://norlx29.nordita.org/tests/normal/">Nordita: GNU gfortran 13.3.0 (norlx29, by Philippe/Axel)</a>, normal, **:15 (<a href="https://norlx29.nordita.org/tests/normal-previous/">previous run</a>)
 <!-- Daily test -->
