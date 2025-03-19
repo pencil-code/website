@@ -25,7 +25,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Hourly test -->
 <li><a href="https://norlx29.nordita.org/tests/normal/">Nordita: GNU gfortran 13.3.0 (norlx29, by Philippe/Axel)</a>, normal, **:15 (<a href="https://norlx29.nordita.org/tests/normal-previous/">previous run</a>)
 <!-- Daily test -->
-<li><a href="https://norlx29.nordita.org/tests/extended/">Nordita: GNU gfortran 13.3.0 (norlx29, by Philippe/Axel)</a>, extended, **:45 (<a href="https://norlx29.nordita.org/tests/extended-previous/">previous run</a>)
+<li><a href="https://norlx29.nordita.org/tests/extended/">Nordita: GNU gfortran 13.3.0 (norlx29, by Philippe/Axel)</a>, extended, **:55 (<a href="https://norlx29.nordita.org/tests/extended-previous/">previous run</a>)
 <!-- Philippe Bourdin -->
 <li><a href="http://www.PAB-Software.de/Pencil/minimal/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin), minimal, minutely</a>, (<a href="http://www.PAB-Software.de/Pencil/minimal-previous/">previous run</A>)
 <li><a href="http://www.PAB-Software.de/Pencil/daily/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin), large, every 6 hrs</a>, (<a href="http://www.PAB-Software.de/Pencil/daily-previous/">previous run</A>)
