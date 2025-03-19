@@ -27,8 +27,8 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Daily test -->
 <li><a href="https://norlx29.nordita.org/tests/extended/">Nordita: GNU gfortran 13.3.0 (norlx29, by Philippe/Axel)</a>, extended, **:55 (<a href="https://norlx29.nordita.org/tests/extended-previous/">previous run</a>)
 <!-- Philippe Bourdin -->
-<li><a href="http://www.PAB-Software.de/Pencil/minimal/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin), minimal, minutely</a>, (<a href="http://www.PAB-Software.de/Pencil/minimal-previous/">previous run</A>)
-<li><a href="http://www.PAB-Software.de/Pencil/daily/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin), large, every 6 hrs</a>, (<a href="http://www.PAB-Software.de/Pencil/daily-previous/">previous run</A>)
+<li><a href="http://www.PAB-Software.de/Pencil/minimal/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin)</a>, minimal, minutely (<a href="http://www.PAB-Software.de/Pencil/minimal-previous/">previous run</A>)
+<li><a href="http://www.PAB-Software.de/Pencil/daily/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin)</a>, large, every 6 hours (<a href="http://www.PAB-Software.de/Pencil/daily-previous/">previous run</A>)
 <!-- Boris Dintrans (March 2021: 404 not found) -->
 <!--li><a href="http://userpages.irap.omp.eu/~bdintrans/tmp/test_runs.html">Toulouse: Intel ifort v12.1.3.293 (Ubuntu 13.10, by Boris Dintrans)</a>, daily standard level 2 test -->
 <!-- Boris Dintrans additional (March 2021: 404 not found) -->
