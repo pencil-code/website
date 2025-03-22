@@ -67,7 +67,7 @@ the very minimal auto-tests:</p>
 
 <div class="codescroll"><code>pc_auto-test --level=0 --auto-clean</code></div>
 
-You may alternatively give a larger integer number, e.g. '--max-level=3' or '--level=0+1', in order to run more auto-tests with your changes.
+<p>You may alternatively give a larger integer number, e.g. '--max-level=3' or '--level=0+1', in order to run more auto-tests with your changes.</p>
 
 <h2>Test levels</h2>
 
