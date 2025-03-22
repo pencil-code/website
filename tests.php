@@ -65,11 +65,29 @@ our own tests. The latest test results for a can be seen online:</p>
 <p>Note: before checking in your own changes, you should at least do
 the very minimal auto-tests:</p>
 
-<div class="codescroll"><code>pc_auto-test --max-level=0 --no-pencil-check -C</code></div>
+<div class="codescroll"><code>pc_auto-test --level=0 --auto-clean</code></div>
 
-You may alternatively give a larger integer number, e.g. '--max-level=2', in order to run more auto-tests with your changes.
+You may alternatively give a larger integer number, e.g. '--max-level=3' or '--level=0+1', in order to run more auto-tests with your changes.
 
 </div>
+
+<h2>Test levels</h2>
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr><td>level</td><td>description</td></tr>
+<tr><td>0</td>
+    <td>minimal</td></tr>
+<tr><td>0+1</td>
+    <td>basic</td></tr>
+<tr><td>2</td>
+    <td>normal</td></tr>
+<tr><td>3</td>
+    <td>extended</td></tr>
+<tr><td>4</td>
+    <td>overlong runtime</td></tr>
+<tr><td>5-...</td>
+    <td>deactivated (not running or need updates)</td></tr>
+</table>
 
 <?php
 	include "inc/footer.inc";
