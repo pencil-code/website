@@ -74,9 +74,9 @@ the very minimal auto-tests:</p>
 <table border="0" cellspacing="10" cellpadding="0">
 <tr><td><b>level</b></td><td><b>description</b></td></tr>
 <tr><td>0</td>
-    <td>minimal</td></tr>
+    <td>minimal (no-modules and most-modules)</td></tr>
 <tr><td>0+1</td>
-    <td>basic</td></tr>
+    <td>basic (same as Travis test)</td></tr>
 <tr><td>2</td>
     <td>normal</td></tr>
 <tr><td>3</td>
