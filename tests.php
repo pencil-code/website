@@ -69,12 +69,10 @@ the very minimal auto-tests:</p>
 
 You may alternatively give a larger integer number, e.g. '--max-level=3' or '--level=0+1', in order to run more auto-tests with your changes.
 
-</div>
-
 <h2>Test levels</h2>
 
 <table border="0" cellspacing="10" cellpadding="0">
-<tr><td>level</td><td>description</td></tr>
+<tr><td><b>level</b></td><td><b>description</b></td></tr>
 <tr><td>0</td>
     <td>minimal</td></tr>
 <tr><td>0+1</td>
@@ -88,6 +86,8 @@ You may alternatively give a larger integer number, e.g. '--max-level=3' or '--l
 <tr><td>5-...</td>
     <td>deactivated (not running or need updates)</td></tr>
 </table>
+
+</div>
 
 <?php
 	include "inc/footer.inc";
