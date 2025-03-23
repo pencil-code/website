@@ -57,9 +57,9 @@ Bourdin, Ph.-A., Bingert, S., &amp; Peter, H.: 2013, &quot;Observationally drive
 </li>
 
 <li class="separated">
-Bourdin, Ph.-A.: 2019, &quot;Driving solar coronal MHD simulations on high-performance computers&quot; <em>GAFD</em> <b>in print</b>, 26pp
-<!-- (PDF: <a href="http://arXiv.org/abs/1305.5693"><i>arXiv:1305.5693</i></a>,
-<a href="http://adsabs.harvard.edu/abs/2013A%26A...555A.123B">ADS</a>) -->
+Bourdin, Ph.-A.: 2020, &quot;Driving solar coronal MHD simulations on high-performance computers&quot; <em>GAFD</em> <b>114</b>, 235-260
+(PDF: <a href="http://arXiv.org/abs/1908.08557"><i>arXiv:1908.08557</i></a>,
+<a href="http://adsabs.harvard.edu/abs/2020GApFD.114..235B">ADS</a>)
 </li>
 
 </ul>
