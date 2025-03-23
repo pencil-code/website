@@ -78,9 +78,13 @@ the very minimal auto-tests:</p>
 <tr><td>0+1</td>
     <td>basic (same as Travis test)</td></tr>
 <tr><td>2</td>
-    <td>normal</td></tr>
+    <td>normal (without basic)</td></tr>
+<tr><td>0-2</td>
+    <td>default</td></tr>
 <tr><td>3</td>
-    <td>extended</td></tr>
+    <td>extended (without basic and normal)</td></tr>
+<tr><td>0-3</td>
+    <td>all tests</td></tr>
 <tr><td>4</td>
     <td>overlong runtime</td></tr>
 <tr><td>5-...</td>
