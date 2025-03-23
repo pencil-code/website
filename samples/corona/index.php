@@ -30,13 +30,15 @@ This explains the magnetic energy input and yields to realistic coronal heating 
 
 References:
 <ul>
-	<li>Bourdin et al. (2013), A&amp;A 555, A123 (<a href="http://adsabs.harvard.edu/abs/2013A%26A...555A.123B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201321185">10.1051/0004-6361/201321185</a>)</li>
-	<li>Bourdin et al. (2014), PASJ 66, S7&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2014PASJ...66S...7B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1093/pasj/psu123">10.1093/pasj/psu123</a>)</li>
-	<li>Bourdin et al. (2015), A&amp;A 580, A72&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2015A%26A...580A..72B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525839">10.1051/0004-6361/201525839</a>)</li>
-	<li>Bourdin et al. (2016), A&amp;A 589, A86&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2016A%26A...589A..86B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525840">10.1051/0004-6361/201525840</a>)</li>
-	<li>Bourdin (2017), ApJL 850, L29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2017ApJ...850L..29B">ADS</a>, DOI: <a href="http://dx.doi.org/10.3847/2041-8213/aa9988">10.3847/2041-8213/aa9988</a>)</li>
-	<li>Bourdin et al. (2018), ApJ 869, 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2018ApJ...869....2B/abstract">ADS</a>, DOI: <a href="http://dx.doi.org/10.3847/1538-4357/aae97a">10.3847/1538-4357/aae97a</a>)</li>
+	<li>Tschernitz &amp; Bourdin (2025), ApJL 979/2, L39&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2025ApJ...979L..39T">ADS</a>, DOI: <a href="http://dx.doi.org/10.3847/2041-8213/adac4f">10.3847/2041-8213/adac4f</a>)</li>
+	<li>Pandey &amp; Bourdin (2025), A&amp;A 693, A89&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2025A%26A...693A..89P">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/202450170">10.1051/0004-6361/202450170</a>)</li>
 	<li>Bourdin (2020), GAFD 114, 235&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2020GApFD.114..235B/abstract">ADS</a>, DOI: <a href="http://dx.doi.org/10.1080/03091929.2019.1643849">10.1080/03091929.2019.1643849</a>)</li>
+	<li>Bourdin et al. (2018), ApJ 869, 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2018ApJ...869....2B/abstract">ADS</a>, DOI: <a href="http://dx.doi.org/10.3847/1538-4357/aae97a">10.3847/1538-4357/aae97a</a>)</li>
+	<li>Bourdin (2017), ApJL 850, L29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2017ApJ...850L..29B">ADS</a>, DOI: <a href="http://dx.doi.org/10.3847/2041-8213/aa9988">10.3847/2041-8213/aa9988</a>)</li>
+	<li>Bourdin et al. (2016), A&amp;A 589, A86&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2016A%26A...589A..86B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525840">10.1051/0004-6361/201525840</a>)</li>
+	<li>Bourdin et al. (2015), A&amp;A 580, A72&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2015A%26A...580A..72B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201525839">10.1051/0004-6361/201525839</a>)</li>
+	<li>Bourdin et al. (2014), PASJ 66, S7&nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://adsabs.harvard.edu/abs/2014PASJ...66S...7B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1093/pasj/psu123">10.1093/pasj/psu123</a>)</li>
+	<li>Bourdin et al. (2013), A&amp;A 555, A123 (<a href="http://adsabs.harvard.edu/abs/2013A%26A...555A.123B">ADS</a>, DOI: <a href="http://dx.doi.org/10.1051/0004-6361/201321185">10.1051/0004-6361/201321185</a>)</li>
 </ul>
 
 </div>
