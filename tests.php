@@ -65,9 +65,9 @@ our own tests. The latest test results for a can be seen online:</p>
 <p>Note: before checking in your own changes, you should at least do
 the very minimal auto-tests:</p>
 
-<div class="codescroll"><code>pc_auto-test --level=0 --auto-clean</code></div>
+<div class="codescroll"><code>pc_auto-test --level=0 -C</code></div>
 
-<p>You may alternatively give a larger integer number, e.g. '--max-level=3' or '--level=0+1', in order to run more auto-tests with your changes.</p>
+<p>You may alternatively choose the desired test levels, e.g. '--level=0+1' to run the basic auto-test set or '--max-level=3' for all auto-tests.</p>
 
 <h2>Test levels</h2>
 
