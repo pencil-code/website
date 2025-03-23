@@ -6,6 +6,17 @@
 <h2>News archive</h2>
 
 <ul>
+<li class="separated">9 May 2024:<br>
+The next Pencil Code User Meeting will be at the
+<a href="https://indico.ice.csic.es/event/40/">Institute of Space Sciences (ICE-CSIC/IEEC)</a>.
+</li>
+
+<li class="separated">23 May 2024:<br>
+The next Pencil Code Steering Committee (PCSC) meeting will be on 6th of June 2024, starting from 13:00 CEST.
+The minutes of the previous meeting are posted on:
+<a href="http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/">http://pencil-code.nordita.org/~brandenb/pencil-code/newsletter/PCSC/</a>
+</li>
+
 <li class="separated">18 March 2022:<br>
 The next Pencil Code User Meeting will be via zoom hosted by
 <a href="https://www.iiap.res.in/pcum2022/">IIA</a>
