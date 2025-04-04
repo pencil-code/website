@@ -195,6 +195,7 @@ a.mmenuselect {
 }
 .centcolumnpad  {
 	padding: 2px 20px 2px 20px;
+	margin-bottom: 20px;
 	background: url(images/div_dark8.png);
 	background-repeat: repeat-x;
 	color: #404040;
