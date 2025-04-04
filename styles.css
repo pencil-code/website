@@ -194,7 +194,7 @@ a.mmenuselect {
 	min-width: 440px; /* = mcontainerouter.min-width - 2 * (mcontainer.border + mcontainer.padding) - (leftcolumn.min-width + leftcolumn.margin-right) - (rightcolumn.min-width + rightcolumn.margin-left + 2 * rightcolumn.padding) - 2 * border */
 }
 .centcolumnpad  {
-	padding: 20px;
+	padding: 2px 20px 2px 20px;
 	background: url(images/div_dark8.png);
 	background-repeat: repeat-x;
 	color: #404040;
