@@ -32,7 +32,7 @@ to the <a href="http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/">Penc
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
-The current core-development team consists of:
+<h4>The current core-development team consists of:</h4>
 <ul>
 <li>Sven Bingert</li>
 <li>Philippe-A. Bourdin</li>
