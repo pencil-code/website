@@ -133,7 +133,6 @@ li.separated {
 .mmenu {
 	background-color: #FFFFFF;
 	border: 2px solid #000000;
-	position: fixed;
 }
 .mmenu ul {
 	padding: 0;
@@ -175,6 +174,8 @@ a.mmenuselect {
 	min-width: 184px; /* = a.width + a.padding-left + a.padding-right + 2 * mmenu.border */
 	margin: 6px 16px 0px 0px;
 	float: left;
+	position: sticky;
+	top: 2px;
 }
 .leftcolumnpad {
 	clear: both;
