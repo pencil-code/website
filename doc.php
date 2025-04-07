@@ -102,7 +102,7 @@ Some helpful information are available on our <a href="http://github.com/pencil-
 <h2>Newsletter</h2>
 Since July 2020, the Pencil Code community has a newsletter to inform the users about recent developments,
 events, and opportunities.
-Back issues are available <a href="http://www.nordita.org/~brandenb/pencil-code/newsletter/">here</a>.
+Back issues are available <a href="https://github.com/pencil-code/website/tree/master/NewsLetters">here</a>.
 </div>
 
 <?php
