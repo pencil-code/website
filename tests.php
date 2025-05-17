@@ -92,8 +92,10 @@ the very minimal auto-tests:</p>
     <td><a href="https://www.PAB-Software.de/Pencil/daily/">latest&nbsp;run</a></td>
     <td>all tests</td></tr>
 <tr><td>4</td>
+    <td></td>
     <td>overlong runtime</td></tr>
 <tr><td>5-...</td>
+    <td></td>
     <td>deactivated (not running or need updates)</td></tr>
 </table>
 
