@@ -72,31 +72,31 @@ the very minimal auto-tests:</p>
 <h2>Test levels</h2>
 
 <table border="0" cellspacing="10" cellpadding="0">
-<tr><td><b>level</b></td><td><b>link</b></td><td><b>description</b></td></tr>
+<tr><td><b>level</b></td><td><b>runs</b></td><td><b>description</b></td></tr>
 <tr><td>0</td>
-    <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest&nbsp;run</a></td>
-    <td>minimal (no-modules and most-modules)</td></tr>
+    <td>minimal (no- + most-modules)</td></tr>
+    <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
 <tr><td>0+1</td>
-    <td><a href="https://norlx51.nordita.org/tests/basic/">latest&nbsp;run</a></td>
     <td>basic (same as Travis test)</td></tr>
+    <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
 <tr><td>2</td>
-    <td><a href="https://norlx51.nordita.org/tests/normal/">latest&nbsp;run</a></td>
     <td>normal (without basic)</td></tr>
+    <td><a href="https://norlx51.nordita.org/tests/normal/">latest</a> (<a href="https://norlx51.nordita.org/tests/normal-previous/">previous</a>)</td>
 <tr><td>0-2</td>
-    <td><a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly/">latest&nbsp;run</a></td>
-    <td>default</td></tr>
+    <td>default (basic + normal)</td></tr>
+    <td><a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly-previous/">previous</a>)</td>
 <tr><td>3</td>
-    <td><a href="https://norlx51.nordita.org/tests/extended/">latest&nbsp;run</a></td>
-    <td>extended (without basic and normal)</td></tr>
+    <td>extended (without default)</td></tr>
+    <td><a href="https://norlx51.nordita.org/tests/extended/">latest</a> (<a href="https://norlx51.nordita.org/tests/extended-previous/">previous</a>)</td>
 <tr><td>0-3</td>
-    <td><a href="https://www.PAB-Software.de/Pencil/daily/">latest&nbsp;run</a></td>
-    <td>all tests</td></tr>
+    <td>all tests (default + extended)</td></tr>
+    <td><a href="https://www.PAB-Software.de/Pencil/daily/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/daily-previous/">previous</a>)</td>
 <tr><td>4</td>
-    <td></td>
     <td>overlong runtime</td></tr>
-<tr><td>5-...</td>
     <td></td>
-    <td>deactivated (not running or need updates)</td></tr>
+<tr><td>5-...</td>
+    <td>deactivated</td></tr>
+    <td></td>
 </table>
 
 </div>
