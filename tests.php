@@ -23,8 +23,8 @@ our own tests. The latest test results for a can be seen online:</p>
 <!-- Daily test -->
 <li><a href="https://norlx51.nordita.org/tests/extended/">Nordita: GNU gfortran 13.3.0 (norlx51, by Philippe/Axel)</a>, extended, **:55 (<a href="https://norlx51.nordita.org/tests/extended-previous/">previous run</a>)
 <!-- Philippe Bourdin -->
-<li><a href="http://www.PAB-Software.de/Pencil/minimal/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin)</a>, minimal, minutely (<a href="http://www.PAB-Software.de/Pencil/minimal-previous/">previous run</A>)
-<li><a href="http://www.PAB-Software.de/Pencil/daily/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin)</a>, all tests, every 6 hours (<a href="http://www.PAB-Software.de/Pencil/daily-previous/">previous run</A>)
+<li><a href="https://www.PAB-Software.de/Pencil/minimal/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin)</a>, minimal, minutely (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous run</A>)
+<li><a href="https://www.PAB-Software.de/Pencil/daily/">GNU gfortran 9.4.0, (Ubuntu, by Philippe Bourdin)</a>, all tests, every 6 hours (<a href="https://www.PAB-Software.de/Pencil/daily-previous/">previous run</A>)
 <!-- Hourly test -->
 <li><a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly/">Nordita: GNU gfortran 6.4.0 with OpenMPI (old server, by Wolfgang/Axel)</a>, hourly (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly-previous/">previous run</a>)
 <!-- Daily test -->
