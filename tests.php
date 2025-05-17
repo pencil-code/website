@@ -135,7 +135,7 @@ the very minimal auto-tests:</p>
     <td></td>
 </tr>
 </table>
-<p>(Legend: */6 means at hours divisible by 6, */* means every hour, :15 means at minute 15.)</p>
+<p>(Legend: */* means every hour, */6:31 means 31 minutes after full hours divisible by 6.)</p>
 
 </div>
 
