@@ -77,42 +77,49 @@ the very minimal auto-tests:</p>
     <td><b>time</b></td>
     <td><b>runs</b></td>
     <td><b>host</b></td>
+    <td><b>version</b></td>
 </tr>
 <tr><td>0</td>
     <td>minimal</td><td>no- + most-modules</td>
     <td>minutely</td>
     <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
+    <td>GNU 9.4</td>
 </tr>
 <tr><td>0+1</td>
     <td>basic</td><td>same as Travis test</td>
     <td>minutely</td>
     <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
     <td>Norlx51</td>
+    <td>GNU 13.3</td>
 </tr>
 <tr><td>2</td>
     <td>normal</td><td>without basic</td>
     <td>**:15</td>
     <td><a href="https://norlx51.nordita.org/tests/normal/">latest</a> (<a href="https://norlx51.nordita.org/tests/normal-previous/">previous</a>)</td>
     <td>Norlx51</td>
+    <td>GNU 13.3</td>
 </tr>
 <tr><td>0-2</td>
     <td>default</td><td>basic + normal</td>
     <td>*/2:03</td>
     <td><a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly-previous/">previous</a>)</td>
     <td>Norlx29</td>
+    <td>GNU 6.4</td>
 </tr>
 <tr><td>3</td>
     <td>extended</td><td>without default</td>
     <td>**:55</td>
     <td><a href="https://norlx51.nordita.org/tests/extended/">latest</a> (<a href="https://norlx51.nordita.org/tests/extended-previous/">previous</a>)</td>
     <td>Norlx51</td>
+    <td>GNU 13.3</td>
 </tr>
 <tr><td>0-3</td>
     <td>all tests</td><td>default + extended</td>
     <td>*/6:31</td>
     <td><a href="https://www.PAB-Software.de/Pencil/daily/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/daily-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
+    <td>GNU 9.4</td>
 </tr>
 <tr><td>4</td>
     <td></td><td>overlong runtime</td>
