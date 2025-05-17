@@ -7,8 +7,9 @@
 
 <p>To ensure reproducability, the
 <a href="http://pencil-code.nordita.org/">Pencil Code</a>
-is tested daily for a number of
-sample applications. This is important for us in order to make sure certain
+is tested for a number of sample applications. Tests run in different
+time intervals and will start only of there are new updates to the code.
+This is important for us in order to make sure certain
 improvements in some parts of the code do not affect the functionality
 of other parts. For other users who suspect that a new problem has emerged
 it could be useful to first see whether this problem also shows up in
@@ -134,7 +135,7 @@ the very minimal auto-tests:</p>
     <td></td>
 </tr>
 </table>
-<p>(Legend: tests start only if there are new check-ins. */6 means every 6<sup>th</sup> hours, */* means every hour, :MM means at the given minute after the full hour.)</p>
+<p>(Legend: */6 means at hours divisible by 6, */* means every hour, :15 means at minute 15.)</p>
 
 </div>
 
