@@ -37,7 +37,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
-    <td>Philippe/Axel</td>
+    <td>Axel/Philippe</td>
 </tr>
 <tr><td>2</td>
     <td>normal</td><td>without basic</td>
@@ -45,7 +45,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td><a href="https://norlx51.nordita.org/tests/normal/">latest</a> (<a href="https://norlx51.nordita.org/tests/normal-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
-    <td>Philippe/Axel</td>
+    <td>Axel/Philippe</td>
 </tr>
 <tr><td>0-2</td>
     <td>default</td><td>basic + normal</td>
@@ -53,7 +53,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td><a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly-previous/">previous</a>)</td>
     <td>Norlx29</td>
     <td>GNU 6.4</td>
-    <td>Philippe/Axel</td>
+    <td>Axel/Philippe</td>
 </tr>
 <tr><td>3</td>
     <td>extended</td><td>without default</td>
@@ -61,7 +61,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td><a href="https://norlx51.nordita.org/tests/extended/">latest</a> (<a href="https://norlx51.nordita.org/tests/extended-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
-    <td>Philippe/Axel</td>
+    <td>Axel/Philippe</td>
 </tr>
 <tr><td>0-3</td>
     <td>all tests</td><td>default + extended</td>
