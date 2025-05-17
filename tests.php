@@ -14,8 +14,6 @@ of other parts. For other users who suspect that a new problem has emerged
 it could be useful to first see whether this problem also shows up in
 our own tests. The latest test results for a can be seen online:</p>
 
-<h2>Test overview</h2>
-
 <table border="0" cellspacing="10" cellpadding="0">
 <tr><td><b>level</b></td>
     <td><b>name</b></td><td><b>description</b></td>
