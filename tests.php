@@ -134,6 +134,7 @@ the very minimal auto-tests:</p>
     <td></td>
 </tr>
 </table>
+<p>(Legend: tests start only if there are new check-ins. */6 means every 6<sup>th</sup> hours, */* means every hour, :MM means at the given minute after the full hour.)</p>
 
 </div>
 
