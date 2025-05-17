@@ -72,18 +72,24 @@ the very minimal auto-tests:</p>
 <h2>Test levels</h2>
 
 <table border="0" cellspacing="10" cellpadding="0">
-<tr><td><b>level</b></td><td><b>description</b></td></tr>
+<tr><td><b>level</b></td><td><b>link</b></td><td><b>description</b></td></tr>
 <tr><td>0</td>
+    <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest&nbsp;run</a></td>
     <td>minimal (no-modules and most-modules)</td></tr>
 <tr><td>0+1</td>
+    <td><a href="https://norlx51.nordita.org/tests/basic/">latest&nbsp;run</a></td>
     <td>basic (same as Travis test)</td></tr>
 <tr><td>2</td>
+    <td><a href="https://norlx51.nordita.org/tests/normal/">latest&nbsp;run</a></td>
     <td>normal (without basic)</td></tr>
 <tr><td>0-2</td>
+    <td><a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly/">latest&nbsp;run</a></td>
     <td>default</td></tr>
 <tr><td>3</td>
+    <td><a href="https://norlx51.nordita.org/tests/extended/">latest&nbsp;run</a></td>
     <td>extended (without basic and normal)</td></tr>
 <tr><td>0-3</td>
+    <td><a href="https://www.PAB-Software.de/Pencil/daily/">latest&nbsp;run</a></td>
     <td>all tests</td></tr>
 <tr><td>4</td>
     <td>overlong runtime</td></tr>
