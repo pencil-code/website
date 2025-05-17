@@ -98,11 +98,11 @@ the very minimal auto-tests:</p>
     <td><a href="https://www.PAB-Software.de/Pencil/daily/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/daily-previous/">previous</a>)</td>
 </tr>
 <tr><td>4</td>
-    <td>overlong runtime</td>
+    <td></td><td>(overlong runtime)</td>
     <td></td>
 </tr>
 <tr><td>5-...</td>
-    <td>deactivated</td>
+    <td></td><td>(deactivated)</td>
     <td></td>
 </tr>
 </table>
