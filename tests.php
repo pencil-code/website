@@ -78,7 +78,7 @@ the very minimal auto-tests:</p>
     <td><b>time</b></td>
     <td><b>runs</b></td>
     <td><b>host</b></td>
-    <td><b>version</b></td>
+    <td><b>compiler</b></td>
 </tr>
 <tr><td>0</td>
     <td>minimal</td><td>no- + most-modules</td>
