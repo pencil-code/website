@@ -95,7 +95,7 @@ the very minimal auto-tests:</p>
 </tr>
 <tr><td>2</td>
     <td>normal</td><td>without basic</td>
-    <td>**:15</td>
+    <td>*/*:15</td>
     <td><a href="https://norlx51.nordita.org/tests/normal/">latest</a> (<a href="https://norlx51.nordita.org/tests/normal-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
@@ -109,7 +109,7 @@ the very minimal auto-tests:</p>
 </tr>
 <tr><td>3</td>
     <td>extended</td><td>without default</td>
-    <td>**:55</td>
+    <td>*/*:55</td>
     <td><a href="https://norlx51.nordita.org/tests/extended/">latest</a> (<a href="https://norlx51.nordita.org/tests/extended-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
