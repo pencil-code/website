@@ -90,7 +90,7 @@ the very minimal auto-tests:</p>
     <td>Philippe</td>
 </tr>
 <tr><td>0+1</td>
-    <td>basic</td><td>same as Travis test</td>
+    <td>basic</td><td>same as <a href="https://github.com/pencil-code/pencil-code/commits/master/">Travis</a></td>
     <td>minutely</td>
     <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
     <td>Norlx51</td>
