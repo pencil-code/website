@@ -74,29 +74,37 @@ the very minimal auto-tests:</p>
 <table border="0" cellspacing="10" cellpadding="0">
 <tr><td><b>level</b></td><td><b>runs</b></td><td><b>description</b></td></tr>
 <tr><td>0</td>
-    <td>minimal (no- + most-modules)</td></tr>
+    <td>minimal (no- + most-modules)</td>
     <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
+</tr>
 <tr><td>0+1</td>
-    <td>basic (same as Travis test)</td></tr>
+    <td>basic (same as Travis test)</td>
     <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
+</tr>
 <tr><td>2</td>
-    <td>normal (without basic)</td></tr>
+    <td>normal (without basic)</td>
     <td><a href="https://norlx51.nordita.org/tests/normal/">latest</a> (<a href="https://norlx51.nordita.org/tests/normal-previous/">previous</a>)</td>
+</tr>
 <tr><td>0-2</td>
-    <td>default (basic + normal)</td></tr>
+    <td>default (basic + normal)</td>
     <td><a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly-previous/">previous</a>)</td>
+</tr>
 <tr><td>3</td>
-    <td>extended (without default)</td></tr>
+    <td>extended (without default)</td>
     <td><a href="https://norlx51.nordita.org/tests/extended/">latest</a> (<a href="https://norlx51.nordita.org/tests/extended-previous/">previous</a>)</td>
+</tr>
 <tr><td>0-3</td>
-    <td>all tests (default + extended)</td></tr>
+    <td>all tests (default + extended)</td>
     <td><a href="https://www.PAB-Software.de/Pencil/daily/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/daily-previous/">previous</a>)</td>
+</tr>
 <tr><td>4</td>
-    <td>overlong runtime</td></tr>
+    <td>overlong runtime</td>
     <td></td>
+</tr>
 <tr><td>5-...</td>
-    <td>deactivated</td></tr>
+    <td>deactivated</td>
     <td></td>
+</tr>
 </table>
 
 </div>
