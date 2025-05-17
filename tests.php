@@ -86,8 +86,8 @@ our own tests. The latest test results for a can be seen online:</p>
     <td></td>
 </tr>
 </table>
-<p>(Legend: */* means every hour, */6:31 means 31 minutes after full hours divisible by 6.)<br>
-(Tests are triggered only of there are new updates to the code.)</p>
+<p>Legend: */* means every hour, */6:31 means 31 minutes after full hours divisible by 6.<br>
+Tests are triggered only if there are new updates to the code.</p>
 
 <h2>Other tests</h2>
 
