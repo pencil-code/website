@@ -81,7 +81,7 @@ the very minimal auto-tests:</p>
     <td><b>compiler</b></td>
 </tr>
 <tr><td>0</td>
-    <td>minimal</td><td>no- + most-modules</td>
+    <td>minimal</td><td>no- &amp; most-modules</td>
     <td>minutely</td>
     <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
