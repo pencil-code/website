@@ -81,15 +81,17 @@ our own tests. The latest test results for a can be seen online:</p>
 </tr>
 <tr><td>5</td>
     <td></td><td>overlong runtime</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>daily</td>
+    <td>Norlx29</td>
+    <td>GNU 6.4</td>
+    <td>Philippe/Axel</td>
 </tr>
 <tr><td>6-9</td>
     <td></td><td>defective samples</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>weekly</td>
+    <td>Norlx29</td>
+    <td>GNU 6.4</td>
+    <td>Philippe/Axel</td>
 </tr>
 </table>
 <p>Legend: */* means every hour, */6:31 means 31 minutes after full hours divisible by 6.<br>
