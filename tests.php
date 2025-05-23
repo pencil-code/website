@@ -64,9 +64,9 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>Axel/Philippe</td>
 </tr>
 <tr><td>0-3</td>
-    <td>all tests</td><td>default + extended</td>
+    <td>full test</td><td>default + extended</td>
     <td>*/6:31</td>
-    <td><a href="https://www.PAB-Software.de/Pencil/daily/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/daily-previous/">previous</a>)</td>
+    <td><a href="https://www.PAB-Software.de/Pencil/full/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/full-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
     <td>GNU 9.4</td>
     <td>Philippe</td>
