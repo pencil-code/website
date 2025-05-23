@@ -72,14 +72,20 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>Philippe</td>
 </tr>
 <tr><td>4</td>
-    <td>FixMe</td><td>currently failing</td>
+    <td></td><td>overlong running</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr><td>5</td>
+    <td>fixme</td><td>wrong results</td>
     <td>daily</td>
-    <td><a href="https://norlx51.nordita.org/tests/failing/">latest</a> (<a href="https://norlx51.nordita.org/tests/failing-previous/">previous</a>)</td>
+    <td><a href="https://norlx51.nordita.org/tests/fixme/">latest</a> (<a href="https://norlx51.nordita.org/tests/fixme-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
     <td>Axel</td>
 </tr>
-<tr><td>5-...</td>
+<tr><td>6-...</td>
     <td></td><td>deactivated</td>
     <td></td>
     <td></td>
