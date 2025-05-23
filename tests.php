@@ -80,7 +80,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>Axel/Philippe</td>
 </tr>
 <tr><td>5</td>
-    <td></td><td>overlong runtime</td>
+    <td>overlong</td><td>run and succeede</td>
     <td>15:31</td>
     <td><!-- <a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/overlong/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/overlong-previous/">previous</a>) --></td>
     <td>Norlx29</td>
@@ -88,7 +88,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>Philippe/Axel</td>
 </tr>
 <tr><td>6-9</td>
-    <td></td><td>defective samples</td>
+    <td>defective</td><td>deactivated + broken</td>
     <td>03:31</td>
     <td><!-- <a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/defective/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/defective-previous/">previous</a>) --></td>
     <td>Norlx29</td>
