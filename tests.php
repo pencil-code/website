@@ -77,7 +77,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td><a href="https://norlx51.nordita.org/tests/fixme/">latest</a> (<a href="https://norlx51.nordita.org/tests/fixme-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
-    <td>Axel</td>
+    <td>Axel/Philippe</td>
 </tr>
 <tr><td>5</td>
     <td></td><td>overlong runtime</td>
