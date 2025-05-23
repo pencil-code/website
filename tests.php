@@ -50,10 +50,10 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0-2</td>
     <td>default</td><td>basic + normal</td>
     <td>*/2:03</td>
-    <td><a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/hourly-previous/">previous</a>)</td>
+    <td><a href="http://norlx29.nordita.org/~pencil/default/">latest</a> (<a href="http://norlx29.nordita.org/~pencil/default-previous/">previous</a>)</td>
     <td>Norlx29</td>
     <td>GNU 6.4</td>
-    <td>Axel/Philippe</td>
+    <td>Philippe/Axel</td>
 </tr>
 <tr><td>3</td>
     <td>extended</td><td>without default</td>
