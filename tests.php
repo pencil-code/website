@@ -49,7 +49,7 @@ our own tests. The latest test results for a can be seen online:</p>
 </tr>
 <tr><td>0-2</td>
     <td>default</td><td>basic + normal</td>
-    <td>*/2:03</td>
+    <td>*/3:03</td>
     <td><a href="http://norlx29.nordita.org/~pencil/default/">latest</a> (<a href="http://norlx29.nordita.org/~pencil/default-previous/">previous</a>)</td>
     <td>Norlx29</td>
     <td>GNU 6.4</td>
@@ -81,7 +81,7 @@ our own tests. The latest test results for a can be seen online:</p>
 </tr>
 <tr><td>5</td>
     <td>overlong</td><td>should succeede</td>
-    <td>15:31</td>
+    <td>14:31</td>
     <td><a href="http://norlx29.nordita.org/~pencil/overlong/">latest</a> (<a href="http://norlx29.nordita.org/~pencil/overlong-previous/">previous</a>)</td>
     <td>Norlx29</td>
     <td>GNU 6.4</td>
@@ -89,7 +89,7 @@ our own tests. The latest test results for a can be seen online:</p>
 </tr>
 <tr><td>6-9</td>
     <td>defective</td><td>known to fail</td>
-    <td>03:31</td>
+    <td>02:31</td>
     <td><a href="http://norlx29.nordita.org/~pencil/defective/">latest</a> (<a href="http://norlx29.nordita.org/~pencil/defective-previous/">previous</a>)</td>
     <td>Norlx29</td>
     <td>GNU 6.4</td>
