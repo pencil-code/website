@@ -103,8 +103,8 @@ Tests are triggered only if there are new updates to the code.</p>
 
 <ul STYLE="font-size:13px;">
 <li>basic test (levels 0+1) <a href="https://github.com/pencil-code/pencil-code/commits/master/">Travis</a> minutely (<a href="https://app.travis-ci.com/github/pencil-code/pencil-code">latest checkin job log</a>)
-<!-- Hourly test -->
-<li>all tests (levels 0-3) at 18:09 <a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/daily/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/daily-previous/">previous</a>) on Norlx29 with GNU 6.4 by Axel/Wolfgang/Philippe
+<!-- Daily full test -->
+<li>full test (levels 0-3) at 18:09 <a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/daily/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/daily-previous/">previous</a>) on Norlx29 with GNU 6.4 by Axel/Wolfgang/Philippe
 </ul>
 
 <h2>Test your changes</h2>
@@ -114,7 +114,7 @@ the very minimal auto-tests:</p>
 
 <div class="codescroll"><code>pc_auto-test --level=0 -C</code></div>
 
-<p>You may alternatively choose the desired test levels, e.g. '--level=0+1' to run the basic auto-test set or '--max-level=3' for all auto-tests.</p>
+<p>You may alternatively choose the desired test levels, e.g. '--level=0+1' to run the "basic" auto-test set or '--max-level=3' for the "full" test.</p>
 
 </div>
 
