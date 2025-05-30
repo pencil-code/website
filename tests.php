@@ -50,7 +50,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0-2</td>
     <td>default</td><td>basic + normal</td>
     <td>*/2:03</td>
-    <td><a href="http://norlx65.nordita.org/tests/default/">latest</a> (<a href="http://norlx65.nordita.org/tests/default-previous/">previous</a>)</td>
+    <td><a href="https://norlx65.nordita.org/tests/default/">latest</a> (<a href="https://norlx65.nordita.org/tests/default-previous/">previous</a>)</td>
     <td>Norlx65</td>
     <td>GNU 13.3</td>
     <td>Philippe/Axel</td>
@@ -82,7 +82,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>5</td>
     <td>overlong</td><td>should succeede</td>
     <td>15:31</td>
-    <td><a href="http://norlx65.nordita.org/tests/overlong/">latest</a> (<a href="http://norlx65.nordita.org/tests/overlong-previous/">previous</a>)</td>
+    <td><a href="https://norlx65.nordita.org/tests/overlong/">latest</a> (<a href="https://norlx65.nordita.org/tests/overlong-previous/">previous</a>)</td>
     <td>Norlx65</td>
     <td>GNU 13.3</td>
     <td>Philippe/Axel</td>
@@ -90,7 +90,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>6-9</td>
     <td>defective</td><td>known to fail</td>
     <td>03:31</td>
-    <td><a href="http://norlx65.nordita.org/tests/defective/">latest</a> (<a href="http://norlx65.nordita.org/tests/defective-previous/">previous</a>)</td>
+    <td><a href="https://norlx65.nordita.org/tests/defective/">latest</a> (<a href="https://norlx65.nordita.org/tests/defective-previous/">previous</a>)</td>
     <td>Norlx65</td>
     <td>GNU 13.3</td>
     <td>Philippe/Axel</td>
