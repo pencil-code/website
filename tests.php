@@ -49,7 +49,7 @@ our own tests. The latest test results for a can be seen online:</p>
 </tr>
 <tr><td>0-2</td>
     <td>default</td><td>basic + normal</td>
-    <td>*/3:03</td>
+    <td>*/2:03</td>
     <td><a href="http://norlx65.nordita.org/tests/default/">latest</a> (<a href="http://norlx65.nordita.org/tests/default-previous/">previous</a>)</td>
     <td>Norlx65</td>
     <td>GNU 13.3</td>
