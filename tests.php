@@ -18,6 +18,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td><b>level</b></td>
     <td><b>name</b></td><td><b>description</b></td>
     <td><b>time</b></td>
+    <td><b>OK</b></td>
     <td><b>runs</b></td>
     <td><b>host</b></td>
     <td><b>compiler</b></td>
@@ -26,7 +27,8 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0</td>
     <td>minimal</td><td>no- &amp; most-modules</td>
     <td>minutely</td>
-    <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a><img src="https://www.PAB-Software.de/Pencil/minimal/result.svg" WIDTH="16" HEIGHT="16" ALT="test result"> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
+    <td><img src="https://www.PAB-Software.de/Pencil/minimal/result.svg" WIDTH="16" HEIGHT="16" ALT="test result"></td>
+    <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
     <td>GNU 9.4</td>
     <td>Philippe</td>
@@ -34,7 +36,8 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0+1</td>
     <td>basic</td><td>same as <a href="https://github.com/pencil-code/pencil-code/commits/master/">Travis</a></td>
     <td>minutely</td>
-    <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a><img src="https://norlx51.nordita.org/tests/basic/result.svg" WIDTH="16" HEIGHT="16" ALT="test result"> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
+    <td><img src="https://norlx51.nordita.org/tests/basic/result.svg" WIDTH="16" HEIGHT="16" ALT="test result"></td>
+    <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
     <td>Axel/Philippe</td>
@@ -42,6 +45,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>2</td>
     <td>normal</td><td>without basic</td>
     <td>*/*:15</td>
+    <td></td>
     <td><a href="https://norlx51.nordita.org/tests/normal/">latest</a> (<a href="https://norlx51.nordita.org/tests/normal-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
@@ -50,6 +54,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0-2</td>
     <td>default</td><td>basic + normal</td>
     <td>*/2:03</td>
+    <td></td>
     <td><a href="https://norlx65.nordita.org/tests/default/">latest</a> (<a href="https://norlx65.nordita.org/tests/default-previous/">previous</a>)</td>
     <td>Norlx65</td>
     <td>GNU 13.3</td>
@@ -58,6 +63,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>3</td>
     <td>extended</td><td>without default</td>
     <td>*/*:55</td>
+    <td></td>
     <td><a href="https://norlx51.nordita.org/tests/extended/">latest</a> (<a href="https://norlx51.nordita.org/tests/extended-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
@@ -66,6 +72,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0-3</td>
     <td>full test</td><td>default + extended</td>
     <td>*/6:31</td>
+    <td></td>
     <td><a href="https://www.PAB-Software.de/Pencil/full/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/full-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
     <td>GNU 9.4</td>
@@ -74,6 +81,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>4</td>
     <td>fixme</td><td>succeeded before</td>
     <td>*/9:45</td>
+    <td></td>
     <td><a href="https://norlx51.nordita.org/tests/fixme/">latest</a> (<a href="https://norlx51.nordita.org/tests/fixme-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
@@ -82,6 +90,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>5</td>
     <td>overlong</td><td>should succeede</td>
     <td>15:31</td>
+    <td></td>
     <td><a href="https://norlx65.nordita.org/tests/overlong/">latest</a> (<a href="https://norlx65.nordita.org/tests/overlong-previous/">previous</a>)</td>
     <td>Norlx65</td>
     <td>GNU 13.3</td>
@@ -90,6 +99,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>6-9</td>
     <td>defective</td><td>known to fail</td>
     <td>03:31</td>
+    <td></td>
     <td><a href="https://norlx65.nordita.org/tests/defective/">latest</a> (<a href="https://norlx65.nordita.org/tests/defective-previous/">previous</a>)</td>
     <td>Norlx65</td>
     <td>GNU 13.3</td>
