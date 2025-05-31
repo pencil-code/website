@@ -26,7 +26,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0</td>
     <td>minimal</td><td>no- &amp; most-modules</td>
     <td>minutely</td>
-    <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
+    <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a><img src="https://www.PAB-Software.de/Pencil/minimal/result.svg" WIDTH="16" HEIGHT="16" ALT="test result"> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
     <td>GNU 9.4</td>
     <td>Philippe</td>
@@ -34,7 +34,7 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0+1</td>
     <td>basic</td><td>same as <a href="https://github.com/pencil-code/pencil-code/commits/master/">Travis</a></td>
     <td>minutely</td>
-    <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
+    <td><a href="https://norlx51.nordita.org/tests/basic/">latest</a><img src="https://norlx51.nordita.org/tests/basic/result.svg" WIDTH="16" HEIGHT="16" ALT="test result"> (<a href="https://norlx51.nordita.org/tests/basic-previous/">previous</a>)</td>
     <td>Norlx51</td>
     <td>GNU 13.3</td>
     <td>Axel/Philippe</td>
