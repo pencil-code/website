@@ -27,8 +27,8 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0</td>
     <td>minimal</td><td>no- &amp; most-modules</td>
     <td>minutely</td>
-    <td><img src="https://www.PAB-Software.de/Pencil/minimal/result.svg" WIDTH="16" HEIGHT="16" ALT="?"></td>
-    <td><a href="https://www.PAB-Software.de/Pencil/minimal/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/minimal-previous/">previous</a>)</td>
+    <td><img src="https://pencil-code.org/tests/minimal/result.svg" WIDTH="16" HEIGHT="16" ALT="?"></td>
+    <td><a href="https://pencil-code.org/tests/minimal/">latest</a> (<a href="https://pencil-code.org/tests/minimal-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
     <td>GNU 9.4</td>
     <td>Philippe</td>
@@ -72,8 +72,8 @@ our own tests. The latest test results for a can be seen online:</p>
 <tr><td>0-3</td>
     <td>full test</td><td>default + extended</td>
     <td>*/6:31</td>
-    <td><img src="https://www.PAB-Software.de/Pencil/full/result.svg" WIDTH="16" HEIGHT="16" ALT="?"></td>
-    <td><a href="https://www.PAB-Software.de/Pencil/full/">latest</a> (<a href="https://www.PAB-Software.de/Pencil/full-previous/">previous</a>)</td>
+    <td><img src="https://pencil-code.org/tests/full/result.svg" WIDTH="16" HEIGHT="16" ALT="?"></td>
+    <td><a href="https://pencil-code.org/tests/full/">latest</a> (<a href="https://pencil-code.org/tests/full-previous/">previous</a>)</td>
     <td>pencil-code.org</td>
     <td>GNU 9.4</td>
     <td>Philippe</td>
