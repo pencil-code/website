@@ -107,6 +107,7 @@ our own tests. The latest test results for a can be seen online:</p>
 </tr>
 </table>
 <p>Legend: */* means every hour, */6:31 means 31 minutes after full hours divisible by 6.<br>
+Status of auto-tests: <img src="pics/icon_wait.svg" width="16" height="16" alt="scheduled"> scheduled; <img src="pics/icon_hourglass.svg" width="16" height="16" alt="running"> running; <img src="pics/icon_failure.svg" width="16" height="16" alt="failure"> failed; <img src="pics/icon_success.svg" width="16" height="16" alt="success"> passed.<br>
 Tests are triggered only if there are new updates to the code.</p>
 
 <h2>Other tests</h2>
