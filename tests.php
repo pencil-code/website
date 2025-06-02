@@ -88,7 +88,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>Axel/Philippe</td>
 </tr>
 <tr><td>5</td>
-    <td>overlong</td><td>should succeede</td>
+    <td>overlong</td><td>runs less often</td>
     <td>15:31</td>
     <td><img src="https://norlx65.nordita.org/tests/overlong/result.svg" WIDTH="16" HEIGHT="16" ALT="?"></td>
     <td><a href="https://norlx65.nordita.org/tests/overlong/">latest</a> (<a href="https://norlx65.nordita.org/tests/overlong-previous/">previous</a>)</td>
