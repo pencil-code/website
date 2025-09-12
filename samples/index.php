@@ -18,8 +18,8 @@ Currently, we have the following samples with more a exteded documentation:
 	// Please replace "<X ...>...</X> with <a ...>...</a> when the proper documents are ready"
 	//
  ?>
-        <li><X href="/samples/2d-tests/Rayleigh-Taylor/">Rayleigh-Taylor instability</X> [is this ^/samples/2d-tests/Rayleigh-Taylor/ ?]</li>
-        <li><X href="/samples/2d-tests/Kelvin-Helmholtz/">Kelvin-Helmholtz</X> [is this ^/samples/2d-tests/Kelvin-Helmholtz/ ?]</li>
+	<!-- li><X href="/samples/2d-tests/Rayleigh-Taylor/">Rayleigh-Taylor instability</X> [is this ^/samples/2d-tests/Rayleigh-Taylor/ ?]</li -->
+	<!-- li><X href="/samples/2d-tests/Kelvin-Helmholtz/">Kelvin-Helmholtz</X> [is this ^/samples/2d-tests/Kelvin-Helmholtz/ ?]</li -->
 </ul>
 
 <p>
