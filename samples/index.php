@@ -22,6 +22,8 @@ Currently, we have the following samples planned for further documentation:
         <li><X href="/samples/2d-tests/Kelvin-Helmholtz/">Kelvin-Helmholtz</X> [is this ^/samples/2d-tests/Kelvin-Helmholtz/ ?]</li>
 </ul>
 
+	<li>There are many more <a href="https://github.com/pencil-code/pencil-code/tree/master/samples">samples</a>.</li>
+
 </div>
 <?php
 	include "inc/footer.inc";
