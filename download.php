@@ -6,6 +6,7 @@
 <h2>Transition to pencil-code.org</h2>
 <b>Important:</b> from the <b>2nd to the 7th of January 2024</b> we perform the transfer of our repository to the new domain &quot;pencil-code.org&quot;.
 Please follow these <a href="/transition.php">instructions to submit your changes after the 2nd of January</a>, 13:00 CET.
+This repository is being mirrored almost instantaneously to GitHub as a read-only repo.
 
 <h2>Download</h2>
 You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git-experts).
