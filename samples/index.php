@@ -4,7 +4,7 @@
  ?>
 <div class="centcolumnpad">
 <h2>Samples overview</h2>
-Currently, we have the following samples planned for further documentation:
+Currently, we have the following samples with more a exteded documentation:
 
 <ul>
 	<li><a href="/samples/1d-tests/sod_10-1000.php">Sod shock tube tests</a></li>
@@ -22,7 +22,13 @@ Currently, we have the following samples planned for further documentation:
         <li><X href="/samples/2d-tests/Kelvin-Helmholtz/">Kelvin-Helmholtz</X> [is this ^/samples/2d-tests/Kelvin-Helmholtz/ ?]</li>
 </ul>
 
-	<li>There are many more <a href="https://github.com/pencil-code/pencil-code/tree/master/samples">samples</a>.</li>
+<p>
+Furthermore, you can read the standard documentation of each checked-in sample:
+
+<ul>
+	<li><a href="https://github.com/pencil-code/pencil-code/tree/master/samples">ReadMe files of all samples</a></li>
+</ul>
+</p>
 
 </div>
 <?php
