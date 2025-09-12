@@ -99,6 +99,12 @@ Some helpful information are available on our <a href="http://github.com/pencil-
 
 <div class="centerdivider"></div>
 <div class="centcolumnpad">
+<h2>Read the Docs</h2>
+Some helpful information are available on our <a href="https://pencil-code.readthedocs.io/en/latest/">Read the Docs</a>.
+</div>
+
+<div class="centerdivider"></div>
+<div class="centcolumnpad">
 <h2>Newsletter</h2>
 Since July 2020, the Pencil Code community has a newsletter to inform the users about recent developments,
 events, and opportunities.
