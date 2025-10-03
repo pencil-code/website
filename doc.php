@@ -17,7 +17,7 @@ The manual for the Pencil Code is available <a href="https://github.com/pencil-c
 <p>
 Axel Brandenburg gave a general presentation on the Pencil code in Oslo (2003):
 <i>The Pencil Code: multi-purpose and multi-user maintained.</i>
-(<a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.htm">html</a>, <a href="http://www.nordita.org/~brandenb/talks/misc/pencil-code2003.ppt">PowerPoint</a>).
+(<a href="http://pencil-code.nordita.org/~brandenb/talks/misc/pencil-code2003.htm">html</a>, <a href="http://pencil-code.nordita.org/~brandenb/talks/misc/pencil-code2003.ppt">PowerPoint</a>).
 </p>
 
 <p>
@@ -38,10 +38,10 @@ Deepen Garg wrote
 
 <p>
 Responses to a problematic git check-in and how to avoid it by
-<a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Hongzhe_response_August2022.html">Hongzhe Zhou (August 24, 2022)</a>,
-<a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_November2022.html">Philippe Bourdin (November 4, 2022</a> and
-<a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_December2022.html">December 4, 2022)</a>:
-<a href="https://www.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_December2022b.html">How to commit without "Master Branch Merge"?</a>.
+<a href="https://pencil-code.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Hongzhe_response_August2022.html">Hongzhe Zhou (August 24, 2022)</a>,
+<a href="https://pencil-code.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_November2022.html">Philippe Bourdin (November 4, 2022</a> and
+<a href="https://pencil-code.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_December2022.html">December 4, 2022)</a>:
+<a href="https://pencil-code.nordita.org/~brandenb/pencil-code/presentations/typical_mistakes/Philippe_response_December2022b.html">How to commit without "Master Branch Merge"?</a>.
 </p>
 
 <p>
@@ -82,7 +82,7 @@ For information how to do benchmark tests and timings, see the <a href="/timings
 The code has been used
 for teaching on a number of occasions. Some online material with
 exercises is available through the
-<a href="http://www.nordita.org/~brandenb/teach/PencilCode/">Numerical Experiments</a> page.
+<a href="http://pencil-code.nordita.org/~brandenb/teach/PencilCode/">Numerical Experiments</a> page.
 
 </div>
 <div class="centerdivider"></div>
