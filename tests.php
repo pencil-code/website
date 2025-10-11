@@ -78,6 +78,15 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>GNU 9.4</td>
     <td>Philippe</td>
 </tr>
+<tr><td>0-3</td>
+    <td>GPU test</td><td>selected tests</td>
+    <td>*/*:45</td>
+    <td><img src="https://norlx65.nordita.org/tests/GPU/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"></td>
+    <td><a href="https://norlx65.nordita.org/tests/GPU/">latest</a> (<a href="https://norlx65.nordita.org/tests/GPU-previous/">previous</a>)</td>
+    <td>Norlx65</td>
+    <td>GNU 13.3</td>
+    <td>Philippe</td>
+</tr>
 <tr><td>4</td>
     <td>fixme</td><td>succeeded before</td>
     <td>*/6:45</td>
@@ -104,15 +113,6 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>Norlx65</td>
     <td>GNU 13.3</td>
     <td>Philippe/Axel</td>
-</tr>
-<tr><td>0-3</td>
-    <td>GPU test</td><td>selected tests</td>
-    <td>*/*:45</td>
-    <td><img src="https://norlx65.nordita.org/tests/GPU/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"></td>
-    <td><a href="https://norlx65.nordita.org/tests/GPU/">latest</a> (<a href="https://norlx65.nordita.org/tests/GPU-previous/">previous</a>)</td>
-    <td>Norlx65</td>
-    <td>GNU 13.3</td>
-    <td>Philippe</td>
 </tr>
 </table>
 <p>Legend: */* means every hour, */6:31 means 31 minutes after full hours divisible by 6.<br>
