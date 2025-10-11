@@ -105,6 +105,15 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>GNU 13.3</td>
     <td>Philippe/Axel</td>
 </tr>
+<tr><td>0-3</td>
+    <td>GPU test</td><td>selected tests</td>
+    <td>*:45</td>
+    <td><img src="https://pencil-code.org/tests/GPU/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"></td>
+    <td><a href="https://pencil-code.org/tests/GPU/">latest</a> (<a href="https://pencil-code.org/tests/GPU-previous/">previous</a>)</td>
+    <td>Norlx65</td>
+    <td>GNU 13.3</td>
+    <td>Philippe</td>
+</tr>
 </table>
 <p>Legend: */* means every hour, */6:31 means 31 minutes after full hours divisible by 6.<br>
 Status of auto-tests: &oslash; offline; <img src="pics/icon_wait.svg" width="16" height="16" alt="scheduled"> scheduled; <img src="pics/icon_hourglass.svg" width="16" height="16" alt="running"> running; <img src="pics/icon_failure.svg" width="16" height="16" alt="failure"> failed; <img src="pics/icon_success.svg" width="16" height="16" alt="success"> succeeded.<br>
