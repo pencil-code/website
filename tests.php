@@ -107,7 +107,7 @@ our own tests. The latest test results for a can be seen online:</p>
 </tr>
 <tr><td>0-3</td>
     <td>GPU test</td><td>selected tests</td>
-    <td>*:45</td>
+    <td>*/*:45</td>
     <td><img src="https://norlx65.nordita.org/tests/GPU/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"></td>
     <td><a href="https://norlx65.nordita.org/tests/GPU/">latest</a> (<a href="https://norlx65.nordita.org/tests/GPU-previous/">previous</a>)</td>
     <td>Norlx65</td>
