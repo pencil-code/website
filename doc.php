@@ -15,7 +15,7 @@ The manual for the Pencil Code is available <a href="https://github.com/pencil-c
 <div class="centcolumnpad">
 <h2>Supplements</h2>
 <p>
-Axel Brandenburg gave a general presentation on the Pencil code in Oslo (2003):
+Axel Brandenburg gave a general presentation on the Pencil Code in Oslo (2003):
 <i>The Pencil Code: multi-purpose and multi-user maintained.</i>
 (<a href="http://pencil-code.nordita.org/~brandenb/talks/misc/pencil-code2003.htm">html</a>, <a href="http://pencil-code.nordita.org/~brandenb/talks/misc/pencil-code2003.ppt">PowerPoint</a>).
 </p>
