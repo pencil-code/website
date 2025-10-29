@@ -29,6 +29,9 @@ If you want to submit your changes, please register at <a href="https://account.
 <p>To cache your password for #### seconds, you can configure:
 <div class="codescroll"><code>git config --global credential.helper 'cache --timeout=####'</code></div></p>
 
+<p>We strongly suggest to trigger an automatic rebase on each pull (to avoid implicit "Merge branch 'master'" commits):
+<div class="codescroll"><code>git config --global pull.rebase true</code></div></p>
+
 Our <em>GIT</em> server can show <em>SVN</em> revisions as notes:
 <div class="codescroll"><code>git config --add remote.origin.fetch '+refs/svn/map:refs/notes/commits'<br>
 git config remote.origin.tagOpt '--tags'<br>
