@@ -4,7 +4,7 @@
  ?>
 <div class="centcolumnpad">
 <h2>Transition to pencil-code.org</h2>
-<b>Important:</b> from <b>J2024</b> we run our repository on our own domain &quot;pencil-code.org&quot;, see <a href="/transition.php">instructions for the transition</a>.
+<b>Important:</b> from <b>2024</b> we run our repository on our own domain &quot;pencil-code.org&quot;, see <a href="/transition.php">instructions for the transition</a>.
 Our repository is being mirrored almost instantaneously to GitHub, where GitHub was switched to read-only mode.
 
 <h2>Download</h2>
