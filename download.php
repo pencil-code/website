@@ -27,8 +27,8 @@ If you want to submit your changes, please register at <a href="https://account.
 <div class="codescroll"><code>git clone https://USERNAME@pencil-code.org/git/ pencil-code</code></div>
 
 <p>Be sure to use exactly the same email address and username as in your GitHub account:
-<div class="codescroll"><code>git config --global user.email "my-primary@email.net"
-git config --global user.name "USERNAME"</code></div></p>
+<div class="codescroll"><code>git config --global user.email &quot;my-primary@email.net&quot;<br>
+git config --global user.name &quot;USERNAME&quot;</code></div></p>
 
 <p>To cache your password for #### seconds, you can configure:
 <div class="codescroll"><code>git config --global credential.helper 'cache --timeout=####'</code></div></p>
