@@ -4,10 +4,8 @@
  ?>
 <div class="centcolumnpad">
 <h2>Transition to pencil-code.org</h2>
-<b>Important:</b> from the <b>2nd to the 7th of January 2024</b> we perform the transfer of our repository to the new domain &quot;pencil-code.org&quot;.
-Please follow these <a href="/transition.php">instructions to submit your changes after the 2nd of January</a>, 13:00 CET.
-We use SubGit to allow concurrent check-ins using either git or subversion.
-This repository is being mirrored almost instantaneously to GitHub as a read-only repo.
+<b>Important:</b> from <b>J2024</b> we run our repository on our own domain &quot;pencil-code.org&quot;, see <a href="/transition.php">instructions for the transition</a>.
+Our repository is being mirrored almost instantaneously to GitHub, where GitHub was switched to read-only mode.
 
 <h2>Download</h2>
 You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git-experts).
