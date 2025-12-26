@@ -220,6 +220,7 @@ samples/1d-tests/expans_thumb.jpg -text
 samples/1d-tests/inc -text
 samples/1d-tests/riemann_bfield.png -text
 samples/1d-tests/riemann_bfield_thumb.jpg -text
+samples/1d-tests/sine-Gordon/index.php -text
 samples/1d-tests/sod_10-1000.php -text
 samples/1d-tests/sod_10.png -text
 samples/1d-tests/sod_100.png -text
