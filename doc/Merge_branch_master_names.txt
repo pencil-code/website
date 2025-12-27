@@ -66,6 +66,8 @@ r24308 | PABourdin | 2015-10-11 22:08:06 +0200 (Sun, 11 Oct 2015) | 1 line
 r24293 | PABourdin | 2015-10-10 21:21:18 +0200 (Sat, 10 Oct 2015) | 1 line
 r23800 | PABourdin | 2015-09-01 12:16:34 +0200 (Tue, 01 Sep 2015) | 1 line
 r23785 | PABourdin | 2015-08-31 14:33:00 +0200 (Mon, 31 Aug 2015) | 2 lines
+r23736 | PABourdin | 2015-08-20 10:21:02 +0200 (Thu, 20 Aug 2015) | 5 lines
+r23719 | PABourdin | 2015-08-17 20:08:50 +0200 (Mon, 17 Aug 2015) | 1 line
 
 r24527 | fredgent | 2015-10-26 15:49:06 +0100 (Mon, 26 Oct 2015) | 1 line
 r24514 | fredgent | 2015-10-23 14:44:37 +0200 (Fri, 23 Oct 2015) | 1 line
@@ -93,16 +95,13 @@ r23773 | simo-tuomisto | 2015-08-28 10:56:34 +0200 (Fri, 28 Aug 2015) | 1 line
 r23790 | andreas-schreiber | 2015-09-01 10:11:33 +0200 (Tue, 01 Sep 2015) | 1 line
 r23242 | andreas-schreiber | 2015-05-12 16:15:10 +0200 (Tue, 12 May 2015) | 1 line
 
-r23736 | PABourdin | 2015-08-20 10:21:02 +0200 (Thu, 20 Aug 2015) | 5 lines
-r23719 | PABourdin | 2015-08-17 20:08:50 +0200 (Mon, 17 Aug 2015) | 1 line
-
 r23467 | jnskrueger | 2015-05-31 10:40:10 +0200 (Sun, 31 May 2015) | 2 lines
 r23441 | jnskrueger | 2015-05-30 13:07:13 +0200 (Sat, 30 May 2015) | 2 lines
 r23406 | jnskrueger | 2015-05-26 11:28:46 +0200 (Tue, 26 May 2015) | 2 lines
 r23326 | jnskrueger | 2015-05-18 17:02:19 +0200 (Mon, 18 May 2015) | 2 lines
 r23247 | jnskrueger | 2015-05-13 10:50:52 +0200 (Wed, 13 May 2015) | 1 line
 
-19 people more than once!
+18 people more than once!
 
 r39384 | mjkorpi | 2025-01-24 07:17:45 +0100 (Fri, 24 Jan 2025) | 3 lines
 
@@ -122,4 +121,4 @@ r31485 | canasmh | 2020-06-17 05:03:57 +0200 (Wed, 17 Jun 2020) | 1 line
 
 r30200 | jpekkila | 2019-06-28 15:25:36 +0200 (Fri, 28 Jun 2019) | 1 line
 
-19 people only once!
+9 people only once!
