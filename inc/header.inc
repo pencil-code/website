@@ -35,7 +35,7 @@
 <!--
 <h4>a high-order finite-difference code for compressible MHD</h4>
 -->
-<h4>a modular MPI code for partial differential equations and particles: multipurpose and multiuser-maintained</h4>
+<h4>a modular MPI code for differential equations and particles: multipurpose and multiuser-maintained</h4>
 </div>
 </div>
 
