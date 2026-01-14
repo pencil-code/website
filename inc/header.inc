@@ -32,7 +32,10 @@
 <img src="/pics/pencils_100x45.png" alt="Pencil Code logo" width="100" height="45" border="0" vspace="5" hspace="30" align="left">
 <img src="/pics/pencils_100x45.png" alt="Pencil Code logo" width="100" height="45" border="0" vspace="5" hspace="20" align="right">
 <h1>The&nbsp;Pencil&nbsp;Code</h1>
+<!--
 <h4>a high-order finite-difference code for compressible MHD</h4>
+-->
+<h4>a modular MPI code for partial differential equations and particles: multipurpose and multiuser-maintained</h4>
 </div>
 </div>
 
