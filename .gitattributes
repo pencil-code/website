@@ -266,9 +266,9 @@ samples/ism/tt.jpg -text
 samples/shearing-box/BH256_3D_mean_Bz=0b1_thumb.jpg -text
 samples/shearing-box/inc -text
 samples/shearing-box/index.php -text
-samples/turbulence/bz_till800.mpg -text
 samples/turbulence/helical-MHDturb32-4procs/bz_thumb.jpg -text
 samples/turbulence/helical-MHDturb32-4procs/bz_till1700.mpg -text
+samples/turbulence/helical-MHDturb32-4procs/bz_till800.mpg -text
 samples/turbulence/helical-MHDturb32-4procs/inc -text
 samples/turbulence/helical-MHDturb32-4procs/index.php -text
 samples/turbulence/hydro512f/inc -text
