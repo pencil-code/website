@@ -33,7 +33,9 @@ Wolfgang Dobler wrote
 
 <p>
 Deepen Garg wrote
-<a href="/doc/MacOS/Pencil_Code_MacOS_Writeup.pdf">Instructions for MacOS installation</a> (Sep 29, 2024).
+<a href="/doc/MacOS/Pencil_Code_MacOS_Writeup.pdf">Instructions for MacOS installation</a> (Sep 29, 2024),
+and Mattia Cielo emphasized
+<a href="/doc/MacOS/Cielo_23-Feb-2026.html">the need to cancel the Nvidia dependencies</a> (Feb 23, 2026).
 </p>
 
 <p>
