@@ -1,0 +1,23 @@
+To edit this file or the web pages, please do:
+svn checkout https://github.com/pencil-code/website/trunk/www
+
+Topics for Pencil code User Meeting in Alicante 2026:
+==============================================================
+% Notes: "-" means that this item is still open (nothing has happened)
+%        "+" means that it is already in progress (people working on it)
+%        "*" same, but high priority
+%        "/" postponed
+%        "v" problem solved
+%        "x" means that it has been dealt with
+%            [assigned Persons] feel free to add yourself
+%
+# http://pencil-code.nordita.org/UserMeetings/2026/agenda.txt
+
+----------------------------------------------------------------------------
+OLD ITEMS:
+
+- 
+
+NEW ITEMS:
+
+- 
