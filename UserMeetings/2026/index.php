@@ -6,7 +6,7 @@
 <!-- HEADER -->
 <h2>22<sup>nd</sup> Pencil Code User Meeting 2026</h2>
 
-<p style="font-size:0.9em; color:#555; margin:15px 0 25px 0;">
+<p style="font-style: italic; color:#222; margin:15px 0 25px 0;">
 The meeting aims to feature technical and scientific presentations, workshops, open discussions on the Pencil Code, and dedicated sessions for collaborative coding and individual consultations.
 </p>
 
