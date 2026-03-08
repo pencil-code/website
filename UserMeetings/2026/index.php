@@ -13,14 +13,15 @@ The meeting aims to feature technical and scientific presentations, workshops, o
 <!-- DATE and VENUE -->
 <p style="margin:15px 0 25px 0;">
 <strong><u>DATE &amp; VENUE:</u></strong><br>
-<strong>21<sup>st</sup> to 25<sup>th</sup> September 2026</strong><br>
+21<sup>st</sup> to 25<sup>th</sup> September 2026<br>
 The meeting will be held in <a href="https://es.wikipedia.org/wiki/Alicante">Alicante (Spain)</a> at the <a href="https://www.ua.es">University of Alicante</a>.
 </p>
 
 <!-- REGISTRATION -->
 <p style="margin:15px 0 25px 0;">
 <strong><u>REGISTRATION:</u></strong><br>
-Participants are invited to register by completing the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWkVAHUsBLANDjyNDBXh-0rCXKdiTA_GeCclYPCQOVD34Caw/viewform?usp=publish-editor" target="_blank">online registration form</a>. Registration is free of charge.
+Participants are invited to register by completing the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWkVAHUsBLANDjyNDBXh-0rCXKdiTA_GeCclYPCQOVD34Caw/viewform?usp=publish-editor" target="_blank">online registration form</a>. <br>
+Registration is free of charge.
 </p>
 
 <!-- POSTER -->
