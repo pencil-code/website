@@ -34,7 +34,7 @@ From there, you can reach the University campus by <strong>Bus 24</strong> or <s
 <p style="margin:15px 0 25px 0;">
 <strong><u>ACCOMMODATION:</u></strong><br>
 We recommend staying either in <strong>Alicante city centre</strong> or near the <strong>University campus</strong> in Sant Vicent del Raspeig. <br>
-A list of recommended accommodations can be found on the <a href="https://web.ua.es/en/estidia22/accommodation.html" target="_blank">University website</a>. <br>
+A list of recommended accommodations by the University of Alicante can be found on the <a href="https://web.ua.es/en/estidia22/accommodation.html" target="_blank">University website</a>.<br>
 Early booking is advised due to Alicante’s high tourist season.
 </p>
 
