@@ -4,8 +4,7 @@
 ?>
 <div class="centcolumnpad">
 <!-- HEADER -->
-<!-- <h2>22<sup>nd</sup> Pencil Code User Meeting 2026</h2> -->
- <h2 style="margin-bottom:0;">22<sup>nd</sup> Pencil Code User Meeting 2026</h2>
+<h2>22<sup>nd</sup> Pencil Code User Meeting 2026</h2>
 
 <p style="font-style: italic; font-weight: bold; color:#708090; margin:0;">
 The meeting aims to feature technical and scientific presentations, workshops, open discussions on the Pencil Code, and dedicated sessions for collaborative coding and individual consultations.
