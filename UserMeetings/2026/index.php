@@ -39,9 +39,9 @@ Early booking is advised due to Alicante’s high tourist season.
 </p>
 
 <!-- DETAILED SCHEDULE & TALKS -->
-<p style="margin:15px 0 25px 0;">
+<!-- <p style="margin:15px 0 25px 0;">
 <strong><u>DETAILED SCHEDULE WILL BE PROVIDED AT A LATER TIME</u></strong>
-</p>
+</p> -->
 
 <!-- CONTACT -->
 <p style="margin:15px 0 25px 0;">
