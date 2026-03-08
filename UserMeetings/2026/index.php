@@ -10,11 +10,10 @@
 The meeting aims to feature technical and scientific presentations, workshops, open discussions on the Pencil Code, and dedicated sessions for collaborative coding and individual consultations.
 </p>
 
-<!-- DATE and VENUE -->
+<!-- DATE & VENUE -->
 <p style="margin:15px 0 25px 0;">
 <strong><u>DATE &amp; VENUE:</u></strong><br>
-21<sup>st</sup> to 25<sup>th</sup> September 2026<br>
-The meeting will be held in <a href="https://es.wikipedia.org/wiki/Alicante">Alicante (Spain)</a> at the <a href="https://www.ua.es">University of Alicante</a>.
+The meeting will take place from <strong>21<sup>st</sup> to 25<sup>th</sup> September 2026</strong> in <a href="https://es.wikipedia.org/wiki/Alicante">Alicante, Spain</a>, at the <a href="https://www.ua.es">University of Alicante</a>.
 </p>
 
 <!-- REGISTRATION -->
