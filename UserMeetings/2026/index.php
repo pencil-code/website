@@ -46,7 +46,7 @@ Early booking is advised due to Alicante’s high tourist season.
 <!-- CONTACT -->
 <p style="margin:15px 0 25px 0;">
 <strong><u>CONTACT:</u></strong><br>
-For any questions regarding the meeting, please contact <strong>Clara Dehman</strong> at <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
+For any inquiries regarding the meeting, please contact <strong>Clara Dehman</strong> (local organizer) at <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
 </p>
 
 <!-- POSTER -->
