@@ -13,8 +13,7 @@ The meeting aims to feature technical and scientific presentations, workshops, o
 <!-- DATE & VENUE -->
 <p style="margin:15px 0 25px 0;">
 <strong><u>DATE &amp; VENUE:</u></strong><br>
-The meeting will take place from <strong>21<sup>st</sup> to 25<sup>th</sup> September 2026</strong> in <a href="https://es.wikipedia.org/wiki/Alicante">Alicante, Spain</a>, at the <a href="https://www.ua.es">University of Alicante</a>.
-</p>
+The 22<sup>nd</sup> Pencil Code User Meeting 2026 will take place at the <a href="https://www.ua.es">University of Alicante</a> in <a href="https://es.wikipedia.org/wiki/Alicante">Alicante, Spain</a>, from <strong>21<sup>st</sup> to 25<sup>th</sup> September 2026</strong>.</p>
 
 <!-- REGISTRATION -->
 <p style="margin:15px 0 25px 0;">
