@@ -29,7 +29,6 @@ Registration is free of charge.
     <a href="PCUM26.jpeg" target="_blank">
         <img src="PCUM26.jpeg" alt="PCUM 2026 Poster" style="max-width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
     </a>
-    <p style="font-size: 0.9em; color: #555; margin-top: 8px;">Click to view full-size poster</p>
     <p style="font-size: 0.75em; color: #777; margin-top: 4px; font-style: italic;">
         Photo credit: University of Alicante webpage and GetYourGuide
     </p>
