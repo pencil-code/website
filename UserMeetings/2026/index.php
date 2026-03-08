@@ -27,14 +27,14 @@ Registration is free of charge.
 <strong><u>HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS:</u></strong><br>
 The recommended airport is <a href="https://www.aena.es/es/alicante-elche-miguel-hernandez.html?utm_source=Google&utm_medium=GMB_ALC">Alicante‑Elche Airport (ALC)</a>. 
 From the airport, take the <strong>C‑6 bus</strong> to Alicante city centre. <br>
-From there, you can reach the University campus by <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
+From there, you can reach the University campus by either <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
 </p>
 
 <!-- ACCOMMODATION -->
 <p style="margin:15px 0 25px 0;">
 <strong><u>ACCOMMODATION:</u></strong><br>
 We recommend staying either in <strong>Alicante city centre</strong> or near the <strong>University campus</strong> in Sant Vicent del Raspeig. <br>
-A list of recommended accommodations by the University of Alicante can be found on the <a href="https://web.ua.es/en/estidia22/accommodation.html" target="_blank">University website</a>.<br>
+A list of recommended accommodations can be found on the <a href="https://web.ua.es/en/estidia22/accommodation.html" target="_blank">University website</a>.<br>
 Early booking is advised due to Alicante’s high tourist season.
 </p>
 
