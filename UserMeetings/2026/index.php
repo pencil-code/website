@@ -43,6 +43,12 @@ Early booking is advised due to Alicante’s high tourist season.
 <strong><u>DETAILED SCHEDULE WILL BE PROVIDED AT A LATER TIME</u></strong>
 </p>
 
+<!-- CONTACT -->
+<p style="margin:15px 0 25px 0;">
+<strong><u>CONTACT:</u></strong><br>
+For any questions regarding the meeting, please contact <strong>Clara Dehman</strong> at <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
+</p>
+
 <!-- POSTER -->
 <div style="text-align: center; margin: 30px 0;">
     <a href="PCUM26.jpeg" target="_blank">
