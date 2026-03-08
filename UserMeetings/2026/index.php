@@ -6,7 +6,7 @@
 <!-- HEADER -->
 <h2>22<sup>nd</sup> Pencil Code User Meeting 2026</h2>
 
-<p style="font-style: italic; font-weight: bold; color:#607D8B; margin:0;">
+<p style="font-style: italic; font-weight: bold; color:#455157; margin:0;">
 The meeting aims to feature technical and scientific presentations, workshops, open discussions on the Pencil Code, and dedicated sessions for collaborative coding and individual consultations.
 </p>
 
@@ -22,6 +22,11 @@ Participants are invited to register by completing the <a href="https://docs.goo
 Registration is free of charge.
 </p>
 
+<!-- DETAILED SCHEDULE & TALKS -->
+<p style="margin:15px 0 25px 0;">
+<strong><u>DETAILED SCHEDULE WILL BE PROVIDED AT A LATER TIME</u></strong>
+</p>
+
 <!-- POSTER -->
 <div style="text-align: center; margin: 30px 0;">
     <a href="PCUM26.jpeg" target="_blank">
@@ -32,11 +37,6 @@ Registration is free of charge.
     </p>
 </div>
 
-
-<!-- DETAILED SCHEDULE & TALKS -->
-<p style="margin:15px 0 25px 0;">
-<strong><u>DETAILED SCHEDULE WILL BE PROVIDED AT A LATER TIME</u></strong>
-</p>
 
 </div>
 <?php
