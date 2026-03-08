@@ -25,12 +25,9 @@ Registration is free of charge.
 <!-- HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS -->
 <p style="margin:15px 0 25px 0;">
 <strong><u>HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS:</u></strong><br>
-The recommended airport is <a href="https://www.aena.es/en/alicante-elche-airport/index.html">Alicante‑Elche Airport (ALC)</a>. From the airport, take the **C‑6 bus** from the second level of the terminal to reach Alicante city centre.
-</p>
-
-<p style="margin:10px 0 15px 0;">
-• **Bus 24:** Runs frequently from Alicante city centre to the University campus (San Vicente del Raspeig). Tickets can be purchased on board.  
-• **TRAM Line L2:** The tram network connects from <strong>Plaza de los Luceros</strong> and other central stops to the “Universitat” stop, within walking distance of the campus.  
+The recommended airport is <a href="https://www.aena.es/en/alicante-elche-airport/index.html">Alicante‑Elche Airport (ALC)</a>.<br>
+From the airport, take the C‑6 bus to Alicante city centre. <br>
+From there, you can reach the University campus by <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
 </p>
 
 
