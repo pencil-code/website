@@ -12,8 +12,16 @@
 The meeting will be held in <a href="https://es.wikipedia.org/wiki/Alicante">Alicante (Spain)</a> at the <a href="https://www.ua.es">University of Alicante</a>.
 </p>
 
-<!-- DETAILED SCHEDULE & TALKS --> 
+<!-- OBJECTIVE AND REGISTRATION: -->
+<p><strong><u>OBJECTIVE AND REGISTRATION:</u></strong><br>
+The meeting will feature technical and scientific presentations, workshops, open discussions on the Pencil Code, and dedicated sessions for collaborative coding and individual consultations.
+If you would like to participate, please complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWkVAHUsBLANDjyNDBXh-0rCXKdiTA_GeCclYPCQOVD34Caw/viewform?usp=publish-editor">registration form</a>.
+There is no registration fee.
+</p>
+
+<!-- DETAILED SCHEDULE & TALKS  -->
 <p><strong><u>DETAILED SCHEDULE WILL BE PROVIDED AT A LATER TIME</u></strong></p>
+
 
 
 </div>
