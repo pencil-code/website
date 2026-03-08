@@ -30,15 +30,11 @@ From the airport, take the <strong>C‑6 bus</strong> to Alicante city centre. <
 From there, you can reach the University campus by <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
 </p>
 
-
 <!-- ACCOMMODATION -->
 <p style="margin:15px 0 25px 0;">
 <strong><u>ACCOMMODATION:</u></strong><br>
-Recommended hotels for participants. Early booking is advised due to Alicante’s high tourist season.<br>
-Two highlighted options:<br>
-• In the <strong>city centre</strong>, <a href="https://www.eurostarshotels.com/eurostars-mediterranea-plaza.html?referer_code=lb0gg00yx&utm_source=google&utm_medium=business&utm_campaign=lb0gg00yx" target="_blank">Eurostars Mediterranea Plaza</a> – central access to restaurants, the beach, and transport.<br>
-• Near the <strong>University campus</strong> in Sant Vicent del Raspeig, <a href="https://web.ua.es/en/estidia22/accommodation.html" target="_blank">Villa Universitaria</a> – within walking distance to the campus.<br>
-Many more options are available on <a href="https://www.booking.com/searchresults.html?ss=Alicante%2C+Valencia+Community+%28Alicante+Province%29%2C+Spain&efdco=1&label=gen173nr-10CAEoggI46AdIM1gEaEaIAQGYATO4AQfIAQ3YAQPoAQH4AQGIAgGoAgG4AqTYts0GwAIB0gIkMTIyNTY5OGEtMzEyYi00NzM1LTkxZTEtNzMxNGZhYTkyYjYx2AIB4AIB&aid=304142&lang=en-us&sb=1&src_elem=sb&src=index&dest_id=-370210&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e8cb781261210af9&ac_meta=GhBlOGNiNzgxMjYxMjEwYWY5IAAoATICeHU6CEFsaWNhbnRl&checkin=2026-09-21&checkout=2026-09-25&group_adults=1&no_rooms=1&group_children=0" target="_blank">Booking.com</a>. We recommend staying either in Alicante city centre or near the campus for convenience.
+We recommend staying either in <strong>Alicante city centre</strong> or near the <strong>University campus</strong> in Sant Vicent del Raspeig. Early booking is advised due to Alicante’s high tourist season.<br>
+A list of recommended accommodations can be found on the <a href="https://web.ua.es/en/estidia22/accommodation.html" target="_blank">University website</a>.
 </p>
 
 <!-- DETAILED SCHEDULE & TALKS -->
