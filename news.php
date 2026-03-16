@@ -12,7 +12,7 @@ The current Pencil Code Newsletter is on:
 </li>
 
 <li class="separated"><!-- 13 March 2026:<br> -->
-The next Pencil Code User Meeting will be held 21-35 Sep 2026 in Alicante:
+The next Pencil Code User Meeting will be held 21-25 Sep 2026 in Alicante:
 <a href="https://pencil-code.nordita.org/UserMeetings/2026/">https://pencil-code.nordita.org/UserMeetings/2026/</a>.
 </li>
 
