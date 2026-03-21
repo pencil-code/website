@@ -45,7 +45,7 @@ From there, you can reach the University campus by either <strong>Bus 24</strong
 
   <!-- Map Image (right side) -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="path/to/map_venue.png" alt="Map of University of Alicante Campus" style="width: 100%; height: auto; border: 1px solid #ccc;">
+    <img src="map_venue.png" alt="Map of University of Alicante Campus" style="width: 100%; height: auto; border: 1px solid #ccc;">
   </div>
 
 </div>
