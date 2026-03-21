@@ -22,9 +22,9 @@ Participants are invited to register by completing the <a href="https://docs.goo
 Registration is free of charge.
 </p>
 
+<!-- Venue Map and Directions -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: stretch; margin: 20px 0;">
 
-  <!-- Text (left side) -->
   <div style="flex: 1; min-width: 300px;">
     <p style="margin:15px 0 25px 0;">
       <strong><u>HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS:</u></strong><br>
@@ -44,11 +44,9 @@ Registration is free of charge.
     </p>
   </div>
 
-  <!-- Map Image (right side, clickable, proportional) -->
-  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: stretch;">
-    <a href="map_venue.png" target="_blank" style="flex: 1; display: flex; justify-content: center; align-items: center;">
-      <img src="map_venue.png" alt="Map of University of Alicante Campus" 
-           style="max-height: 100%; width: auto; object-fit: contain; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
+  <div style="flex: 1; min-width: 300px; display: flex; align-items: stretch;">
+    <a href="map_venue.png" target="_blank" style="flex: 1; display: flex;">
+      <img src="map_venue.png" alt="Map of University of Alicante Campus" style="width: 100%; height: 100%; object-fit: cover; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
     </a>
   </div>
 
