@@ -25,14 +25,24 @@ Registration is free of charge.
 <!-- Venue Map and Directions -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin: 20px 0;">
 
-  <div style="flex: 1; min-width: 300px;">
+    <div style="flex: 1; min-width: 300px;">
     <p style="margin:15px 0 25px 0;">
-      <strong><u>HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS:</u></strong><br>
-      The recommended airport is <a href="https://www.aena.es/es/alicante-elche-miguel-hernandez.html?utm_source=Google&utm_medium=GMB_ALC" target="_blank">Alicante‑Elche Airport (ALC)</a>. 
-      From the airport, take the <strong>C‑6 bus</strong> to Alicante city centre. <br>
-      From there, you can reach the University campus by either <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
+        <strong><u>HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS:</u></strong><br>
+        The recommended airport is <a href="https://www.aena.es/es/alicante-elche-miguel-hernandez.html?utm_source=Google&utm_medium=GMB_ALC" target="_blank">Alicante‑Elche Airport (ALC)</a>. 
+        From the airport, take the <strong>C‑6 bus</strong> to Alicante city centre.<br>
+        From there, you can reach the University campus by either <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
     </p>
-  </div>
+
+    <p style="margin:15px 0 25px 0;">
+        <strong>Last bus/tram in the evening:</strong><br>
+        <u>From Alicante Center → Campus:</u><br>
+        - Tram L2: 10:56 pm from Mercat tram stop<br>
+        - Bus 24: 10:39 pm from Mercado‑San Vicente bus stop<br><br>
+        <u>From Campus → Alicante Center:</u><br>
+        - Tram L2: 11:25 pm from University tram stop<br>
+        - Bus 24: 10:47 pm from Calle Perú 4 bus stop
+    </p>
+    </div>
 
   <div style="flex: 1; min-width: 300px;">
     <a href="map_venue.png" target="_blank">
