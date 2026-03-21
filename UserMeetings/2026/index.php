@@ -22,18 +22,9 @@ Participants are invited to register by completing the <a href="https://docs.goo
 Registration is free of charge.
 </p>
 
-<!-- HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS -->
-<!-- <p style="margin:15px 0 25px 0;">
-<strong><u>HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS:</u></strong><br>
-The recommended airport is <a href="https://www.aena.es/es/alicante-elche-miguel-hernandez.html?utm_source=Google&utm_medium=GMB_ALC">Alicante‑Elche Airport (ALC)</a>. 
-From the airport, take the <strong>C‑6 bus</strong> to Alicante city centre. <br>
-From there, you can reach the University campus by either <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
-</p> -->
-
 <!-- Venue Map and Directions -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin: 20px 0;">
 
-  <!-- Directions Text (left side) -->
   <div style="flex: 1; min-width: 300px;">
     <p style="margin:15px 0 25px 0;">
       <strong><u>HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS:</u></strong><br>
@@ -43,9 +34,10 @@ From there, you can reach the University campus by either <strong>Bus 24</strong
     </p>
   </div>
 
-  <!-- Map Image (right side) -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="map_venue.png" alt="Map of University of Alicante Campus" style="width: 100%; height: auto; border: 1px solid #ccc;">
+    <a href="map_venue.png" target="_blank">
+      <img src="map_venue.png" alt="Map of University of Alicante Campus" style="width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
+    </a>
   </div>
 
 </div>
