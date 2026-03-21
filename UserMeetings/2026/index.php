@@ -63,10 +63,10 @@ Registration is free of charge.
 <p style="margin:15px 0 25px 0;">
   <strong>Recommended accommodations:</strong><br>
   <u>Near the University campus:</u><br>
-    - <strong>Villa Universitaria</strong> – <a href="https://www.villauniversitaria.com" target="_blank">website</a><br><br>
+    - <a href="https://www.villauniversitaria.com" target="_blank">Villa Universitaria Hotel</a><br><br>
   <u>In Alicante city centre:</u><br>
-    - <strong>Hotel Eurostars Lucentum</strong> – <a href="https://www.eurostarshotels.co.uk/eurostars-lucentum.html?referer_code=bs2gg11ww&gad_source=1&gad_campaignid=108134338&gbraid=0AAAAAD-VyO7aeD5TNZUs2xtitaywqudMh&gclid=CjwKCAjwg_nNBhAGEiwAiYPYA_qo84_195JfJAT3zWF7Hbwxi1B6I9--O-mdDH3IrZafTRBMP9UDphoCrfYQAvD_BwE" target="_blank">website</a><br>
-    - <strong>The Market Hostel</strong> – <a href="https://www.themarkethostel.com" target="_blank">website</a><br>
+    - <a href="https://www.eurostarshotels.co.uk/eurostars-lucentum.html?referer_code=bs2gg11ww&gad_source=1&gad_campaignid=108134338&gbraid=0AAAAAD-VyO7aeD5TNZUs2xtitaywqudMh&gclid=CjwKCAjwg_nNBhAGEiwAiYPYA_qo84_195JfJAT3zWF7Hbwxi1B6I9--O-mdDH3IrZafTRBMP9UDphoCrfYQAvD_BwE" target="_blank">Hotel Eurostars Lucentum</a><br>
+    - <a href="https://www.themarkethostel.com" target="_blank">The Market Hostel</a><br>
     <em>There are plenty of additional options available on <a href="https://www.booking.com" target="_blank">Booking.com</a>.</em>
 </p>
 
