@@ -19,7 +19,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td><b>name</b></td><td><b>description</b></td>
     <td><b>time</b></td>
     <td><b>OK</b></td>
-    <td><b>runs</b></td>
+    <td><b>logfile</b></td>
     <td><b>host</b></td>
     <td><b>compiler</b></td>
     <td><b>maintainer</b></td>
