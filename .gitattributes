@@ -151,6 +151,7 @@ UserMeetings/idl/p.pro -text
 UserMeetings/idl/participants.dat -text
 /contact.php -text
 /doc.php -text
+doc/GPUs/PC_on_Dardel_2026-04-20.pdf -text
 doc/GPUs/Presentation3.pdf -text
 doc/GPUs/Presentation3.pptx -text
 doc/MacOS/Cielo_23-Feb-2026.html -text

@@ -51,7 +51,9 @@ Matthias Rheinhardt presented a talk about the
 <a href="/UserMeetings/2016/talks/YinYang_talk.pdf">Yin-Yang mesh</a> (10 Aug 2016)
 and the GPU acceleration in the Pencil Code using Astaroth:
 <a href="http://pencil-code.nordita.org/doc/GPUs/Presentation3.pdf">Introduction to PC-A</a> 
-[<a href="http://pencil-code.nordita.org/doc/GPUs/Presentation3.pptx">pptx</a>] (25 Sep 2024) 
+[<a href="http://pencil-code.nordita.org/doc/GPUs/Presentation3.pptx">pptx</a>] (25 Sep 2024).
+For using the Pencil Code with GPUs on Dardel, see the
+<a href="PC_on_Dardel_2026-04-20.pdf">notes by Vinay Kumar</a> (20 Apr 2026).
 </p>
 
 <p>
