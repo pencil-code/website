@@ -20,4 +20,5 @@ OLD ITEMS:
 
 NEW ITEMS:
 
-- 
+- tutorial for administrators.
+- continency plan for ToR
