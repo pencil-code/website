@@ -19,7 +19,7 @@ The PCUM 2026 will take place at the <a href="https://www.ua.es">University of A
 <p style="margin:15px 0 25px 0;">
 <strong><u>REGISTRATION:</u></strong><br>
 Participants are invited to register by completing the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWkVAHUsBLANDjyNDBXh-0rCXKdiTA_GeCclYPCQOVD34Caw/viewform?usp=publish-editor" target="_blank">online registration form</a>. <br>
-Registration is free of charge.
+Registration is free of charge. There is also the possibility of attending the meeting online. A Zoom link will be shared in due time. If you are not familiar with Pencil Code, tutorial sessions will be available, which you can attend either online or in person.
 </p>
 
 <!-- Venue Map and Directions -->
