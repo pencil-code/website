@@ -69,6 +69,26 @@ Registration is free of charge. There is also the possibility of attending the m
 For any inquiries regarding the meeting, please contact <strong>Clara Dehman</strong> (local organizer) at <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
 </p>
 
+
+<!-- PARTICIPANTS -->
+<p><b><u>PARTICIPANTS:</u></b></p>
+<ul>
+<li>SOC: Axel Brandenburg, NORDITA, Sweden</li>
+<li>SOC: Philippe-A. Bourdin, University of Graz, Austria</li>
+<li>LOC&amp;SOC: Clara Dehman, University of Alicante, Spain</li>
+<li>SOC: Jennifer Schober, University of Bonn, Germany</li>
+<li>-----</li>
+<li>Kent Barbey, University of Bonn, Germany</li>
+<li>Deepen Garg, University of Bonn, Germany</li>
+<li>Kishore Gopalakrishnan (online), IIT Madras, India</li>
+<li>Oksana Iarygina, NORDITA, Sweden</li>
+<li>Neco Kriel, University of Bonn, Germany</li>
+<li>Antonino S. Midiri, University of Geneva, Switzerland</li>
+<li>Alberto Roper Pol, University of Geneva, Switzerland</li>
+<li>Vasco Silver, University of Bonn, Germany</li>
+</ul>
+
+
 <!-- POSTER -->
 <div style="text-align: center; margin: 30px 0;">
     <a href="PCUM26.jpeg" target="_blank">
