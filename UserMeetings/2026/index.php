@@ -34,7 +34,7 @@ Registration is free of charge. There is also the possibility of attending the m
 
   <div style="flex: 1; min-width: 300px;">
     <p style="margin:15px 0 25px 0;">
-      <strong style="color:#2c3e50; border-bottom: 2px solid #536066; padding-bottom:2px;">HOW TO REACH THE UNIVERSITY OF ALICANTE CAMPUS:</strong><br><br>
+      <strong style="color:#2c3e50; border-bottom: 2px solid #536066; padding-bottom:2px;">HOW TO REACH THE CAMPUS:</strong><br><br>
       The recommended airport is <a href="https://www.aena.es/es/alicante-elche-miguel-hernandez.html?utm_source=Google&utm_medium=GMB_ALC" target="_blank">Alicante‑Elche Airport (ALC)</a>.
       From the airport, take the <strong>C‑6 bus</strong> to Alicante city centre.<br>
       From there, you can reach the University campus by either <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
