@@ -101,7 +101,7 @@ For any inquiries regarding the meeting, please contact <strong>Clara Dehman</st
 <ul style="margin:0 0 20px 0;">
 <li>SOC: Axel Brandenburg, NORDITA, Sweden</li>
 <li>SOC: Philippe-A. Bourdin, University of Graz, Austria</li>
-<li>LOC&amp;SOC: Clara Dehman, University of Alicante, Spain</li>
+<li>LOC &amp; SOC: Clara Dehman, University of Alicante, Spain</li>
 <li>SOC: Jennifer Schober, University of Bonn, Germany</li>
 </ul>
 
