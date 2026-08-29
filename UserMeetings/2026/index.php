@@ -35,23 +35,23 @@ Registration is free of charge. There is also the possibility of attending the m
   <div style="flex: 1; min-width: 300px;">
     <p style="margin:15px 0 25px 0;">
       <strong style="color:#2c3e50; border-bottom: 2px solid #536066; padding-bottom:2px;">HOW TO REACH THE CAMPUS:</strong><br><br>
-      The recommended airport is <a href="https://www.aena.es/es/alicante-elche-miguel-hernandez.html?utm_source=Google&utm_medium=GMB_ALC" target="_blank">Alicante‑Elche Airport (ALC)</a>.
-      From the airport, take the <strong>C‑6 bus</strong> to Alicante city centre.<br>
+      The recommended airport is <a href="https://www.aena.es/es/alicante-elche-miguel-hernandez.html?utm_source=Google&utm_medium=GMB_ALC" target="_blank">Alicante&#8209;Elche Airport (ALC)</a>.
+      From the airport, take the <strong>C&#8209;6 bus</strong> to Alicante city centre.<br>
       From there, you can reach the University campus by either <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
     </p>
 
     <p style="margin:15px 0 5px 0;"><strong>Last bus/tram in the evening:</strong></p>
 
-    <p style="margin:10px 0 5px 0;"><u>From Alicante Center → Campus:</u></p>
+    <p style="margin:10px 0 5px 0;"><u>From Alicante centre &rarr; Campus:</u></p>
     <ul style="margin:0 0 15px 0;">
       <li>Tram L2: 10:56 pm from Mercat tram stop</li>
-      <li>Bus 24: 10:39 pm from Mercado‑San Vicente bus stop</li>
+      <li>Bus 24: 10:39 pm from Mercado&#8209;San Vicente bus stop</li>
     </ul>
 
-    <p style="margin:10px 0 5px 0;"><u>From Campus → Alicante Center:</u></p>
+    <p style="margin:10px 0 5px 0;"><u>From Campus &rarr; Alicante centre:</u></p>
     <ul style="margin:0;">
       <li>Tram L2: 11:25 pm from University tram stop</li>
-      <li>Bus 24: 10:47 pm from Calle Perú 4 bus stop</li>
+      <li>Bus 24: 10:47 pm from Calle Per&uacute; 4 bus stop</li>
     </ul>
   </div>
 
@@ -73,7 +73,7 @@ Registration is free of charge. There is also the possibility of attending the m
 <ul style="margin:0 0 25px 0;">
   <li>A list of recommended accommodations can be found on the <a href="https://web.ua.es/en/estidia22/accommodation.html" target="_blank">University website</a>.</li>
   <li>For those near the campus, we suggest <a href="https://www.villauniversitaria.com" target="_blank">Villa Universitaria Hotel</a>.</li>
-  <li>In the city centre, good options include <a href="https://www.eurostarshotels.co.uk/eurostars-lucentum.html?referer_code=bs2gg11ww&gad_source=1&gad_campaignid=108134338&gbraid=0AAAAAD-VyO7aeD5TNZUs2xtitaywqudMh&gclid=CjwKCAjwg_nNBhAGEiwAiYPYA_qo84_195JfJAT3zWF7Hbwxi1B6I9--O-mdDH3IrZafTRBMP9UDphoCrfYQAvD_BwE" target="_blank">Hotel Eurostars Lucentum</a> and <a href="https://www.themarkethostel.com" target="_blank">The Market Hostel</a>.</li>
+  <li>In the city centre, good options include <a href="https://www.eurostarshotels.co.uk/eurostars-lucentum.html" target="_blank">Hotel Eurostars Lucentum</a> and <a href="https://www.themarkethostel.com" target="_blank">The Market Hostel</a>.</li>
   <li>Plenty of additional options are available on <a href="https://www.booking.com" target="_blank">Booking.com</a>.</li>
 </ul>
 
@@ -84,10 +84,11 @@ Registration is free of charge. There is also the possibility of attending the m
 <strong><u>DETAILED SCHEDULE WILL BE PROVIDED AT A LATER TIME</u></strong>
 </p> -->
 
-<!-- CONTACT -->
+<!-- Organiser -->
 <p style="margin:15px 0 25px 0;">
-<strong style="color:#2c3e50; border-bottom: 2px solid #536066; padding-bottom:2px;">CONTACT:</strong><br><br>
-For any inquiries regarding the meeting, please contact <strong>Clara Dehman</strong> (local organizer) at <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
+<strong style="color:#2c3e50; border-bottom: 2px solid #536066; padding-bottom:2px;">ORGANISER:</strong><br><br>
+Clara Dehman, University of Alicante<br>
+For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
 </p>
 
 <hr style="border: none; border-top: 1px solid #eee; margin: 25px 0;">
@@ -96,24 +97,28 @@ For any inquiries regarding the meeting, please contact <strong>Clara Dehman</st
 <p style="margin:15px 0 10px 0;">
 <strong style="color:#2c3e50; border-bottom: 2px solid #536066; padding-bottom:2px;">PARTICIPANTS:</strong>
 </p>
-
-<p style="margin:10px 0 5px 0;"><strong>Organizing Committee:</strong></p>
-<ul style="margin:0 0 20px 0;">
-<li>SOC: Axel Brandenburg, NORDITA, Sweden</li>
-<li>SOC: Philippe-A. Bourdin, University of Graz, Austria</li>
-<li>LOC &amp; SOC: Clara Dehman, University of Alicante, Spain</li>
-<li>SOC: Jennifer Schober, University of Bonn, Germany</li>
-</ul>
-
-<p style="margin:10px 0 5px 0;"><strong>Participants:</strong></p>
 <ul style="margin:0;">
 <li>Kent Barbey, University of Bonn, Germany</li>
+<li>Philippe-A. Bourdin, University of Graz, Austria</li>
+<li>Axel Brandenburg, NORDITA, Sweden</li>
+<li>Simon Candelaresi, University of Stuttgart, Germany</li>
+<li>Mattia Cielo, NORDITA, Sweden</li>
+<li>Clara Dehman, University of Alicante, Spain</li>
+<li>Sahel Dey (online), University of Newcastle, Australia</li>
+<li>Maria C. Espinoza, University of Bonn, Germany</li>
 <li>Deepen Garg, University of Bonn, Germany</li>
 <li>Kishore Gopalakrishnan (online), IIT Madras, India</li>
 <li>Oksana Iarygina, NORDITA, Sweden</li>
 <li>Neco Kriel, University of Bonn, Germany</li>
+<li>Vinay Kumar (online), CTS-TIFR, Bangalore, India</li>
+<li>Illa R. Losada (online), NORDITA, Sweden</li>
 <li>Antonino S. Midiri, University of Geneva, Switzerland</li>
+<li>Barshan Ray, University of Bonn, Germany</li>
+<li>Matthias Rheinhardt, Aalto University, Finland</li>
 <li>Alberto Roper Pol, University of Geneva, Switzerland</li>
+<li>Sauvan Sau (online), IIT Guwahati, India</li>
+<li>Jennifer Schober, University of Bonn, Germany</li>
+<li>Ramkishor Sharma (online), University of Hyderabad, India</li>
 <li>Vasco Silver, University of Bonn, Germany</li>
 </ul>
 
