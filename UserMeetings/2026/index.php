@@ -21,7 +21,6 @@
 }
 .pcum .pcum-standfirst {
   margin: 0 0 28px 0;
-  max-width: 62ch;
   color: var(--muted);
   font-size: 1.02em;
 }
@@ -41,7 +40,7 @@
   margin-top: 7px;
   background: var(--accent);
 }
-.pcum p  { margin: 0 0 14px 0; max-width: 68ch; }
+.pcum p  { margin: 0 0 14px 0; }
 .pcum ul { margin: 0 0 14px 0; padding-left: 1.15em; }
 .pcum li { margin-bottom: 5px; }
 .pcum a  { color: #2f6b86; }
