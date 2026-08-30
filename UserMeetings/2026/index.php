@@ -164,7 +164,7 @@
 <!-- HEADER -->
 <h2 class="pcum-title">22<sup>nd</sup> Pencil Code User Meeting 2026</h2>
 <p class="pcum-standfirst">
-Technical and scientific presentations, workshops and open discussions on the Pencil Code, with dedicated sessions for collaborative coding and individual consultations.
+Technical and scientific presentations, workshops, and open discussions on the Pencil Code, with dedicated sessions for collaborative coding and individual consultations.
 </p>
 
 <!-- KEY FACTS -->
