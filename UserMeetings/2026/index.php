@@ -135,6 +135,13 @@ For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.deh
 </div>
 
 
+<hr style="border: none; border-top: 1px solid #eee; margin: 25px 0;">
+ 
+<!-- ACKNOWLEDGEMENTS -->
+<p style="font-size: 0.85em; font-style: italic; color: #777; margin: 25px 0 10px 0; line-height: 1.5;">
+<em>Acknowledgements.</em> This meeting is supported by the Ministerio de Ciencia, Innovaci&oacute;n y Universidades through grant JDC2023-052227-I (PI: C. Dehman), and by the Conselleria d'Educaci&oacute;, Universitats i Ocupaci&oacute; de la Generalitat Valenciana through grant CIPROM/2022/13 (PI: J. A. Pons).
+</p>
+ 
 </div>
 <?php
     include "inc/footer.inc";
