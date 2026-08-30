@@ -83,8 +83,11 @@
 .pcum-cta:hover { background: #3f4a4f; }
 
 /* Two-column split */
-.pcum-split { display: flex; flex-wrap: wrap; gap: 26px; align-items: flex-start; }
+.pcum-split { display: flex; flex-wrap: wrap; gap: 26px; align-items: stretch; }
 .pcum-split > * { flex: 1 1 300px; min-width: 0; }
+.pcum-split .pcum-figure { display: flex; flex-direction: column; }
+.pcum-split .pcum-figure a { flex: 1; display: flex; min-height: 320px; }
+.pcum-split .pcum-figure img { height: 100%; object-fit: cover; }
 
 /* Transport table */
 .pcum-table { width: 100%; border-collapse: collapse; margin: 0 0 18px 0; font-size: 0.94em; }
@@ -148,7 +151,6 @@
   margin: 46px 0 0 0;
   padding-top: 16px;
   border-top: 1px solid var(--rule);
-  max-width: 78ch;
   font-size: 0.84em;
   font-style: italic;
   color: var(--muted);
@@ -270,7 +272,7 @@ For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.deh
 
 <!-- POSTER -->
 <h3 class="pcum-h">Poster</h3>
-<div class="pcum-figure" style="max-width: 620px;">
+<div class="pcum-figure">
   <a href="PCUM26.jpeg" target="_blank">
     <img src="PCUM26.jpeg" alt="PCUM 2026 poster">
   </a>
