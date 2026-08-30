@@ -151,6 +151,7 @@
   margin: 46px 0 0 0;
   padding-top: 16px;
   border-top: 1px solid var(--rule);
+  max-width: none;
   font-size: 0.84em;
   font-style: italic;
   color: var(--muted);
