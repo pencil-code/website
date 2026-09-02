@@ -188,11 +188,13 @@ Technical and scientific presentations, workshops, and open discussions on the P
 </dl>
 
 <!-- REGISTRATION -->
-<h3 class="pcum-h">Registration</h3>
-<p>
-Registration is free of charge and open to all. The meeting can also be attended online, and a Zoom link will be circulated in due time. If you are new to the Pencil Code, tutorial sessions will be available in person and online.
-</p>
-<a class="pcum-cta" href="https://docs.google.com/forms/d/e/1FAIpQLSdWkVAHUsBLANDjyNDBXh-0rCXKdiTA_GeCclYPCQOVD34Caw/viewform?usp=publish-editor" target="_blank">Register for PCUM 2026</a>
+<!h3 class="pcum-h">Registration</h3>
+<!p>
+<!!Registration is free of charge and open to all. The meeting can also be attended online, and a Zoom link will be circulated in due time. If you are new to the Pencil Code, tutorial sessions will be available in person and online.
+<!/p>
+<!a class="pcum-cta" href="https://docs.google.com/forms/d/e/1FAIpQLSdWkVAHUsBLANDjyNDBXh-0rCXKdiTA_GeCclYPCQOVD34Caw/viewform?usp=publish-editor" target="_blank">Register for PCUM 2026</a>
+
+
 
 
 <!-- GETTING HERE -->
