@@ -171,7 +171,7 @@ Technical and scientific presentations, workshops, and open discussions on the P
 <dl class="pcum-facts">
   <div>
     <dt>Dates</dt>
-    <dd>21&ndash;25 September 2026</dd>
+    <dd>21&ndash;25 Sept 2026</dd>
   </div>
   <div>
     <dt>Venue</dt>
