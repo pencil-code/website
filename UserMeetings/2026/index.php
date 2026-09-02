@@ -269,7 +269,7 @@ For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.deh
   <li><span class="n">Jennifer Schober</span><span class="a">University of Bonn, Germany</span></li>
   <li><span class="n">Ramkishor Sharma <span class="online">Online</span></span><span class="a">University of Hyderabad, India</span></li>
   <li><span class="n">Vasco Silver</span><span class="a">University of Bonn, Germany</span></li>
-  <li><span class="n">Isak Stomberg</span><span class="a">Institute of Corpuscular Physics, University of Valencia, Spain</span></li>
+  <li><span class="n">Isak Stomberg</span><span class="a">Institute of Corpuscular Physics, Spain</span></li>
 </ul>
 
 <!-- POSTER -->
