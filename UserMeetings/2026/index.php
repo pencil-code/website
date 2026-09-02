@@ -261,6 +261,7 @@ For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.deh
   <li><span class="n">Vinay Kumar <span class="online">Online</span></span><span class="a">CTS-TIFR, Bangalore, India</span></li>
   <li><span class="n">Illa R. Losada <span class="online">Online</span></span><span class="a">NORDITA, Sweden</span></li>
   <li><span class="n">Antonino S. Midiri</span><span class="a">University of Geneva, Switzerland</span></li>
+  <li><span class="n">Touko Puro</span><span class="a">Aalto University, Finland</span></li>
   <li><span class="n">Barshan Ray</span><span class="a">University of Bonn, Germany</span></li>
   <li><span class="n">Matthias Rheinhardt</span><span class="a">Aalto University, Finland</span></li>
   <li><span class="n">Alberto Roper Pol</span><span class="a">University of Geneva, Switzerland</span></li>
@@ -268,6 +269,7 @@ For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.deh
   <li><span class="n">Jennifer Schober</span><span class="a">University of Bonn, Germany</span></li>
   <li><span class="n">Ramkishor Sharma <span class="online">Online</span></span><span class="a">University of Hyderabad, India</span></li>
   <li><span class="n">Vasco Silver</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Isak Stomberg</span><span class="a">Institute of Corpuscular Physics, University of Valencia, Spain</span></li>
 </ul>
 
 <!-- POSTER -->
