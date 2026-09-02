@@ -18,7 +18,8 @@
 	<meta name="author" content="Philippe-A. Bourdin, Illa Rivero Losada, and others">
 	<meta name="Robots" content="FOLLOW, All, Index">
 <?php
-	if (not empty ($refresh_time)) { ?>
+	if (!empty ($refresh_time)) {
+ ?>
 	<meta http-equiv="refresh" content="<?php echo($refresh_time); ?>">
 <?php
 	}
