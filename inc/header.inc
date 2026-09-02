@@ -17,6 +17,12 @@
 	<meta name="Copyright" content="&copy; Copyright 2001-<?php echo strftime ('%Y'); ?> by the Pencil Code development team. The source code and all content of this website are unter GPL.">
 	<meta name="author" content="Philippe-A. Bourdin, Illa Rivero Losada, and others">
 	<meta name="Robots" content="FOLLOW, All, Index">
+<?php
+	if (not empty ($refresh_time)) { ?>
+	<meta http-equiv="refresh" content="<?php echo($refresh_time); ?>">
+<?php
+	}
+ ?>
 	<link rel="icon" type="image/png" href="/pics/pencils_32x32.png">
 	<link rel="stylesheet" href="/styles.css" type="text/css">
 </head>

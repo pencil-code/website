@@ -1,6 +1,7 @@
 <!-- $Id$ -->
 <?php
-	 include "inc/header.inc";
+	$refresh_time = 1800; # 30 minutes
+	include "inc/header.inc";
  ?>
 <div class="centcolumnpad">
 <h2>Automatic tests</h2>
