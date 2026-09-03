@@ -271,6 +271,7 @@ For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.deh
   <li><span class="n">Neco Kriel</span><span class="a">University of Bonn, Germany</span></li>
   <li><span class="n">Vinay Kumar <span class="online">Online</span></span><span class="a">CTS-TIFR, Bangalore, India</span></li>
   <li><span class="n">Illa R. Losada <span class="online">Online</span></span><span class="a">NORDITA, Sweden</span></li>
+  <li><span class="n">Elisa Mema</span><span class="a">NORDITA, Sweden</span></li>
   <li><span class="n">Antonino S. Midiri</span><span class="a">University of Geneva, Switzerland</span></li>
   <li><span class="n">Touko Puro</span><span class="a">Aalto University, Finland</span></li>
   <li><span class="n">Barshan Ray</span><span class="a">University of Bonn, Germany</span></li>
