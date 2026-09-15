@@ -54,6 +54,8 @@ and the GPU acceleration in the Pencil Code using Astaroth:
 [<a href="http://pencil-code.nordita.org/doc/GPUs/Presentation3.pptx">pptx</a>] (25 Sep 2024).
 For using the Pencil Code with GPUs on Dardel, see the
 <a href="http://pencil-code.nordita.org/doc/GPUs/PC_on_Dardel_2026-04-20.pdf">notes by Vinay Kumar</a> (20 Apr 2026).
+For using the Pencil Code with GPUs on other machines, see the
+<a href="https://github.com/AstroKriel/Writeups/tree/main/pencil-code-gpu">notes by Neco Kriel</a> (18 Aug 2026).
 </p>
 
 <p>
