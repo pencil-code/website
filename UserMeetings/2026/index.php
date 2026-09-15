@@ -194,7 +194,7 @@ Technical and scientific presentations, workshops, and open discussions on the P
 <p>
 The full programme &ndash; talks, tutorials and collaborative coding sessions from Monday 21 to Friday 25 September &ndash; is available as a one-page PDF.
 </p>
-<a class="pcum-cta" href="pcum_26.pdf" target="_blank" rel="noopener">View the programme (PDF)</a>
+<a class="pcum-cta" href="pcum_2026.pdf" target="_blank" rel="noopener">View the programme (PDF)</a>
 <p class="pcum-cta-note"><em>Provisional.</em> Last updated 15 September 2026; please check back for changes.</p>
 
 <!-- REGISTRATION (closed) -->
