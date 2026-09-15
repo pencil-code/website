@@ -80,6 +80,8 @@
   text-decoration: none;
 }
 .pcum-cta:hover { background: #3f4a4f; }
+.pcum-cta-note { margin: 0 0 14px 0; font-size: 0.85em; color: var(--muted); }
+.pcum-cta-note em { font-style: normal; font-weight: 600; color: var(--ink); }
 
 /* Two-column split */
 .pcum-split { display: flex; flex-wrap: wrap; gap: 26px; align-items: stretch; }
@@ -187,6 +189,14 @@ Technical and scientific presentations, workshops, and open discussions on the P
   </div>
 </dl>
 
+<!-- PROGRAMME -->
+<h3 class="pcum-h">Programme</h3>
+<p>
+The full programme &ndash; talks, tutorials and collaborative coding sessions from Monday 21 to Friday 25 September &ndash; is available as a one-page PDF.
+</p>
+<a class="pcum-cta" href="pcum_26.pdf" target="_blank" rel="noopener">View the programme (PDF)</a>
+<p class="pcum-cta-note"><em>Provisional.</em> Last updated 15 September 2026; please check back for changes.</p>
+
 <!-- REGISTRATION (closed) -->
  <!--
 <h3 class="pcum-h">Registration</h3>
@@ -200,7 +210,7 @@ Registration is free of charge and open to all. The meeting can also be attended
 <!-- MEETING INFORMATION -->
 <h3 class="pcum-h">Meeting Information</h3>
 <p>
-The meeting will take place both in person and online. A Zoom link will be circulated in due time. If you are new to the Pencil Code, tutorial sessions will be available both in person and online. The scientific program will be available soon.
+The meeting will take place both in person and online. A Zoom link will be circulated in due time. If you are new to the Pencil Code, tutorial sessions will be available both in person and online.
 </p>
 
 
