@@ -209,6 +209,14 @@ The same Zoom link is used for every session, Monday 21 to Friday 25 September.
 <a class="pcum-cta" href="https://stockholmuniversity.zoom.us/j/69160607217" target="_blank" rel="noopener">Join on Zoom</a>
 <p class="pcum-cta-note">Meeting ID: 691 6060 7217 &middot; Hosted by Stockholm University. All times are local (CEST, UTC+2).</p>
 
+<!-- SOCIAL ACTIVITIES -->
+<h3 class="pcum-h">Social activities</h3>
+<p>
+The social activities taking place during the week &ndash; the beach and an evening out on Sunday, the excursion to Santa B&aacute;rbara Castle on Tuesday afternoon, and the social dinner on Thursday &ndash; are described in detail in the PDF below, together with a few recommendations for the weekend and a note on what to pack.
+</p>
+<a class="pcum-cta" href="PCUM2026_Social.pdf" target="_blank" rel="noopener">View social activities (PDF)</a>
+<p class="pcum-cta-note">Please note that the social dinner is not covered by the meeting.</p>
+
 <!-- REGISTRATION (closed) -->
  <!--
 <h3 class="pcum-h">Registration</h3>
