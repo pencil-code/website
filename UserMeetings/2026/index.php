@@ -189,6 +189,10 @@ Technical and scientific presentations, workshops, and open discussions on the P
   </div>
 </dl>
 
+<p style="margin-top:22px;">
+All sessions, including the tutorials for those new to the Pencil Code, can be followed in person or online.
+</p>
+
 <!-- PROGRAMME -->
 <h3 class="pcum-h">Programme</h3>
 <p>
@@ -200,7 +204,7 @@ The full programme &ndash; talks, tutorials and collaborative coding sessions fr
 <!-- ATTENDING ONLINE -->
 <h3 class="pcum-h">Attending online</h3>
 <p>
-The meeting is hybrid and can be followed remotely. The same Zoom link is used for every session, Monday 21 to Friday 25 September.
+The same Zoom link is used for every session, Monday 21 to Friday 25 September.
 </p>
 <a class="pcum-cta" href="https://stockholmuniversity.zoom.us/j/69160607217" target="_blank" rel="noopener">Join on Zoom</a>
 <p class="pcum-cta-note">Meeting ID: 691 6060 7217 &middot; Hosted by Stockholm University. All times are local (CEST, UTC+2).</p>
@@ -213,14 +217,6 @@ Registration is free of charge and open to all. The meeting can also be attended
 </p>
 <a class="pcum-cta" href="https://docs.google.com/forms/d/e/1FAIpQLSdWkVAHUsBLANDjyNDBXh-0rCXKdiTA_GeCclYPCQOVD34Caw/viewform?usp=publish-editor" target="_blank">Register for PCUM 2026</a>
 -->
-
-
-<!-- MEETING INFORMATION -->
-<h3 class="pcum-h">Meeting Information</h3>
-<p>
-The meeting will take place both in person and online. If you are new to the Pencil Code, tutorial sessions will be available both in person and online.
-</p>
-
 
 
 <!-- GETTING HERE -->
