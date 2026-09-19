@@ -1,0 +1,54 @@
+E-field is no longer read when /bb magic is activated.
+
+---------------------------------------------------------------------------------------------------
+IDL> pc_read_var,obj=var,/bb
+Reading grid data from /home/brandenb/www/UserMeetings/2026/material/E-magic-problem/tst/data/allprocs/grid.dat ...
+
+                             Variable summary:
+  name               minval         maxval          mean         stddev
+% Compiled module: SIZEOFTAG.
+% Compiled module: IS_STRUCT.
+% Compiled module: IS_STR.
+% Array dimensions must be greater than 0.
+% Compiled module: STDDEV.
+  aa_x      -->   -2.66086E-18    2.94802E-18   -1.84909E-21    6.74922E-20
+  aa_y      -->   -3.29820E-18    3.17951E-18    4.27747E-20        0.00000
+  aa_z      -->   -3.58350E-18    3.64467E-18    2.30526E-20    5.49563E-19
+  rhoe      -->        0.00000        0.00000        0.00000        0.00000
+  bb_x      -->   -3.59024E-16    2.57848E-16   -2.96111E-19        0.00000
+  bb_y      -->   -6.20638E-17    6.49769E-17   -1.85324E-19    7.84617E-18
+  bb_z      -->   -3.36767E-16    4.26343E-16    1.50292E-21        0.00000
+ t =      0.062000000
+
+% Program caused arithmetic error: Floating divide by 0
+IDL> pc_read_var,obj=var    
+Reading grid data from /home/brandenb/www/UserMeetings/2026/material/E-magic-problem/tst/data/allprocs/grid.dat ...
+
+The file var.dat contains: Magnetic vector potential (aa), Electric field (ee), Charge density (rhoe)
+
+The grid dimension is           38          38           7
+
+Loading chunk 1 of 1 (/home/brandenb/www/UserMeetings/2026/material/E-magic-problem/tst/data/proc0/var.dat)...
+
+                             Variable summary:
+  name               minval         maxval          mean         stddev
+% Array dimensions must be greater than 0.
+  aa_x      -->   -2.66086E-18    2.94802E-18   -1.84909E-21    6.74922E-20
+  aa_y      -->   -3.29820E-18    3.17951E-18    4.27747E-20        0.00000
+  aa_z      -->   -3.58350E-18    3.64467E-18    2.30526E-20    5.49563E-19
+  ee_x      -->   -4.95792E-18    5.80281E-18    3.28059E-21    8.04730E-19
+  ee_y      -->   -8.78655E-20    9.69853E-20   -5.38468E-23        0.00000
+  ee_z      -->   -3.56604E-18    2.97443E-18    1.97074E-21    1.32066E-18
+  rhoe      -->        0.00000        0.00000        0.00000        0.00000
+ t =      0.062000000
+
+% Program caused arithmetic error: Floating divide by 0
+
+---------------------------------------------------------------------------------------------------
+This example is taken from runs of the paper
+"Magnetic field spreading from stellar and galactic dynamos into the exterior"
+see ~/public_html/projects/Spreading/run_directories/co.csh
+
+#Run E
+cvs co axel/meanfield/void_diffusion/2D/DISKa8192g_rin01_H1f_D_Pa_rout1e3_alp05_e2em2_cs5_c002a
+
