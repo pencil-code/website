@@ -253,7 +253,7 @@ Registration is free of charge and open to all. The meeting can also be attended
 
 <h4 class="pcum-sub">Arriving in Alicante</h4>
 <p>
-<strong>By air.</strong> <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a> is served by the <strong>C&#8209;6 bus</strong>, which departs from outside the terminal every 20 minutes and reaches the city centre in approximately 25 minutes. A single ticket costs &euro;4.70, paid on board by card; cash is not accepted.<br>
+<strong>By air.</strong> <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a> is served by the <strong>C&#8209;6 bus</strong>, which departs from outside the terminal every 20 minutes and reaches the city centre in approximately 25 minutes. A single ticket costs &euro;4.70, paid on board by card or cash.<br>
 <strong>By rail.</strong> Mainline and high-speed services arrive at <strong>Alicante&nbsp;Terminal</strong>, in the city centre; the <strong>Luceros</strong> tram stop is a six-minute walk from the station.
 </p>
 
