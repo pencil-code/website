@@ -220,7 +220,7 @@ All sessions, including the tutorials for those new to the Pencil Code, can be f
 The full programme &ndash; talks, tutorials and collaborative coding sessions from Monday 21 to Friday 25 September &ndash; is available as a one-page PDF.
 </p>
 <a class="pcum-cta" href="PCUM2026.pdf" target="_blank" rel="noopener">View the programme (PDF)</a>
-<p class="pcum-cta-note">Last updated 17 September 2026; please check back for changes.</p>
+<p class="pcum-cta-note">Last updated 19 September 2026; please check back for changes.</p>
 
 <!-- ATTENDING ONLINE -->
 <h3 class="pcum-h">Attending online</h3>
