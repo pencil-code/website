@@ -24,4 +24,4 @@ NEW ITEMS:
 - continency plan for ToR
 - PB: cleaning up the timestep modules; c.f. timestep_sts vs. timestep.
 - PB: two inter-woven code structures: CPU vs. GPU; c.f. equ/before_boundary.
-- AB: ee disappears when calling ,/bb (oksana/plasma/1D/Hbdm512alpf90_rho24_ampl1_Gam8o_aBE_ee3c5e)
+- AB: ee disappears when calling ,/bb (UserMeetings/2026/material/E-magic-problem/tst)
