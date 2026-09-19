@@ -253,7 +253,7 @@ Registration is free of charge and open to all. The meeting can also be attended
 
 <h4 class="pcum-sub">Arriving in Alicante</h4>
 <p>
-<strong>By air.</strong> <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a> lies some 10&nbsp;km southwest of the city and is served by the <strong>C&#8209;6 bus</strong>, which departs from outside the arrivals terminal and reaches the city centre in approximately 25 minutes. The service runs throughout the day at intervals of about 20 minutes, with an hourly night service, and calls at <strong>Puerta del Mar</strong>, <strong>Luceros</strong> and <strong>Estaci&oacute;n Salamanca</strong>, adjacent to the railway station. A single ticket costs &euro;4.60 and may be purchased on board in cash or by card. Taxis are available outside the terminal and take about 20 minutes to the centre.<br>
+<strong>By air.</strong> <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a> is served by the <strong>C&#8209;6 bus</strong>, which departs from outside the terminal every 20 minutes and reaches the city centre in approximately 25 minutes.<br>
 <strong>By rail.</strong> Mainline and high-speed services arrive at <strong>Alicante&nbsp;Terminal</strong>, in the city centre; the <strong>Luceros</strong> tram stop is a six-minute walk from the station.
 </p>
 
@@ -271,9 +271,9 @@ Use <strong>TRAM line L2</strong> or <strong>Bus 24</strong>, alighting at <stro
 </div>
 
 <p>
-The campus is extensive and the buildings are similar in appearance. For a detailed guide &ndash; the walking route from the tram stop and the signage to follow once you arrive &ndash; see the PDF below.
+The campus is extensive and the buildings are similar in appearance. For a detailed guide see the PDF below.
 </p>
-<a class="pcum-cta" href="PCUM2026_GettingHere.pdf" target="_blank" rel="noopener">Getting to the Sala de Juntas (PDF)</a>
+<a class="pcum-cta" href="PCUM2026_gettingthere.pdf" target="_blank" rel="noopener">Getting to the Sala de Juntas (PDF)</a>
 
 <table class="pcum-table" style="margin-top:20px;">
   <caption>Last services in the evening</caption>
@@ -289,7 +289,6 @@ The campus is extensive and the buildings are similar in appearance. For a detai
     <tr><td>Bus 24</td><td>22:47</td><td>Calle Per&uacute; 4</td></tr>
   </tbody>
 </table>
-<p class="pcum-cta-note">Timetables are subject to change; please confirm with <a href="https://www.tramalacant.es" target="_blank" rel="noopener">TRAM d&rsquo;Alacant</a> and <a href="https://www.vectalia.es" target="_blank" rel="noopener">Vectalia</a>.</p>
 
 <!-- ACCOMMODATION -->
 <h3 class="pcum-h">Accommodation</h3>
