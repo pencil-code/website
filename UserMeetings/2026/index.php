@@ -109,6 +109,27 @@
 }
 .pcum-table td:first-child { font-weight: 600; white-space: nowrap; }
 
+/* Sub-heading inside a section */
+.pcum h4.pcum-sub {
+  margin: 26px 0 9px 0;
+  font-size: 1.02em;
+  font-weight: 700;
+  color: var(--ink);
+}
+.pcum h4.pcum-sub:first-of-type { margin-top: 4px; }
+
+/* Venue card */
+.pcum-venue {
+  margin: 0 0 16px 0;
+  padding: 15px 18px;
+  background: var(--wash);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  line-height: 1.5;
+}
+.pcum-venue .maps { display: block; margin-top: 10px; font-size: 0.85em; color: var(--muted); }
+.pcum-venue .maps strong { display: block; margin-top: 3px; color: var(--ink); }
+
 .pcum-figure img {
   width: 100%;
   height: auto;
@@ -229,34 +250,47 @@ Registration is free of charge and open to all. The meeting can also be attended
 
 <!-- GETTING HERE -->
 <h3 class="pcum-h">Getting here</h3>
-<div class="pcum-split">
-  <div>
-    <p>
-      The recommended airport is <a href="https://www.aena.es/es/alicante-elche-miguel-hernandez.html" target="_blank">Alicante&#8209;Elche Airport (ALC)</a>. Take the <strong>C&#8209;6 bus</strong> from the airport to Alicante city centre, then reach the campus by <strong>Bus 24</strong> or <strong>TRAM Line L2</strong>.
-    </p>
 
-    <table class="pcum-table">
-      <caption>Last services in the evening</caption>
-      <thead>
-        <tr><th>Service</th><th>Departs</th><th>From</th></tr>
-      </thead>
-      <tbody>
-        <tr><td colspan="3" style="padding-top:12px; font-weight:600; color:#6b7a83; font-size:0.85em; letter-spacing:0.05em; text-transform:uppercase; border-bottom:none;">City centre &rarr; Campus</td></tr>
-        <tr><td>Tram L2</td><td>22:56</td><td>Mercat</td></tr>
-        <tr><td>Bus 24</td><td>22:39</td><td>Mercado&#8209;San Vicente</td></tr>
-        <tr><td colspan="3" style="padding-top:14px; font-weight:600; color:#6b7a83; font-size:0.85em; letter-spacing:0.05em; text-transform:uppercase; border-bottom:none;">Campus &rarr; City centre</td></tr>
-        <tr><td>Tram L2</td><td>23:25</td><td>Universitat</td></tr>
-        <tr><td>Bus 24</td><td>22:47</td><td>Calle Per&uacute; 4</td></tr>
-      </tbody>
-    </table>
-  </div>
+<h4 class="pcum-sub">Arriving in Alicante</h4>
+<p>
+<strong>By air.</strong> The nearest airport is <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Miguel Hern&aacute;ndez Airport (ALC)</a>, about 10&nbsp;km from the city. The <strong>C&#8209;6 bus</strong> leaves from outside the terminal and runs to the city centre roughly every 20 minutes, taking about 25 minutes.
+</p>
+<p>
+<strong>By train.</strong> Long-distance and high-speed trains (including the AVE from Madrid) arrive at <strong>Alicante&nbsp;Terminal</strong> (Alacant Terminal) on Avenida de Salamanca, in the city centre. From the station it is a walk of about six minutes along Avenida de la Estaci&oacute;n to the <strong>Luceros</strong> tram stop.
+</p>
 
-  <div class="pcum-figure">
-    <a href="map_venue.png" target="_blank">
-      <img src="map_venue.png" alt="Map of the University of Alicante campus">
-    </a>
-  </div>
+<h4 class="pcum-sub">Getting to the university</h4>
+<p>
+From the city centre, take <strong>TRAM line L2</strong> towards San Vicente del Raspeig and get off at <strong>Universitat</strong>; the line runs from both <strong>Luceros</strong> and <strong>Mercat</strong>, and the ride takes about 20 minutes. <strong>Bus 24</strong> also reaches the campus and, at the university end, stops right next to the tram stop. From there it is about a ten-minute walk across the campus to the building.
+</p>
+
+<div class="pcum-venue">
+  <strong>Sala de Juntas</strong>, first floor<br>
+  Facultad de Ciencias II &mdash; <strong>Edificio 07</strong><br>
+  Universidad de Alicante, 03690 San Vicente del Raspeig
+  <span class="maps">Search this exactly in Maps:
+  <strong>Edificio 07 - Ciencias 2, Universidad De Alicante, 03690 San Vicente del Raspeig, Alicante</strong></span>
 </div>
+
+<p>
+The campus is large and the buildings look alike, so detailed directions &ndash; with the walking route from the tram stop, photographs of the building and of the signs to follow once you are there &ndash; are collected in the PDF below.
+</p>
+<a class="pcum-cta" href="PCUM2026_GettingHere.pdf" target="_blank" rel="noopener">How to reach the room (PDF)</a>
+
+<table class="pcum-table" style="margin-top:20px;">
+  <caption>Last services in the evening</caption>
+  <thead>
+    <tr><th>Service</th><th>Departs</th><th>From</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3" style="padding-top:12px; font-weight:600; color:#6b7a83; font-size:0.85em; letter-spacing:0.05em; text-transform:uppercase; border-bottom:none;">City centre &rarr; Campus</td></tr>
+    <tr><td>Tram L2</td><td>22:56</td><td>Mercat</td></tr>
+    <tr><td>Bus 24</td><td>22:39</td><td>Mercado&#8209;San Vicente</td></tr>
+    <tr><td colspan="3" style="padding-top:14px; font-weight:600; color:#6b7a83; font-size:0.85em; letter-spacing:0.05em; text-transform:uppercase; border-bottom:none;">Campus &rarr; City centre</td></tr>
+    <tr><td>Tram L2</td><td>23:25</td><td>Universitat</td></tr>
+    <tr><td>Bus 24</td><td>22:47</td><td>Calle Per&uacute; 4</td></tr>
+  </tbody>
+</table>
 
 <!-- ACCOMMODATION -->
 <h3 class="pcum-h">Accommodation</h3>
