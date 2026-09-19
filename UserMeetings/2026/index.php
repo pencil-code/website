@@ -275,7 +275,7 @@ From the city centre, take <strong>TRAM line L2</strong> towards San Vicente del
 <p>
 The campus is large and the buildings look alike, so detailed directions &ndash; with the walking route from the tram stop, photographs of the building and of the signs to follow once you are there &ndash; are collected in the PDF below.
 </p>
-<a class="pcum-cta" href="PCUM2026_GettingHere.pdf" target="_blank" rel="noopener">How to reach the room (PDF)</a>
+<a class="pcum-cta" href="PCUM2026_gettingthere.pdf" target="_blank" rel="noopener">How to reach the room (PDF)</a>
 
 <table class="pcum-table" style="margin-top:20px;">
   <caption>Last services in the evening</caption>
