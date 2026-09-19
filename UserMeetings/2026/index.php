@@ -253,15 +253,13 @@ Registration is free of charge and open to all. The meeting can also be attended
 
 <h4 class="pcum-sub">Arriving in Alicante</h4>
 <p>
-<strong>By air.</strong> The nearest airport is <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Miguel Hern&aacute;ndez Airport (ALC)</a>, about 10&nbsp;km from the city. The <strong>C&#8209;6 bus</strong> leaves from outside the terminal and runs to the city centre roughly every 20 minutes, taking about 25 minutes.
-</p>
-<p>
-<strong>By train.</strong> Long-distance and high-speed trains (including the AVE from Madrid) arrive at <strong>Alicante&nbsp;Terminal</strong> (Alacant Terminal) on Avenida de Salamanca, in the city centre. From the station it is a walk of about six minutes along Avenida de la Estaci&oacute;n to the <strong>Luceros</strong> tram stop.
+<strong>By air.</strong> From <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a>, the <strong>C&#8209;6 bus</strong> runs to the city centre every 20 minutes and takes about 25 minutes.<br>
+<strong>By train.</strong> Trains arrive at <strong>Alicante&nbsp;Terminal</strong>, in the city centre, a six-minute walk from the <strong>Luceros</strong> tram stop.
 </p>
 
 <h4 class="pcum-sub">Getting to the university</h4>
 <p>
-From the city centre, take <strong>TRAM line L2</strong> towards San Vicente del Raspeig and get off at <strong>Universitat</strong>; the line runs from both <strong>Luceros</strong> and <strong>Mercat</strong>, and the ride takes about 20 minutes. <strong>Bus 24</strong> also reaches the campus and, at the university end, stops right next to the tram stop. From there it is about a ten-minute walk across the campus to the building.
+Take <strong>TRAM line L2</strong> from Luceros or Mercat to <strong>Universitat</strong>, about 20 minutes; <strong>Bus 24</strong> stops right next to the tram stop. From there it is a ten-minute walk to:
 </p>
 
 <div class="pcum-venue">
@@ -273,7 +271,7 @@ From the city centre, take <strong>TRAM line L2</strong> towards San Vicente del
 </div>
 
 <p>
-The campus is large and the buildings look alike, so detailed directions &ndash; with the walking route from the tram stop, photographs of the building and of the signs to follow once you are there &ndash; are collected in the PDF below.
+The campus is large and the buildings look alike, so the PDF below gives the walking route and the signs to follow.
 </p>
 <a class="pcum-cta" href="PCUM2026_gettingthere.pdf" target="_blank" rel="noopener">How to reach the room (PDF)</a>
 
