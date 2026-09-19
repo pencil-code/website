@@ -236,6 +236,11 @@ The same Zoom link is used for every session, Monday 21 to Friday 25 September. 
 The social activities taking place during the week &ndash; the beach and an evening out on Sunday, the excursion to Santa B&aacute;rbara Castle on Tuesday afternoon, and the social dinner on Thursday &ndash; are described in detail in the PDF below, together with a few recommendations for the weekend and a note on what to pack.
 </p>
 <a class="pcum-cta" href="PCUM2026_Social.pdf" target="_blank" rel="noopener">View social activities (PDF)</a>
+
+<p>
+For the Tuesday excursion, a separate guide describes each of the stops along the way, with a little of their history.
+</p>
+<a class="pcum-cta" href="Excursion.pdf" target="_blank" rel="noopener">The excursion, stop by stop (PDF)</a>
 <p class="pcum-cta-note">Please note that the social dinner is not covered by the meeting.</p>
 
 <!-- REGISTRATION (closed) -->
