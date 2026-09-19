@@ -253,7 +253,7 @@ Registration is free of charge and open to all. The meeting can also be attended
 
 <h4 class="pcum-sub">Arriving in Alicante</h4>
 <p>
-<strong>By air.</strong> <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a> is served by the <strong>C&#8209;6 bus</strong>, which departs from outside the terminal every 20 minutes and reaches the city centre in approximately 25 minutes.<br>
+<strong>By air.</strong> <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a> is served by the <strong>C&#8209;6 bus</strong>, which departs from outside the terminal every 20 minutes and reaches the city centre in approximately 25 minutes. A single ticket costs &euro;4.70, paid on board by card; cash is not accepted.<br>
 <strong>By rail.</strong> Mainline and high-speed services arrive at <strong>Alicante&nbsp;Terminal</strong>, in the city centre; the <strong>Luceros</strong> tram stop is a six-minute walk from the station.
 </p>
 
@@ -269,6 +269,10 @@ Use <strong>TRAM line L2</strong> or <strong>Bus 24</strong>, alighting at <stro
   <span class="maps">Search this exactly in Maps:
   <strong>Edificio 07 - Ciencias 2, Universidad De Alicante, 03690 San Vicente del Raspeig, Alicante</strong></span>
 </div>
+
+<p>
+A single ticket on the tram or the bus costs &euro;1.45. On the bus you may pay contactless on board; for the tram, buy the ticket beforehand from the machine at the stop or on board.
+</p>
 
 <p>
 For a detailed guide on how to get to <strong>Sala de Juntes</strong>, see the PDF below.
