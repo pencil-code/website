@@ -253,13 +253,13 @@ Registration is free of charge and open to all. The meeting can also be attended
 
 <h4 class="pcum-sub">Arriving in Alicante</h4>
 <p>
-<strong>By air.</strong> From <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a>, the <strong>C&#8209;6 bus</strong> runs to the city centre every 20 minutes and takes about 25 minutes.<br>
-<strong>By train.</strong> Trains arrive at <strong>Alicante&nbsp;Terminal</strong>, in the city centre, a six-minute walk from the <strong>Luceros</strong> tram stop.
+<strong>By air.</strong> <a href="https://www.aena.es/en/alicante-elche-miguel-hernandez.html" target="_blank" rel="noopener">Alicante&#8209;Elche Airport (ALC)</a> is served by the <strong>C&#8209;6 bus</strong>, which departs from outside the terminal every 20 minutes and reaches the city centre in approximately 25 minutes.<br>
+<strong>By rail.</strong> Mainline and high-speed services arrive at <strong>Alicante&nbsp;Terminal</strong>, in the city centre; the <strong>Luceros</strong> tram stop is a six-minute walk from the station.
 </p>
 
 <h4 class="pcum-sub">Getting to the university</h4>
 <p>
-Take <strong>TRAM line L2</strong> from Luceros or Mercat to <strong>Universitat</strong>, about 20 minutes; <strong>Bus 24</strong> stops right next to the tram stop. From there it is a ten-minute walk to:
+The campus is reached by <strong>TRAM line L2</strong>, from either <strong>Luceros</strong> or <strong>Mercat</strong>, alighting at <strong>Universitat</strong>; the journey takes approximately 20 minutes. <strong>Bus 24</strong> also serves the campus and stops immediately beside the tram stop. The meeting room is a ten-minute walk from there:
 </p>
 
 <div class="pcum-venue">
@@ -271,9 +271,9 @@ Take <strong>TRAM line L2</strong> from Luceros or Mercat to <strong>Universitat
 </div>
 
 <p>
-The campus is large and the buildings look alike, so the PDF below gives the walking route and the signs to follow.
+The campus is extensive and the buildings are similar in appearance. Detailed directions, including the walking route from the tram stop and the signage to follow within the building, are given in the guide below.
 </p>
-<a class="pcum-cta" href="PCUM2026_gettingthere.pdf" target="_blank" rel="noopener">How to reach the room (PDF)</a>
+<a class="pcum-cta" href="PCUM2026_GettingHere.pdf" target="_blank" rel="noopener">How to reach the room (PDF)</a>
 
 <table class="pcum-table" style="margin-top:20px;">
   <caption>Last services in the evening</caption>
@@ -289,6 +289,7 @@ The campus is large and the buildings look alike, so the PDF below gives the wal
     <tr><td>Bus 24</td><td>22:47</td><td>Calle Per&uacute; 4</td></tr>
   </tbody>
 </table>
+<p class="pcum-cta-note">Timetables are subject to change; please confirm with <a href="https://www.tramalacant.es" target="_blank" rel="noopener">TRAM d&rsquo;Alacant</a> and <a href="https://www.vectalia.es" target="_blank" rel="noopener">Vectalia</a>.</p>
 
 <!-- ACCOMMODATION -->
 <h3 class="pcum-h">Accommodation</h3>
