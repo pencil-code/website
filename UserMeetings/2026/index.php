@@ -263,7 +263,7 @@ Use <strong>TRAM line L2</strong> or <strong>Bus 24</strong>, alighting at <stro
 </p>
 
 <div class="pcum-venue">
-  <strong>Sala de Juntas</strong>, first floor<br>
+  <strong>Sala de Juntes</strong>, first floor<br>
   Facultad de Ciencias II &mdash; <strong>Edificio 07</strong><br>
   Universidad de Alicante, 03690 San Vicente del Raspeig
   <span class="maps">Search this exactly in Maps:
@@ -271,9 +271,9 @@ Use <strong>TRAM line L2</strong> or <strong>Bus 24</strong>, alighting at <stro
 </div>
 
 <p>
-The campus is extensive and the buildings are similar in appearance. For a detailed guide see the PDF below.
+For a detailed guide on how to get to <strong>Sala de Juntes</strong>, see the PDF below.
 </p>
-<a class="pcum-cta" href="PCUM2026_gettingthere.pdf" target="_blank" rel="noopener">Getting to the Sala de Juntas (PDF)</a>
+<a class="pcum-cta" href="PCUM2026_GettingHere.pdf" target="_blank" rel="noopener">Getting to the Sala de Juntes (PDF)</a>
 
 <table class="pcum-table" style="margin-top:20px;">
   <caption>Last services in the evening</caption>
