@@ -327,7 +327,7 @@ For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.deh
   <li><span class="n">Mattia Cielo</span><span class="a">NORDITA, Sweden</span></li>
   <li><span class="n">Clara Dehman</span><span class="a">University of Alicante, Spain</span></li>
   <li><span class="n">Sahel Dey <span class="online">Online</span></span><span class="a">University of Newcastle, Australia</span></li>
-  <li><span class="n">Maria C. Espinoza</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Constanza Espinoza</span><span class="a">University of Bonn, Germany</span></li>
   <li><span class="n">Deepen Garg</span><span class="a">University of Bonn, Germany</span></li>
   <li><span class="n">Kishore Gopalakrishnan <span class="online">Online</span></span><span class="a">IIT Madras, India</span></li>
   <li><span class="n">Oksana Iarygina</span><span class="a">NORDITA, Sweden</span></li>
