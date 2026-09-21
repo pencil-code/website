@@ -228,7 +228,7 @@ The full programme &ndash; talks, tutorials and collaborative coding sessions fr
 The same Zoom link is used for every session, Monday 21 to Friday 25 September. We will also aim to record the sessions, so that anyone who cannot make a particular talk can catch up afterwards.
 </p>
 <a class="pcum-cta" href="https://stockholmuniversity.zoom.us/j/69160607217" target="_blank" rel="noopener">Join on Zoom</a>
-<p class="pcum-cta-note">Meeting ID: 691 6060 7217 &middot; Hosted by Stockholm University. All times are local (CEST, UTC+2).</p>
+<p class="pcum-cta-note">Hosted by Stockholm University. All times are local (CEST, UTC+2).</p>
 
 <!-- SOCIAL ACTIVITIES -->
 <h3 class="pcum-h">Social activities</h3>
