@@ -242,6 +242,14 @@ For the Tuesday excursion, a separate guide describes each of the stops along th
 <a class="pcum-cta" href="Excursion.pdf" target="_blank" rel="noopener">The excursion, stop by stop (PDF)</a>
 <p class="pcum-cta-note">Please note that the social dinner is not covered by the meeting.</p>
 
+<!-- PHOTOS -->
+<h3 class="pcum-h">Photos</h3>
+<p>
+Photos taken during the week are collected in a
+<a href="https://drive.google.com/drive/folders/11_T6j04-3RIeLo0ZbufwhoS5DLCKVugi" target="_blank" rel="noopener">shared folder</a>.
+If you would like a photo of yourself removed, please let me know.
+</p>
+
 <!-- REGISTRATION (closed) -->
  <!--
 <h3 class="pcum-h">Registration</h3>
