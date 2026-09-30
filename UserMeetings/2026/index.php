@@ -248,12 +248,12 @@ For the Tuesday excursion, a separate guide describes each of the stops along th
 Photos taken during the week are collected in a shared folder.
 </p>
 <a class="pcum-cta" href="https://drive.google.com/drive/folders/11_T6j04-3RIeLo0ZbufwhoS5DLCKVugi" target="_blank" rel="noopener">View the photos</a>
-<p class="pcum-cta-note">If you have photos of your own from the week, please send them to me and I will add them to the folder.</p>
+<p class="pcum-cta-note">If you have photos of your own from the week and would like to share them with the group, please send them to me and I will add them to the folder.</p>
 
 <!-- FEEDBACK -->
 <h3 class="pcum-h">Feedback</h3>
 <p>
-If you took part in the meeting, we would be grateful for a few minutes of your time. Your comments help in planning next year's meeting.
+If you took part in the meeting, we would be grateful for a few minutes of your time to share your feedback. Your comments help in planning next year's meeting.
 </p>
 <a class="pcum-cta" href="https://docs.google.com/forms/d/e/1FAIpQLSfyfzLA5sSrFHErnaZafGVl1vdB1nVwIjAXXjuMt4dtO7bp5g/viewform" target="_blank" rel="noopener">Share your feedback</a>
 
