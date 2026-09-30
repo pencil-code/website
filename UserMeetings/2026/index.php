@@ -247,7 +247,6 @@ For the Tuesday excursion, a separate guide describes each of the stops along th
 <p>
 Photos taken during the week are collected in a
 <a href="https://drive.google.com/drive/folders/11_T6j04-3RIeLo0ZbufwhoS5DLCKVugi" target="_blank" rel="noopener">shared folder</a>.
-If you would like a photo of yourself removed, please let me know.
 </p>
 
 <!-- REGISTRATION (closed) -->
