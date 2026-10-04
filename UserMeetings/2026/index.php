@@ -233,7 +233,7 @@ The same Zoom link is used for every session, Monday 21 to Friday 25 September. 
 The recordings of the talks are deposited on Zenodo.
 </p>
 <a class="pcum-cta" href="https://doi.org/10.5281/zenodo.23138822" target="_blank" rel="noopener">Recordings on Zenodo</a>
-<p class="pcum-cta-note">https://zenodo.org/records/23138822</p>
+<p class="pcum-cta-note">https://doi.org/10.5281/zenodo.23138822</p>
 
 <!-- SOCIAL ACTIVITIES -->
 <h3 class="pcum-h">Social activities</h3>
