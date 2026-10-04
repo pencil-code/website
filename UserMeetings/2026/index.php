@@ -270,7 +270,7 @@ Registration is free of charge and open to all. The meeting can also be attended
 <h3 class="pcum-h">Organiser</h3>
 <p>
 Clara Dehman, University of Alicante<br>
-For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
+For any inquiries, please write to <a href="mailto:clara.dehman@gmail.com">clara.dehman@gmail.com</a>.
 </p>
 
 <!-- PARTICIPANTS -->
