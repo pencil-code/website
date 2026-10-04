@@ -230,7 +230,7 @@ The same Zoom link is used for every session, Monday 21 to Friday 25 September. 
 <p class="pcum-cta-note">Hosted by Stockholm University. All times are local (CEST, UTC+2).</p>
 
 <p>
-The recordings of the talks are deposited on Zenodo, one file per presentation.
+The recordings of the talks are deposited on Zenodo.
 </p>
 <a class="pcum-cta" href="https://doi.org/10.5281/zenodo.23138822" target="_blank" rel="noopener">Recordings on Zenodo</a>
 <p class="pcum-cta-note">DOI: 10.5281/zenodo.23138822</p>
