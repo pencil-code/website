@@ -266,6 +266,44 @@ Registration is free of charge and open to all. The meeting can also be attended
 <a class="pcum-cta" href="https://docs.google.com/forms/d/e/1FAIpQLSdWkVAHUsBLANDjyNDBXh-0rCXKdiTA_GeCclYPCQOVD34Caw/viewform?usp=publish-editor" target="_blank">Register for PCUM 2026</a>
 -->
 
+<!-- ORGANISER -->
+<h3 class="pcum-h">Organiser</h3>
+<p>
+Clara Dehman, University of Alicante<br>
+For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
+</p>
+
+<!-- PARTICIPANTS -->
+<h3 class="pcum-h">Participants</h3>
+<ul class="pcum-people">
+  <li><span class="n">Kent Barbey</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Philippe-A. Bourdin</span><span class="a">University of Graz, Austria</span></li>
+  <li><span class="n">Axel Brandenburg</span><span class="a">NORDITA, Sweden</span></li>
+  <li><span class="n">Simon Candelaresi</span><span class="a">University of Stuttgart, Germany</span></li>
+  <li><span class="n">Mattia Cielo</span><span class="a">NORDITA, Sweden</span></li>
+  <li><span class="n">Clara Dehman</span><span class="a">University of Alicante, Spain</span></li>
+  <li><span class="n">Sahel Dey <span class="online">Online</span></span><span class="a">University of Newcastle, Australia</span></li>
+  <li><span class="n">Constanza Espinoza</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Deepen Garg</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Kishore Gopalakrishnan <span class="online">Online</span></span><span class="a">IIT Madras, India</span></li>
+  <li><span class="n">Oksana Iarygina</span><span class="a">NORDITA, Sweden</span></li>
+  <li><span class="n">Neco Kriel</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Vinay Kumar <span class="online">Online</span></span><span class="a">CTS-TIFR, Bangalore, India</span></li>
+  <li><span class="n">Illa R. Losada <span class="online">Online</span></span><span class="a">NORDITA, Sweden</span></li>
+  <li><span class="n">Elisa Mema</span><span class="a">NORDITA, Sweden</span></li>
+  <li><span class="n">Antonino S. Midiri</span><span class="a">University of Geneva, Switzerland</span></li>
+  <li><span class="n">Touko Puro</span><span class="a">Aalto University, Finland</span></li>
+  <li><span class="n">Barshan Ray</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Matthias Rheinhardt</span><span class="a">Aalto University, Finland</span></li>
+  <li><span class="n">Alberto Roper Pol</span><span class="a">University of Geneva, Switzerland</span></li>
+  <li><span class="n">Sauvan Sau <span class="online">Online</span></span><span class="a">IIT Guwahati, India</span></li>
+  <li><span class="n">Jennifer Schober</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Ramkishor Sharma <span class="online">Online</span></span><span class="a">University of Hyderabad, India</span></li>
+  <li><span class="n">Vasco Silver</span><span class="a">University of Bonn, Germany</span></li>
+  <li><span class="n">Isak Stomberg</span><span class="a">Institute of Corpuscular Physics, Spain</span></li>
+</ul>
+
+
 
 <!-- GETTING HERE -->
 <h3 class="pcum-h">Getting here</h3>
@@ -324,42 +362,6 @@ We recommend staying either in <strong>Alicante city centre</strong> or near the
   <li><strong>Further options:</strong> the <a href="https://web.ua.es/en/estidia22/accommodation.html" target="_blank">University's accommodation list</a> and <a href="https://www.booking.com" target="_blank">Booking.com</a>.</li>
 </ul>
 
-<!-- ORGANISER -->
-<h3 class="pcum-h">Organiser</h3>
-<p>
-Clara Dehman, University of Alicante<br>
-For any inquiries, please write to <a href="mailto:clara.dehman@ua.es">clara.dehman@ua.es</a>.
-</p>
-
-<!-- PARTICIPANTS -->
-<h3 class="pcum-h">Participants</h3>
-<ul class="pcum-people">
-  <li><span class="n">Kent Barbey</span><span class="a">University of Bonn, Germany</span></li>
-  <li><span class="n">Philippe-A. Bourdin</span><span class="a">University of Graz, Austria</span></li>
-  <li><span class="n">Axel Brandenburg</span><span class="a">NORDITA, Sweden</span></li>
-  <li><span class="n">Simon Candelaresi</span><span class="a">University of Stuttgart, Germany</span></li>
-  <li><span class="n">Mattia Cielo</span><span class="a">NORDITA, Sweden</span></li>
-  <li><span class="n">Clara Dehman</span><span class="a">University of Alicante, Spain</span></li>
-  <li><span class="n">Sahel Dey <span class="online">Online</span></span><span class="a">University of Newcastle, Australia</span></li>
-  <li><span class="n">Constanza Espinoza</span><span class="a">University of Bonn, Germany</span></li>
-  <li><span class="n">Deepen Garg</span><span class="a">University of Bonn, Germany</span></li>
-  <li><span class="n">Kishore Gopalakrishnan <span class="online">Online</span></span><span class="a">IIT Madras, India</span></li>
-  <li><span class="n">Oksana Iarygina</span><span class="a">NORDITA, Sweden</span></li>
-  <li><span class="n">Neco Kriel</span><span class="a">University of Bonn, Germany</span></li>
-  <li><span class="n">Vinay Kumar <span class="online">Online</span></span><span class="a">CTS-TIFR, Bangalore, India</span></li>
-  <li><span class="n">Illa R. Losada <span class="online">Online</span></span><span class="a">NORDITA, Sweden</span></li>
-  <li><span class="n">Elisa Mema</span><span class="a">NORDITA, Sweden</span></li>
-  <li><span class="n">Antonino S. Midiri</span><span class="a">University of Geneva, Switzerland</span></li>
-  <li><span class="n">Touko Puro</span><span class="a">Aalto University, Finland</span></li>
-  <li><span class="n">Barshan Ray</span><span class="a">University of Bonn, Germany</span></li>
-  <li><span class="n">Matthias Rheinhardt</span><span class="a">Aalto University, Finland</span></li>
-  <li><span class="n">Alberto Roper Pol</span><span class="a">University of Geneva, Switzerland</span></li>
-  <li><span class="n">Sauvan Sau <span class="online">Online</span></span><span class="a">IIT Guwahati, India</span></li>
-  <li><span class="n">Jennifer Schober</span><span class="a">University of Bonn, Germany</span></li>
-  <li><span class="n">Ramkishor Sharma <span class="online">Online</span></span><span class="a">University of Hyderabad, India</span></li>
-  <li><span class="n">Vasco Silver</span><span class="a">University of Bonn, Germany</span></li>
-  <li><span class="n">Isak Stomberg</span><span class="a">Institute of Corpuscular Physics, Spain</span></li>
-</ul>
 
 <!-- POSTER -->
 <h3 class="pcum-h">Poster</h3>
