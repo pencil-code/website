@@ -198,7 +198,7 @@ Technical and scientific presentations, workshops, and open discussions on the P
   </div>
   <div>
     <dt>Venue</dt>
-    <dd>University of Alicante<span>San Vicente del Raspeig, Spain</span></dd> 
+    <dd>University of Alicante<span>San Vicente del Raspeig, Spain</span></dd>
   </div>
   <div>
     <dt>Format</dt>
@@ -228,6 +228,12 @@ The same Zoom link is used for every session, Monday 21 to Friday 25 September. 
 </p>
 <a class="pcum-cta" href="https://stockholmuniversity.zoom.us/j/69160607217" target="_blank" rel="noopener">Join on Zoom</a>
 <p class="pcum-cta-note">Hosted by Stockholm University. All times are local (CEST, UTC+2).</p>
+
+<p>
+The recordings of the talks are deposited on Zenodo, one file per presentation.
+</p>
+<a class="pcum-cta" href="https://doi.org/10.5281/zenodo.23138822" target="_blank" rel="noopener">Recordings on Zenodo</a>
+<p class="pcum-cta-note">DOI: 10.5281/zenodo.23138822</p>
 
 <!-- SOCIAL ACTIVITIES -->
 <h3 class="pcum-h">Social activities</h3>
