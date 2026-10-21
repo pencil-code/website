@@ -23,6 +23,12 @@ The past PCSC meetings are documented in the minutes:
 <li><a href="minutes/">Minutes of PCSC meetings</a></li>
 </ul>
 
+<h3>Teaching materials</h3>
+<ul>
+<li><a href="https://norlx65.nordita.org/~brandenb/teach/PencilCode/">Numerical Experiments</a>
+<li><a href="https://www.youtube.com/watch?v=4Avds1Q6btk&list=PL1io4hS6YJq29NUAlDkdcHvqMddSXZ8Ko">YouTube introduction</a>
+</ul>
+
 <h3>Links related to the Pencil Code</h3>
 <ul>
 <li><a href="https://github.com/pencil-code">GitHub page</a>
@@ -43,11 +49,6 @@ The past PCSC meetings are documented in the minutes:
     <a href="../newsletter/">Back Issues</a>
 </ul>
 
-<h3>Teaching materials</h3>
-<ul>
-<li><a href="https://norlx65.nordita.org/~brandenb/teach/PencilCode/">Numerical Experiments</a>
-<li><a href="https://www.youtube.com/watch?v=4Avds1Q6btk&list=PL1io4hS6YJq29NUAlDkdcHvqMddSXZ8Ko">YouTube introduction</a>
-</ul>
 </div>
 <?php
 	include "inc/footer.inc";
