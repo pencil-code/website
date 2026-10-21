@@ -1,10 +1,7 @@
-<html>
-<head>
-<TITLE>
-Special issue on &quot;Physics and Algorithms of the Pencil Code&quot;
-in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)
-</TITLE>
-
+<!-- $Id$ -->
+<?php
+	 include "inc/header.inc";
+ ?>
 <style>
 	ol {
 		type: 1;
@@ -16,14 +13,11 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)
 		content: ") ";
 	}
 </style>
-</head>
 
-<body bgcolor="white" text="black" vlink="blue">
+<div class="centcolumnpad">
 
-<h1>
-Special issue on &quot;Physics and Algorithms of the Pencil Code&quot;
-in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)
-</h1>
+<h2>Special issue on &quot;Physics and Algorithms of the Pencil Code&quot;<br>
+in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
 
 <ol>
 <li>Brandenburg, A., Candelaresi, S., &amp; Gent, F. A.:&nbsp;2020, &quot;Introduction&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 1-7
@@ -119,11 +113,13 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)
 
 Total page count: 271 pages
 
-<br>
-<br>
-<hr>
+<p>
 <small>
 $Id$
 </small>
+</p>
 
-</html>
+</div>
+<?php
+	include "inc/footer.inc";
+ ?>
