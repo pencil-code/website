@@ -27,7 +27,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="http://norlx51.nordita.org/~brandenb/tmp/editorial/paper.pdf">PDF</A>, 7 pages)
 </li>
 
-<li class="publist">K&#228;pyl&#228;, P. J., Gent, F. A., Olspert, N., K&#228;pyl&#228;, M. J., &amp; <FONT COLOR="#004521">Brandenburg, A.</FONT>:&nbsp;2020, &quot;Sensitivity to luminosity, centrifugal force, and boundary conditions in spherical shell convection&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 8-34
+<li class="publist">K&#228;pyl&#228;, P. J., Gent, F. A., Olspert, N., K&#228;pyl&#228;, M. J., &amp; Brandenburg, A.:&nbsp;2020, &quot;Sensitivity to luminosity, centrifugal force, and boundary conditions in spherical shell convection&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 8-34
 (<A NAME="tex2html51"
   HREF="http://arXiv.org/abs/1807.09309">arXiv:1807.09309</A>, <A NAME="tex2html52"
   HREF="http://esoads.eso.org/abs/2018arXiv180709309">ADS</A>, <A NAME="tex2html53"
@@ -58,7 +58,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   <A HREF="http://norlx51.nordita.org/~brandenb/pencil-code/PCSC/SpecialIssue/9_1_2019_Modelling.pdf">PDF</A>, 29 pages)
 </li>
 
-<li class="publist">Schober, J., <FONT COLOR="#004521">Brandenburg, A.</FONT>, &amp; Rogachevskii, I.:&nbsp;2020, &quot;Chiral fermion asymmetry in high-energy plasma simulations&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 106-129
+<li class="publist">Schober, J., Brandenburg, A., &amp; Rogachevskii, I.:&nbsp;2020, &quot;Chiral fermion asymmetry in high-energy plasma simulations&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 106-129
 (<A NAME="tex2html52"
   HREF="http://arXiv.org/abs/1808.06624">arXiv:1808.06624</A>, <A NAME="tex2html53"
   HREF="http://esoads.eso.org/abs/2018arXiv180806624">ADS</A>, <A NAME="tex2html54"
@@ -66,7 +66,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/SBR20.pdf">PDF</A>, 24 pages)
 </li>
 
-<li class="publist">Roper Pol, A., <FONT COLOR="#004521">Brandenburg, A.</FONT>, Kahniashvili, T., Kosowsky, A., &amp; Mandal, S.:&nbsp;2020, &quot;The timestep constraint in solving the gravitational wave equations sourced by hydromagnetic turbulence&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 130-161
+<li class="publist">Roper Pol, A., Brandenburg, A., Kahniashvili, T., Kosowsky, A., &amp; Mandal, S.:&nbsp;2020, &quot;The timestep constraint in solving the gravitational wave equations sourced by hydromagnetic turbulence&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 130-161
 (<A NAME="tex2html22"
   HREF="http://arXiv.org/abs/1807.05479">arXiv:1807.05479</A>, <A NAME="tex2html23"
   HREF="http://esoads.eso.org/abs/2018arXiv180705479R">ADS</A>, <A NAME="tex2html43"
@@ -82,7 +82,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/BD20.pdf">PDF</A>, 29 pages)
 </li>
 
-<li class="publist">Singh, N. K., Raichur, H., K&#228;pyl&#228;, M. J., Rheinhardt, M., <FONT COLOR="#004521">Brandenburg, A.</FONT>, &amp; K&#228;pyl&#228;, P. J.:&nbsp;2020, &quot;f-mode strengthening from a localized bipolar subsurface magnetic field&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 196-212
+<li class="publist">Singh, N. K., Raichur, H., K&#228;pyl&#228;, M. J., Rheinhardt, M., Brandenburg, A., &amp; K&#228;pyl&#228;, P. J.:&nbsp;2020, &quot;f-mode strengthening from a localized bipolar subsurface magnetic field&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 196-212
 (<A NAME="tex2html1"
   HREF="http://arXiv.org/abs/1808.08904">arXiv:1808.08904</A>, <A NAME="tex2html2"
   HREF="http://esoads.eso.org/abs/2018arXiv180808904">ADS</A>, <A NAME="tex2html3"
