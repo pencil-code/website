@@ -1,0 +1,96 @@
+Minutes of the PCSC meeting of 24 June 2020, 20:30 - 21:45 CEST
+
+Present: Wlad, Matthias (Chair), Nils, Wolfgang, Axel
+
+0. Person to take the minutes:
+
+   *) Axel volunteered.
+
+1. Additions to the agenda and approval
+
+   *) Axel suggested to discuss an idea to have a Pencil Code Newsletter.
+   *) Item was accepted.
+   *) Agenda was approved.
+
+2. Discussion on upcoming Pencil Code User Meeting (PCUM)
+
+   *) status reports on slope-limited diffusion, GPU development,
+      coupling Pencil Code with other codes, multiple special modules
+   *) Code cleanup (deprecating old items, e.g. old fftpack)
+   *) Recognize code duplication 
+   *) Discussion/recommendation about HDF5 as default I/O scheme
+   *) Matthias is in touch with Simon about these items.
+
+3. Information about addition of new developers by owners
+
+  The list of committers (assembled by Axel) is on:
+  https://www.nordita.org/~brandenb/pencil-code/PCSC/
+  Comments were voiced that it is not fully up-to-date.
+  It was *decided* to move this list (including all PCSC material)
+  under pencil-code/license, because this directory already
+  contains related material.
+  Owners who add new committers should identify themselves in the list. 
+
+4. DOI for the Pencil Code and incompatibility between the
+   GPL license of the Pencil Code and that used by zenodo.
+
+   *) Axel issued a comment to zenodo a little over 24h ago.
+      (They corrected it the following day to "GPL v2.0 or later".)
+   *) Wolfgang was not sure a DOI is appropriate for a code.
+      Referring to the SHA-1 with the date should be sufficient.
+   It was *decided* to await the response from Zenodo.
+   The PCSC has has been informed about Zenodo's positive response.
+ 
+5. Pencil Code paper: does the GAFD special issue satisfy the goal?
+
+   *) A dedicated paper with limited space is now out of the question
+   *) Matthias said that the manual is actually the best venue
+      to discuss code properties and behavior.
+   *) It was *decided* that the manual should be given a DOI during
+      the next PCUM (Axel to run a demonstration) after some clean-up.
+
+6. Discussion on ethic behavior regarding newly developed code
+
+   *) Matthias reviewed the fact that, technically, pieces of code
+      that are committed can be used freely by everybody for work
+      and publications.
+   *) It was discussed whether or not it is ethical for the scientist
+      writing a new paper to invite the respective code developer onto
+      the paper.
+   *) Nils noted that this possibly conflicts with the Vancouver agreement.
+      http://www.codex.vr.se/en/etik2.shtml
+   *) Nils summarized the 3 options. (i) just use the code,
+      (ii) invite as coauthor, (iii) to inform developer of paper activity
+   *) It was *decided* that Matthias drafts a proposal on (iii) for the
+      manual to be discussed at the next PCUM.
+
+7. Gus Augustson, the AAS data officer, is invited to explain the AAS data policy
+   at the next PCUM. This proposal was welcome.
+
+8. Matthias informed that this was likely the last meeting of the current
+   composition of the committee. He informed about the election procedure
+   of the new committee. The list of voters exists and those people
+   need to be asked whether they would be willing to serve if selected.
+   Axel also raised concerns about a low fraction of female owners.
+   It was agreed to promote women's role in the Pencil Code community
+   whenever possible.
+
+9. Pencil Code Newsletter.
+   The purpose would be to inform the community about latest developments,
+   recent papers using the code (1 paragraph maximum per paper). It could
+   also include relevant job opportunities.
+
+   *) Axel volunteered as the first editor, Matthias volunteered as assistant
+   *) It was *decided* to make it in PDF format, so pictures can be included.
+   *) It was *decided* to aim for about 3 issues per year, with 1 month
+      notification to submit contributions and a 1 week reminder.
+      It will be sent to the owners before publishing it.
+   *) It was *decided* to attempt a first issue by the time of the PCUM.
+      It may be short (just 2 pages).
+
+10. The meeting closed at 21:45, but was followed by an informal
+    discussion about possible security issues with zoom, and whether
+    the fact that we (e.g. Aalto or Stockholm University) use European
+    servers mitigates security concerns.
+
+$Id: 2020_06_24.txt,v 1.13 2020/06/27 06:31:12 brandenb Exp $

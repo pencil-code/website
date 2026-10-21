@@ -1,0 +1,117 @@
+Minutes Pencil Code Steering Committee: 23 April 2021, 13:00 - 15:30 CEST
+
+Present: Nils Haugen (chair), Piyali Chatterjee, Philippe Bourdin,
+Matthias Rheinhardt, Axel Brandenburg
+
+Agenda:
+- Approval of agenda
+- Election of secretary for the meeting
+- The upcoming PCUM
+                - conference platform (break-out rooms)
+                - anything else?
+- Should we use more special modules to slow down entropy increase?
+                - is it needed?
+                - which existing modules can be made "special"?
+                - how to regulate new modules?
+                - should we present some ideas to the PCUM?
+- Evaluation of the Pencil Code office hours
+- Travis
+- Code of Conduct (CoC) (version 1.4 vs. 2.0, not easy to find)
+- AOB
+
+=======================================================================
+- Approval of agenda
+
+Under AOB, it was suggested to add:
+  . feedback on the newsletter (Matthias)
+  . the pc_varcontent.pro problem (Axel)
+  . setting up the the key file for github
+  . compile problem with io_dist.f90
+
+Agenda was approved
+
+-----------------------------------------------------------------------
+- Election of secretary for the meeting
+
+Secretary of the meeting: Axel volunteered and was approved
+
+-----------------------------------------------------------------------
+- The upcoming PCUM
+    - conference platform (break-out rooms)
+        . Philippe reported on zoom tests done with Jennifer
+        . We discussed usefulness of using Slack, is already in place
+        . Discussed slowness of screensharing with zoom
+            (Philippe mentioned dependence on window size)
+  
+    - anything else?
+        . interest in a public participants list was expressed
+        . several missing committers were identified
+            Axel and Nils will contact several people
+
+-----------------------------------------------------------------------
+- Should we use more special modules to slow down entropy increase?
+    - is it needed?
+        . increasing complexity of the code was emphasized
+        . moving src/modules to special/ would not help
+        . extra hooks required really complex modules (e.g., overset grids)
+        . other issues: postprocessing ("cloning" of run.f90)
+        . hidden operations (generation of io_dist.f90) can lead to problem
+            (although they should never happen; item moved to AOB)
+        . Philippe proposed a standardized interface (API)
+        . Philippe will present this at the PCUM 2021
+        . limited availability only in idl (e.g. HDF5 conversion) is a problem
+
+    - which existing modules can be made "special"?
+        . only a few examples where mentioned: cosmicray*.f90, src/chiral.f90
+        . some modules could be moved to folders, e.g. magnetic/bfield.f90
+        . special.f90 has functionality to absorb dummy calls
+        . Philippe demonstrated how Makefile.src needs to be adapted
+             to do this also for energy_common using mkdummyinc.
+             Nils to continue developing this further.
+        . particle routines take up over 25% of all modules
+             (could be moved to a particle/ folder)
+
+    - how to regulate new modules?
+        . was not discussed
+
+    - should we present some ideas to the PCUM?
+        . Philippe to present standardized interface (API) postprocessing idea
+        . Matthias and Philippe to facilitate discussion on code complexity
+        . Matthias and Philippe to discuss status on varcontent.pro problem
+
+-----------------------------------------------------------------------
+- Evaluation of the Pencil Code office hours
+    . We had 4 office hours so far (Jan, Feb, Mar, Apr)
+    . Maybe not many people are aware of it and know what it is
+    . examples: background on mass diffusion (not discussed in manual)
+    . some information on code implementation to add to doc/implementation
+    . to get supervisors to advertise to their students
+
+-----------------------------------------------------------------------
+- Travis
+    . Philippe to investigate and set up on travis.com
+    . to check whether we have an account (travis.yml)
+
+-----------------------------------------------------------------------
+- Code of Conduct (CoC) (version 1.4 vs. 2.0, not easy to find)
+    . The version is 2.0, and is linked from README.md and from the
+      Nordita homepage (http://pencil-code.nordita.org/contact.php) via
+      https://www.nordita.org/~brandenb/pencil-code/PCSC/
+
+-----------------------------------------------------------------------
+- AOB
+   - Newsletter as public outreach
+       . good for archiving major steps
+       . to collect and publicize feedback from students
+
+  - github: to have access in future, we must in future generate a
+    "Personal access tokens" (https://github.com/settings/tokens)
+    For this to work, one must "Select scopes"
+    for example "repo" and "Full control of private repositories"
+    One finds this under "https://github.com/settings/profile"
+
+  - beskow problem
+       . the compile problem with io_dist.f90 could not reproduced.
+
+Nils had to leave at 15:15, after having discussed the Newsletter.
+Philippe had to leave at ~15:30 after having started access tokens.

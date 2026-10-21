@@ -1,0 +1,97 @@
+Minutes of the PCSC meeting on May, 12th, 2025, 14:00 CEST
+==========================================================
+
+Present: Philippe Bourdin     (PB)
+         Axel Brandenburg     (AB)
+         Piyali Chatterjee    (PC)
+         Nils Haugen          (NH)
+         Matthias Rheinhardt  (MR)
+
+Abbreviations: AHC = ad-hoc committee
+               AP = accusing part (W. Lyra, D. Carrera)
+
+0) Discussion of order of items in Axel's agenda proposal
+
+1) Agenda approved
+
+2) Secretary of the meeting: MR
+   Recording of the meeting decided by request of MR
+
+3) Minutes of previous meeting / ToR:
+
+   new items in ToR: A. Roper Pol is owner 
+                     duty of owners: to assess and check that list of Committers and Owners is up-to-date
+                     no deletion of project by any owner allowed
+   all these changes were approved (the red colors have now been removed)
+
+4) Allegation of one user that the current PCSC has no mandate (elections were overdue for too long)
+
+   MR: agrees, but parties of the current conflict (see 5)) have the freedom to accept or reject an AHC,
+       if installed by the current PCSC -> AHC could act legally
+       if not accepted: election of new PCSC and afterwards establishing the AHC
+       no direct response from that user to MR's respective message
+   PB: during overdue time, PCSC can still act (according to general practice) until elections completed
+   NH: disagrees as PCSC's duty was to hold elections -> no mandate
+       investigation is sensitive topic -> to be postponed
+   PB: agrees
+
+5) Status of allegations by two users
+
+   Discussion about the chances to investigate the allegations by an AHC:
+   - agreed that PCSC is entitled to take initiative according to ToR
+   - AHC needs cooperation of both parties, AP is declaredly unwilling, though
+   - different opinions on whether AP should be asked about agreeing with/wanting investigation -> no conclusion
+
+   AB: without investigation, AP's allegations would appear approved among recipients -> 
+       a clarifying closure is needed
+       likely violation of Code Of Conduct by AP -> reaction of PCSC needed
+       AP's claim of repeated issues indicating degrading code culture likely wrong, only one issue (2018-2022) -> tb clarified
+
+   PC: denial of formal engagement by AP not acceptable as PC community (including students etc.) must keep coherence;
+       for sustainability, formal structure is needed, documentation of recent events is needed as work material for next PCSC
+       investigation is not primarily against anybody, but for the advancement of code and community
+       lmassdiff_fix=T: leads to disagreement with observations -> implementation maybe wrong
+       needs more systematic consideration
+
+   PB: documentation should include a statement of the involved parties: do they want the next PCSC to investigate the issue?
+       as an argument in further conflicts
+   
+   MR: documentation should reconstruct breaches of the code which led to conflict
+       should be sent to AP for correction/approval, perhaps by new PCSC
+
+   Opening a talking channel to AP is discussed (resumed and decided in 6)).
+
+   W. Dobler's comments regarding the current conflict were discussed: his proposals only loosely connected
+
+ 6) Mail soliciting contributions for next newsletter
+
+    Agreed that e-mail to pencil-code-discuss, prepared by AB, soliciting contributions to upcoming newsletter 
+    regarding the code philosophy should be sent out.
+
+    Handling of recent conflicts about code philosophy is reiterated: direct contact can be productive
+    Agreed that NH will contact W. Lyra and propose zoom talk on the matter.
+    Further steps of PCSC to be decide afterwards.
+
+ 7) The next elections
+
+    MR: preliminary list of candidates available,
+        will set up ADoodle when list of candidates is finalized 
+    NH: number of candidates should be clearly bigger than five for credibility
+
+    AB/MR/PB convene later to finish the list of possible voters, which PB prepares
+    Clara Dehman should be observer of election, to be asked by MR for confirmation.
+
+ 8) Critical assessment of the operations of the PCSC (Sect. 3 of ToR)
+   
+    Ph.: by tradition given at PCUM
+    Respective duties of PCSC were reviewed, following tradition, account on its activity will be given at PCUM, 
+    will include self-criticism of delayed election
+ 
+ 9) Other items
+
+    - committers do not get commit messages
+      PB: GitHub delivers to Google Groups, not sent out from there
+          proposes to subscribe all committers to GitHub, thus avoiding Google Groups
+      AB: will provide list of Google Group subscribers to PB
+
+  Meeting concluded May, 12th, 2025, 15:25 CEST

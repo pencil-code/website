@@ -1,0 +1,71 @@
+Date: 2024.06.07
+Participants: Philippe, Axel, Piyali, Matthias
+Fabio participated for the first three points on the agenda.
+
+Agenda:
+1) approval of agenda, incl co-opts
+2) secretary of the meeting
+3) status on PCUM
+4) review of ToR; see
+    http://norlx65.nordita.org/~brandenb/pencil-code/PCSC/ToR/ToR.pdf
+5) status on elections
+6) review UserMeetings/2024/agenda.txt; see
+    http://pencil-code.nordita.org/UserMeetings/2024/agenda.txt
+
+1) Approval of agenda
+The agenda was adopted
+
+2) Secretary of the meeting
+Nils was selected as secretary of the meeting
+
+3) Status on PCUM
+* Fabio joined for this agenda item
+* Only 5 people have registered for now
+* Meeting room for 30 people already booked
+* People should start thinking about accommodation
+* Internet connection in the institute is troublesome - due to
+  previous attack. They need to know beforehand if people need access
+  to resources outside the institute, but hopefully everything is OK by
+  September. Fabio will inform participants when time approaches. Axel
+  asks if port 2401 is open (used by CVS). Fabio will check and make
+  sure it works.
+* Fabio does not know how to proceed with the agenda for the PCUM,
+  since people have not yet informed that they want to give presentations
+  or organize sessions. Philippe says that Fabio only has to make
+  a rough agenda saying when there will be presentations - and an
+  approximate schedule for the week. It is important to have enough
+  time for discussion. Should also allocate time for coding sessions,
+  which may require access to one or two extra small rooms (preferably
+  with screens).
+* Philippe asked if there is any outlook or plan for any financial
+  support for the meeting. Fabio informed that there is not.
+* It might be good to have some lectures dedicated to specific modules
+  of the code for newcomers
+* Matthias would like to inform as many as possible about the GPU
+  ability of the code, and he is therefore wondering if there is a GPU
+  machine at the institute for such demonstrations. Fabio will check.
+* It was suggested that Fabio approaches specific people and encourage
+  them to register for the meeting with personal invitations
+* One of the first points on the agenda should be "Summary from the
+  PCSC", which is typically less than 30 min
+* Another point in the beginning will be "Opening remarks" by Axel
+* Since no funding is available, one should have a registration
+  fee of around EUR 30 per person. This will cover welcome reception
+  and coffee breaks.
+* In general, Fabio could use the agenda from last year to prepare a
+  draft agenda for this year's meeting.
+* Fabio should recommend some accommodations for the participants
+
+4) Review of ToR
+We need to decide if we should use the word administrator or owner
+(or something else) to identify those that have rights to add new
+committers. Everybody should think about a good term until next week.
+
+5) Status on elections
+Matthias suggest two last weeks of June or from early August on for the
+next election to the PCSC.
+It was agreed to have the election end of August.
+ 
+6) Review UserMeetings/2024/agenda.txt; see
+This point was done as a part of item 3) Status on PCUM
+

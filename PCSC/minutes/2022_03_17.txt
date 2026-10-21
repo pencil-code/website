@@ -1,0 +1,56 @@
+MOM PCSC meeting 17th March, 2022 (11:00-12:40 CET)
+
+participants: 
+Nils Haugen, 
+Axel Brandenburg,
+Philippe Bourdin,
+Piyali Chatterjee,
+Matthias Rheinhardt
+
+Piyali volunteered as secretary of the meeting. 
+
+1. About PCUM-22 (May 4-10, 2022, without the weekend)
+a. Nils asked for a status of PCUM-22 preparation
+Piyali reported about website and start of registration. 
+
+b. Jennifer created the slack channel in 2021 . 
+All tested the old slack channel and agreed that the same can be used for pcum-2022
+
+c. Gathertown may have screen sharing problems. Philippe noted, the interaction is best when there are more people. 
+It was agreed that we can have social gatherings over zoom by creating groups if needed. 
+
+d. Time zone difference incompatibilities. Final schedule depends on participants from the far west.
+    MST   EST   CEST  India
+    2:00  4:00  10:00 13:30  default begin of the day
+   10:00 12:00  18:00 21:30  default end of the day
+
+f. close captioning over zoom (3rd party software), voice recognition (Piyali to try over zoom)
+Add link to GitHub page
+
+g. For the weekly seminar slot at IIA, it was proposed that Piyali
+speaks about their recent Nature paper entitled "Polymeric jets
+throw light on the origin and nature of the forest of solar spicules"
+(https://www.nature.com/articles/s41567-022-01522-1)
+
+g. Axel proposed Inviting a speaker from a different code community. 
+Perhaps particle or combustion, turbulent channel flows (AMR)
+Matthias/Philippe: Topic of numerical instability of explicit dissipation? (please correct) 
+Axel suggested any speaker participating in Benchmarking by other people where Pencil code is also represented.
+Talk at the beginning on review of the year for pencil code in pcum-22 by Matthias.
+IIA Astrophysics seminar/webinar by Piyali. 
+Talk by Ewa/Nils.
+
+2. New Owners
+
+PCSC unanimously agreed to make Jennifer Schober an owner if she agrees
+
+3. Review of office hours
+
+Move the time, shift to 2nd Thursday (1 pm CET/CEST)
+set the agenda at the beginning of each meeting in consultation with participants. 
+
+4. Continue with Newsletters (usually 3 per year)
+
+5. AOB
+
+$Id: 2022_03_17.txt,v 1.5 2022/03/19 13:25:15 brandenb Exp $

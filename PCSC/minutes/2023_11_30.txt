@@ -1,0 +1,143 @@
+Minutes of Nov 30, 13:00-14:45
+
+Present members: Axel, Matthias, Nils, Philippe, Piyali
+
+Agenda:
+1. Acceptance of agenda
+2. Secretary of the meeting
+3. Problems with svn bridge removal
+4. Possible solutions to the svn bridge removal
+5. Next meeting
+6. AOB
+7. End of Meeting
+
+-----------------------------------------------------------------------------
+Executive summary: We decided to try out solution "D" (below):
+mirroring back to github; GitHub check-in would then no longer be possible,
+but one can still check in via git after having changed the URL.
+This solution is based on a software called: subgit.com
+-----------------------------------------------------------------------------
+
+1. Agenda accepted
+
+2. Secretary: Axel writes the minutes
+
+3. Problems with svn bridge removal
+
+  The current svn bridge will be removed on 8 Jan 2024,
+  so there is little time to react.
+
+  Discussion on the current usage of svn bridge:
+    Piyali switched to git because of svn problems in 2015
+      still lost when detached head problem occurs
+    Matthias prefers svn because of its simplicity 
+      git requires a one week's course to get the basics right
+      error messages often misleading
+    Philippe: git has intermediate "stage" and "stash" layers
+      (meta universes)
+    Matthias: scientific results should be reproducible
+      published papers contain svn version numbers.
+    Axel: dates have been used as well (+also tags)
+    Matthias: issues with international conventions/protocols about
+              reproducibility in science when old SVN version
+              numbers turn meaningless
+      --> Matthias to formulate another response to GitHub people
+      can GitHub reconstruct version numbers,
+      is the svn bridged version archived?
+
+    Piyali: can mapping of all version numbers to hashes?
+    Matthias: they should do it
+    GitHub status of 2020 is saved on microfilm
+    It is located in Svalbard: Arctic Code Vault Contributor
+
+    Matthias was worried that one cannot commit selectively,
+    but Wolfgang explained in an earlier email that one says:
+      git rebase -i […]  # reorder commits, if necessary
+      git push github LAST_COMMIT_TO_PUSH:master
+
+  Problems with the current auto test:
+    Philippe explained that the current script for displaying the last
+    working version is based on bisecting based on svn version number.
+    Unclear how this could be made work with git.
+
+4. Possible solutions
+
+  Philippe discussed 5 solutions to the problem
+  A) don't worry about svn
+  B) move to another service that has no git
+  C) move to another service that has svn bridge (bit bucket; license)
+  D) own server for svn-git synchronization, mirroring back to github:
+     github becomes read-only, would preserve publicity and archiving
+  E) same, but w/ ci on github on unsafe basis (branched, out of sync)
+     unsafeness could perhaps be addressed by requesting check-ins to
+     be announced
+
+To A) work with git script (Toby wrote on during 2016 PCUM,
+      but this didn't work for Philippe
+
+To D) based on software called: subgit.com
+      It is free for us (academic usage)
+      Company located in Prague.
+      Check-in history would still show up on "contributors"
+      Could service be stopped? But software is downloaded,
+      so we always have access to it.
+
+Which of the 5 alternatives are irreversible? A, B, C
+
+To D) just need to change git "origin" URL; can easily be changed back.
+      After the switch, the use of old url yields error message
+      when one wants to push to GitHub
+      The relevant info should be put on pencil-code home page.
+
+      could try out for a short time with a completely "playground"
+      repository.
+
+      Concurrent check-ins on git and svn are prevented by locking
+      mechanism. This just means that it is waiting and the check-in
+      takes a bit more time.
+
+      The new URL could be called pencil-code.org,
+      and the owner could be changed easily.
+      We discussed that the owner must be a legal body
+      in the long run. It could be a foundation.
+
+  Discussion on having a foundation:
+    It must be registered in a country of choice
+    Need bylaws, a notary would register it at a local court
+    Need yearly meetings
+    Need to make tax declaration (every year)
+    Need start-up capital
+    Need to specify goals
+
+5. Next meeting: 11 Dec, 13:00 CET
+
+6. AOB: 
+   a. Discussion on the next round of elections.
+      Matthias noted that the current list of eligible owners is:
+
+     Sven Bingert <sven.bingert@gwdg.de>,
+     Philippe Bourdin <Philippe.Bourdin@oeaw.ac.at>,
+     Axel Brandenburg <brandenb@nordita.org>
+     Simon Candelaresi <simon.candelaresi@gmail.com>
+     Piyali Chatterjee <mppiyali@gmail.com>,
+     Boris Dintrans <boris.dintrans@cines.fr>,
+     Wolfgang Dobler <wdobler@gmail.com>,
+     Frederick Gent <frederick.gent@aalto.fi>,
+     Nils E Haugen <Nils.E.Haugen@sintef.no>,
+     Tobias Heinemann <tobias.heinemann@gmail.com>,
+     Anders Johansen <anders.johansen@sund.ku.dk>,
+     Maarit Korpi-Lagg <maarit.korpi-lagg@aalto.fi>,
+     Petri Käpylä <pkapyla@leibniz-kis.de>
+     Wladimir Lyra <wladimir.lyra@gmail.com>,
+     Dhrubaditya Mitra <dhruba.mitra@gmail.com>,
+     Matthias Rheinhardt <matthias.rheinhardt@aalto.fi>,
+     Jennifer Schober <schober.jen@gmail.com>,
+     Joern Warnecke <warnecke@mps.mpg.de>,
+     Chao-Chin Yang <ccyang@unlv.edu>,
+
+   Matthias will send email to them for confirmation.
+
+   b. deadline for "advertisement" input from eligible owners: 13 Dec
+
+7. End of Meeting: 14:45
+

@@ -1,0 +1,61 @@
+
+* Pencil Code Steering Committee Skype Meeting 2016-12-12
+
+  - Time :: 21:00 – 22:40 CET
+  - Participants ::
+    - Axel Brandenburg
+    - Wolfgang Dobler
+    - Nils Haugen
+    - Anders Johansen
+    - Matthias Rheinhardt
+  - Author of these minutes :: Wolfgang
+
+
+** Selection of Chairman
+   Axel was elected as chairman of the committee
+
+   The chairperson
+   - is elected for one year
+   - calls meetings
+   - chairs meetings
+   - puts minutes online
+
+
+** Terms of Reference
+   [For details, see the latest draft, which will be circulated soon]
+
+   - We draft the Terms of Reference (ToR)
+   - Send them to all Owners
+   - Discuss at the next User Meeting
+   - Vote during the next User Meeting or shortly thereafter
+   - Quorum: 2/3 of all Voters
+
+   - “Major changes to ToR should wait until the next User Meeting”
+      The meaning of /major changes/ is to be determined by the committee;
+      examples include:
+     - terms of election
+     - terms of including new (or excluding existing) Owners
+
+   - Major code changes: e.g. not backwards-compatible features that are
+     not optional (i.e. cannot be selected / deselected by switching
+     modules)
+
+   - Who may vote [on the committee, and on the Terms of Reference]?
+     → E.g. Owners + some more Committers?
+     (This question will need to be clarified at the next PCSC meeting.)
+
+   - Thus we would have
+     - Owners
+     - Voters
+     - Committers(?)
+     and need to define their relationship
+
+   - How often should we meet? Suggestions were:
+     - 6 times a year
+     - 3 times a year
+     - once a year (2 months before the User Meeting), plus on demand
+       - in that case, it must be easy to convene a meeting when an issue
+         comes up
+       - We inform Owners of upcoming meetings
+       - Owners can request a committee meeting
+

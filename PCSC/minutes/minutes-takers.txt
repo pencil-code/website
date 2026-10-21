@@ -1,0 +1,18 @@
+2016_12_12.txt	Wolfgang  (chair Axel)
+2017_05_09.txt	Matthias
+2018_04_10.pdf	Nils      (chair: Matthias)
+2019_06_10.pdf	Wlad
+2020_06_24.txt	Axel      (chair: Matthias)
+2020_11_27.pdf	Philippe
+2021_04_23.txt	Axel      (chair: Nils)
+2022_03_17.txt	Piyali
+2023_06_12.txt	Philippe  (chair: Philippe)
+2023_11_30.txt	Axel
+2024_06_07.txt	Nils
+2024_09_27.txt	Philippe
+2024_11_12.txt	Piyali
+2025_05_12.txt	Matthias
+2025_06_12.txt	Philippe  (chair: Philippe)
+2025_10_24.txt	Philippe
+2026_06_09.txt	Jennifer
+2026_10_21.txt	Axel      (chair: Philippe until next time)

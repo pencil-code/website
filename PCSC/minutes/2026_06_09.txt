@@ -1,0 +1,117 @@
+                 --- Preliminary ---
+
+Minutes of the PCSC meeting of June, 9th, 2026, 10:00 CEST
+==============================================================
+
+Present: Philippe Bourdin     (PB)
+         Axel Brandenburg     (AB)
+         Piyali Chatterjee    (PC)
+         Matthias Rheinhardt  (MR)
+         Jennifer Schober     (JS)
+Guest:   Clara Dehman         (CD)
+
+The meeting was held online with CD as a guest during point 4.
+
+1. approval of the agenda
+
+The agenda proposed by Philippe was approved.
+
+
+2. secretary of the meeting
+
+JS is the secretary and writes the minutes.
+
+
+3. approval of the minutes of the meeting of 24 October 2025
+
+The previous minutes on the branches for development initiated a
+discussion, which was moved to the Discussion item on whether and
+how (newsletter) the discussion of branches for development should be
+continued; MR: rebase option is now enforced by source sourceme.sh,
+ which automatically updates the user's .git/config file.
+After a short discussion on the new rebase option, - using branches
+for development, the minutes of the previous meeting were approved
+unanimously.
+
+4. next Pencil Code User Meeting (2026)
+
+CD: We need to make up the schedule.
+
+PB: The list of registered participants should be published. So far,
+only six people have registered.
+
+AB: Two people - at least Oksana and Axel's new postdoc - have a
+conflicting cosmology meeting and might only be able to join partially.
+
+AB: We should split up people who do/join tutorials, for example GPUs,
+and others who do code development.
+
+JS: Tutorials are important for new users, especially since there is no
+school this time.
+
+PB: Should we allow online participation? We should check with new people
+which tutorial topics would be interesting for them. Add a text field to
+the registration form: “Do you want to give a tutorial or science talk,
+or would you like to learn about certain topics?”
+
+MR: We should try to attract more new users; there are many competing codes.
+
+AB: Admin tutorial: Right now, PB is the only person in charge of managing
+users. It would be good to also give AB access to the svn server and to
+have documentation on how to modify GitHub repository settings in case
+of an emergency swap with the svn server. Instructions can be checked
+in as readme_github. This discussion will be added to the agenda of the
+PCUM. MR: An emergency plan is needed; something should be written down.
+
+CD: One big room is booked for the whole week. Smaller rooms will also
+be booked. Outside sessions are possible; CD will look for a portable
+whiteboard.
+
+AB: A preliminary agenda should be put on the website, and presentations
+should be uploaded.
+
+CD: Potentially, some people can be invited to the meeting, with travel
+costs covered.
+
+AB: Agenda for day 1: 
+i) Welcome and history of PC (AB)
+ii) Code development over the past years; maybe after the tutorials,
+    or perhaps better on day 3 (MR)
+iii) Introduction of participants
+
+AB: Talks should not be too general. Theory should be verified with the PC.
+CD should ask people to talk about topics close to PC.
+
+CD: Adding a talk on physics-informed neural networks. MR says that
+this is also used by a student in PC.
+
+AB: Invite Kerstin Kunze again, as well as people from the PARODY code
+for a dynamo discussion.
+
+JS: Extra Zoom link for beginner tutorial, to take place on Monday. AB:
+Alternatively, office hours during the PC.
+
+CD: We should meet again at the beginning of August to finalize the
+agenda, once registration has closed. Alternatively, we could use an
+office hour.
+
+CD: Conference dinner on Wednesday or Thursday, depending on the number
+of participants. Lunch at a nearby cafeteria; tables probably cannot be
+reserved. Excursion, potentially to a castle in town.
+
+
+5. other business
+
+- Office hours: 
+The next PC Office Hours will exceptionally take place on Monday,
+15 June 2026, at 3:30 pm.
+
+- Newsletter:
+Next newsletter should be finished by June 23 2026. AB will add more
+papers; MR added a section on the rebase option. PB will add a section
+on pc_build updates.
+
+
+6. End of meeting
+
+11:47 CEST

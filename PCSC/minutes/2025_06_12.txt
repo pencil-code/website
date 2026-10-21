@@ -1,0 +1,66 @@
+Minutes of the PCSC meeting of June, 12th, 2025, 11:00 CEST
+===========================================================
+
+Present: Philippe Bourdin     (PB)
+         Axel Brandenburg     (AB)
+         Piyali Chatterjee    (PC)
+         Nils Haugen          (NH, agenda item 5)
+         Matthias Rheinhardt  (MR)
+         Jennifer Schober     (JS)
+
+0. constituent meeting of new PCSC
+Clara Dehman communicated the election results on 23rd of May 2025 to all voters.
+
+The newly elected PCSC members are:
+- Axel Brandenburg (15 votes)
+- Philippe Bourdin (12 votes)
+- Matthias Rheinhardt (11 votes)
+- Jennifer Schober (9 votes)
+- Piyali Chatterjee (8 votes)
+
+The PCSC welcomes its new member Jennifer Schober and thanks its leaving member Nils Haugen.
+The newly elected PCSC constitutes itself formally from this point.
+
+1. approval of the agenda
+
+The agenda proposed by Axel was approved after a short discussion of the items.
+
+2. secretary of the meeting
+
+Philippe is the secretary and writes the minutes.
+
+3. chair of the PCSC
+
+Philippe was the chair of the PCSC since 2023.
+Philippe offers to chair the PCSC for the next 1.5 years and was elected unanimously.
+
+4. status of the minutes of 12 May
+
+Matthias needs to put some additional editorial work to finish the minutes, the draft is now available here:
+https://norlx65.nordita.org/~brandenb/pencil-code/PCSC/minutes/2025_05_12.txt
+
+5. discussion of the newsletter draft
+
+Nils joined for this discussion item and reports on his activities speaking with individuals.
+Matthias proposed to write a summary for the new PCSC members.
+Contributions to the newsletter are being collected.
+
+Piyali, Matthias, and Philippe will add contributions after Axel edited the current draft.
+The time frame for further additions should be until 22nd of June but is now prolonged until 24th of August.
+
+6. discussion about the PCUM25
+
+A meeting will be set for discussing the teaching week before the main user meeting and the next PCSC meeting.
+We will ask to make most of the meeting available in hybrid form.
+
+7. other business
+
+Currently some autotests are broken on Travis-CI.
+Autotests may disagree between different machines or compiler versions.
+The question remains, which autotest is finally authoritative.
+This problem basically hinders to introduce strict testing before any commits.
+
+8. End of meeting
+
+13:05 CEST
+

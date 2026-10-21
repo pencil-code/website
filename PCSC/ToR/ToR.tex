@@ -1,0 +1,179 @@
+% $Id: ToR.tex,v 1.64 2025/07/26 08:48:56 brandenb Exp $
+\documentclass{article}
+\setlength{\textwidth}{168mm}
+\setlength{\oddsidemargin}{-4mm}
+%\setlength{\textheight}{230mm}
+\setlength{\textheight}{245mm} %(AB: to make it fit on 2 pages)
+\setlength{\topmargin}{-22mm}
+\usepackage{graphicx,natbib,bm,url,html,color}
+%\usepackage{graphicx,natbib,bm,url,color}
+\thispagestyle{empty}
+\def\red{\textcolor{red}}
+\def\blue{\textcolor{blue}}
+\title{Pencil Code Steering Committee (PCSC)}
+\author{Terms of Reference}
+\date{\small\today,~ $ $Revision: 1.64 $ $}
+\begin{document}
+\maketitle
+
+\section{Purpose}
+
+The PCSC is a standing committee whose purpose is to
+\begin{itemize}\itemsep-2pt
+\item
+review and, when necessary, revise the Terms of Reference
+(ToR, this document),
+
+\item
+review and be responsible for the public information about the code
+on the {\sc Pencil Code} websites,
+
+\item
+help initiating the continuation of annual {\sc Pencil Code} User Meetings,
+
+\item
+invite Owners (=administrators in pencil-code.org)
+and decide about their privileges and responsibilities,
+
+\item
+assess and check that the list of Committers and Owners is up-to-date\footnote{
+\url{../committers/list.pdf}},
+
+\item
+deal with general concerns to the {\sc Pencil Code} community
+(major code changes, conflicts, complaints),
+
+\item
+decide about major discussion items that need to be deferred to the next
+Pencil Code User Meeting,
+
+\item
+organize elections of the PCSC (every 3 years).
+
+\end{itemize}
+
+\section{Organization of the PCSC}
+
+\subsection{Chair}
+
+The PCSC elects its chair for the duration of 1--2 years.
+The chair continues
+until a new chair has been elected or re-elected, which will
+be the case prior to the first meeting after the chair's end of term.
+Rotation of the chair is encouraged.
+The chair selects a secretary for each meeting.
+Except for changes to the ToR, or if a veto is raised, the quorum of meetings is 3/5.
+
+\subsection{Members}
+
+The PCSC has five members.
+They are elected by the group of voters that comprises,
+all {\em Owners of the Pencil Code}\footnote{
+Owners of the {\sc Pencil Code} (as of \today):
+\newpage
+\begin{tabular}{cllll}
+& Name & UserID & Affiliation & Country \\
+\hline
+& Sven Bingert       & bingert         & GWDG (G\"ottingen)   & Germany \\
+$\ast$ & Philippe Bourdin   & PABourdin       & IWF (Graz)           & Austria \\
+$\ast$ & Axel Brandenburg&AxelBrandenburg&Nordita             &Sweden\\
+& Simon Candelaresi  & iomsn           & University of Glasgow & UK \\% (*) (2019-12-07)
+$\ast$ & Piyali Chatterjee & mppiyali  & Indian Inst Astrophys & India\\%(2019-07-31)
+& Boris Dintrans     & bdintrans       & IRAP Toulouse        & France \\
+& Wolfgang Dobler    & wdobler         & Potsdam/Berlin       & Germany \\ % (*)
+& Frederick Gent     & gent            & Aalto Univ.          & Finland \\%(2019-12-07)
+$\ast$ & Nils Haugen & nilshau         & SINTEF (Trondheim)   & Norway \\
+& Tobias Heinemann   & tobson          & NBIA (Copenhagen)    & Denmark \\
+& Anders Johansen    & ajohan          & Lund Univ (Lund)     & Sweden \\
+& Maarit Korpi-Lagg  & mjkorpi         & Aalto Univ.          & Finland \\ % (*)
+& Petri K\"apyl\"a   & pkapyla         & Freiburg             & Germany \\ % (*)
+& Wladimir Lyra      & wlyra           & Univ New Mexico      & USA \\
+& Dhrubaditya Mitra  & dhrubaditya     & Nordita (Stockholm)  & Sweden \\ % (*)
+$\ast$ & Matthias Rheinhardt& mrheinhardt & Aalto Univ (Espoo)& Finland \\
+& Alberto Roper Pol  &                 & Geneva University    & Switzerland \\
+& Jennifer Schober   & JenSchober      & EPFL (Lausanne)      & Switzerland \\
+& Joern Warnecke     & jwarne          & MPS (G\"ottingen)    & Germany \\ % (*)
+& Chao-Chin Yang     & chaochinyang    & Univ Nevada (Las Vegas) & USA \\ % (*)
+& Hongzhe Zhou       & zhouhz1992      & TDLI Institute, Shanghai & China \\ % (*) (2022-09-01)
+%latex comments: joining date, non-avail for PCSC
+\end{tabular}
+\newpage
+Asterisks denote PCSC members (since November 2020).
+Its current chair (from June 28, 2023) is Philippe Bourdin.
+}
+and those Committers who have participated in at least two
+{\sc Pencil Code} User Meetings, and have made at least 20 check-ins to
+the code within the last 5 years of the election\footnote{Use {\tt
+git log --since 'today minus 5 years' --pretty=format:'\%an' | sort| uniq -c | sort -rn} \\
+or select the time interval on github's graphics interface}.
+Eligible members of the PCSC are Owners of the {\sc Pencil Code}
+who have not declared their unavailability prior to the elections.
+The vote is anonymous and voting will be carried out electronically.
+Voting will be prepared by one of the Owners and approved by an observer.
+Both will be nominated by the chair of the PCSC.
+
+If the outcome of the vote is ambiguous, a runoff round with the candidates who have
+equal vote counts is held.
+If the runoff round ends ambiguously again, the observer decides freely
+upon further measures to avoid runoff rounds in long sequence.
+These might include drawing lots or a willful decision of the observer.
+
+\section{Responsibilities of the PCSC}
+The PCSC reports to the Owners with a critical self-assessment.
+It is responsible for deciding what are major issues to be discussed.
+The PCSC is also responsible for monitoring the long-term integrity
+of the {\sc Pencil Code} through the help of the auto-test.
+It also decides about Owners privileges.
+Owners, in turn, have the responsibility to maintain, improve,
+and disseminate the code.
+No individual Owner is allowed to delete it.
+
+\subsection{Meeting \& Reporting}
+
+The PCSC convenes via telecon when issues emerge and
+at least once a year at least 1--2 months before the next
+Pencil Code User Meeting.
+The PCSC reports via email to the Owners.
+Upcoming meetings are announced to the Owners
+to solicit additional agenda items.
+The minutes will be available online.
+
+\subsection{Recurrent tasks}
+
+The PCSC reviews major code change requests or suggestions.
+(A major code change is one that cannot be reverted or avoided
+by switching modules, for example.)
+Owners may request that a particular item be discussed and thereby
+request that a PCSC meeting be held.
+A major code change may also be one that is sufficiently complex
+to foresee resulting major side effects.
+The PCSC is considering to give voting rights to individual Committers
+of the {\sc Pencil Code}.
+
+\subsection{Review}
+
+The PCSC reviews its operations at each Pencil Code User Meeting.
+It is responsible for making changes to the ToR.
+All major changes must be approved by all Owners with a 2/3 majority.
+The PCSC also oversees the list of new Committers added by the Owners and makes
+sure the full names and affiliations of all Committers are known.
+
+\subsection{Complaints}
+
+Complaints\footnote{including violations of the
+\url{https://github.com/pencil-code/pencil-code/blob/master/license/CODE_OF_CONDUCT.md}
+(CoC). The CoC specifies the Community Leaders, i.e., the Owners, as
+responsible for its enforcement.} relevant to the Pencil Code community should be
+directed to all 5 members of the PCSC.
+When needed, the PCSC may then assemble an ad hoc committee
+to resolve the problem.
+The ad hoc committee, which decides by simple majority,
+should consist of five members from the Pencil Code community.
+If personal accusations are involved, both the accuser and the
+accused are allowed to appoint one member each who is not part of the conflict.
+
+\vfill\bigskip\noindent\tiny\begin{verbatim}
+$Header: /var/cvs/brandenb/public_html/pencil-code/PCSC/ToR/ToR.tex,v 1.64 2025/07/26 08:48:56 brandenb Exp $
+\end{verbatim}
+
+\end{document}

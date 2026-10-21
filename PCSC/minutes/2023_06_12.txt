@@ -1,0 +1,59 @@
+Meeting starts 12:00 CEST.
+Present members: Axel, Philippe, Nils, Matthias (after agenda point 4).
+Piyali excused herself; her return flight back home was delayed.
+
+1) Agenda approved, but accept one additional discussion item on the "Terms of Reference" (see 3).
+
+2) Secretary of the meeting: Philippe.
+
+3) Proposal to change the "Terms of Reference":
+- Add Quorum for PCSC meetings: 3/5 (to be added by Axel)
+- Add process for the election of the chair:
+  The next constitutive meeting (first after PCSC members elections) elects its chair
+
+4) Upcoming PCUM:
+4.1) Self-critical self-assessment of our work
+     Discussion of fixing broken auto-tests and how do we get a response from the
+     author of a particular sample run.
+     Nils will prepare a report for the next PCUM.
+4.2) PC Slack channel from 2020 meeting
+     Seems to be empty now as we had only an unpaid account.
+     Loosing discussions and files if not a good choice for next PCUM.
+4.3) Closed captioning of online meetings
+     If one meeting is muted, you can at least read.
+     Might be a good idea for next PCUM.
+4.4) Support budget available for travel support
+     ~800 Euro with preference on low-GDP countries.
+4.5) eMail reminders for registration will be sent this week
+
+5) Status on auto-tests:
+5.1) Philippe and Matthias will check in a webpage with additional information on taken actions for individual tests
+5.2) The committee thanked Philippe for the new feature that samples show the check-in that broke them
+5.3) Some auto-tests results depend on:
+     * compiler version (e.g. superparticle-condensation-coagulation)
+     * processor layout (e.g. geo-dynamo)
+     * output interval (meissner)
+
+6) Code of Conduct 4.0:
+   Philippe will present the differences at the next PCUM.
+   Since there is no immediate action required, we leave the dicussion to the next PCUM.
+
+7) Matthias reports on code development in his group, which is currently not influencing the main group of developers.
+   Matthias will report at the PCUM on developments regarding GPU
+
+8) The next PCSC should be elected before the end of 2023.
+   Matthias was put in charge of this. An observer has not yet been nominated.
+
+9) The next PCSC will elect its chair during the first meeting of the new PCSC.
+   For the rest of the time, since Nils was elected already in November 2020,
+   a new chair will be elected via email. Axel takes care of this.
+   [On June 28, the chair was elected to be Philippe.]
+
+10.1) Axel asked if there should be new "owners" of the code:
+      Hongzhe is proposed as new owner and there were no objections.
+10.2) The PCUM shall discuss if ownership can be removed after long
+      inactivity - and if the definition of a "voter" should be changed.
+      This item was postponed until the next PCUM in Graz.
+
+Meeting ends 13:20 CEST.
+

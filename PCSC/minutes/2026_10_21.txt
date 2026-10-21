@@ -1,0 +1,82 @@
+Minutes of PCSC on 21 October 2026, via Zoom at 13:00 CEST
+
+1. Approval of the agenda
+   approved
+
+2. Secretary of the meeting
+   Axel
+
+3. Approval of the minutes (2026_06_09.txt)
+   approved
+
+4. Next Pencil Code User Meeting (2027): Bonn, Braunschweig, Pune?
+   Yasuhito would be available also later, but he wishes to be informed
+     a year before, for a meeting in 2028 or later.
+   The Bonn proposal was chosen with 4 votes in favor, 1 abstained
+   Jenny accepted the task.
+
+   Axel+Matthias: to put a call for proposals for 2028 into newsletter.
+
+   Discussion about the 2027 meeting in Bonn:
+   a) Jenny has funding, and has a big group in 2027
+      have lots of help from her group.
+   b) A school possible for 2027. It would be on
+      "Numerical astrophysical MHD turbulence"
+       and would include convection, etc, but not space plasmas.
+       There would be exercises with PC setups and also Quokka for
+       each day. Could perhaps be co-hosted with MP Grad School in Bonn.
+       Rooms: 80 people + 3 seminar rooms, could use all of them.
+   c) Dates: not April or when there are lectures,
+      Need 2 weeks: end Sept, before 8 Oct (perhaps already starting 2 Aug)
+     Jenny to send a doodle with options between 2 Aug - 8 Oct.
+   d) Decide and announce by mid December.
+   e) Jenny: to make webpage locally available in Bonn.
+      The page will exist also in the years after the meeting.
+   f) Following the questionnaire: online talks only in exceptional cases.
+
+5. Moving PCSC pages to github
+     to put the current PCSC pages to the website repository
+     to preserve links (for content that is still deemed relevant)
+     to copy current page: keep old one, but edit new page.
+     proposals for better arrangement welcome
+     To do the transfer later today after first draft of minutes.
+
+6. Document on the server
+     Philippe has started a document about the repository.
+     To test it on a freshly installed server.
+     The question was asked whether there are issues with the current server.
+     a) have limited number of currently 25 of git users in the last 12 months.
+     b) This is a limitation of the translation software.
+     c) It would cost 600 Euros for 50 users.
+     d) Staying below current limit of 25 to use as argument in favor of svn.
+     e) Philippe will add a field that shows the approver.
+
+7. Travis autotest
+     There is a problem with Makefile which does a touch after each auto-test.
+     Problem still to be understood and to be solved.
+     Usefulness of Travis? Only Travis would check every single version.
+     Even 2 consecutive checks can run in parallel.
+     Travis is located in directory .travis.
+
+8. email from auto-test
+     to try sending from brandenb@nordita.org
+     should send from brandenb@norlx65.nordita.org
+     do emails to outside receiver later when we can.
+
+9. Newsletter
+     Axel+Matthias: to put a call for proposals for 2028 into newsletter.
+
+10. Auto-test in Bonn
+      Machine exists in office.
+      Still working on it
+
+11. New time of Pencil Code Office Hours
+
+12. Election of new chair
+      With a 3/5 majority, it was decided to postpone the decision:
+      Decision about chair to make at the beginning of next meeting
+
+13. AoB
+      None.
+
+Meeting ended at 14:37.

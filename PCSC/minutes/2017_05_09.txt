@@ -1,0 +1,50 @@
+Minutes of the 2nd Meeting of the Pencil Code Steering Committee
+================================================================
+
+Date and time: May 9th, 2017, 8 pm CEST
+
+Participants: Axel Brandenburg, Nils Haugen, Wolfgang Dobler, Matthias Rheinhardt (minuteer)
+Prior to the meeting, Anders Johansen decided to withdraw from the Pencil Code Steering Committee.
+
+1. Due to Anders Johansen's departure from the PCSC a new member has to be elected.
+   This shall happen during the next PC User Meeting in July in Newcastle.
+
+2. Possible extensions of the group of voters were discussed.
+   Proposal: out of the group of 69 committers those shall be eligible who
+             have attended at least two earlier meetings and have done at least 20 commits during last 5 years.
+   Decision to be made during coming PCUM, to be prepared by PCSC by considering the list of all committers
+   and identifying possible problems. To be settled by e-mail before meeting.
+
+3. The PCSC will convene via Skype during the coming PCUM.
+
+4. ToR including recent changes shall be approved by owners at PCUM.
+
+5. Recent code developments, Yin-Yang grid and link to CUDA kernels of Astaroth code, shall be documented in
+   README and/or manual (Matthias)
+
+6. Options for stabilizing the Nordita auto-tests were discussed:
+   For the hourly test a compiler update on norlx51 should be done first (Matthias/Axel/Wolfgang). 
+   For the daily test another compiler than g95 (outdated) shall be considered and it shall be set up on a
+   private machine at Axel's place.
+   On the longer run a new machine shall be acquired in NORDITA both for auto-tests and the CVS repo (next year).
+
+7. For the auto-tests general initialization of floats by NaNs is desirable and shall be reconsidered for gfortran (Matthias).
+
+8. The latency problem with the SVN bridge was discussed - seems to be both platform and user dependent.
+   By June, 10th a survey including all 69 committers about 
+   use of Git or SVN and major problems shall be completed. (Matthias)
+   The detailed questionnaire shall be iterated with Philippe and be approved by the PCSC before emission.
+
+9. It was agreed that the list of commmitters (Sect. 3 of ToR) is public.
+
+10. Possible issues to be treated during the PCUM were discussed:
+    - Further development of the Python suite: Axel will check with Simon and Andreas.
+    - Separation of engine from toolbox: Axel touches Wlad.
+    - Streamlining of the paticles module: Nils touches Dhruba. 
+    - I/O via HDF5: to be posted again 
+    
+10c. Graeme's proposal was approved to have 
+     less talks (in particular scientific), and instead more time (free afternoons) for coding work during the coming PCUM.
+
+11. To be changed in ToR: chairperson remains in office until new one is elected, rotation is encouraged. (Matthias)
+    To be added: PCSC helps in initiating PCUMs

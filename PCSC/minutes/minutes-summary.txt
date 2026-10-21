@@ -1,0 +1,42 @@
+12-Nov-2024
+===========
+Include Alberto Roper Pol (University of Geneva) as owner.
+
+No individual owner has the right to delete the PC repository on GitHub unless decided unanimously by the PCSC.
+
+The point on removal of owners was raised by Axel.
+Why is it important? Because, "All major changes must be approved by
+all owners with a 2/3 majority."
+
+
+12-May-2025
+===========
+Allegations by two users agains members of the community.
+Without investigation, allegations would appear approved.
+
+Committers do not get commit messages:
+GitHub delivers to Google Groups, not sent out from there.
+
+
+12-Jun-2025
+===========
+People who made allegations not willing to cooperate with formal investigation.
+
+Newly elected PCSC inaugurated, Nils left, Jenny Schober joined.
+Philippe reelected as the chair of the PCSC.
+
+Autotests may disagree between different machines or compiler versions.
+Which autotest is finally authoritative?
+=> We can not require strict testing before commits.
+
+
+24-Oct-2025
+===========
+Due to the unchanged situation of some allegations, PCSC discussed what action should be taken.
+
+PCSC voted unanimously to host the next meeting at University of Alicante.
+
+It was proposed that all development should happen on branches that get merged only after they passed all auto-tests.
+There is strong disagreement because the only incident we had so far (in 2018) would anyway have happened.
+The reason is that the relevant auto-tests were broken on all but one machine for a long time before this incident.
+

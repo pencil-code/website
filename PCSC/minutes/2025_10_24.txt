@@ -1,0 +1,46 @@
+Minutes of the PCSC meeting of October, 24th, 2025, 15:30 CEST
+==============================================================
+
+Present: Philippe Bourdin     (PB)
+         Axel Brandenburg     (AB)
+         Piyali Chatterjee    (PC)
+         Matthias Rheinhardt  (MR)
+         Jennifer Schober     (JS)
+
+The meeting was held at CERN in hybrid with PB, AB, and MR in person.
+
+1. approval of the agenda
+
+The agenda proposed by Philippe was approved.
+
+2. secretary of the meeting
+
+Philippe is the secretary and writes the minutes.
+
+3. approval the minutes of the meetings of 12 May and 12 June 2025
+
+After a short discussion, certain statements in the 12 May minutes were anonymized.
+The minutes of both previous meetings were approved unanimously.
+
+4. next Pencil Code User Meeting (2026)
+
+The offers from Clara Dehman (University of Alicante) and Yasuhito Narita (TU Braunschweig) are still valid.
+Also Jennifer expressed interest to organize one of the upcoming PCUM meetings in Bonn.
+As opening another call for more proposals would not change the situation of Clara, who has a grant until December 2026, the PCSC voted unanimously to host the next meeting at University of Alicante.
+
+5. other business
+
+- code of conduct
+Due to the unchanged situation of certain allegations and accusations being made against members of our community, the PCSC discussed what action should be taken, if any.
+Matthias thinks that any action would not lead to a change of view at the accusing person.
+Philippe thinks that the PCSC should take at least a minimal action and assess whether a breach of the code of conduct did happen and whether the PCSC does or does not agree with the statements made.
+
+- using branches for development
+Some individuals proposed that all development should happen on branches that get merged only after they passed all auto-tests. It was claimed that this would solve and prevent all issues we had in the past with broken auto-tests or changes done to the code and in particular to reference files of auto-tests.
+Axel, Matthias, and Philippe strongly disagree with these claims and find that the incident we had in 2018, with Fred changing the hyperdiffusion code and Philippe fixing broken auto-tests in the same time, would anyway have occurred, no matter if everyone worked on branches or not. The reasons are that the affected auto-tests were already broken since long time before this incident occurred. Also the maintainer of the affected auto-test was not reacting to his test was failing on different machines and different compilers for long time.
+Axel proposed that some written documentation be made available.
+
+8. End of meeting
+
+16:10 CEST
+

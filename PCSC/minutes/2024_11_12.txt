@@ -1,0 +1,61 @@
+Begin: 15:20 CET, 12-Nov-2024
+
+Participants: Axel, Philippe, Nils, Piyali, Matthias
+
+PCSC meeting
+
+1) Meeting agenda approved
+
+2) Secretary of the meeting (Piyali)
+
+3) Approval of the minutes of the previous meeting (unanimously
+approved)
+
+4) Include Alberto Roper Pol (University of Geneva) as owner was
+proposed by Axel and agreed by all and Philippe to email him. 
+
+Philippe suggested to add to ToR that no individual owner has the right to delete the PC
+repository on GitHub unless decided unanimously by the PCSC.  All
+members agreed to this proposal. Axel proposed to draft the
+modification.
+
+5) The point on removal of owners was raised by Axel.
+Why is it important? Because, "All major changes must be approved by
+all owners with a 2/3 majority." (see ToR)
+
+Philippe reported that opinion/feedback was requested of all owners
+regarding removing owners who are not actively involved or left the
+community. The feedback from 5 people (Maarit, Simon, Hongzhe, Nils,
+Anders) were received. For rest of 15 owners there were no response.
+
+Nils opined that owners have to be part of decisions, willing to take
+the responsibility. Does the existing owner wish to continue taking on
+the responsibility.
+
+Matthias suggested that "inactive" owners can be asked how they wish to
+proceed.
+
+Inert owner could become a caretaker or become a regular user or some
+other term like administrator, guardian, etc (to be brainstormed with the owners).
+
+Philippe volunteers to write up the background for this change and
+circulate it amongst PCSC.
+
+6) Location of the next PCUM
+        PCUM options as summarised by Philippe
+
+        a. Pune, India (2026 or later)
+        b. Geneva, Switzerland (1st option for 2025)
+        c. Braunschweig, Germany (Back up for 2025)
+        d. Alicante, Spain (2026 or later)
+
+7) PCSC member election status report. Matthias reported some delay
+in planning due to other pressing commitments. Have to check who is
+eligible to vote amongst the community. Matthias to send an email to all
+eligible voters to confirm. The last voting results were from November
+2020. Matthias and Axel proposes the name of Clara Dehman as observer
+for the election.
+
+
+End: 16:50 CET
+
