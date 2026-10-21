@@ -3,13 +3,13 @@
 	 include "inc/header.inc";
  ?>
 <style>
-	ol {
+	ol.publist {
 		type: 1;
 	}
-	li {
+	li.publist {
 		margin-bottom: 1em;
 	}
-	li:before {
+	li.publist:before {
 		content: ") ";
 	}
 </style>
@@ -19,14 +19,14 @@
 <h2>Special issue on &quot;Physics and Algorithms of the Pencil Code&quot;<br>
 in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
 
-<ol>
-<li>Brandenburg, A., Candelaresi, S., &amp; Gent, F. A.:&nbsp;2020, &quot;Introduction&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 1-7
+<ol class="publist">
+<li class="publist">Brandenburg, A., Candelaresi, S., &amp; Gent, F. A.:&nbsp;2020, &quot;Introduction&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 1-7
 (<A NAME="tex2html51"
   HREF="http://dx.doi.org/10.1080/03091929.2019.1677015">DOI:10.1080/03091929.2019.1677015</A>, <A NAME="tex2html55"
   HREF="http://norlx51.nordita.org/~brandenb/tmp/editorial/paper.pdf">PDF</A>, 7 pages)
 </li>
 
-<li>K&#228;pyl&#228;, P. J., Gent, F. A., Olspert, N., K&#228;pyl&#228;, M. J., &amp; <FONT COLOR="#004521">Brandenburg, A.</FONT>:&nbsp;2020, &quot;Sensitivity to luminosity, centrifugal force, and boundary conditions in spherical shell convection&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 8-34
+<li class="publist">K&#228;pyl&#228;, P. J., Gent, F. A., Olspert, N., K&#228;pyl&#228;, M. J., &amp; <FONT COLOR="#004521">Brandenburg, A.</FONT>:&nbsp;2020, &quot;Sensitivity to luminosity, centrifugal force, and boundary conditions in spherical shell convection&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 8-34
 (<A NAME="tex2html51"
   HREF="http://arXiv.org/abs/1807.09309">arXiv:1807.09309</A>, <A NAME="tex2html52"
   HREF="http://esoads.eso.org/abs/2018arXiv180709309">ADS</A>, <A NAME="tex2html53"
@@ -34,14 +34,14 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/Kapy_etal20.pdf">PDF</A>, 27 pages)
 </li>
 
-<li>Aarnes, J. R., Jin, T., Mao, C., Haugen, N. E. L., Luo, K., &amp; Andersson, H. I.:&nbsp;2020, &quot;Treatment of solid objects in the Pencil Code using an immersed boundary method and overset grids&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 35-57
+<li class="publist">Aarnes, J. R., Jin, T., Mao, C., Haugen, N. E. L., Luo, K., &amp; Andersson, H. I.:&nbsp;2020, &quot;Treatment of solid objects in the Pencil Code using an immersed boundary method and overset grids&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 35-57
 (<A NAME="tex2html1" HREF="http://arxiv.org/abs/1806.06776">arXiv:1806.06776</A>, <A NAME="tex2html27"
   HREF="http://esoads.eso.org/abs/2018arXiv180606776">ADS</A>, <A NAME="tex2html28"
   HREF="http://doi.org/10.1080/03091929.2018.1492720">DOI:10.1080/03091929.2018.1492720</A>,
   <A HREF="http://norlx51.nordita.org/~brandenb/pencil-code/PCSC/SpecialIssue/9_1_2019_Treatment.pdf">PDF</A>, 23 pages)
 </li>
 
-<li>Qian, C., Wang, C., Liu, J., Brandenburg, A., Haugen, N. E. L., &amp; Liberman, M.:&nbsp;2020, &quot;Convergence properties of detonation simulations&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 58-76
+<li class="publist">Qian, C., Wang, C., Liu, J., Brandenburg, A., Haugen, N. E. L., &amp; Liberman, M.:&nbsp;2020, &quot;Convergence properties of detonation simulations&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 58-76
 (<A NAME="tex2html26"
   HREF="http://arXiv.org/abs/1902.03816">arXiv:1902.03816</A>, <A NAME="tex2html27"
   HREF="http://esoads.eso.org/abs/2019arXiv190203816">ADS</A>, <A NAME="tex2html28"
@@ -50,14 +50,14 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/Qian_etal20.pdf">PDF</A>, 19 pages)
 </li>
 
-<li>Gent, F. A., Mac Low, M.-M., K&#228;pyl&#228;, M. J., Sarson, G. R., &amp; Hollins, J. F.&nbsp;2020, &quot;Modelling supernova driven turbulence&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 77-105
+<li class="publist">Gent, F. A., Mac Low, M.-M., K&#228;pyl&#228;, M. J., Sarson, G. R., &amp; Hollins, J. F.&nbsp;2020, &quot;Modelling supernova driven turbulence&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 77-105
 (<A NAME="tex2html1" HREF="http://arxiv.org/abs/1806.01570">arXiv:1806.01570</A>, <A NAME="tex2html27"
   HREF="http://esoads.eso.org/abs/2018arXiv180601570">ADS</A>, <A NAME="tex2html28"
 <A NAME="tex2html1" HREF="http://doi.org/10.1080/03091929.2019.1634705">DOI:10.1080/03091929.2019.1634705</A>,
   <A HREF="http://norlx51.nordita.org/~brandenb/pencil-code/PCSC/SpecialIssue/9_1_2019_Modelling.pdf">PDF</A>, 29 pages)
 </li>
 
-<li>Schober, J., <FONT COLOR="#004521">Brandenburg, A.</FONT>, &amp; Rogachevskii, I.:&nbsp;2020, &quot;Chiral fermion asymmetry in high-energy plasma simulations&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 106-129
+<li class="publist">Schober, J., <FONT COLOR="#004521">Brandenburg, A.</FONT>, &amp; Rogachevskii, I.:&nbsp;2020, &quot;Chiral fermion asymmetry in high-energy plasma simulations&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 106-129
 (<A NAME="tex2html52"
   HREF="http://arXiv.org/abs/1808.06624">arXiv:1808.06624</A>, <A NAME="tex2html53"
   HREF="http://esoads.eso.org/abs/2018arXiv180806624">ADS</A>, <A NAME="tex2html54"
@@ -65,7 +65,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/SBR20.pdf">PDF</A>, 24 pages)
 </li>
 
-<li>Roper Pol, A., <FONT COLOR="#004521">Brandenburg, A.</FONT>, Kahniashvili, T., Kosowsky, A., &amp; Mandal, S.:&nbsp;2020, &quot;The timestep constraint in solving the gravitational wave equations sourced by hydromagnetic turbulence&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 130-161
+<li class="publist">Roper Pol, A., <FONT COLOR="#004521">Brandenburg, A.</FONT>, Kahniashvili, T., Kosowsky, A., &amp; Mandal, S.:&nbsp;2020, &quot;The timestep constraint in solving the gravitational wave equations sourced by hydromagnetic turbulence&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 130-161
 (<A NAME="tex2html22"
   HREF="http://arXiv.org/abs/1807.05479">arXiv:1807.05479</A>, <A NAME="tex2html23"
   HREF="http://esoads.eso.org/abs/2018arXiv180705479R">ADS</A>, <A NAME="tex2html43"
@@ -73,7 +73,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/RopP_etal20.pdf">PDF</A>, 32 pages)
 </li>
 
-<li>Brandenburg, A., &amp; Das, U.:&nbsp;2020, &quot;The time step constraint in radiation hydrodynamics&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 162-195
+<li class="publist">Brandenburg, A., &amp; Das, U.:&nbsp;2020, &quot;The time step constraint in radiation hydrodynamics&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 162-195
 (<A NAME="tex2html26"
   HREF="http://arXiv.org/abs/1901.06385">arXiv:1901.06385</A>, <A NAME="tex2html27"
   HREF="http://esoads.eso.org/abs/2019arXiv190106385">ADS</A>, <A NAME="tex2html28"
@@ -81,7 +81,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/BD20.pdf">PDF</A>, 29 pages)
 </li>
 
-<li>Singh, N. K., Raichur, H., K&#228;pyl&#228;, M. J., Rheinhardt, M., <FONT COLOR="#004521">Brandenburg, A.</FONT>, &amp; K&#228;pyl&#228;, P. J.:&nbsp;2020, &quot;f-mode strengthening from a localized bipolar subsurface magnetic field&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 196-212
+<li class="publist">Singh, N. K., Raichur, H., K&#228;pyl&#228;, M. J., Rheinhardt, M., <FONT COLOR="#004521">Brandenburg, A.</FONT>, &amp; K&#228;pyl&#228;, P. J.:&nbsp;2020, &quot;f-mode strengthening from a localized bipolar subsurface magnetic field&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 196-212
 (<A NAME="tex2html1"
   HREF="http://arXiv.org/abs/1808.08904">arXiv:1808.08904</A>, <A NAME="tex2html2"
   HREF="http://esoads.eso.org/abs/2018arXiv180808904">ADS</A>, <A NAME="tex2html3"
@@ -89,21 +89,21 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
   HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/Sing_etal20.pdf">PDF</A>, 17 pages)
 </li>
 
-<li>Chatterjee, P.:&nbsp;2020, &quot;Testing Alfven wave propagation in a realistic set-up of the solar atmosphere&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 213-234
+<li class="publist">Chatterjee, P.:&nbsp;2020, &quot;Testing Alfven wave propagation in a realistic set-up of the solar atmosphere&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 213-234
 (<A NAME="tex2html1" HREF="http://arxiv.org/abs/1806.08166">arXiv:1806.08166</A>, <A NAME="tex2html1"
   HREF="http://esoads.eso.org/abs/2018arXiv180608166">ADS</A>, <A NAME="tex2html53"
   HREF="http://dx.doi.org/10.1080/03091929.2019.1672676">DOI:10.1080/03091929.2019.1672676</A>, <A NAME="tex2html60"
   HREF="http://norlx51.nordita.org/~brandenb/pencil-code/PCSC/SpecialIssue/Chatterjee.pdf">PDF</A>, 22 pages)
 </li>
 
-<li>Bourdin, P. A.:&nbsp;2020, &quot;Driving solar coronal MHD simulations on high-performance computers&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 235-260
+<li class="publist">Bourdin, P. A.:&nbsp;2020, &quot;Driving solar coronal MHD simulations on high-performance computers&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 235-260
 (<A NAME="tex2html1" HREF="http://arxiv.org/abs/1908.08557">arXiv:1908.08557</A>, <A NAME="tex2html1"
   HREF="http://esoads.eso.org/abs/2019arXiv190808557">ADS</A>, <A NAME="tex2html53"
   HREF="http://doi.org/10.1080/03091929.2019.1643849">DOI:10.1080/03091929.2019.1643849</A>,
   <A HREF="http://norlx51.nordita.org/~brandenb/pencil-code/PCSC/SpecialIssue/9_1_2019_Driving.pdf">PDF</A>, 26 pages)
 </li>
 
-<li>Warnecke, J., &amp; Bingert, S.:&nbsp;2020, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 261-281
+<li class="publist">Warnecke, J., &amp; Bingert, S.:&nbsp;2020, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 261-281
 (<A NAME="tex2html1" HREF="http://arxiv.org/abs/1811.01572">arXiv:1811.01572</A>, <A NAME="tex2html2"
   HREF="http://esoads.eso.org/abs/2018arXiv181101572">ADS</A>, <A NAME="tex2html53"
 <A NAME="tex2html1" HREF="http://doi.org/10.1080/03091929.2019.1670173">DOI:10.1080/03091929.2019.1670173</A>,
