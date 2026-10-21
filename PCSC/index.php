@@ -12,6 +12,7 @@ Piyali Chatterjee<br>
 Matthias Rheinhardt<br>
 Jennifer Schober<br>
 
+<h3>PCSC terms &amp; activities</h3>
 The terms and activities of the PCSC are described here:
 <ul>
 <li><a href="ToR/ToR.pdf">Terms of Reference</a></li>
