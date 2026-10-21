@@ -9,9 +9,10 @@
 	li.publist {
 		margin-bottom: 1em;
 	}
-	li.publist:before {
+/*	li.publist:before {
 		content: ") ";
 	}
+ */
 </style>
 
 <div class="centcolumnpad">
