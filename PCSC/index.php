@@ -40,10 +40,8 @@ The PC community is advised to follow our Code of Conduct:
 <li><a href="SpecialIssue/">SpecialIssue</a> (in <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 1-281)</li>
 <li><a href="../doc/citations.pdf">Scientific usage of the Pencil Code</a> (DOI:10.5281/zenodo.3466444) 
    [<a href="https://ui.adsabs.harvard.edu/public-libraries/iGR7N570Sy6AlhDMQRTe_A">ADS</a>]</li>
-<li><a href="http://norlx51.nordita.org/~brandenb/pencil-code/paper/">Pencil Code paper</a> (JOSS),
-    <a href="manual.pdf">copy of the manual</a></li>
-<li>Pencil Code Newsletter: <a href="../newsletter/2023/3/newsletter.pdf">2023/3</a>,
-    <a href="../newsletter/">Back Issues</a></li>
+<li><a href="https://norlx51.nordita.org/~brandenb/pencil-code/paper/">Pencil Code paper</a> (JOSS)</li>
+<li><a href="../news.php">Pencil Code Newsletter</li>
 </ul>
 
 </div>
