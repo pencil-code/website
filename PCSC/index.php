@@ -36,12 +36,11 @@ The PC community is advised to follow our Code of Conduct:
 
 <h3>Further information related to the Pencil Code</h3>
 <ul>
-<li><a href="committers/list.pdf">List of Committers</a></li>
 <li><a href="SpecialIssue/">SpecialIssue</a> (in <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 1-281)</li>
+<li><a href="https://norlx51.nordita.org/~brandenb/pencil-code/paper/">Pencil Code paper</a> (JOSS)</li>
 <li><a href="../doc/citations.pdf">Scientific usage of the Pencil Code</a> (DOI:10.5281/zenodo.3466444) 
    [<a href="https://ui.adsabs.harvard.edu/public-libraries/iGR7N570Sy6AlhDMQRTe_A">ADS</a>]</li>
-<li><a href="https://norlx51.nordita.org/~brandenb/pencil-code/paper/">Pencil Code paper</a> (JOSS)</li>
-<li><a href="../news.php">Pencil Code Newsletter</li>
+<li><a href="committers/list.pdf">List of Committers</a></li>
 </ul>
 
 </div>
