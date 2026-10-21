@@ -5,7 +5,7 @@
 <div class="centcolumnpad">
 <h2>Pencil Code Steering Committee (PCSC)</h2>
 
-<h3>Current team</h3>
+<h3>PCSC current team</h3>
 Philippe Bourdin (Chair)<br>
 Axel Brandenburg<br>
 Piyali Chatterjee<br>
