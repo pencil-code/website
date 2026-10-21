@@ -114,11 +114,9 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
 
 Total page count: 271 pages
 
-<p>
-<small>
+<!--
 $Id$
-</small>
-</p>
+ -->
 
 </div>
 <?php
