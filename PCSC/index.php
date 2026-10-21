@@ -38,9 +38,10 @@ Jennifer Schober<br>
 </ul>
 
 <h3>Teaching materials</h3>
+<ul>
 <li><a href="https://norlx65.nordita.org/~brandenb/teach/PencilCode/">Numerical Experiments</a>
 <li><a href="https://www.youtube.com/watch?v=4Avds1Q6btk&list=PL1io4hS6YJq29NUAlDkdcHvqMddSXZ8Ko">YouTube introduction</a>
-
+</ul>
 </div>
 <?php
 	include "inc/footer.inc";
