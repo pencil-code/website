@@ -26,7 +26,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
  <A HREF="http://norlx51.nordita.org/~brandenb/tmp/editorial/paper.pdf">PDF</A>, 7&nbsp;pages)
 </li>
 
-<li class="publist">K&#228;pyl&#228;, P. J., Gent, F. A., Olspert, N., K&#228;pyl&#228;, M. J., &amp; Brandenburg, A.:&nbsp;2020, &quot;Sensitivity to luminosity, centrifugal force, and boundary conditions in spherical shell convection&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 8-34
+<li class="publist">K&auml;pyl&auml;, P. J., Gent, F. A., Olspert, N., K&auml;pyl&auml;, M. J., &amp; Brandenburg, A.:&nbsp;2020, &quot;Sensitivity to luminosity, centrifugal force, and boundary conditions in spherical shell convection&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 8-34
 (<A HREF="http://arXiv.org/abs/1807.09309">arXiv:1807.09309</A>,
  <A HREF="http://esoads.eso.org/abs/2018arXiv180709309">ADS</A>,
  <A HREF="http://dx.doi.org/10.1080/03091929.2019.1571586">DOI:10.1080/03091929.2019.1571586</A>,
@@ -48,7 +48,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
  <A HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/Qian_etal20.pdf">PDF</A>, 19&nbsp;pages)
 </li>
 
-<li class="publist">Gent, F. A., Mac Low, M.-M., K&#228;pyl&#228;, M. J., Sarson, G. R., &amp; Hollins, J. F.&nbsp;2020, &quot;Modelling supernova driven turbulence&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 77-105
+<li class="publist">Gent, F. A., Mac Low, M.-M., K&auml;pyl&auml;, M. J., Sarson, G. R., &amp; Hollins, J. F.&nbsp;2020, &quot;Modelling supernova driven turbulence&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 77-105
 (<A HREF="http://arxiv.org/abs/1806.01570">arXiv:1806.01570</A>,
  <A HREF="http://esoads.eso.org/abs/2018arXiv180601570">ADS</A>,
  <A HREF="http://doi.org/10.1080/03091929.2019.1634705">DOI:10.1080/03091929.2019.1634705</A>,
@@ -76,7 +76,7 @@ in Geophysical &amp; Astrophysical Fluid Dynamics (GAFD)</h2>
  <A HREF="https://norlx65.nordita.org/~brandenb/Own_Papers/2020/BD20.pdf">PDF</A>, 29&nbsp;pages)
 </li>
 
-<li class="publist">Singh, N. K., Raichur, H., K&#228;pyl&#228;, M. J., Rheinhardt, M., Brandenburg, A., &amp; K&#228;pyl&#228;, P. J.:&nbsp;2020, &quot;f-mode strengthening from a localized bipolar subsurface magnetic field&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 196-212
+<li class="publist">Singh, N. K., Raichur, H., K&auml;pyl&auml;, M. J., Rheinhardt, M., Brandenburg, A., &amp; K&auml;pyl&auml;, P. J.:&nbsp;2020, &quot;f-mode strengthening from a localized bipolar subsurface magnetic field&quot;, <EM>Geophys. Astrophys. Fluid Dyn.</EM> <b>114</b>, 196-212
 (<A HREF="http://arXiv.org/abs/1808.08904">arXiv:1808.08904</A>,
  <A HREF="http://esoads.eso.org/abs/2018arXiv180808904">ADS</A>,
  <A HREF="http://dx.doi.org/10.1080/03091929.2019.1653461">DOI:10.1080/03091929.2019.1653461</A>,
