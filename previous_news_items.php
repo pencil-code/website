@@ -14,7 +14,7 @@ The next Pencil Code User Meeting will be at the
 <li class="separated">23 May 2024:<br>
 The next Pencil Code Steering Committee (PCSC) meeting will be on 6th of June 2024, starting from 13:00 CEST.
 The minutes of the previous meeting are posted on:
-<a href="http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/">http://pencil-code.nordita.org/~brandenb/pencil-code/newsletter/PCSC/</a>
+<a href="PCSC/">https://pencil-code.org/PCSC/</a>
 </li>
 
 <li class="separated">18 March 2022:<br>
@@ -24,7 +24,7 @@ The next Pencil Code User Meeting will be via zoom hosted by
 
 <li class="separated">18 March 2022:<br>
 The minutes of the Pencil Code Steering Committee (PCSC) are posted on:
-<a href="http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/">http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/</a>
+<a href="PCSC/">https://pencil-code.org/PCSC/</a>
 </li>
 
 <li class="separated">3 April 2021:<br>
@@ -34,12 +34,12 @@ The next Pencil Code User Meeting will be via zoom hosted by
 
 <li class="separated">3 December 2020:<br>
 For detailed news, see the
-<a href="http://pencil-code.nordita.org/~brandenb/pencil-code/newsletter/">Pencil Code Newsletter</a>
+<a href="https://pencil-code.nordita.org/~brandenb/pencil-code/newsletter/">Pencil Code Newsletter</a>
 </li>
 
 <li class="separated">3 December 2020:<br>
 The minutes of the Pencil Code Steering Committee (PCSC) are posted on:
-<a href="http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/">http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/</a>
+<a href="PCSC/">https://pencil-code.org/PCSC/</a>
 </li>
 
 <li class="separated">02 May 2019:<br>
@@ -49,7 +49,7 @@ The next
 
 <li class="separated">11 April 2018:<br>
 The minutes of the Pencil Code Steering Committee (PCSC) are posted on:
-<a href="http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/">http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/</a>
+<a href="PCSC/">https://pencil-code.org/PCSC/</a>
 </li>
 
 <li class="separated">11 April 2018:<br>

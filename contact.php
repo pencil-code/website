@@ -22,7 +22,7 @@ Detailed questions regarding the code and its usage can be discussed on our <a h
 
 <h3>Steering Comittee</h3>
 Issues of major concern to the Pencil Code community should be addressed
-to the <a href="http://pencil-code.nordita.org/~brandenb/pencil-code/PCSC/">Pencil Code Steering Committee</a>.
+to the <a href="PCSC/">Pencil Code Steering Committee</a>.
 </div>
 
 <div class="centerdivider"></div>
