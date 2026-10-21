@@ -3,12 +3,7 @@
 	 include "inc/header.inc";
  ?>
 <div class="centcolumnpad">
-<h2>Pencil Code Steering Committee</h2>
-
-<ul>
-<li><a href="ToR/ToR.pdf">Terms of Reference</a></li>
-<li><a href="minutes/">Minutes of past meetings</a></li>
-</ul>
+<h2>Pencil Code Steering Committee (PCSC)</h2>
 
 <h3>Current team</h3>
 Philippe Bourdin (Chair)<br>
@@ -16,6 +11,16 @@ Axel Brandenburg<br>
 Piyali Chatterjee<br>
 Matthias Rheinhardt<br>
 Jennifer Schober<br>
+
+The terms and activities of the PCSC are described here:
+<ul>
+<li><a href="ToR/ToR.pdf">Terms of Reference</a></li>
+</ul>
+
+The past PCSC meetings are documented in the minutes:
+<ul>
+<li><a href="minutes/">Minutes of PCSC meetings</a></li>
+</ul>
 
 <h3>Links related to the Pencil Code</h3>
 <ul>
