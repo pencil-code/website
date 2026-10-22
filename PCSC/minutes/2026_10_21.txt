@@ -22,17 +22,17 @@ Minutes of PCSC on 21 October 2026, via Zoom at 13:00 CEST
       have lots of help from her group.
    b) A school possible for 2027. It would be on
       "Numerical astrophysical MHD turbulence"
-       and would include convection, etc, but not space plasmas.
+       and would include convection etc. but not space plasmas.
        There would be exercises with PC setups and also Quokka for
        each day. Could perhaps be co-hosted with MP Grad School in Bonn.
-       Rooms: 80 people + 3 seminar rooms, could use all of them.
+       Rooms: 80 people lecture hall + 3 seminar rooms, could use all of them.
    c) Dates: not April or when there are lectures,
-      Need 2 weeks: end Sept, before 8 Oct (perhaps already starting 2 Aug)
-     Jenny to send a doodle with options between 2 Aug - 8 Oct.
+      Need 2 weeks: e.g., end Sept, before 8 Oct (perhaps already starting 2 Aug)
+      Jenny to send a doodle with options between 2 Aug - 8 Oct.
    d) Decide and announce by mid December.
    e) Jenny: to make webpage locally available in Bonn.
       The page will exist also in the years after the meeting.
-   f) Following the questionnaire: online talks only in exceptional cases.
+   f) Following the questionnaire of Alicante meeting: online talks only in exceptional cases.
 
 5. Moving PCSC pages to github
      to put the current PCSC pages to the website repository
@@ -46,22 +46,22 @@ Minutes of PCSC on 21 October 2026, via Zoom at 13:00 CEST
      To test it on a freshly installed server.
      The question was asked whether there are issues with the current server.
      a) have limited number of currently 25 of git users in the last 12 months.
-     b) This is a limitation of the translation software.
+     b) This is a limitation of the translation software (subgit).
      c) It would cost 600 Euros for 50 users.
      d) Staying below current limit of 25 to use as argument in favor of svn.
      e) Philippe will add a field that shows the approver.
 
 7. Travis autotest
-     There is a problem with Makefile which does a touch after each auto-test.
+     There is a problem with Makefile which possibly touches/modifies files during each auto-test.
      Problem still to be understood and to be solved.
      Usefulness of Travis? Only Travis would check every single version.
      Even 2 consecutive checks can run in parallel.
-     Travis is located in directory .travis.
+     Travis control script is in .travis.yml.
 
 8. email from auto-test
      to try sending from brandenb@nordita.org
      should send from brandenb@norlx65.nordita.org
-     do emails to outside receiver later when we can.
+     do emails to outside receiver (the committer who caused a test to fail) later when we can.
 
 9. Newsletter
      Axel+Matthias: to put a call for proposals for 2028 into newsletter.
