@@ -16,7 +16,7 @@ You might get the code using <em>SVN</em> (recommended) or <em>GIT</em> (for git
 No registration is required for read-only access.
 
 <h3>&bull; Write access</h3>
-If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same &quot;USERNAME&quot; as your GitHub account.
+If you want to submit your changes, please register at <a href="https://account.pencil-code.org/">account.pencil-code.org</a> and apply for write access to the &quot;main&quot; repository. Ideally, you would register with the same &quot;USERNAME&quot; and email address as your GitHub account.
 
 <h4>=&gt; SVN:</h4>
 <div class="codescroll"><code>svn checkout --username=USERNAME https://pencil-code.org/svn/trunk pencil-code</code></div>
