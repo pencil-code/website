@@ -123,7 +123,7 @@ Tests are triggered only if there are new updates to the code.</p>
 <h2>Other tests</h2>
 
 <ul STYLE="font-size:13px;">
-<li>Intel compiler (levels 0+1) <img src="https://astrokriel.github.io/PencilAutoTests/bonn-intel/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"> <a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel/">latest</a> (<a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel-previous/">previous</a>)</li>
+<li>Intel compiler (levels 0+1) <img src="https://astrokriel.github.io/PencilAutoTests/bonn-intel/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"> <a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel/">latest</a> (<a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel-previous/">previous</a>) Uni Bonn (Neco/Jenny)</li>
 <li>basic test (levels 0+1) <a href="https://github.com/pencil-code/pencil-code/commits/master/">Travis</a> minutely (<a href="https://app.travis-ci.com/github/pencil-code/pencil-code">latest checkin job log</a>)</li>
 <!-- Daily full test -->
 <!-- Currently deactivated li>full test (levels 0-3) at 18:09 <a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/daily/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/daily-previous/">previous</a>) on Norlx29 with GNU 6.4 by Axel/Wolfgang/Philippe</li -->
