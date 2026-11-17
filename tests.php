@@ -115,6 +115,15 @@ our own tests. The latest test results for a can be seen online:</p>
     <td>GNU 13.3</td>
     <td>Philippe/Axel</td>
 </tr>
+<tr><td>0+1</td>
+    <td>intel</td><td>Intel compiler</td>
+    <td>02:30</td>
+    <td><img src="https://astrokriel.github.io/PencilAutoTests/bonn-intel/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"></td>
+    <td><a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel/">latest</a> (<a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel-previous/">previous</a>)</td>
+    <td>Aibn238</td>
+    <td>Intel (?)</td>
+    <td>Neco/Jenny</td>
+</tr>
 </table>
 <p>Legend: */* means every hour, */6:31 means 31 minutes after full hours divisible by 6.<br>
 Status of auto-tests: &oslash; offline; <img src="pics/icon_wait.svg" width="16" height="16" alt="scheduled"> scheduled; <img src="pics/icon_hourglass.svg" width="16" height="16" alt="running"> running; <img src="pics/icon_failure.svg" width="16" height="16" alt="failure"> failed; <img src="pics/icon_success.svg" width="16" height="16" alt="success"> succeeded.<br>
@@ -123,7 +132,6 @@ Tests are triggered only if there are new updates to the code.</p>
 <h2>Other tests</h2>
 
 <ul STYLE="font-size:13px;">
-<li>Intel compiler (levels 0+1) <img src="https://astrokriel.github.io/PencilAutoTests/bonn-intel/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"> <a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel/">latest</a> (<a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel-previous/">previous</a>) Uni Bonn (Neco/Jenny)</li>
 <li>basic test (levels 0+1) <a href="https://github.com/pencil-code/pencil-code/commits/master/">Travis</a> minutely (<a href="https://app.travis-ci.com/github/pencil-code/pencil-code">latest checkin job log</a>)</li>
 <!-- Daily full test -->
 <!-- Currently deactivated li>full test (levels 0-3) at 18:09 <a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/daily/">latest</a> (<a href="http://norlx29.nordita.org/~brandenb/pencil-code/tests/daily-previous/">previous</a>) on Norlx29 with GNU 6.4 by Axel/Wolfgang/Philippe</li -->
