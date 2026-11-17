@@ -121,7 +121,7 @@ our own tests. The latest test results for a can be seen online:</p>
     <td><img src="https://astrokriel.github.io/PencilAutoTests/bonn-intel/result.svg" WIDTH="16" HEIGHT="16" ALT="&oslash;"></td>
     <td><a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel/">latest</a> (<a href="https://astrokriel.github.io/PencilAutoTests/bonn-intel-previous/">previous</a>)</td>
     <td>Aibn238</td>
-    <td>Intel (?)</td>
+    <td>ifx 2026.2</td>
     <td>Neco/Jenny</td>
 </tr>
 </table>
